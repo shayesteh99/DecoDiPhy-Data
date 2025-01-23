@@ -1,0 +1,18 @@
+['Eucyclops_serrulatus', 'Helleria_brevicornis', 'Cumella_sp', 'Meinertellus_cundinamarcensis', 'Chthamalus_fragilis']
+anchors:  [ 15  57  93 133 140]
+true_p:  [0.33525281 0.06671317 0.26140929 0.01626837 0.32035636]
+true_x:  [0.46071809 0.87840743 0.81120213 0.59460803 0.89511144]
+true_y:  0.1628028325706682
+Simulation Runtime:  0.05448508262634277
+opt_anchors:  [ 15  17 172 173 140]
+opt_x:  [0.90159601 0.7060075  0.50162169 1.         1.        ]
+opt_p:  [6.20109034e-01 4.44272156e-22 8.66714883e-22 3.09372661e-02
+ 3.48953700e-01]
+opt_y:  0.3613811247815842
+optimal anchors:  [ 15  17 140 172 173]
+optimal p:  [6.20109034e-01 4.44272156e-22 3.48953700e-01 8.66714883e-22
+ 3.09372661e-02]
+optimal x:  [0.90159601 0.7060075  1.         0.50162169 1.        ]
+optimal y:  0.3613811247815842
+Jaccard:  0.25
+Optimization Runtime:  0.05161428451538086

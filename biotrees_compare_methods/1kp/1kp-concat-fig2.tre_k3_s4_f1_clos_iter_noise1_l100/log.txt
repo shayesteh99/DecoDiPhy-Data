@@ -1,0 +1,16 @@
+['Saruma_henryi', 'Cedrus_libani', 'Rosmarinus_officinalis']
+anchors:  [42 73 83]
+true_p:  [0.22811374 0.26970027 0.50218599]
+true_x:  [0.32107226 0.76584704 0.46648869]
+true_y:  0.05777072445909051
+Simulation Runtime:  0.0426027774810791
+opt_anchors:  [76 99 83]
+opt_x:  [1.00000000e+00 5.96150352e-01 3.22516243e-23]
+opt_p:  [6.68379892e-01 2.53805183e-22 3.31620108e-01]
+opt_y:  0.08047436332008406
+optimal anchors:  [76 83 99]
+optimal p:  [6.68379892e-01 3.31620108e-01 2.53805183e-22]
+optimal x:  [1.00000000e+00 3.22516243e-23 5.96150352e-01]
+optimal y:  0.08047436332008406
+Jaccard:  0.2
+Optimization Runtime:  0.08270883560180664

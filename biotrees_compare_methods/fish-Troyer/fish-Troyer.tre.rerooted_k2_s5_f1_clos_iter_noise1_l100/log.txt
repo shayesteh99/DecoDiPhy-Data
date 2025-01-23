@@ -1,0 +1,16 @@
+['Tetraodontidae_Takifugu_niphobles_EPLATE_67_F07', 'Balistidae_Balistoides_viridescens_USNMAG9RF59']
+anchors:  [132 169]
+true_p:  [0.47641651 0.52358349]
+true_x:  [0.11246325 0.50464266]
+true_y:  0.008790058315982003
+Simulation Runtime:  0.10386395454406738
+opt_anchors:  [174 133]
+opt_x:  [1. 1.]
+opt_p:  [0.19113541 0.80886459]
+opt_y:  -3.672252513451107e-16
+optimal anchors:  [133 174]
+optimal p:  [0.80886459 0.19113541]
+optimal x:  [1. 1.]
+optimal y:  -3.672252513451107e-16
+Jaccard:  0.0
+Optimization Runtime:  0.08460116386413574

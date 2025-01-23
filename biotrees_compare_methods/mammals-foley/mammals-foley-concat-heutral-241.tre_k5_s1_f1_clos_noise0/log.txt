@@ -1,0 +1,18 @@
+['Nasalis_larvatus', 'Rousettus_aegyptiacus', 'Vulpes_lagopus', 'Paradoxurus_hermaphroditus', 'Odocoileus_virginianus']
+anchors:  [ 71 291 389 398 421]
+true_p:  [0.05920113 0.11941719 0.34545209 0.25437991 0.22154968]
+true_x:  [0.96019996 0.95306974 0.46568978 0.74986026 0.08770381]
+true_y:  0.02411832645963105
+Simulation Runtime:  0.40154027938842773
+opt_anchors:  [389 424 425 422 390]
+opt_x:  [1.         0.50284072 0.50094089 1.         1.        ]
+opt_p:  [2.01971512e-01 3.48152292e-22 7.43328761e-22 5.94471713e-01
+ 2.03556776e-01]
+opt_y:  0.009092501789179402
+optimal anchors:  [389 390 422 424 425]
+optimal p:  [2.01971512e-01 2.03556776e-01 5.94471713e-01 3.48152292e-22
+ 7.43328761e-22]
+optimal x:  [1.         1.         1.         0.50284072 0.50094089]
+optimal y:  0.009092501789179402
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.11314511299133301

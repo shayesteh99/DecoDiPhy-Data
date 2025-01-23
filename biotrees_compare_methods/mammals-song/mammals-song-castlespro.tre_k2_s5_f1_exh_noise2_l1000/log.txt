@@ -1,0 +1,16 @@
+['RAT', 'EQU']
+anchors:  [34 45]
+true_p:  [0.20315548 0.79684452]
+true_x:  [0.21811977 0.8719312 ]
+true_y:  0.04212733890617844
+Simulation Runtime:  0.025481700897216797
+opt_anchors:  [34 45]
+opt_x:  [0.21164813 0.8732752 ]
+opt_p:  [0.20240506 0.79759494]
+opt_y:  0.04211729619052568
+optimal anchors:  [34 45]
+optimal p:  [0.20240506 0.79759494]
+optimal x:  [0.21164813 0.8732752 ]
+optimal y:  0.04211729619052568
+Jaccard:  1.0
+Optimization Runtime:  31.851738452911377

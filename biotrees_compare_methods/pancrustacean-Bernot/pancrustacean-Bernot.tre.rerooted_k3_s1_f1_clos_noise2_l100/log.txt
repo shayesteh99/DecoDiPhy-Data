@@ -1,0 +1,16 @@
+['Lasionectes_entrichoma', 'Armadillo_officinalis', 'Cherax_destructor']
+anchors:  [ 37 146 194]
+true_p:  [0.55839945 0.27105385 0.17054669]
+true_x:  [0.0899564  0.18439664 0.77494991]
+true_y:  0.07384903105415441
+Simulation Runtime:  0.06567955017089844
+opt_anchors:  [38 39 40]
+opt_x:  [0.48546336 0.37027526 1.        ]
+opt_p:  [-1.12312438e-20 -4.45029599e-21  1.00000000e+00]
+opt_y:  0.1269777098210763
+optimal anchors:  [38 39 40]
+optimal p:  [-1.12312438e-20 -4.45029599e-21  1.00000000e+00]
+optimal x:  [0.48546336 0.37027526 1.        ]
+optimal y:  0.1269777098210763
+Jaccard:  0.0
+Optimization Runtime:  0.04371452331542969

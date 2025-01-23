@@ -1,0 +1,16 @@
+['Tupaia_chinensis', 'Microtus_ochrogaster', 'Macaca_fascicularis']
+anchors:  [ 35  60 150]
+true_p:  [0.16092907 0.796015   0.04305593]
+true_x:  [0.10361578 0.77861446 0.58563997]
+true_y:  0.005671806321677115
+Simulation Runtime:  0.5540404319763184
+opt_anchors:  [58 60 61]
+opt_x:  [1.         0.5008418  0.50121438]
+opt_p:  [ 1.00000000e+00 -5.14262422e-21 -2.69245532e-21]
+opt_y:  0.02125046197245061
+optimal anchors:  [58 60 61]
+optimal p:  [ 1.00000000e+00 -5.14262422e-21 -2.69245532e-21]
+optimal x:  [1.         0.5008418  0.50121438]
+optimal y:  0.02125046197245061
+Jaccard:  0.2
+Optimization Runtime:  0.1346297264099121

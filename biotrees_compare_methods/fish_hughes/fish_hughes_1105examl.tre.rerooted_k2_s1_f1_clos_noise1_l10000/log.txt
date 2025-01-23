@@ -1,0 +1,16 @@
+['Teleost_Euteleost_Carangaria_Centropomidae_Centropomus_undecimalis', 'Teleost_Osteoglossiformes_Osteoglossiformes_Notopteridae_Papyrocranus_afer']
+anchors:  [132 583]
+true_p:  [0.24586798 0.75413202]
+true_x:  [0.91317907 0.75496881]
+true_y:  0.15245183234974133
+Simulation Runtime:  0.5303647518157959
+opt_anchors:  [585 584]
+opt_x:  [1 1]
+opt_p:  [0.49977746 0.50022254]
+opt_y:  -3.7059753120368924e-14
+optimal anchors:  [584 585]
+optimal p:  [0.50022254 0.49977746]
+optimal x:  [1 1]
+optimal y:  -3.7059753120368924e-14
+Jaccard:  0.0
+Optimization Runtime:  0.055033206939697266

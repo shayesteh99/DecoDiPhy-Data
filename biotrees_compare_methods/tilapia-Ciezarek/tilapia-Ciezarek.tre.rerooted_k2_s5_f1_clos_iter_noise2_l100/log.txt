@@ -1,0 +1,16 @@
+['Ourolepis__ZanzibarSite3__Z1B9', 'Omacrochir__Zambia__CFH11-078']
+anchors:  [ 67 159]
+true_p:  [0.79684452 0.20315548]
+true_x:  [0.33357328 0.27807775]
+true_y:  0.002477187446490519
+Simulation Runtime:  0.05555272102355957
+opt_anchors:  [67 49]
+opt_x:  [1.        0.5084161]
+opt_p:  [1.00000000e+00 5.74883765e-23]
+opt_y:  0.0036214978647990006
+optimal anchors:  [49 67]
+optimal p:  [5.74883765e-23 1.00000000e+00]
+optimal x:  [0.5084161 1.       ]
+optimal y:  0.0036214978647990006
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.0898594856262207

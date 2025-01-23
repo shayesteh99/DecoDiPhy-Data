@@ -1,0 +1,18 @@
+['Heterocaecilius_solocipennis', 'Ischnodemus_falicus', 'Peruphasma_schultei', 'Craspedorrhynchus_sp', 'Cerobasis_guestfalica']
+anchors:  [ 23 223 238 245 282]
+true_p:  [0.31426075 0.30840413 0.133099   0.08220552 0.1620306 ]
+true_x:  [0.87012317 0.8145603  0.57838454 0.73466132 0.72904043]
+true_y:  0.09537683899262335
+Simulation Runtime:  0.1901848316192627
+opt_anchors:  [213 223 214 220 211]
+opt_x:  [0.5148958  1.         0.48146997 1.         0.55928845]
+opt_p:  [-7.23699769e-21  2.11182075e-01 -5.38625268e-21  7.88817925e-01
+ -6.14110013e-21]
+opt_y:  0.19131862934515417
+optimal anchors:  [211 213 214 220 223]
+optimal p:  [-6.14110013e-21 -7.23699769e-21 -5.38625268e-21  7.88817925e-01
+  2.11182075e-01]
+optimal x:  [0.55928845 0.5148958  0.48146997 1.         1.        ]
+optimal y:  0.19131862934515417
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.05273246765136719

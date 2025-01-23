@@ -1,0 +1,16 @@
+['Hypocryptadius_cinnamomeus', 'Spizaetus_tyrannus', 'Sclerurus_mexicanus', 'Eudromia_elegans', 'Passerina_amoena']
+anchors:  [264 366 634 661 699]
+true_p:  [0.15748224 0.14991546 0.25157002 0.18827058 0.25276169]
+true_x:  [0.49891563 0.25409932 0.86632296 0.97770411 0.85833056]
+true_y:  0.03479046662467441
+Simulation Runtime:  1.1324455738067627
+opt_anchors:  [375 374 267 266 621]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.04188963 0.04258963 0.24554659 0.24491549 0.42505866]
+opt_y:  0.08692160751972666
+optimal anchors:  [266 267 374 375 621]
+optimal p:  [0.24491549 0.24554659 0.04258963 0.04188963 0.42505866]
+optimal x:  [1. 1. 1. 1. 1.]
+optimal y:  0.08692160751972666
+Jaccard:  0.0
+Optimization Runtime:  0.05133676528930664

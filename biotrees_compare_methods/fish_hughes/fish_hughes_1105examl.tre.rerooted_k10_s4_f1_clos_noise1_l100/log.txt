@@ -1,0 +1,24 @@
+['Teleost_Euteleost_Eupercaria_Labriformes_Scaridae_Scarus_iseri', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Thunnus_albacares', 'Teleost_Euteleost_Ovalentaria_Mugiliformes_Mugilidae_Liza_haematocheila', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Merlucciidae_Merluccius_capensis', 'Teleost_Otophysa_Siluriformes_Siluridae_Silurus_asotus', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Tetraodontidae_Takifugu_rubripes', 'Teleost_Euteleost_Ovalentaria_Pomacentridae_Dascyllus_trimaculatus', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Haplochromis_burtoni', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Cyprinodontidae_Cyprinodon_nevadensis_pectoralis', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Macrouridae_Macrourus_berglax']
+anchors:  [ 50  81 115 120 184 251 319 410 415 485]
+true_p:  [0.14398398 0.04884212 0.05851319 0.11711159 0.01539653 0.21667044
+ 0.02558668 0.17329967 0.05788416 0.14271163]
+true_x:  [0.06128443 0.12251725 0.63743287 0.4268604  0.05536637 0.06720073
+ 0.09897097 0.42048029 0.52760721 0.87451679]
+true_y:  0.02871413788884679
+Simulation Runtime:  0.5084810256958008
+opt_anchors:  [244 261 240 230 150 212 148 231 320 319]
+opt_x:  [0.46814679 0.53964959 0.4883486  0.48591055 1.         0.06070635
+ 0.51618675 0.5091903  1.         1.        ]
+opt_p:  [-6.43614069e-21 -2.96572875e-21 -2.76522515e-21 -7.15568497e-21
+  1.52563477e-22 -1.30561938e-21 -5.95569841e-21 -5.81378626e-21
+  4.99653395e-01  5.00346605e-01]
+opt_y:  0.2087358615464387
+optimal anchors:  [148 150 212 230 231 240 244 261 319 320]
+optimal p:  [-5.95569841e-21  1.52563477e-22 -1.30561938e-21 -7.15568497e-21
+ -5.81378626e-21 -2.76522515e-21 -6.43614069e-21 -2.96572875e-21
+  5.00346605e-01  4.99653395e-01]
+optimal x:  [0.51618675 1.         0.06070635 0.48591055 0.5091903  0.4883486
+ 0.46814679 0.53964959 1.         1.        ]
+optimal y:  0.2087358615464387
+Jaccard:  0.05263157894736842
+Optimization Runtime:  0.061936378479003906

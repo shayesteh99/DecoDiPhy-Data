@@ -1,0 +1,16 @@
+['Ponana_quadralaba', 'Caliscelis_bonelli', 'Nabis_subcoleoptratus']
+anchors:  [ 61 125 156]
+true_p:  [0.39111592 0.38884224 0.22004183]
+true_x:  [0.6451459  0.86707278 0.51082532]
+true_y:  0.05775943266407778
+Simulation Runtime:  0.19672799110412598
+opt_anchors:  [144  61 156]
+opt_x:  [1.00000000e+00 1.25561533e-08 4.42138295e-01]
+opt_p:  [ 5.25519069e-01  4.74480932e-01 -1.30695596e-09]
+opt_y:  0.07193248964181526
+optimal anchors:  [ 61 119 156]
+optimal p:  [0.38871529 0.40573768 0.20554703]
+optimal x:  [6.24980737e-01 1.06099286e-22 3.73892186e-01]
+optimal y:  0.06415981807633249
+Jaccard:  0.5
+Optimization Runtime:  0.0751650333404541

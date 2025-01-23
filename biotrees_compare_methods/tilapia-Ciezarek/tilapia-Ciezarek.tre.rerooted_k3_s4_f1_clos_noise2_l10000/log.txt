@@ -1,0 +1,16 @@
+['Orukwaensis__LakeRukwa__24-2012', 'Goldenchambo__LakeIkapu__G7B1', 'Agrahami__LakeMagadi__Ag2638']
+anchors:  [31 58 70]
+true_p:  [0.39111592 0.38884224 0.22004183]
+true_x:  [0.03700566 0.34930689 0.35811168]
+true_y:  0.0014876301809125837
+Simulation Runtime:  0.04742240905761719
+opt_anchors:  [60 58 61]
+opt_x:  [0.52239619 1.         0.49009555]
+opt_p:  [ 3.26041772e-23  1.00000000e+00 -4.46156475e-23]
+opt_y:  0.02072460664896508
+optimal anchors:  [58 60 61]
+optimal p:  [ 1.00000000e+00  3.26041772e-23 -4.46156475e-23]
+optimal x:  [1.         0.52239619 0.49009555]
+optimal y:  0.02072460664896508
+Jaccard:  0.2
+Optimization Runtime:  0.04210066795349121

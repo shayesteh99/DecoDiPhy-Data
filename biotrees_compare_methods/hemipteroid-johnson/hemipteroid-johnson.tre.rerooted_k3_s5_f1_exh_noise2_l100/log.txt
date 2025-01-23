@@ -1,0 +1,16 @@
+['Tenthredo_koehleri', 'Nessorhinus_gibberulus', 'Mesovelia_mulsanti']
+anchors:  [136 301 369]
+true_p:  [0.67008034 0.17083696 0.1590827 ]
+true_x:  [0.44257398 0.1578403  0.87719814]
+true_y:  0.058607446428227496
+Simulation Runtime:  0.25164031982421875
+opt_anchors:  [136 301 369]
+opt_x:  [0.44588205 0.14776154 0.89308483]
+opt_p:  [0.67072406 0.16726346 0.16201249]
+opt_y:  0.0590042092507728
+optimal anchors:  [136 301 369]
+optimal p:  [0.67072406 0.16726346 0.16201249]
+optimal x:  [0.44588205 0.14776154 0.89308483]
+optimal y:  0.0590042092507728
+Jaccard:  1.0
+Optimization Runtime:  132676.5131778717

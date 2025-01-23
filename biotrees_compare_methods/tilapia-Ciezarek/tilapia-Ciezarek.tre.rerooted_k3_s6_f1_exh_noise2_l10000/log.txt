@@ -1,0 +1,19 @@
+['Ourolepis__Kilombero__F4', 'Oesculentus__LakeRukwa__T10E03', 'Oshiranus__LakeIlamba__152']
+anchors:  [ 25 128 147]
+true_p:  [0.16225249 0.40136921 0.4363783 ]
+true_x:  [0.49085576 0.37645349 0.34965175]
+true_y:  0.002494473209122262
+Simulation Runtime:  0.04963207244873047
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+opt_anchors:  [ 25 128 147]
+opt_x:  [0.48849423 0.37645571 0.34933288]
+opt_p:  [0.16226988 0.40135958 0.43637053]
+opt_y:  0.00249375247797918
+optimal anchors:  [ 25 128 147]
+optimal p:  [0.16226988 0.40135958 0.43637053]
+optimal x:  [0.48849423 0.37645571 0.34933288]
+optimal y:  0.00249375247797918
+Jaccard:  1.0
+Optimization Runtime:  11785.326618671417

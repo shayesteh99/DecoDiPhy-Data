@@ -1,0 +1,17 @@
+['Orukwaensis__LakeRukwa__24-2012', 'Ourolepis__Ifakara__T9J4', 'Ochungruruensis__LakeKiungululu__300']
+anchors:  [ 60 103 150]
+true_p:  [0.34747767 0.23496678 0.41755555]
+true_x:  [0.34930689 0.11237085 0.69213426]
+true_y:  0.002322621005654557
+Simulation Runtime:  0.03941082954406738
+Solver reached max iterations. Using the last available solution.
+opt_anchors:  [ 60 103 150]
+opt_x:  [0.35134576 0.1113077  0.69201804]
+opt_p:  [0.34756592 0.23476497 0.41766911]
+opt_y:  0.0023279246667552932
+optimal anchors:  [ 60 103 150]
+optimal p:  [0.34756592 0.23476497 0.41766911]
+optimal x:  [0.35134576 0.1113077  0.69201804]
+optimal y:  0.0023279246667552932
+Jaccard:  1.0
+Optimization Runtime:  12798.448475599289

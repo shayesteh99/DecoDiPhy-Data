@@ -1,0 +1,16 @@
+['Oshiranuschilwae__MalawiBUaquarium__OR1A2', 'Ourolepis__LakeLugongwe__T3D1']
+anchors:  [110 157]
+true_p:  [0.78644413 0.21355587]
+true_x:  [0.57226081 0.41280743]
+true_y:  0.002489270295807114
+Simulation Runtime:  0.039917945861816406
+opt_anchors:  [124 115]
+opt_x:  [1. 1.]
+opt_p:  [0.78339353 0.21660647]
+opt_y:  0.0027283438909128017
+optimal anchors:  [115 124]
+optimal p:  [0.21660647 0.78339353]
+optimal x:  [1. 1.]
+optimal y:  0.0027283438909128017
+Jaccard:  0.0
+Optimization Runtime:  0.0464024543762207

@@ -1,0 +1,16 @@
+['Acunomia_melanderi', 'Steganomus_ennediensis']
+anchors:  [ 5 50]
+true_p:  [0.64138199 0.35861801]
+true_x:  [0.25401542 0.95145397]
+true_y:  0.011012399105082577
+Simulation Runtime:  0.008544921875
+opt_anchors:  [ 5 32]
+opt_x:  [0.50168663 1.        ]
+opt_p:  [0.74207723 0.25792277]
+opt_y:  0.02209597556507641
+optimal anchors:  [ 5 32]
+optimal p:  [0.74207723 0.25792277]
+optimal x:  [0.50168663 1.        ]
+optimal y:  0.02209597556507641
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.04628491401672363

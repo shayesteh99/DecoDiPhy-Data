@@ -1,0 +1,16 @@
+['NEW', 'ECH']
+anchors:  [ 9 58]
+true_p:  [0.72896067 0.27103933]
+true_x:  [0.58532713 0.57497153]
+true_y:  0.04878287696235038
+Simulation Runtime:  0.00852823257446289
+opt_anchors:  [ 9 58]
+opt_x:  [0.58532713 0.57497153]
+opt_p:  [0.72896067 0.27103933]
+opt_y:  0.04878287696235327
+optimal anchors:  [ 9 58]
+optimal p:  [0.72896067 0.27103933]
+optimal x:  [0.58532713 0.57497153]
+optimal y:  0.04878287696235327
+Jaccard:  1.0
+Optimization Runtime:  29.854661464691162

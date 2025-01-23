@@ -1,0 +1,16 @@
+['Cosmoderes_imitatrix_I14144', 'Cryphalus_piceus_I10210']
+anchors:  [ 77 159]
+true_p:  [0.47856263 0.52143737]
+true_x:  [0.36013849 0.4500311 ]
+true_y:  0.030514468197293098
+Simulation Runtime:  0.07327437400817871
+opt_anchors:  [ 79 160]
+opt_x:  [0.49845932 1.        ]
+opt_p:  [-3.22421206e-23  1.00000000e+00]
+opt_y:  0.03479257348976764
+optimal anchors:  [ 79 160]
+optimal p:  [-3.22421206e-23  1.00000000e+00]
+optimal x:  [0.49845932 1.        ]
+optimal y:  0.03479257348976764
+Jaccard:  0.0
+Optimization Runtime:  0.11720681190490723

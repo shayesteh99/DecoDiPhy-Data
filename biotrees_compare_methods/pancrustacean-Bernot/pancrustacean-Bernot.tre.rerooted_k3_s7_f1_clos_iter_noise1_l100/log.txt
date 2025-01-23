@@ -1,0 +1,16 @@
+['Strigamia_maritima', 'Xibalbanus_tulumensis', 'Speonebalia_cannoni']
+anchors:  [38 83 98]
+true_p:  [0.09394579 0.51925822 0.38679599]
+true_x:  [0.85267927 0.65430681 0.61054279]
+true_y:  0.2666888129015078
+Simulation Runtime:  0.05890655517578125
+opt_anchors:  [83 98 38]
+opt_x:  [1.42714976e-21 1.26003905e-01 5.21281458e-01]
+opt_p:  [ 4.55145666e-01  5.44854334e-01 -4.29068881e-22]
+opt_y:  0.12184307558037792
+optimal anchors:  [38 83 98]
+optimal p:  [-4.29068881e-22  4.55145666e-01  5.44854334e-01]
+optimal x:  [5.21281458e-01 1.42714976e-21 1.26003905e-01]
+optimal y:  0.12184307558037792
+Jaccard:  1.0
+Optimization Runtime:  0.07136917114257812

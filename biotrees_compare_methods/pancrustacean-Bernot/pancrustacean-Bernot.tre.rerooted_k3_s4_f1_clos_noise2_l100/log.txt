@@ -1,0 +1,16 @@
+['Eucyclops_serrulatus', 'Heterocypris_incongruens', 'Drosophila_melanogaster']
+anchors:  [28 57 76]
+true_p:  [0.39111592 0.38884224 0.22004183]
+true_x:  [0.88633131 0.87840743 0.77849457]
+true_y:  0.4813812469415232
+Simulation Runtime:  0.06355094909667969
+opt_anchors:  [16 20 38]
+opt_x:  [1.         0.88771022 1.        ]
+opt_p:  [ 8.35445063e-01 -4.57094459e-06  1.64559485e-01]
+opt_y:  0.700399596072278
+optimal anchors:  [16 20 38]
+optimal p:  [ 8.35445063e-01 -4.57094459e-06  1.64559485e-01]
+optimal x:  [1.         0.88771022 1.        ]
+optimal y:  0.700399596072278
+Jaccard:  0.0
+Optimization Runtime:  0.04387092590332031

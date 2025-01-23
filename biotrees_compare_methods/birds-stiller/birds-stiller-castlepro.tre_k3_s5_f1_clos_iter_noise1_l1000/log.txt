@@ -1,0 +1,16 @@
+['Hypocryptadius_cinnamomeus', 'Spizaetus_tyrannus', 'Sclerurus_mexicanus']
+anchors:  [264 366 634]
+true_p:  [0.28173763 0.26820057 0.4500618 ]
+true_x:  [0.49891563 0.25409932 0.86632296]
+true_y:  0.020815320620501582
+Simulation Runtime:  0.9739072322845459
+opt_anchors:  [374 621 264]
+opt_x:  [6.21759047e-01 1.00000000e+00 1.72021884e-23]
+opt_p:  [6.73357768e-23 6.75528278e-01 3.24471722e-01]
+opt_y:  0.02623090983203256
+optimal anchors:  [264 374 621]
+optimal p:  [3.24471722e-01 6.73357768e-23 6.75528278e-01]
+optimal x:  [1.72021884e-23 6.21759047e-01 1.00000000e+00]
+optimal y:  0.02623090983203256
+Jaccard:  0.2
+Optimization Runtime:  0.21265268325805664

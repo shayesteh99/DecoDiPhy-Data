@@ -1,0 +1,16 @@
+['Pseudapis_pandeana', 'Pseudapis_nilotica']
+anchors:  [16 23]
+true_p:  [0.58356973 0.41643027]
+true_x:  [0.32733933 0.09632446]
+true_y:  0.004056141778536407
+Simulation Runtime:  0.009492874145507812
+opt_anchors:  [16 23]
+opt_x:  [1.08528666e-20 7.11864234e-21]
+opt_p:  [0.46100837 0.53899163]
+opt_y:  0.0031272404828194275
+optimal anchors:  [16 23]
+optimal p:  [0.46100837 0.53899163]
+optimal x:  [1.08528666e-20 7.11864234e-21]
+optimal y:  0.0031272404828194275
+Jaccard:  1.0
+Optimization Runtime:  0.04151797294616699

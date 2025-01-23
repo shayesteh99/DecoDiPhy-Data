@@ -1,0 +1,16 @@
+['Monomastix_opisthostigma', 'Leucodon_brachypus', 'Allamanda_cathartica']
+anchors:  [ 44 151 195]
+true_p:  [0.40136921 0.16225249 0.4363783 ]
+true_x:  [0.50943141 0.76263442 0.37580817]
+true_y:  0.3076090427833148
+Simulation Runtime:  0.06467962265014648
+opt_anchors:  [103 151  50]
+opt_x:  [0.48036048 1.         0.2178458 ]
+opt_p:  [-3.52506218e-21  7.18720494e-01  2.81279506e-01]
+opt_y:  0.3908950825861457
+optimal anchors:  [ 50 103 151]
+optimal p:  [ 2.81279506e-01 -3.52506218e-21  7.18720494e-01]
+optimal x:  [0.2178458  0.48036048 1.        ]
+optimal y:  0.3908950825861457
+Jaccard:  0.2
+Optimization Runtime:  0.09829068183898926

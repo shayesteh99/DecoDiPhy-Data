@@ -1,0 +1,60 @@
+['Monacanthidae_Paramonacanthus_oblongus_EPLATE_53_E01', 'Balistidae_Balistes_vetula_UPRFL0353', 'Lophiidae_Lophiomus_cf_setigerus_EPLATE_47_G05', 'Tetraodontidae_Canthigaster_axiologus_USNMAG9RT89', 'Tetraodontidae_Lagocephalus_laevigatus_UPRFL1635']
+anchors:  [ 76  99 136 183 228]
+true_p:  [0.20825431 0.13958355 0.21384539 0.18887979 0.24943696]
+true_x:  [0.0773465  0.75131189 0.86714891 0.20222244 0.88353048]
+true_y:  0.006916610125554834
+Simulation Runtime:  0.1923370361328125
+[169 121]
+========================================================================================================================================================================================================
+1
+0.01798727135544823
+========================================================================================================================================================================================================
+2
+0.01798727135544823
+[  1  62 146]
+========================================================================================================================================================================================================
+1
+0.007140470506155801
+========================================================================================================================================================================================================
+2
+0.007140470506155801
+[202  65 139   3]
+========================================================================================================================================================================================================
+1
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+0.004219613405806729
+========================================================================================================================================================================================================
+2
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+0.004219613405806729
+[202  76 139 102 120]
+========================================================================================================================================================================================================
+1
+9.056024308073055e-10
+========================================================================================================================================================================================================
+2
+9.056024308073055e-10
+opt_anchors:  [183  76 136  99 228]
+opt_x:  [0.2025196  0.07746498 0.86693445 0.74942141 0.88345751]
+opt_p:  [0.18887667 0.20828205 0.21385981 0.13955248 0.24942899]
+opt_y:  0.006914008625045529
+optimal anchors:  [ 76  99 136 183 228]
+optimal p:  [0.20828205 0.13955248 0.21385981 0.18887667 0.24942899]
+optimal x:  [0.07746498 0.74942141 0.86693445 0.2025196  0.88345751]
+optimal y:  0.006914008625045529
+Jaccard:  1.0
+Optimization Runtime:  172.85869693756104

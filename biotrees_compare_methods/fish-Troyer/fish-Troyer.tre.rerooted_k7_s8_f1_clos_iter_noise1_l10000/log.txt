@@ -1,0 +1,22 @@
+['Tetraodontidae_Sphoeroides_marmoratus_USNMAD9NE03', 'Balistidae_Pseudobalistes_fuscus_USNMAG9RP93', 'Balistidae_Balistes_polylepis_USNMAG7PC77', 'Tetraodontidae_Canthigaster_rostrata_UPRFL0412', 'Tetraodontidae_Lagocephalus_guentheri_USNMAC1VJ91', 'Ostraciidae_Ostracion_cubicus_USNMAG5NP65', 'Diodontidae_Chilomycterus_schoepfii_USNMAC2WQ63']
+anchors:  [ 22  45  64  95 112 179 181]
+true_p:  [0.08857842 0.1228867  0.12789602 0.14966477 0.21460295 0.21904579
+ 0.07732534]
+true_x:  [0.92252852 0.16258497 0.44715026 0.19342453 0.13208771 0.12153144
+ 0.6231703 ]
+true_y:  0.001849457910340274
+Simulation Runtime:  0.1044309139251709
+opt_anchors:  [139  85 100 164 102 177  42]
+opt_x:  [4.99394849e-01 1.00000000e+00 1.00000000e+00 4.98170342e-01
+ 3.99220676e-01 4.73993346e-02 3.30608866e-21]
+opt_p:  [-1.32964820e-20  9.62855865e-02  4.89143084e-01 -1.14034165e-20
+  3.17400615e-22  3.22504295e-01  9.20670347e-02]
+opt_y:  0.02459911147179647
+optimal anchors:  [ 42  85 100 102 139 164 177]
+optimal p:  [ 9.20670347e-02  9.62855865e-02  4.89143084e-01  3.17400615e-22
+ -1.32964820e-20 -1.14034165e-20  3.22504295e-01]
+optimal x:  [3.30608866e-21 1.00000000e+00 1.00000000e+00 3.99220676e-01
+ 4.99394849e-01 4.98170342e-01 4.73993346e-02]
+optimal y:  0.02459911147179647
+Jaccard:  0.0
+Optimization Runtime:  0.1738903522491455

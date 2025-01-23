@@ -1,0 +1,16 @@
+['Triacanthidae_Triacanthus_nieuhofi_EPLATE_51_E11', 'Tetraodontidae_Canthigaster_solandri_KU7224']
+anchors:  [ 81 163]
+true_p:  [0.91087844 0.08912156]
+true_x:  [0.33871528 0.78035701]
+true_y:  0.0033456800775309853
+Simulation Runtime:  0.09102034568786621
+opt_anchors:  [81 84]
+opt_x:  [1.         0.29535968]
+opt_p:  [ 1.00000000e+00 -3.32326646e-19]
+opt_y:  -8.380341282226001e-17
+optimal anchors:  [81 84]
+optimal p:  [ 1.00000000e+00 -3.32326646e-19]
+optimal x:  [1.         0.29535968]
+optimal y:  -8.380341282226001e-17
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.07381105422973633

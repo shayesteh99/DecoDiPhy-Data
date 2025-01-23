@@ -1,0 +1,16 @@
+['Ptilopodius_sp2026_PNG2_I13653', 'Hypothenemus_dolosus_I13628', 'Pityophtorina_sp2359_I13695']
+anchors:  [ 23 114 150]
+true_p:  [0.11226283 0.47689869 0.41083849]
+true_x:  [0.86192098 0.65292701 0.80200359]
+true_y:  0.028448594125095584
+Simulation Runtime:  0.07801318168640137
+opt_anchors:  [114 115 152]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.2861252  0.28469716 0.42917764]
+opt_y:  0.04267342421563097
+optimal anchors:  [114 115 152]
+optimal p:  [0.2861252  0.28469716 0.42917764]
+optimal x:  [1. 1. 1.]
+optimal y:  0.04267342421563097
+Jaccard:  0.2
+Optimization Runtime:  0.036440134048461914

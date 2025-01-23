@@ -1,0 +1,16 @@
+['Rhabdornis_inornatus', 'Anas_zonorhyncha']
+anchors:  [ 33 584]
+true_p:  [0.50315073 0.49684927]
+true_x:  [0.1362778  0.88074866]
+true_y:  0.012440876424216842
+Simulation Runtime:  1.020580768585205
+opt_anchors:  [ 34 585]
+opt_x:  [1. 1.]
+opt_p:  [0.01944473 0.98055527]
+opt_y:  0.018962336769784927
+optimal anchors:  [ 34 585]
+optimal p:  [0.01944473 0.98055527]
+optimal x:  [1. 1.]
+optimal y:  0.018962336769784927
+Jaccard:  0.0
+Optimization Runtime:  0.09235835075378418

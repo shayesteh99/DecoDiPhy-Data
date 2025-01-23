@@ -1,0 +1,16 @@
+['Tetraodontidae_Sphoeroides_marmoratus_USNMAD9NE03', 'Balistidae_Pseudobalistes_fuscus_USNMAG9RP93']
+anchors:  [120 187]
+true_p:  [0.49487737 0.50512263]
+true_x:  [0.13208771 0.12153144]
+true_y:  0.0020049475409290533
+Simulation Runtime:  0.10809779167175293
+opt_anchors:  [120 187]
+opt_x:  [0.11414836 0.12765517]
+opt_p:  [0.4943362 0.5056638]
+opt_y:  0.0028184351907460602
+optimal anchors:  [120 187]
+optimal p:  [0.4943362 0.5056638]
+optimal x:  [0.11414836 0.12765517]
+optimal y:  0.0028184351907460602
+Jaccard:  1.0
+Optimization Runtime:  671.9911789894104

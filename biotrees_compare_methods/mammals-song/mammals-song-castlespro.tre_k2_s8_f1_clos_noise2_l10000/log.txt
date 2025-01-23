@@ -1,0 +1,16 @@
+['CAV', 'CAN']
+anchors:  [30 46]
+true_p:  [0.47418219 0.52581781]
+true_x:  [0.66778654 0.68075727]
+true_y:  0.07221039666442793
+Simulation Runtime:  0.011542320251464844
+opt_anchors:  [15 13]
+opt_x:  [1.         0.49714046]
+opt_p:  [ 1.00000000e+00 -2.18432412e-23]
+opt_y:  0.07524821095779559
+optimal anchors:  [13 15]
+optimal p:  [-2.18432412e-23  1.00000000e+00]
+optimal x:  [0.49714046 1.        ]
+optimal y:  0.07524821095779559
+Jaccard:  0.0
+Optimization Runtime:  0.04199528694152832

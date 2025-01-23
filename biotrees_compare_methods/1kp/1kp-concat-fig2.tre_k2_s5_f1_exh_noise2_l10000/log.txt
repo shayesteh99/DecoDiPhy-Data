@@ -1,0 +1,16 @@
+['Nothoceros_vincentianus', 'Persea_americana']
+anchors:  [ 7 76]
+true_p:  [0.20315548 0.79684452]
+true_x:  [0.03823013 0.80650689]
+true_y:  0.05619267219297118
+Simulation Runtime:  0.07747340202331543
+opt_anchors:  [ 7 76]
+opt_x:  [0.03846119 0.80654462]
+opt_p:  [0.20318161 0.79681839]
+opt_y:  0.05618171882749252
+optimal anchors:  [ 7 76]
+optimal p:  [0.20318161 0.79681839]
+optimal x:  [0.03846119 0.80654462]
+optimal y:  0.05618171882749252
+Jaccard:  1.0
+Optimization Runtime:  286.1972007751465

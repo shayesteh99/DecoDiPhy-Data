@@ -1,0 +1,16 @@
+['Orukwaensis__LakeRukwa__T10D02', 'Ojipe__NyumbayaMunga__P2G3']
+anchors:  [60 93]
+true_p:  [0.59645291 0.40354709]
+true_x:  [0.15669923 0.09057205]
+true_y:  0.0026609406705599887
+Simulation Runtime:  0.03916621208190918
+opt_anchors:  [60 62]
+opt_x:  [1.         0.47024083]
+opt_p:  [ 1.00000000e+00 -8.20534607e-24]
+opt_y:  0.009229611622298798
+optimal anchors:  [60 62]
+optimal p:  [ 1.00000000e+00 -8.20534607e-24]
+optimal x:  [1.         0.47024083]
+optimal y:  0.009229611622298798
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.048445940017700195

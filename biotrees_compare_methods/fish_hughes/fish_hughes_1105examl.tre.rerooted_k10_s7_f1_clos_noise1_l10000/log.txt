@@ -1,0 +1,26 @@
+['Teleost_Euteleost_Gobiaria_Gobiiformes_Gobiidae_Periophthalmodon_schlosseri', 'Teleost_Euteleost_Anabantaria_Synbranchiformes_Synbranchidae_Monopterus_albus', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Merlucciidae_Merluccius_capensis', 'Teleost_Euteleost_Ovalentaria_Atheriniformes_Atherinopsidae_Menidia_menidia', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Parachromis_managuensis', 'Teleost_Otophysa_Cypriniformes_Cobitidae_Sinibotia_superciliaris', 'Teleost_Euteleost_Ovalentaria_Pomacentridae_Amphiprion_melanopus', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Theragra_chalcogramma', 'Amiiformes_Amiidae_Amia_calva_gill', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Melanochromis_auratus']
+anchors:  [ 11  75  84  92 117 158 346 397 415 527]
+true_p:  [0.01425243 0.09800718 0.15129878 0.15982488 0.12012805 0.07862082
+ 0.12744029 0.03376732 0.14628691 0.07037334]
+true_x:  [0.83375953 0.53974357 0.1395885  0.92809007 0.61518224 0.86711766
+ 0.5647482  0.58662194 0.42048029 0.32628494]
+true_y:  0.040512734027309
+Simulation Runtime:  0.5250582695007324
+opt_anchors:  [ 84 249 268 245 119  99  95 155  97  96]
+opt_x:  [5.24750159e-01 4.53291162e-01 8.34578775e-01 4.90183954e-01
+ 4.67375115e-01 4.65349406e-01 1.68360674e-22 1.00000000e+00
+ 4.85735945e-01 4.77061368e-01]
+opt_p:  [ 3.63884232e-21 -8.81701491e-22  5.54882840e-22 -1.12673642e-21
+  6.29860449e-22  1.66794767e-21  6.97807030e-02  9.30219297e-01
+  9.68546815e-22  6.26718380e-22]
+opt_y:  0.1857717255608333
+optimal anchors:  [ 84  95  96  97  99 119 155 245 249 268]
+optimal p:  [ 3.63884232e-21  6.97807030e-02  6.26718380e-22  9.68546815e-22
+  1.66794767e-21  6.29860449e-22  9.30219297e-01 -1.12673642e-21
+ -8.81701491e-22  5.54882840e-22]
+optimal x:  [5.24750159e-01 1.68360674e-22 4.77061368e-01 4.85735945e-01
+ 4.65349406e-01 4.67375115e-01 1.00000000e+00 4.90183954e-01
+ 4.53291162e-01 8.34578775e-01]
+optimal y:  0.1857717255608333
+Jaccard:  0.05263157894736842
+Optimization Runtime:  0.06148815155029297

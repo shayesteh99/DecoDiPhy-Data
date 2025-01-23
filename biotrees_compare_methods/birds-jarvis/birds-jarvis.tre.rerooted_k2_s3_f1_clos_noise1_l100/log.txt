@@ -1,0 +1,16 @@
+['TYTAL', 'TAUER']
+anchors:  [26 73]
+true_p:  [0.89398721 0.10601279]
+true_x:  [0.50933869 0.98063342]
+true_y:  0.06788454084471764
+Simulation Runtime:  0.018803834915161133
+opt_anchors:  [41 48]
+opt_x:  [1. 1.]
+opt_p:  [0.9656473 0.0343527]
+opt_y:  0.06531483809780651
+optimal anchors:  [41 48]
+optimal p:  [0.9656473 0.0343527]
+optimal x:  [1. 1.]
+optimal y:  0.06531483809780651
+Jaccard:  0.0
+Optimization Runtime:  0.050920963287353516

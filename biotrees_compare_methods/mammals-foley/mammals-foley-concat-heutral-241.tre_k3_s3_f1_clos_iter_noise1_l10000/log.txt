@@ -1,0 +1,16 @@
+['Tupaia_chinensis', 'Hipposideros_galeritus', 'Anoura_caudifer']
+anchors:  [ 35 279 299]
+true_p:  [0.40268456 0.45417867 0.14313677]
+true_x:  [0.10361578 0.78839759 0.32397765]
+true_y:  0.030502338183111505
+Simulation Runtime:  0.2698214054107666
+opt_anchors:  [277  35 300]
+opt_x:  [1.         0.12604546 0.56662438]
+opt_p:  [4.18385598e-01 5.81614402e-01 7.53590201e-23]
+opt_y:  0.022761355145147755
+optimal anchors:  [ 35 276 300]
+optimal p:  [0.39936202 0.46920475 0.13143323]
+optimal x:  [9.51740301e-02 2.38830947e-23 9.52293138e-01]
+optimal y:  0.03901378435714923
+Jaccard:  0.2
+Optimization Runtime:  0.09961366653442383

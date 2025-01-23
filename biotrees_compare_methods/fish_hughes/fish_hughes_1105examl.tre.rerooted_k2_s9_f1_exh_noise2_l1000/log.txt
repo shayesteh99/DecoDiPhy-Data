@@ -1,0 +1,16 @@
+['Teleost_Euteleost_Salmoniformes_Salmonidae_Salmo_salar', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Melanogrammus_aeglefinus']
+anchors:  [403 479]
+true_p:  [0.97974782 0.02025218]
+true_x:  [0.76201836 0.34024914]
+true_y:  0.014796586523428414
+Simulation Runtime:  0.5775411128997803
+opt_anchors:  [403 479]
+opt_x:  [0.76160319 0.30713975]
+opt_p:  [0.97984378 0.02015622]
+opt_y:  0.01485191835570942
+optimal anchors:  [403 479]
+optimal p:  [0.97984378 0.02015622]
+optimal x:  [0.76160319 0.30713975]
+optimal y:  0.01485191835570942
+Jaccard:  1.0
+Optimization Runtime:  3072.5065274238586

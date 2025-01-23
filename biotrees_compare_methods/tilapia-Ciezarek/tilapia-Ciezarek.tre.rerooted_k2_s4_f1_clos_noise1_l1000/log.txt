@@ -1,0 +1,16 @@
+['Orukwaensis__LakeRukwa__24-2012', 'Goldenchambo__LakeIkapu__G7B1']
+anchors:  [60 72]
+true_p:  [0.60007651 0.39992349]
+true_x:  [0.34930689 0.35811168]
+true_y:  0.0016831760289270335
+Simulation Runtime:  0.03753089904785156
+opt_anchors:  [60 62]
+opt_x:  [1.         0.19392398]
+opt_p:  [ 1.00000000e+00 -1.10044318e-24]
+opt_y:  0.010640315252517624
+optimal anchors:  [60 62]
+optimal p:  [ 1.00000000e+00 -1.10044318e-24]
+optimal x:  [1.         0.19392398]
+optimal y:  0.010640315252517624
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.04577827453613281

@@ -1,0 +1,16 @@
+['Mellivora_capensis', 'Pteronura_brasiliensis']
+anchors:  [440 441]
+true_p:  [0.94387303 0.05612697]
+true_x:  [0.17214711 0.73572144]
+true_y:  0.021355553170171224
+Simulation Runtime:  0.35512447357177734
+opt_anchors:  [441 442]
+opt_x:  [1. 1.]
+opt_p:  [0.49963778 0.50036222]
+opt_y:  0.015909666529322727
+optimal anchors:  [441 442]
+optimal p:  [0.49963778 0.50036222]
+optimal x:  [1. 1.]
+optimal y:  0.015909666529322727
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.04036521911621094

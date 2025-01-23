@@ -1,0 +1,16 @@
+['Monacanthidae_Thamnaconus_tessellatus_EPLATE_53_D03', 'Diodontidae_Chilomycterus_antennatus_USNMAC2WT95', 'Monacanthidae_Pseudomonacanthus_elongatus_EPLATE_51_H09']
+anchors:  [ 46 250 288]
+true_p:  [0.37975157 0.22856125 0.39168718]
+true_x:  [0.55232772 0.04208008 0.48144312]
+true_y:  0.004534783394534873
+Simulation Runtime:  0.10573339462280273
+opt_anchors:  [288  56 250]
+opt_x:  [1.04535197e-21 1.00000000e+00 1.64842374e-21]
+opt_p:  [0.05956401 0.53040479 0.4100312 ]
+opt_y:  0.002037120513527021
+optimal anchors:  [ 56 250 288]
+optimal p:  [0.53040479 0.4100312  0.05956401]
+optimal x:  [1.00000000e+00 1.64842374e-21 1.04535197e-21]
+optimal y:  0.002037120513527021
+Jaccard:  0.5
+Optimization Runtime:  0.09986495971679688

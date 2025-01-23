@@ -1,0 +1,16 @@
+['Monacanthidae_Paramonacanthus_oblongus_EPLATE_53_E01', 'Balistidae_Balistes_vetula_UPRFL0353']
+anchors:  [189 234]
+true_p:  [0.43092077 0.56907923]
+true_x:  [0.20222244 0.88353048]
+true_y:  0.0036232029947412987
+Simulation Runtime:  0.10612297058105469
+opt_anchors:  [235 191]
+opt_x:  [1. 1.]
+opt_p:  [0.2680356 0.7319644]
+opt_y:  -1.2674413767499756e-17
+optimal anchors:  [191 235]
+optimal p:  [0.7319644 0.2680356]
+optimal x:  [1. 1.]
+optimal y:  -1.2674413767499756e-17
+Jaccard:  0.0
+Optimization Runtime:  0.08681797981262207

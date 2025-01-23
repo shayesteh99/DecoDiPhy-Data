@@ -1,0 +1,16 @@
+['Phalacrocorax_auritus', 'Promerops_cafer']
+anchors:  [241 560]
+true_p:  [0.19899284 0.80100716]
+true_x:  [0.57003961 0.44989542]
+true_y:  0.03063905611036441
+Simulation Runtime:  0.8846783638000488
+opt_anchors:  [562 241]
+opt_x:  [1.        0.5004587]
+opt_p:  [ 1.00000000e+00 -1.30422451e-22]
+opt_y:  0.027263560533629116
+optimal anchors:  [241 562]
+optimal p:  [-1.30422451e-22  1.00000000e+00]
+optimal x:  [0.5004587 1.       ]
+optimal y:  0.027263560533629116
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.1184389591217041

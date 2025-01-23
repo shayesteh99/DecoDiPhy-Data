@@ -1,0 +1,16 @@
+['Eidolon_helvum', 'Loxodonta_africana']
+anchors:  [ 17 291]
+true_p:  [0.02619955 0.97380045]
+true_x:  [0.96796064 0.96275412]
+true_y:  0.030783746623349217
+Simulation Runtime:  0.3108494281768799
+opt_anchors:  [295 291]
+opt_x:  [0.50157944 1.        ]
+opt_p:  [3.73907657e-22 1.00000000e+00]
+opt_y:  0.03245496170289075
+optimal anchors:  [290 295]
+optimal p:  [ 1.0000000e+00 -7.7559018e-23]
+optimal x:  [0.04207041 0.50233874]
+optimal y:  0.0350831210485484
+Jaccard:  0.0
+Optimization Runtime:  0.09186935424804688

@@ -1,0 +1,22 @@
+['Tetraodontidae_Takifugu_niphobles_EPLATE_67_F07', 'Balistidae_Balistoides_viridescens_USNMAG9RF59', 'Monacanthidae_Amanses_scopas_USNMAG5NQ54', 'Ostraciidae_Lactoria_cornuta_USNMAG9RD87', 'Monacanthidae_Chaetoderma_penicilligera_EPLATE_51_F09', 'Ostraciidae_Acanthostracion_quadricornis_UPRFL0075', 'Tetraodontidae_Canthigaster_valentini_USNMAG5NP15']
+anchors:  [ 18  29  72 126 163 223 247]
+true_p:  [0.22492269 0.14978602 0.18753321 0.05435522 0.21319957 0.11958791
+ 0.05061537]
+true_x:  [0.05417742 0.24751039 0.6276222  0.11246325 0.50464266 0.00699074
+ 0.31088296]
+true_y:  0.006420164920876805
+Simulation Runtime:  0.20193982124328613
+opt_anchors:  [ 11 141  10   9  12 143 144]
+opt_x:  [0.49996507 1.         0.51775471 0.48482496 0.42805564 0.48405734
+ 0.49758929]
+opt_p:  [ 4.24283926e-23  1.00000000e+00 -1.65070184e-22  8.94636357e-23
+  3.24002488e-23  1.39876466e-22 -6.81518255e-23]
+opt_y:  0.07089953076603675
+optimal anchors:  [  9  10  11  12 141 143 144]
+optimal p:  [ 8.94636357e-23 -1.65070184e-22  4.24283926e-23  3.24002488e-23
+  1.00000000e+00  1.39876466e-22 -6.81518255e-23]
+optimal x:  [0.48482496 0.51775471 0.49996507 0.42805564 1.         0.48405734
+ 0.49758929]
+optimal y:  0.07089953076603675
+Jaccard:  0.0
+Optimization Runtime:  0.09489750862121582

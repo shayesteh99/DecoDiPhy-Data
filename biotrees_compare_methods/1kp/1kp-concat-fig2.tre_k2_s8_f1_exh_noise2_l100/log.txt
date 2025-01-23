@@ -1,0 +1,16 @@
+['Sarcandra_glabra', 'Ginkgo_biloba']
+anchors:  [35 83]
+true_p:  [0.47418219 0.52581781]
+true_x:  [0.77509194 0.7270981 ]
+true_y:  0.06017266570506312
+Simulation Runtime:  0.05511164665222168
+opt_anchors:  [35 83]
+opt_x:  [0.77116006 0.68255287]
+opt_p:  [0.47838191 0.52161809]
+opt_y:  0.05925911569772785
+optimal anchors:  [35 83]
+optimal p:  [0.47838191 0.52161809]
+optimal x:  [0.77116006 0.68255287]
+optimal y:  0.05925911569772785
+Jaccard:  1.0
+Optimization Runtime:  287.9981813430786

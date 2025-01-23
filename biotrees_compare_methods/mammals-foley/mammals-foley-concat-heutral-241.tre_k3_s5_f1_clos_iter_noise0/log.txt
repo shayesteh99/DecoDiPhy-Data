@@ -1,0 +1,16 @@
+['Hippopotamus_amphibius', 'Perognathus_longimembris', 'Capra_aegagrus']
+anchors:  [129 319 377]
+true_p:  [0.67008034 0.17083696 0.1590827 ]
+true_x:  [0.32657181 0.82028103 0.12917991]
+true_y:  0.06556923460566783
+Simulation Runtime:  3.7917239665985107
+opt_anchors:  [321 132 130]
+opt_x:  [1.         0.4776604  0.88353346]
+opt_p:  [ 1.15874646e-03 -4.16271730e-17  9.98841254e-01]
+opt_y:  0.09204316421637775
+optimal anchors:  [130 132 321]
+optimal p:  [ 9.98841254e-01 -4.16271730e-17  1.15874646e-03]
+optimal x:  [0.88353346 0.4776604  1.        ]
+optimal y:  0.09204316421637775
+Jaccard:  0.0
+Optimization Runtime:  1.3447527885437012

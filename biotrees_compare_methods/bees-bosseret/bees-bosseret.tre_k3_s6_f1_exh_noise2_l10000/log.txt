@@ -1,0 +1,16 @@
+['Curvinomia_chalybeata', 'Pachynomia_amoenula', 'Nomiapis_bispinosa']
+anchors:  [ 9 35 46]
+true_p:  [0.40136921 0.16225249 0.4363783 ]
+true_x:  [0.35696798 0.3443769  0.31823939]
+true_y:  0.016299393300648925
+Simulation Runtime:  0.012016534805297852
+opt_anchors:  [ 9 35 46]
+opt_x:  [0.35710234 0.34386608 0.31799963]
+opt_p:  [0.40135825 0.16222318 0.43641856]
+opt_y:  0.016298886619055365
+optimal anchors:  [ 9 35 46]
+optimal p:  [0.40135825 0.16222318 0.43641856]
+optimal x:  [0.35710234 0.34386608 0.31799963]
+optimal y:  0.016298886619055365
+Jaccard:  1.0
+Optimization Runtime:  294.15505743026733

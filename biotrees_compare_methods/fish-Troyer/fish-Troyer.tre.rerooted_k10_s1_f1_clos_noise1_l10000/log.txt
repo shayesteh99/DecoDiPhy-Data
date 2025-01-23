@@ -1,0 +1,24 @@
+['Tetraodontidae_Canthigaster_cyanospilota_EPLATE_51_B07', 'Monocanthidae_Cantheschenia_grandisquamis_EPLATE_53_C03', 'Ostraciidae_Lactophrys_triqueter_UPRFL0072', 'Tetraodontidae_Takifugu_niphobles_EPLATE_67_F07', 'Tetraodontidae_Canthigaster_rapaensis_USNMAG9RO95', 'Monacanthidae_Pseudomonacanthus_peroni_EPLATE_52_D12', 'Monacanthidae_Paramonacanthus_filicauda_EPLATE_53_C01', 'Balistidae_Balistes_capriscus_USNMAD9NF67', 'Tetraodontidae_Sphoeroides_testudineus_USNMAC8CC45', 'Diodontidae_Diodon_holocanthus_UPRFL0286']
+anchors:  [ 35  51  64  70 104 122 181 219 236 256]
+true_p:  [0.05521468 0.17799282 0.16719834 0.22059574 0.04724166 0.05843311
+ 0.11333804 0.01268843 0.10185061 0.04544659]
+true_x:  [0.10345559 0.21773693 0.45102506 0.08948872 0.09139005 0.11246325
+ 0.48373685 0.61016549 0.29646578 0.50837705]
+true_y:  0.002789658362594161
+Simulation Runtime:  0.18654298782348633
+opt_anchors:  [64 66 67 70 87 83 86 84 79 77]
+opt_x:  [0.4993653  0.49981048 0.49960827 0.49608836 1.         1.
+ 1.         1.         0.49771818 0.49971106]
+opt_p:  [-2.05066481e-19 -2.03395030e-19 -2.05078302e-19 -2.04050895e-19
+  4.38605178e-02  4.54915220e-01  4.37928180e-02  4.57431444e-01
+ -2.04919867e-19 -2.07090389e-19]
+opt_y:  0.0048164882672604905
+optimal anchors:  [64 66 67 70 77 79 83 84 86 87]
+optimal p:  [-2.05066481e-19 -2.03395030e-19 -2.05078302e-19 -2.04050895e-19
+ -2.07090389e-19 -2.04919867e-19  4.54915220e-01  4.57431444e-01
+  4.37928180e-02  4.38605178e-02]
+optimal x:  [0.4993653  0.49981048 0.49960827 0.49608836 0.49971106 0.49771818
+ 1.         1.         1.         1.        ]
+optimal y:  0.0048164882672604905
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.06330013275146484

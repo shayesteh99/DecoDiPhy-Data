@@ -1,0 +1,24 @@
+['Monacanthidae_Paramonacanthus_oblongus_EPLATE_53_E01', 'Balistidae_Balistes_vetula_UPRFL0353', 'Lophiidae_Lophiomus_cf_setigerus_EPLATE_47_G05', 'Tetraodontidae_Canthigaster_axiologus_USNMAG9RT89', 'Tetraodontidae_Lagocephalus_laevigatus_UPRFL1635', 'Aracanidae_Anoplocapros_lenticularis_EPLATE_53_B05', 'Balistidae_Melichthys_niger_UPRFL0061', 'Monacanthidae_Cantherhines_pardalis_USNMAB6QU07', 'Diodontidae_Chilomycterus_antennatus_USNMAC2WT95', 'Monocanthidae_Acanthaluteres_spilomelanurus_EPLATE_53_A02']
+anchors:  [  8  44  72  95 132 162 177 222 245 264]
+true_p:  [0.08410344 0.03234695 0.05149886 0.05468568 0.19077823 0.16104589
+ 0.19312607 0.00399207 0.09547167 0.13295113]
+true_x:  [0.626742   0.55232772 0.0773465  0.75131189 0.86714891 0.23066452
+ 0.20222244 0.88353048 0.81665891 0.82637085]
+true_y:  0.007431813208982485
+Simulation Runtime:  0.32247090339660645
+opt_anchors:  [162 163 139 171 142 175 259 152 134   9]
+opt_x:  [0.39274338 0.45422811 1.         0.4819862  0.48523373 0.40360246
+ 1.         0.50799243 1.         0.50004203]
+opt_p:  [-3.34410764e-22 -6.56664792e-22  2.26379589e-01 -6.23616440e-22
+ -8.68108288e-22 -4.56938799e-22  4.25443197e-01  2.28379995e-22
+  3.48177214e-01  1.75612908e-22]
+opt_y:  -7.359784500709644e-21
+optimal anchors:  [  9 134 139 142 152 162 163 171 175 259]
+optimal p:  [ 1.75612908e-22  3.48177214e-01  2.26379589e-01 -8.68108288e-22
+  2.28379995e-22 -3.34410764e-22 -6.56664792e-22 -6.23616440e-22
+ -4.56938799e-22  4.25443197e-01]
+optimal x:  [0.50004203 1.         1.         0.48523373 0.50799243 0.39274338
+ 0.45422811 0.4819862  0.40360246 1.        ]
+optimal y:  -7.359784500709644e-21
+Jaccard:  0.05263157894736842
+Optimization Runtime:  0.2834446430206299

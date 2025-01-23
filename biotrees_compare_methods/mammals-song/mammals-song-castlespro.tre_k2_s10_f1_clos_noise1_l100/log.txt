@@ -1,0 +1,16 @@
+['HOM', 'BOS']
+anchors:  [12 53]
+true_p:  [0.5355032 0.4644968]
+true_x:  [0.66000666 0.75236991]
+true_y:  0.02577541660834998
+Simulation Runtime:  0.009808540344238281
+opt_anchors:  [12 13]
+opt_x:  [1. 1.]
+opt_p:  [0.50015275 0.49984725]
+opt_y:  0.033857904357720445
+optimal anchors:  [12 13]
+optimal p:  [0.50015275 0.49984725]
+optimal x:  [1. 1.]
+optimal y:  0.033857904357720445
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.03452110290527344

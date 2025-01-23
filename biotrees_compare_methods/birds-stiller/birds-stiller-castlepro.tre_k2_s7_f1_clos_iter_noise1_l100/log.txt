@@ -1,0 +1,16 @@
+['Nestor_notabilis', 'Alca_torda']
+anchors:  [156 330]
+true_p:  [0.70986238 0.29013762]
+true_x:  [0.67517377 0.18715228]
+true_y:  0.01904294858693264
+Simulation Runtime:  0.9432883262634277
+opt_anchors:  [157 159]
+opt_x:  [0.45909478 1.        ]
+opt_p:  [-2.57644676e-22  1.00000000e+00]
+opt_y:  0.02305467380003188
+optimal anchors:  [157 159]
+optimal p:  [-2.57644676e-22  1.00000000e+00]
+optimal x:  [0.45909478 1.        ]
+optimal y:  0.02305467380003188
+Jaccard:  0.0
+Optimization Runtime:  0.09128284454345703

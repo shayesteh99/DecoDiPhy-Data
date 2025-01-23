@@ -1,0 +1,41 @@
+['Teleost_Euteleost_Eupercaria_Centrarchiformes_Terapontidae_Terapon_jarbua', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Boreogadus_saida']
+anchors:  [246 402]
+true_p:  [0.47418219 0.52581781]
+true_x:  [0.56016038 0.77919128]
+true_y:  0.030912387933011876
+Simulation Runtime:  1.189746618270874
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2
+[388 469]
+========================================================================================================================================================================================================
+1
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+4.348829097369903e-05
+========================================================================================================================================================================================================
+2
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+1.4793299014431685e-28
+========================================================================================================================================================================================================
+3
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+1.4793299014431685e-28
+opt_x:  [0.56016038 0.77919128]
+opt_p:  [0.47418219 0.52581781]
+opt_y:  0.030912387933005936
+stopped by obj0
+[1.4793299014431685e-28]
+optimal anchors:  [246 402]
+optimal p:  [0.47418219 0.52581781]
+optimal x:  [0.56016038 0.77919128]
+optimal y:  0.030912387933005936
+Jaccard:  1.0
+Optimization Runtime:  63.02412247657776

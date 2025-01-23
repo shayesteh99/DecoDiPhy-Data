@@ -1,0 +1,16 @@
+['Hippopotamus_amphibius', 'Perognathus_longimembris']
+anchors:  [129 319]
+true_p:  [0.79684452 0.20315548]
+true_x:  [0.32657181 0.82028103]
+true_y:  0.07774758534362544
+Simulation Runtime:  0.30962324142456055
+opt_anchors:  [129 319]
+opt_x:  [0.32655773 0.81994479]
+opt_p:  [0.79686054 0.20313946]
+opt_y:  0.07775679154561542
+optimal anchors:  [129 319]
+optimal p:  [0.79686054 0.20313946]
+optimal x:  [0.32655773 0.81994479]
+optimal y:  0.07775679154561542
+Jaccard:  1.0
+Optimization Runtime:  1801.1879274845123

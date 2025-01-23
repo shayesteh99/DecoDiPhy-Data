@@ -1,0 +1,16 @@
+['Sarcandra_glabra', 'Ginkgo_biloba', 'Cycas_micholitzii']
+anchors:  [35 83 84]
+true_p:  [0.17386443 0.41974504 0.40639053]
+true_x:  [0.77509194 0.7270981  0.64013794]
+true_y:  0.03522727110788814
+Simulation Runtime:  0.050147294998168945
+opt_anchors:  [84 85 89]
+opt_x:  [1.         1.         0.52036629]
+opt_p:  [4.96784714e-01 5.03215286e-01 7.39670274e-22]
+opt_y:  0.03355644988980888
+optimal anchors:  [84 85 89]
+optimal p:  [4.96784714e-01 5.03215286e-01 7.39670274e-22]
+optimal x:  [1.         1.         0.52036629]
+optimal y:  0.03355644988980888
+Jaccard:  0.2
+Optimization Runtime:  0.03459739685058594

@@ -1,0 +1,24 @@
+['Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Scleropages_formosus', 'Teleost_Euteleost_Ovalentaria_Blenniiformes_Tripterygiidae_Enneanectes_sp', 'Teleost_Otophysa_Siluriformes_Amblycipitidae_Liobagrus_styani', 'Teleost_Euteleost_Eupercaria_Perciformes_Scorpaenidae_Scorpaenopsis_cirrosa', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Nothobranchiidae_Nothobranchius_furzeri', 'Acipenseriformes_Acipenseridae_Acipenser_sinensis', 'Teleost_Euteleost_Anabantaria_Anabantiformes_Osphronemidae_Osphronemus_goramy', 'Polypteriformes_Polypteriformes_Polypteridae_Polypterus_endlicheri', 'Teleost_Euteleost_Esociformes_Umbridae_Umbra_pygmae', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Melanogrammus_aeglefinus']
+anchors:  [  6  54 102 156 269 393 468 494 569 584]
+true_p:  [0.12668697 0.02292018 0.07067872 0.11279846 0.00887724 0.13253479
+ 0.07140855 0.17484021 0.19009051 0.08916437]
+true_x:  [0.66295274 0.89838935 0.68119832 0.22668303 0.63938843 0.76201836
+ 0.67434039 0.76085022 0.28379598 0.50324404]
+true_y:  0.05488605478964141
+Simulation Runtime:  1.0779545307159424
+opt_anchors:  [377 374 453 445 454 478 376 368 366 365]
+opt_x:  [0.49757693 0.49981424 0.50012791 0.49981303 0.50089975 1.
+ 0.49890728 0.49961272 0.49962074 0.49962643]
+opt_p:  [-5.23617238e-20 -5.56112177e-20 -3.50942678e-20 -4.52693458e-20
+ -3.54879465e-20  1.00000000e+00 -5.38330818e-20 -5.54035120e-20
+ -5.49154203e-20 -5.49622143e-20]
+opt_y:  0.36387385492054125
+optimal anchors:  [365 366 368 374 376 377 445 453 454 478]
+optimal p:  [-5.49622143e-20 -5.49154203e-20 -5.54035120e-20 -5.56112177e-20
+ -5.38330818e-20 -5.23617238e-20 -4.52693458e-20 -3.50942678e-20
+ -3.54879465e-20  1.00000000e+00]
+optimal x:  [0.49962643 0.49962074 0.49961272 0.49981424 0.49890728 0.49757693
+ 0.49981303 0.50012791 0.50089975 1.        ]
+optimal y:  0.36387385492054125
+Jaccard:  0.0
+Optimization Runtime:  0.0840151309967041

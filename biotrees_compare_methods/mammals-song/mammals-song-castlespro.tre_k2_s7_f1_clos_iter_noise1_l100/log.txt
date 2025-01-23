@@ -1,0 +1,16 @@
+['PTE', 'MIC']
+anchors:  [ 7 41]
+true_p:  [0.6335953 0.3664047]
+true_x:  [0.85187542 0.90277817]
+true_y:  0.039052818142111305
+Simulation Runtime:  0.010516881942749023
+opt_anchors:  [16 44]
+opt_x:  [0.5029226 1.       ]
+opt_p:  [-1.4049628e-23  1.0000000e+00]
+opt_y:  0.043359783055783384
+optimal anchors:  [16 44]
+optimal p:  [-1.4049628e-23  1.0000000e+00]
+optimal x:  [0.5029226 1.       ]
+optimal y:  0.043359783055783384
+Jaccard:  0.0
+Optimization Runtime:  0.06742310523986816

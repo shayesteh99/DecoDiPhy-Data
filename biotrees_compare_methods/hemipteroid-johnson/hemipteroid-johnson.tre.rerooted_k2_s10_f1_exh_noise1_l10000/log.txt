@@ -1,0 +1,16 @@
+['Heterocaecilius_solocipennis', 'Ischnodemus_falicus']
+anchors:  [ 23 285]
+true_p:  [0.6598078 0.3401922]
+true_x:  [0.87012317 0.72904043]
+true_y:  0.08512396696847294
+Simulation Runtime:  0.17826294898986816
+opt_anchors:  [ 23 285]
+opt_x:  [0.87036151 0.72908093]
+opt_p:  [0.65980275 0.34019725]
+opt_y:  0.08512310328997146
+optimal anchors:  [ 23 285]
+optimal p:  [0.65980275 0.34019725]
+optimal x:  [0.87036151 0.72908093]
+optimal y:  0.08512310328997146
+Jaccard:  1.0
+Optimization Runtime:  1108.9217932224274

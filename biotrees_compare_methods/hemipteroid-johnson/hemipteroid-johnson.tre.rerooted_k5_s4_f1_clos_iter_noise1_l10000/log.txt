@@ -1,0 +1,18 @@
+['Ponana_quadralaba', 'Caliscelis_bonelli', 'Nabis_subcoleoptratus', 'Trialeurodes_vaporariorum', 'Blaberus_atropos']
+anchors:  [ 61 125 156 174 253]
+true_p:  [0.15377704 0.39077747 0.17098957 0.19640254 0.08805338]
+true_x:  [0.6451459  0.86707278 0.51082532 0.33408692 0.47642303]
+true_y:  0.09701964888749531
+Simulation Runtime:  0.30400538444519043
+opt_anchors:  [144 125 160 254  61]
+opt_x:  [1.         0.44855742 1.         1.         0.45054534]
+opt_p:  [ 5.24838780e-01 -4.82601509e-22  1.16786230e-01  1.28981370e-01
+  2.29393620e-01]
+opt_y:  0.07344524751705832
+optimal anchors:  [ 61 125 144 160 254]
+optimal p:  [ 2.29393620e-01 -4.82601509e-22  5.24838780e-01  1.16786230e-01
+  1.28981370e-01]
+optimal x:  [0.45054534 0.44855742 1.         1.         1.        ]
+optimal y:  0.07344524751705832
+Jaccard:  0.25
+Optimization Runtime:  0.23382830619812012

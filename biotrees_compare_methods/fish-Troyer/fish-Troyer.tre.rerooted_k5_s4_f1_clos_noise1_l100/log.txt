@@ -1,0 +1,18 @@
+['Tetraodontidae_Sphoeroides_spengleri_UPRFL0410', 'Triacanthodidae_Paratriacanthodes_retrospinis_EPLATE_53_B04', 'Diodontidae_Diodon_nicthemerus_EPLATE_52_A12', 'Balistidae_Rhinecanthus_lunula_USNMAG5NP92', 'Monocanthidae_Brachaluteres_jacksonianus_EPLATE_52_F12']
+anchors:  [ 52 120 152 193 236]
+true_p:  [0.17082722 0.2076052  0.14691735 0.28343819 0.19121205]
+true_x:  [0.91360484 0.37334564 0.52862191 0.09238656 0.288054  ]
+true_y:  0.004476037805184145
+Simulation Runtime:  0.10500288009643555
+opt_anchors:  [145 157 156 155 154]
+opt_x:  [1.         0.78980158 0.45488065 0.49103195 0.54349029]
+opt_p:  [ 1.00000000e+00  2.83206281e-23 -3.37974916e-23 -1.72357571e-22
+  3.46778061e-23]
+opt_y:  0.07217995596984265
+optimal anchors:  [145 154 155 156 157]
+optimal p:  [ 1.00000000e+00  3.46778061e-23 -1.72357571e-22 -3.37974916e-23
+  2.83206281e-23]
+optimal x:  [1.         0.54349029 0.49103195 0.45488065 0.78980158]
+optimal y:  0.07217995596984265
+Jaccard:  0.0
+Optimization Runtime:  0.052854299545288086

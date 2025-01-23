@@ -1,0 +1,16 @@
+['Haematomyzus_elephantis', 'Aleochara_curtula']
+anchors:  [250 312]
+true_p:  [0.02025218 0.97974782]
+true_x:  [0.55632267 0.66957084]
+true_y:  0.20618892484068624
+Simulation Runtime:  0.21520256996154785
+opt_anchors:  [312 313]
+opt_x:  [0.46679941 1.        ]
+opt_p:  [0.5774829 0.4225171]
+opt_y:  0.21226376218700962
+optimal anchors:  [311 312]
+optimal p:  [0.55868475 0.44131525]
+optimal x:  [0.16294228 0.26577082]
+optimal y:  0.21224485997309575
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.03021860122680664

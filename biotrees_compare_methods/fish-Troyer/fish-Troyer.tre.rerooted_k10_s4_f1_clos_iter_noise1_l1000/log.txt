@@ -1,0 +1,25 @@
+['Tetraodontidae_Sphoeroides_spengleri_UPRFL0410', 'Triacanthodidae_Paratriacanthodes_retrospinis_EPLATE_53_B04', 'Diodontidae_Diodon_nicthemerus_EPLATE_52_A12', 'Balistidae_Rhinecanthus_lunula_USNMAG5NP92', 'Monocanthidae_Brachaluteres_jacksonianus_EPLATE_52_F12', 'Tetraodontidae_Canthigaster_solandri_USNMAG9RM90', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Diodontidae_Diodon_holocanthus', 'Ostraciidae_Lactophrys_triqueter_UPRFL0225', 'Aracanidae_Capropygia_unistriata_EPLATE_53_F04', 'Monocanthidae_Acanthaluteres_vittiger_EPLATE_53_C02']
+anchors:  [  6  33  48  50  73 112 144 185 228 264]
+true_p:  [0.13787685 0.12357692 0.0903901  0.06015863 0.10034204 0.10985049
+ 0.07773863 0.14997614 0.10117636 0.04891383]
+true_x:  [2.51952633e-04 1.03645613e-01 9.13604840e-01 1.41611013e-01
+ 3.33041499e-01 3.73345645e-01 5.28621908e-01 9.23865620e-02
+ 2.88054000e-01 7.62348645e-01]
+true_y:  0.0034505688797125764
+Simulation Runtime:  0.4176619052886963
+opt_anchors:  [137 147  10  11 186 140  40 160   6  98]
+opt_x:  [0.0266977  0.50036463 0.49749175 0.49831806 0.49463356 0.63336837
+ 1.         1.         0.55719762 1.        ]
+opt_p:  [-1.81877606e-24  1.58860703e-22 -1.89807562e-22 -1.89702884e-22
+ -4.46112431e-22  8.28054411e-23  4.96686668e-23  5.78277400e-01
+  1.48095142e-22  4.21722600e-01]
+opt_y:  0.006890076828072894
+optimal anchors:  [  6  10  11  40  98 137 140 147 160 186]
+optimal p:  [ 1.48095142e-22 -1.89807562e-22 -1.89702884e-22  4.96686668e-23
+  4.21722600e-01 -1.81877606e-24  8.28054411e-23  1.58860703e-22
+  5.78277400e-01 -4.46112431e-22]
+optimal x:  [0.55719762 0.49749175 0.49831806 1.         1.         0.0266977
+ 0.63336837 0.50036463 1.         0.49463356]
+optimal y:  0.006890076828072894
+Jaccard:  0.05263157894736842
+Optimization Runtime:  0.40355777740478516

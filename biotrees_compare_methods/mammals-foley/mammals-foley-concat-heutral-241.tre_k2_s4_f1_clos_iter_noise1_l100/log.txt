@@ -1,0 +1,16 @@
+['Tupaia_chinensis', 'Microtus_ochrogaster']
+anchors:  [ 35 152]
+true_p:  [0.788926 0.211074]
+true_x:  [0.10361578 0.58563997]
+true_y:  0.0232900304393133
+Simulation Runtime:  0.6573975086212158
+opt_anchors:  [ 35 154]
+opt_x:  [0.27611431 0.98791939]
+opt_p:  [ 1.00000000e+00 -2.46717884e-23]
+opt_y:  2.0770635943036693e-21
+optimal anchors:  [ 35 154]
+optimal p:  [ 1.00000000e+00 -2.46717884e-23]
+optimal x:  [0.27611431 0.98791939]
+optimal y:  2.0770635943036693e-21
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.05460333824157715

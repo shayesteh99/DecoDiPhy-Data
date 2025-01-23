@@ -1,0 +1,16 @@
+['Pseudapis_interstitinervis', 'Pseudapis_cinerea']
+anchors:  [ 9 16]
+true_p:  [0.91087844 0.08912156]
+true_x:  [0.35169713 0.65307992]
+true_y:  0.007969202749933301
+Simulation Runtime:  0.016252994537353516
+opt_anchors:  [18 24]
+opt_x:  [1. 1.]
+opt_p:  [0.22299351 0.77700649]
+opt_y:  0.006404752384922933
+optimal anchors:  [18 24]
+optimal p:  [0.22299351 0.77700649]
+optimal x:  [1. 1.]
+optimal y:  0.006404752384922933
+Jaccard:  0.0
+Optimization Runtime:  0.08609247207641602

@@ -1,0 +1,31 @@
+['Teleost_Euteleost_Eupercaria_Centrarchiformes_Terapontidae_Terapon_jarbua', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Boreogadus_saida']
+anchors:  [246 402]
+true_p:  [0.47418219 0.52581781]
+true_x:  [0.56016038 0.77919128]
+true_y:  0.030912387933011876
+Simulation Runtime:  0.6214370727539062
+[142 384]
+========================================================================================================================================================================================================
+1
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+2.8942351096377543e-06
+========================================================================================================================================================================================================
+2
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+2.8942351096377543e-06
+opt_anchors:  [246 402]
+opt_x:  [0.5596497  0.77319098]
+opt_p:  [0.47418939 0.52581061]
+opt_y:  0.03092830367073416
+optimal anchors:  [246 402]
+optimal p:  [0.47418939 0.52581061]
+optimal x:  [0.5596497  0.77319098]
+optimal y:  0.03092830367073416
+Jaccard:  1.0
+Optimization Runtime:  43.40183186531067

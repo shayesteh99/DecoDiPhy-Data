@@ -1,0 +1,16 @@
+['Patagioenas_fasciata', 'Atlantisia_rogersi']
+anchors:  [58 92]
+true_p:  [0.94387303 0.05612697]
+true_x:  [0.69877867 0.27125811]
+true_y:  0.024557374635169847
+Simulation Runtime:  0.7785942554473877
+opt_anchors:  [58 55]
+opt_x:  [0.83037858 1.        ]
+opt_p:  [ 1.00000001e+00 -5.21299738e-09]
+opt_y:  0.03010985229796047
+optimal anchors:  [56 58]
+optimal p:  [-1.49256743e-07  1.00000015e+00]
+optimal x:  [0.80879224 0.83037856]
+optimal y:  0.030109851003111022
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.038323163986206055

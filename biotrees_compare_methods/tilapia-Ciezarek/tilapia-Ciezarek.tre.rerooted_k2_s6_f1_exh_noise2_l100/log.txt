@@ -1,0 +1,16 @@
+['Ourolepis__Kilombero__F4', 'Oesculentus__LakeRukwa__T10E03']
+anchors:  [ 25 149]
+true_p:  [0.27103933 0.72896067]
+true_x:  [0.49085576 0.34965175]
+true_y:  0.002722420625148731
+Simulation Runtime:  0.04548168182373047
+opt_anchors:  [ 24 149]
+opt_x:  [0.3975053  0.34590396]
+opt_p:  [0.27487514 0.72512486]
+opt_y:  0.0029000142656215398
+optimal anchors:  [ 24 149]
+optimal p:  [0.27487514 0.72512486]
+optimal x:  [0.3975053  0.34590396]
+optimal y:  0.0029000142656215398
+Jaccard:  0.3333333333333333
+Optimization Runtime:  227.44570660591125

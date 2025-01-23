@@ -1,0 +1,26 @@
+['Teleost_Euteleost_Gobiaria_Gobiiformes_Gobiidae_Periophthalmodon_schlosseri', 'Teleost_Euteleost_Anabantaria_Synbranchiformes_Synbranchidae_Monopterus_albus', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Merlucciidae_Merluccius_capensis', 'Teleost_Euteleost_Ovalentaria_Atheriniformes_Atherinopsidae_Menidia_menidia', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Parachromis_managuensis', 'Teleost_Otophysa_Cypriniformes_Cobitidae_Sinibotia_superciliaris', 'Teleost_Euteleost_Ovalentaria_Pomacentridae_Amphiprion_melanopus', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Theragra_chalcogramma', 'Amiiformes_Amiidae_Amia_calva_gill', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Melanochromis_auratus']
+anchors:  [ 11  75  84  92 117 158 346 397 415 527]
+true_p:  [0.01425243 0.09800718 0.15129878 0.15982488 0.12012805 0.07862082
+ 0.12744029 0.03376732 0.14628691 0.07037334]
+true_x:  [0.83375953 0.53974357 0.1395885  0.92809007 0.61518224 0.86711766
+ 0.5647482  0.58662194 0.42048029 0.32628494]
+true_y:  0.040512734027309
+Simulation Runtime:  0.5864818096160889
+opt_anchors:  [ 84 249 268 245 119  99  95 155  97  96]
+opt_x:  [7.18150709e-01 1.30729409e-01 1.00000000e+00 3.62491487e-01
+ 8.75613025e-01 5.49716943e-01 3.22600248e-22 1.00000000e+00
+ 5.68400667e-01 4.94073102e-01]
+opt_p:  [ 2.95974305e-21 -7.32591943e-22  4.62236415e-22 -3.34040923e-21
+  8.43312955e-22  4.16110279e-22  6.98220196e-02  9.30177980e-01
+  4.99475460e-22 -4.65354787e-21]
+opt_y:  0.18554268586327013
+optimal anchors:  [ 84  95  96  97  99 119 155 245 249 268]
+optimal p:  [ 2.95974305e-21  6.98220196e-02 -4.65354787e-21  4.99475460e-22
+  4.16110279e-22  8.43312955e-22  9.30177980e-01 -3.34040923e-21
+ -7.32591943e-22  4.62236415e-22]
+optimal x:  [7.18150709e-01 3.22600248e-22 4.94073102e-01 5.68400667e-01
+ 5.49716943e-01 8.75613025e-01 1.00000000e+00 3.62491487e-01
+ 1.30729409e-01 1.00000000e+00]
+optimal y:  0.18554268586327013
+Jaccard:  0.05263157894736842
+Optimization Runtime:  0.06403422355651855

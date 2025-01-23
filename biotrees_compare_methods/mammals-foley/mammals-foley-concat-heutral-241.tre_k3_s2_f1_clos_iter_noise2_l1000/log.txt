@@ -1,0 +1,16 @@
+['Mellivora_capensis', 'Pteronura_brasiliensis', 'Echinops_telfairi']
+anchors:  [ 28 438 439]
+true_p:  [0.54336831 0.43100234 0.02562935]
+true_x:  [0.40319386 0.17214711 0.73572144]
+true_y:  0.044384288321383726
+Simulation Runtime:  0.3226814270019531
+opt_anchors:  [451  28 440]
+opt_x:  [0.49256224 0.23416817 0.48205575]
+opt_p:  [5.97786296e-23 1.00000000e+00 4.65809236e-22]
+opt_y:  1.6823217358895176e-21
+optimal anchors:  [ 28 440 451]
+optimal p:  [1.00000000e+00 4.65809236e-22 5.97786296e-23]
+optimal x:  [0.23416817 0.48205575 0.49256224]
+optimal y:  1.6823217358895176e-21
+Jaccard:  0.2
+Optimization Runtime:  0.06891751289367676

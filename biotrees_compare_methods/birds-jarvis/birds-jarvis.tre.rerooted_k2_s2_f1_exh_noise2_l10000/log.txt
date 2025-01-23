@@ -1,0 +1,16 @@
+['MANVI', 'TAEGU']
+anchors:  [15 16]
+true_p:  [0.94387303 0.05612697]
+true_x:  [0.82992417 0.60324745]
+true_y:  0.06776659026093629
+Simulation Runtime:  0.01755666732788086
+opt_anchors:  [14 16]
+opt_x:  [4.40558213e-05 8.97207838e-01]
+opt_p:  [0.78330786 0.21669214]
+opt_y:  0.0677584233912041
+optimal anchors:  [15 16]
+optimal p:  [0.8290711  0.17092886]
+optimal x:  [0.94483167 0.8696869 ]
+optimal y:  0.06775847667123747
+Jaccard:  1.0
+Optimization Runtime:  56.334060192108154

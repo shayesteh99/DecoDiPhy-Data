@@ -1,0 +1,18 @@
+['Ponana_quadralaba', 'Osmylus_fulvicephalus', 'Valenzuela_badiostigma', 'Notostira_elongata', 'Thrips_palmi']
+anchors:  [ 70 125 179 262 298]
+true_p:  [0.09188982 0.17884594 0.12380084 0.43695271 0.1685107 ]
+true_x:  [0.47164022 0.86707278 0.3530597  0.1965451  0.75090718]
+true_y:  0.08388132133322675
+Simulation Runtime:  0.2558457851409912
+opt_anchors:  [273 144 209 274 183]
+opt_x:  [1.         1.         0.44524341 1.         1.        ]
+opt_p:  [ 2.10493698e-01  3.88715620e-01 -1.65299121e-21  2.09518388e-01
+  1.91272295e-01]
+opt_y:  0.20188054255683627
+optimal anchors:  [144 183 209 273 274]
+optimal p:  [ 3.88715620e-01  1.91272295e-01 -1.65299121e-21  2.10493698e-01
+  2.09518388e-01]
+optimal x:  [1.         1.         0.44524341 1.         1.        ]
+optimal y:  0.20188054255683627
+Jaccard:  0.0
+Optimization Runtime:  0.19965314865112305

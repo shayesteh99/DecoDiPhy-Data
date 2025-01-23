@@ -1,0 +1,16 @@
+['Okarongae__MbambaBay__OR1A3', 'Otanganicae__Katanga__42', 'Oplacidus__Mozambique__AC13-A128']
+anchors:  [ 43  71 102]
+true_p:  [0.60242308 0.05894187 0.33863505]
+true_x:  [0.04167449 0.40253536 0.40000948]
+true_y:  0.0016727047030049035
+Simulation Runtime:  0.04999518394470215
+opt_anchors:  [ 43  71 102]
+opt_x:  [0.04157695 0.40300841 0.40028163]
+opt_p:  [0.60237477 0.0589535  0.33867173]
+opt_y:  0.0016723208931136166
+optimal anchors:  [ 43  71 102]
+optimal p:  [0.60237477 0.0589535  0.33867173]
+optimal x:  [0.04157695 0.40300841 0.40028163]
+optimal y:  0.0016723208931136166
+Jaccard:  1.0
+Optimization Runtime:  12807.306399822235

@@ -1,0 +1,16 @@
+['Monacanthidae_Paramonacanthus_oblongus_EPLATE_53_E01', 'Balistidae_Balistes_vetula_UPRFL0353', 'Lophiidae_Lophiomus_cf_setigerus_EPLATE_47_G05']
+anchors:  [140 187 232]
+true_p:  [0.32790218 0.28962091 0.38247691]
+true_x:  [0.86714891 0.20222244 0.88353048]
+true_y:  0.009240100785826856
+Simulation Runtime:  0.10677003860473633
+opt_anchors:  [188 172 189]
+opt_x:  [0.50105019 1.         0.49037237]
+opt_p:  [1.45107246e-22 1.00000000e+00 1.55458496e-22]
+opt_y:  0.06068027096839809
+optimal anchors:  [172 188 189]
+optimal p:  [1.00000000e+00 1.45107246e-22 1.55458496e-22]
+optimal x:  [1.         0.50105019 0.49037237]
+optimal y:  0.06068027096839809
+Jaccard:  0.0
+Optimization Runtime:  0.04859614372253418

@@ -1,0 +1,16 @@
+['Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Osteoglossum_bicirrhosum', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Aplocheilidae_Aplocheilus_lineatus']
+anchors:  [ 56 583]
+true_p:  [0.02619955 0.97380045]
+true_x:  [0.61596537 0.24926462]
+true_y:  0.0630039971362486
+Simulation Runtime:  0.6904447078704834
+opt_anchors:  [ 55 583]
+opt_x:  [0.32934757 0.24872584]
+opt_p:  [0.02620517 0.97379483]
+opt_y:  0.062354282090653475
+optimal anchors:  [ 55 583]
+optimal p:  [0.02620517 0.97379483]
+optimal x:  [0.32934757 0.24872584]
+optimal y:  0.062354282090653475
+Jaccard:  0.3333333333333333
+Optimization Runtime:  3105.7772846221924

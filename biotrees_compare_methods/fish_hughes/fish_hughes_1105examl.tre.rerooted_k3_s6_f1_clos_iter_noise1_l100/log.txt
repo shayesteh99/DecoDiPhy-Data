@@ -1,0 +1,16 @@
+['Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Scleropages_formosus', 'Teleost_Euteleost_Ovalentaria_Blenniiformes_Tripterygiidae_Enneanectes_sp', 'Teleost_Otophysa_Siluriformes_Amblycipitidae_Liobagrus_styani']
+anchors:  [106 506 581]
+true_p:  [0.46351382 0.07751831 0.45896786]
+true_x:  [0.68119832 0.76085022 0.28379598]
+true_y:  0.08064427597431155
+Simulation Runtime:  0.6356585025787354
+opt_anchors:  [382 581 112]
+opt_x:  [1.00000000e+00 2.64982371e-21 3.12820491e-22]
+opt_p:  [8.95757659e-23 8.16104140e-01 1.83895860e-01]
+opt_y:  0.02447890876909392
+optimal anchors:  [112 382 581]
+optimal p:  [1.83895860e-01 8.95757659e-23 8.16104140e-01]
+optimal x:  [3.12820491e-22 1.00000000e+00 2.64982371e-21]
+optimal y:  0.02447890876909392
+Jaccard:  0.2
+Optimization Runtime:  0.11910510063171387

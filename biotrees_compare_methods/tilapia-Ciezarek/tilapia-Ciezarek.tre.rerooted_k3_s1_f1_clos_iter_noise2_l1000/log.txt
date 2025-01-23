@@ -1,0 +1,16 @@
+['Oamphimelas__LakeManyara__P3H2', 'Ourolepis__Mbuyunipool__T6A8', 'Oleucostictus__LakeAlbert__U3L3']
+anchors:  [ 15  33 143]
+true_p:  [0.17054669 0.55839945 0.27105385]
+true_x:  [0.44901593 0.11889249 0.34088072]
+true_y:  0.0012603591281851916
+Simulation Runtime:  0.05464315414428711
+opt_anchors:  [ 33 143  35]
+opt_x:  [1.         1.         0.51071359]
+opt_p:  [6.84937051e-01 3.15062949e-01 2.32858609e-23]
+opt_y:  0.00908165172436838
+optimal anchors:  [ 32  35 143]
+optimal p:  [7.12270087e-01 4.58826084e-21 2.87729913e-01]
+optimal x:  [0.72639221 0.47891913 0.69600581]
+optimal y:  0.012248066884942496
+Jaccard:  0.2
+Optimization Runtime:  0.10198521614074707

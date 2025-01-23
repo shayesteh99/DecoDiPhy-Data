@@ -1,0 +1,16 @@
+['Emerita_talpoida', 'Oniscus_asellus']
+anchors:  [149 197]
+true_p:  [0.57766074 0.42233926]
+true_x:  [0.66359824 0.67875229]
+true_y:  0.09477036047764527
+Simulation Runtime:  0.05433511734008789
+opt_anchors:  [149 150]
+opt_x:  [1. 1.]
+opt_p:  [0.4989 0.5011]
+opt_y:  0.05090630600150733
+optimal anchors:  [149 150]
+optimal p:  [0.4989 0.5011]
+optimal x:  [1. 1.]
+optimal y:  0.05090630600150733
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.032431840896606445

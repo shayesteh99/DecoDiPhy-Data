@@ -1,0 +1,16 @@
+['Rhabdornis_inornatus', 'Anas_zonorhyncha', 'Aphelocoma_coerulescens']
+anchors:  [ 33 438 582]
+true_p:  [0.01455541 0.44444061 0.54100398]
+true_x:  [0.1362778  0.43567057 0.88074866]
+true_y:  0.01843100553859433
+Simulation Runtime:  0.920851469039917
+opt_anchors:  [439 580 583]
+opt_x:  [1.         1.         0.48333839]
+opt_p:  [ 4.84863444e-01  5.15136556e-01 -6.27180149e-22]
+opt_y:  0.009081149111232435
+optimal anchors:  [439 580 583]
+optimal p:  [ 4.84863444e-01  5.15136556e-01 -6.27180149e-22]
+optimal x:  [1.         1.         0.48333839]
+optimal y:  0.009081149111232435
+Jaccard:  0.0
+Optimization Runtime:  0.10836505889892578

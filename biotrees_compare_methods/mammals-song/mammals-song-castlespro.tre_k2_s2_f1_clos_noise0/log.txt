@@ -1,0 +1,16 @@
+['GOR', 'NEW']
+anchors:  [ 9 10]
+true_p:  [0.05612697 0.94387303]
+true_x:  [0.58532713 0.22395262]
+true_y:  0.003472723300453339
+Simulation Runtime:  0.009025096893310547
+opt_anchors:  [11 12]
+opt_x:  [1. 1.]
+opt_p:  [0.5000291 0.4999709]
+opt_y:  0.002158026731204586
+optimal anchors:  [11 12]
+optimal p:  [0.5000291 0.4999709]
+optimal x:  [1. 1.]
+optimal y:  0.002158026731204586
+Jaccard:  0.0
+Optimization Runtime:  0.028020858764648438

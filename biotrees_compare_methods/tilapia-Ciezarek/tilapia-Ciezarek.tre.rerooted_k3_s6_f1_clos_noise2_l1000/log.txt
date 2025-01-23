@@ -1,0 +1,16 @@
+['Ourolepis__Kilombero__F4', 'Oesculentus__LakeRukwa__T10E03', 'Oshiranus__LakeIlamba__152']
+anchors:  [ 25 128 147]
+true_p:  [0.16225249 0.40136921 0.4363783 ]
+true_x:  [0.49085576 0.37645349 0.34965175]
+true_y:  0.002494473209122262
+Simulation Runtime:  0.048593759536743164
+opt_anchors:  [153 148 150]
+opt_x:  [1.         0.03532628 0.55368543]
+opt_p:  [ 1.00000000e+00 -2.68148094e-24  2.23010375e-23]
+opt_y:  0.009933861858247682
+optimal anchors:  [148 150 153]
+optimal p:  [-2.68148094e-24  2.23010375e-23  1.00000000e+00]
+optimal x:  [0.03532628 0.55368543 1.        ]
+optimal y:  0.009933861858247682
+Jaccard:  0.0
+Optimization Runtime:  0.042699337005615234

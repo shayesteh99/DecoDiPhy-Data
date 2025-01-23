@@ -1,0 +1,18 @@
+['Orukwaensis__LakeRukwa__24-2012', 'Ourolepis__Ifakara__T9J4', 'Ochungruruensis__LakeKiungululu__300', 'Oamphimelas__LakeSulungali__T9F4', 'Ojipe__NyumbayaMunga__P2G3']
+anchors:  [ 35  58  91  99 146]
+true_p:  [0.17294938 0.186482   0.30232238 0.09849075 0.23975549]
+true_x:  [0.07621782 0.34930689 0.09057205 0.11237085 0.69213426]
+true_y:  0.0018739834738194803
+Simulation Runtime:  0.03505563735961914
+opt_anchors:  [85 92 91 96 95]
+opt_x:  [1.         0.49453676 0.46392453 1.         1.        ]
+opt_p:  [ 5.70338049e-01 -6.19908291e-22 -6.29094065e-22  2.14584902e-01
+  2.15077049e-01]
+opt_y:  0.02512492690740417
+optimal anchors:  [85 91 92 95 96]
+optimal p:  [ 5.70338049e-01 -6.29094065e-22 -6.19908291e-22  2.15077049e-01
+  2.14584902e-01]
+optimal x:  [1.         0.46392453 0.49453676 1.         1.        ]
+optimal y:  0.02512492690740417
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.05177927017211914

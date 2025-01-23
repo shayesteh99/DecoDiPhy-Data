@@ -1,0 +1,20 @@
+['Teleost_Euteleost_Gobiaria_Gobiiformes_Gobiidae_Periophthalmodon_schlosseri', 'Teleost_Euteleost_Anabantaria_Synbranchiformes_Synbranchidae_Monopterus_albus', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Merlucciidae_Merluccius_capensis', 'Teleost_Euteleost_Ovalentaria_Atheriniformes_Atherinopsidae_Menidia_menidia', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Parachromis_managuensis']
+anchors:  [ 70  79 157 345 416]
+true_p:  [0.24146969 0.32642183 0.26031212 0.02546928 0.14632707]
+true_x:  [0.53974357 0.1395885  0.86711766 0.5647482  0.42048029]
+true_y:  0.05265814090837427
+Simulation Runtime:  0.6366703510284424
+opt_anchors:  [154 111  79 267  72]
+opt_x:  [1.00000000e+00 7.57361067e-02 3.54141926e-21 2.55319684e-01
+ 9.72413009e-01]
+opt_p:  [ 7.73503977e-01 -1.86393188e-21  2.26496023e-01 -2.26245347e-21
+  9.25795769e-22]
+opt_y:  0.13298234345158624
+optimal anchors:  [ 72  79 111 154 267]
+optimal p:  [ 9.25795769e-22  2.26496023e-01 -1.86393188e-21  7.73503977e-01
+ -2.26245347e-21]
+optimal x:  [9.72413009e-01 3.54141926e-21 7.57361067e-02 1.00000000e+00
+ 2.55319684e-01]
+optimal y:  0.13298234345158624
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.18804502487182617

@@ -1,0 +1,16 @@
+['Teleost_Euteleost_Eupercaria_Labriformes_Scaridae_Scarus_iseri', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Thunnus_albacares']
+anchors:  [261 329]
+true_p:  [0.89438213 0.10561787]
+true_x:  [0.06720073 0.09897097]
+true_y:  0.006919697075296517
+Simulation Runtime:  0.5384528636932373
+opt_anchors:  [261 329]
+opt_x:  [0.0677015  0.08848557]
+opt_p:  [0.8947612 0.1052388]
+opt_y:  0.006947609941574117
+optimal anchors:  [261 329]
+optimal p:  [0.8947612 0.1052388]
+optimal x:  [0.0677015  0.08848557]
+optimal y:  0.006947609941574117
+Jaccard:  1.0
+Optimization Runtime:  3049.550581932068

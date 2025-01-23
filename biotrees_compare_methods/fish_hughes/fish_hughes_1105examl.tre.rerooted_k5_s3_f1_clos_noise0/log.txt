@@ -1,0 +1,18 @@
+['Teleost_Euteleost_Eupercaria_Labriformes_Labridae_Thalassoma_bifasciatum', 'Ceratodontiformes_Ceratodontiformes_Protopteridae_Protopterus_aethiopicus', 'Teleost_Clupeiformes_Clupeiformes_Clupeidae_Amblygaster_clupeoides', 'Teleost_Euteleost_Carangaria_Toxotidae_Toxotes_jaculatrix', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Boreogadus_saida']
+anchors:  [  1 131 256 399 555]
+true_p:  [0.23975549 0.17294938 0.186482   0.30232238 0.09849075]
+true_x:  [0.14661932 0.49489292 0.2196981  0.77919128 0.72636954]
+true_y:  0.11262601590244739
+Simulation Runtime:  0.6834378242492676
+opt_anchors:  [379 382 251 450 381]
+opt_x:  [0.4590987  0.3754531  0.478304   1.         0.21625557]
+opt_p:  [-3.11892044e-21 -3.84269233e-21 -1.06167221e-20  1.00000000e+00
+ -2.14259115e-21]
+opt_y:  0.4172474920307902
+optimal anchors:  [251 379 381 382 385]
+optimal p:  [-1.98317585e-20 -6.22778386e-21 -7.40096891e-21 -5.40410094e-21
+  1.00000000e+00]
+optimal x:  [0.49843753 0.50247846 0.55278323 0.47304021 0.86343155]
+optimal y:  0.41618630599372103
+Jaccard:  0.0
+Optimization Runtime:  0.12839651107788086

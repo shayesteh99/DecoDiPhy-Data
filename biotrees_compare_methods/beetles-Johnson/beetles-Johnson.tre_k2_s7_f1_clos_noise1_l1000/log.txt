@@ -1,0 +1,16 @@
+['Xyloctonus_maculatus_I10240', 'Polygraphus_camerunus_I13634']
+anchors:  [ 90 243]
+true_p:  [0.7474092 0.2525908]
+true_x:  [0.7852026  0.90173536]
+true_y:  0.0663957116874157
+Simulation Runtime:  0.07100749015808105
+opt_anchors:  [90 91]
+opt_x:  [0.88492833 1.        ]
+opt_p:  [0.51472316 0.48527684]
+opt_y:  0.07403152067376684
+optimal anchors:  [89 90]
+optimal p:  [0.61302623 0.38697377]
+optimal x:  [0.79659403 0.58574371]
+optimal y:  0.0739555646178072
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.03226804733276367

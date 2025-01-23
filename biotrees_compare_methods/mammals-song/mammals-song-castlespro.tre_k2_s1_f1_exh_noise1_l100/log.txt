@@ -1,0 +1,16 @@
+['OTO', 'PON']
+anchors:  [ 7 11]
+true_p:  [0.6326096 0.3673904]
+true_x:  [0.78354327 0.40666667]
+true_y:  0.038218276959793754
+Simulation Runtime:  0.07772493362426758
+opt_anchors:  [ 7 11]
+opt_x:  [0.78586754 0.4519522 ]
+opt_p:  [0.62299646 0.37700354]
+opt_y:  0.03802862853449332
+optimal anchors:  [ 7 11]
+optimal p:  [0.62299646 0.37700354]
+optimal x:  [0.78586754 0.4519522 ]
+optimal y:  0.03802862853449332
+Jaccard:  1.0
+Optimization Runtime:  340.0106158256531

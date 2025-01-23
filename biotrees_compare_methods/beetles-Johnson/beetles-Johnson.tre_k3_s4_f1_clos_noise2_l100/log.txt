@@ -1,0 +1,16 @@
+['Hypocryphalus_cf_scabricollis_I13678', 'Margadillius_sp_Fernleaf_I13700', 'Trischidias_atomus_I13699']
+anchors:  [14 59 62]
+true_p:  [0.39111592 0.22004183 0.38884224]
+true_x:  [0.79314468 0.62027808 0.72645701]
+true_y:  0.052275527721789325
+Simulation Runtime:  0.08865165710449219
+opt_anchors:  [69 65 76]
+opt_x:  [1.         0.52993144 0.43779519]
+opt_p:  [1.00000000e+00 1.21090253e-22 1.33620966e-22]
+opt_y:  0.045023436586155624
+optimal anchors:  [65 69 76]
+optimal p:  [1.21090253e-22 1.00000000e+00 1.33620966e-22]
+optimal x:  [0.52993144 1.         0.43779519]
+optimal y:  0.045023436586155624
+Jaccard:  0.0
+Optimization Runtime:  0.04296541213989258

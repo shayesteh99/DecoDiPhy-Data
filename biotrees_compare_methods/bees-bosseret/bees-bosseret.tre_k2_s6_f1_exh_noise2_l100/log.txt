@@ -1,0 +1,16 @@
+['Curvinomia_chalybeata', 'Pachynomia_amoenula']
+anchors:  [37 48]
+true_p:  [0.27103933 0.72896067]
+true_x:  [0.3443769  0.31823939]
+true_y:  0.022234064126946635
+Simulation Runtime:  0.011600971221923828
+opt_anchors:  [37 48]
+opt_x:  [0.28147021 0.35229088]
+opt_p:  [0.27157849 0.72842151]
+opt_y:  0.022318369498938177
+optimal anchors:  [37 48]
+optimal p:  [0.27157849 0.72842151]
+optimal x:  [0.28147021 0.35229088]
+optimal y:  0.022318369498938177
+Jaccard:  1.0
+Optimization Runtime:  19.62351417541504

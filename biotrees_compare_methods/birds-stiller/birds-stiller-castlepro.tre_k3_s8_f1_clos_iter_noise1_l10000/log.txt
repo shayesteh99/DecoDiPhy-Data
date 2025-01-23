@@ -1,0 +1,16 @@
+['Anhinga_anhinga', 'Cephalopterus_ornatus', 'Onychorhynchus_coronatus']
+anchors:  [233 375 378]
+true_p:  [0.15008207 0.36660464 0.4833133 ]
+true_x:  [0.58315354 0.4629535  0.9531855 ]
+true_y:  0.03593544848628156
+Simulation Runtime:  0.8878381252288818
+opt_anchors:  [378 389 390]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.60607802 0.19829914 0.19562284]
+opt_y:  0.03779434458217396
+optimal anchors:  [378 389 390]
+optimal p:  [0.60607802 0.19829914 0.19562284]
+optimal x:  [1. 1. 1.]
+optimal y:  0.03779434458217396
+Jaccard:  0.2
+Optimization Runtime:  0.31192779541015625

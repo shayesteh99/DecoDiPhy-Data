@@ -1,0 +1,16 @@
+['Arocatus_melanocephalus', 'Corimelaena_lateralis', 'Anoplogonius_nigricollis']
+anchors:  [ 9 10 35]
+true_p:  [0.10621704 0.56330804 0.33047492]
+true_x:  [0.11622419 0.34224421 0.3603851 ]
+true_y:  0.02629298202037492
+Simulation Runtime:  0.17834806442260742
+opt_anchors:  [10 37 13]
+opt_x:  [5.98754295e-24 1.00000000e+00 5.18811409e-01]
+opt_p:  [ 7.42240859e-01  2.57759141e-01 -1.65811698e-24]
+opt_y:  0.005285869463021337
+optimal anchors:  [10 13 37]
+optimal p:  [ 7.42240859e-01 -1.65811698e-24  2.57759141e-01]
+optimal x:  [5.98754295e-24 5.18811409e-01 1.00000000e+00]
+optimal y:  0.005285869463021337
+Jaccard:  0.2
+Optimization Runtime:  0.10351920127868652

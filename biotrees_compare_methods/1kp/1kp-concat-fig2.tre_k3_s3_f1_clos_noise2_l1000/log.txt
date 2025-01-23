@@ -1,0 +1,16 @@
+['Saruma_henryi', 'Ceratodon_purpureus', 'Bryum_argenteum']
+anchors:  [ 75 144 146]
+true_p:  [0.35538777 0.45691364 0.18769858]
+true_x:  [0.76584704 0.56311958 0.25004438]
+true_y:  0.05032529244503397
+Simulation Runtime:  0.0734713077545166
+opt_anchors:  [154 152 149]
+opt_x:  [1.         0.49712122 0.50265478]
+opt_p:  [ 1.00000000e+00 -6.20364229e-22 -1.43281969e-21]
+opt_y:  0.012284219187638456
+optimal anchors:  [149 152 154]
+optimal p:  [-1.43281969e-21 -6.20364229e-22  1.00000000e+00]
+optimal x:  [0.50265478 0.49712122 1.        ]
+optimal y:  0.012284219187638456
+Jaccard:  0.0
+Optimization Runtime:  0.05260348320007324

@@ -1,0 +1,16 @@
+['Xyloctonus_maculatus_I10240', 'Polygraphus_camerunus_I13634', 'Trypophloeus_populi_H04531']
+anchors:  [ 46  88 241]
+true_p:  [0.33863505 0.05894187 0.60242308]
+true_x:  [0.2092951  0.7852026  0.90173536]
+true_y:  0.05320052828585512
+Simulation Runtime:  0.08685994148254395
+opt_anchors:  [222 241  47]
+opt_x:  [0.4634931  0.41490476 1.        ]
+opt_p:  [4.04958556e-22 1.10219768e-01 8.89780232e-01]
+opt_y:  0.04795510882598692
+optimal anchors:  [ 46 222 241]
+optimal p:  [3.67382639e-01 3.77183645e-21 6.32617361e-01]
+optimal x:  [0.46653121 0.40064725 0.9173648 ]
+optimal y:  0.056031412520776404
+Jaccard:  0.5
+Optimization Runtime:  0.07052016258239746

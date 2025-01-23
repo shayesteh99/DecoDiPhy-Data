@@ -1,0 +1,26 @@
+['Teleost_Euteleost_Eupercaria_Perciformes_Scorpaenidae_Pontinus_castor', 'Teleost_Euteleost_Beryciformes_Rondeletiidae_Rondeletia_loricata', 'Teleost_Otophysa_Cypriniformes_Danionidae_Danio_rerio', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Rivulidae_Kryptolebias_marmoratus', 'Teleost_Euteleost_Salmoniformes_Salmonidae_Coregonus_clupeaformis', 'Teleost_Euteleost_Eupercaria_Perciformes_Sebastidae_Sebastes_rubrivinctus', 'Teleost_Euteleost_Ovalentaria_Atheriniformes_Melanotaeniidae_Glossolepis_incisus', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Tetraodontidae_Tetraodon_nigroviridis', 'Teleost_Euteleost_Carangaria_Pleuronectiformes_Scophthalmidae_Scophthalmus_maximus', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Arctogadus_glacialis']
+anchors:  [ 57  74 132 185 272 273 371 390 465 520]
+true_p:  [0.18057802 0.15056007 0.05834423 0.10190919 0.04363881 0.12025494
+ 0.17116618 0.03690173 0.09601054 0.04063629]
+true_x:  [0.73144377 0.15555705 0.80398411 0.43296502 0.92905951 0.22239316
+ 0.80917104 0.82103403 0.91193544 0.22337522]
+true_y:  0.03896744276158845
+Simulation Runtime:  0.892345666885376
+opt_anchors:  [152 265 150  74 373 275 273 364 372 111]
+opt_x:  [4.37547844e-01 1.00000000e+00 4.14382426e-01 3.17750080e-21
+ 1.00000000e+00 4.55970800e-01 4.86126601e-01 4.80186511e-01
+ 1.00000000e+00 3.27371050e-01]
+opt_p:  [ 1.10489852e-21  3.50195294e-23  9.11483105e-22  3.59322697e-02
+  9.64067730e-01 -1.53692728e-21  9.38680998e-22 -8.15086668e-23
+  1.97714748e-22  8.72180003e-22]
+opt_y:  0.12481072478588592
+optimal anchors:  [ 74 111 150 152 265 273 275 364 372 373]
+optimal p:  [ 3.59322697e-02  8.72180003e-22  9.11483105e-22  1.10489852e-21
+  3.50195294e-23  9.38680998e-22 -1.53692728e-21 -8.15086668e-23
+  1.97714748e-22  9.64067730e-01]
+optimal x:  [3.17750080e-21 3.27371050e-01 4.14382426e-01 4.37547844e-01
+ 1.00000000e+00 4.86126601e-01 4.55970800e-01 4.80186511e-01
+ 1.00000000e+00 1.00000000e+00]
+optimal y:  0.12481072478588592
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.2642495632171631

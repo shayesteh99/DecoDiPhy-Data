@@ -1,0 +1,16 @@
+['Arocatus_melanocephalus', 'Corimelaena_lateralis']
+anchors:  [ 9 37]
+true_p:  [0.05612697 0.94387303]
+true_x:  [0.11622419 0.3603851 ]
+true_y:  0.029618355119310588
+Simulation Runtime:  0.3319418430328369
+opt_anchors:  [39 40]
+opt_x:  [1. 1.]
+opt_p:  [0.49989133 0.50010867]
+opt_y:  0.001042873960616394
+optimal anchors:  [39 40]
+optimal p:  [0.49989133 0.50010867]
+optimal x:  [1. 1.]
+optimal y:  0.001042873960616394
+Jaccard:  0.0
+Optimization Runtime:  0.043129920959472656

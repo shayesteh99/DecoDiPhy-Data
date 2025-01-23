@@ -1,0 +1,16 @@
+['Pachynomia_tshibindica', 'Pseudapis_siamensis', 'Afronomia_circumnitens']
+anchors:  [21 35 42]
+true_p:  [0.3808476  0.23658536 0.38256704]
+true_x:  [0.49647599 0.39790649 0.97365354]
+true_y:  0.01678619703032777
+Simulation Runtime:  0.007878541946411133
+opt_anchors:  [21 26 13]
+opt_x:  [0.56602575 0.54222367 1.        ]
+opt_p:  [1.66732007e-23 5.46712902e-24 1.00000000e+00]
+opt_y:  0.024697244905005415
+optimal anchors:  [13 21 26]
+optimal p:  [1.00000000e+00 1.66732007e-23 5.46712902e-24]
+optimal x:  [1.         0.56602575 0.54222367]
+optimal y:  0.024697244905005415
+Jaccard:  0.2
+Optimization Runtime:  0.04972696304321289

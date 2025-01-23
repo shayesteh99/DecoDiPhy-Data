@@ -1,0 +1,16 @@
+['CARCR', 'CHLUN']
+anchors:  [ 8 73]
+true_p:  [0.36666223 0.63333777]
+true_x:  [0.46195938 0.98000018]
+true_y:  0.06649423710559967
+Simulation Runtime:  0.026658058166503906
+opt_anchors:  [ 8 73]
+opt_x:  [0.30740541 0.9786806 ]
+opt_p:  [0.36759133 0.63240867]
+opt_y:  0.06750273980158067
+optimal anchors:  [ 8 73]
+optimal p:  [0.36759133 0.63240867]
+optimal x:  [0.30740541 0.9786806 ]
+optimal y:  0.06750273980158067
+Jaccard:  1.0
+Optimization Runtime:  56.66581344604492

@@ -1,0 +1,16 @@
+['Patagioenas_fasciata', 'Atlantisia_rogersi', 'Opisthocomus_hoazin']
+anchors:  [58 87 90]
+true_p:  [0.43100234 0.54336831 0.02562935]
+true_x:  [0.69877867 0.53747204 0.27125811]
+true_y:  0.059419138489646244
+Simulation Runtime:  9.370179414749146
+opt_anchors:  [ 58 194 250]
+opt_x:  [0.80751126 1.         1.        ]
+opt_p:  [0.54790616 0.1465232  0.30557064]
+opt_y:  0.04481182462877094
+optimal anchors:  [ 58 194 250]
+optimal p:  [0.54790616 0.1465232  0.30557064]
+optimal x:  [0.80751126 1.         1.        ]
+optimal y:  0.04481182462877094
+Jaccard:  0.2
+Optimization Runtime:  1.462437391281128

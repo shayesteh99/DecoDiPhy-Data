@@ -1,0 +1,16 @@
+['Empoasca_fabae', 'Thrips_palmi', 'Eurylophella_sp']
+anchors:  [122 181 195]
+true_p:  [0.32216023 0.35724156 0.32059822]
+true_x:  [0.9099021  0.3530597  0.58751375]
+true_y:  0.0876804566479211
+Simulation Runtime:  0.19190073013305664
+opt_anchors:  [182 185 183]
+opt_x:  [0.51464032 1.         0.58470587]
+opt_p:  [-3.29513366e-22  1.00000000e+00  5.25759015e-22]
+opt_y:  0.10728569581837406
+optimal anchors:  [182 183 185]
+optimal p:  [-3.29513366e-22  5.25759015e-22  1.00000000e+00]
+optimal x:  [0.51464032 0.58470587 1.        ]
+optimal y:  0.10728569581837406
+Jaccard:  0.0
+Optimization Runtime:  0.045673370361328125

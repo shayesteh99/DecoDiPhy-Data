@@ -1,0 +1,48 @@
+['Teleost_Euteleost_Eupercaria_Centrarchiformes_Terapontidae_Terapon_jarbua', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Boreogadus_saida']
+anchors:  [246 402]
+true_p:  [0.47418219 0.52581781]
+true_x:  [0.56016038 0.77919128]
+true_y:  0.030912387933011876
+Simulation Runtime:  0.5166561603546143
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2
+[142 384]
+========================================================================================================================================================================================================
+1
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+2.8942351096296322e-08
+========================================================================================================================================================================================================
+2
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+2.8942351096296322e-08
+opt_x:  [0.56010932 0.77859125]
+opt_p:  [0.47418291 0.52581709]
+opt_y:  0.030913979506778738
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+3
+[246 402 437]
+========================================================================================================================================================================================================
+1
+Solver reached max iterations. Using the last available solution.
+2.6555267262241173e-08
+========================================================================================================================================================================================================
+2
+Solver reached max iterations. Using the last available solution.
+2.6555267262241173e-08
+opt_x:  [0.56017968 0.77877241 0.79442644]
+opt_p:  [4.74186676e-01 5.25586979e-01 2.35794620e-04]
+opt_y:  0.03091013223254454
+stopped by p0
+[2.8942351096296322e-08]
+optimal anchors:  [246 402]
+optimal p:  [0.47418291 0.52581709]
+optimal x:  [0.56010932 0.77859125]
+optimal y:  0.030913979506778738
+Jaccard:  1.0
+Optimization Runtime:  114.55427384376526

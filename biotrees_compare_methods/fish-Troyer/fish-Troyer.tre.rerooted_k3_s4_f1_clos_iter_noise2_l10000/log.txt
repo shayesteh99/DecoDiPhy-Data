@@ -1,0 +1,16 @@
+['Tetraodontidae_Sphoeroides_spengleri_UPRFL0410', 'Triacanthodidae_Paratriacanthodes_retrospinis_EPLATE_53_B04', 'Diodontidae_Diodon_nicthemerus_EPLATE_52_A12']
+anchors:  [ 52 120 152]
+true_p:  [0.39111592 0.38884224 0.22004183]
+true_x:  [0.91360484 0.37334564 0.52862191]
+true_y:  0.003924275723139799
+Simulation Runtime:  0.12318277359008789
+opt_anchors:  [ 52 115 156]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.0812417  0.55712915 0.36162914]
+opt_y:  -9.142007852303722e-18
+optimal anchors:  [ 52 115 156]
+optimal p:  [0.0812417  0.55712915 0.36162914]
+optimal x:  [1. 1. 1.]
+optimal y:  -9.142007852303722e-18
+Jaccard:  0.2
+Optimization Runtime:  0.09599566459655762

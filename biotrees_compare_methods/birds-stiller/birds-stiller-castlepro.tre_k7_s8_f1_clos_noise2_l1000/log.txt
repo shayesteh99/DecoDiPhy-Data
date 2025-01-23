@@ -1,0 +1,22 @@
+['Anhinga_anhinga', 'Cephalopterus_ornatus', 'Onychorhynchus_coronatus', 'Rostratula_benghalensis', 'Thalassarche_chlororhynchos', 'Crypturellus_soui', 'Pterocles_burchelli']
+anchors:  [ 47 129 192 227 369 372 707]
+true_p:  [0.10990835 0.13553937 0.05942076 0.22300612 0.24729016 0.22192487
+ 0.00291037]
+true_x:  [0.0392401  0.81821327 0.25864433 0.58315354 0.4629535  0.9531855
+ 0.17799957]
+true_y:  0.031411838423855816
+Simulation Runtime:  1.30210280418396
+opt_anchors:  [384 383 205 204 235 236 233]
+opt_x:  [1.         1.         1.         1.         0.49566659 0.49255214
+ 1.        ]
+opt_p:  [2.32109406e-01 2.34253893e-01 2.04618936e-01 2.04298858e-01
+ 1.35617136e-22 1.12488633e-22 1.24718907e-01]
+opt_y:  0.038879034470074736
+optimal anchors:  [204 205 233 235 236 383 384]
+optimal p:  [2.04298858e-01 2.04618936e-01 1.24718907e-01 1.35617136e-22
+ 1.12488633e-22 2.34253893e-01 2.32109406e-01]
+optimal x:  [1.         1.         1.         0.49566659 0.49255214 1.
+ 1.        ]
+optimal y:  0.038879034470074736
+Jaccard:  0.0
+Optimization Runtime:  0.04764604568481445

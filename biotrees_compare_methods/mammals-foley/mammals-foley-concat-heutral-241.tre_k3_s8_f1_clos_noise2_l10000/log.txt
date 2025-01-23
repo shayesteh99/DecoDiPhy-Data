@@ -1,0 +1,16 @@
+['Eulemur_flavifrons', 'Spermophilus_dauricus', 'Hystrix_cristata']
+anchors:  [117 187 191]
+true_p:  [0.32216023 0.35724156 0.32059822]
+true_x:  [0.26810062 0.63994016 0.16401993]
+true_y:  0.034380127145319093
+Simulation Runtime:  0.45029568672180176
+opt_anchors:  [188 187 117]
+opt_x:  [1.         1.         0.92658291]
+opt_p:  [0.32440699 0.32713532 0.34845769]
+opt_y:  0.023347695931384676
+optimal anchors:  [117 187 188]
+optimal p:  [0.34845769 0.32713532 0.32440699]
+optimal x:  [0.92658291 1.         1.        ]
+optimal y:  0.023347695931384676
+Jaccard:  0.5
+Optimization Runtime:  0.05919337272644043

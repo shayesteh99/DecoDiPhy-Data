@@ -1,0 +1,18 @@
+['Pseudapis_interstitinervis', 'Pseudapis_cinerea', 'Lipotriches_collaris', 'Steganomus_ennediensis', 'Hoplonomia_elliotii']
+anchors:  [ 5  7 14 36 44]
+true_p:  [0.11598683 0.23207195 0.23696431 0.20833862 0.20663828]
+true_x:  [0.25401542 0.35169713 0.65307992 0.19530673 0.91898755]
+true_y:  0.014385027570938153
+Simulation Runtime:  0.008924722671508789
+opt_anchors:  [16 19 22 18  9]
+opt_x:  [0.5139021  0.51956144 1.         0.50649743 0.53344286]
+opt_p:  [1.49304904e-23 1.37374408e-23 1.00000000e+00 8.67484371e-24
+ 1.28142126e-23]
+opt_y:  0.02655586950533926
+optimal anchors:  [ 9 16 18 19 22]
+optimal p:  [1.28142126e-23 1.49304904e-23 8.67484371e-24 1.37374408e-23
+ 1.00000000e+00]
+optimal x:  [0.53344286 0.5139021  0.50649743 0.51956144 1.        ]
+optimal y:  0.02655586950533926
+Jaccard:  0.0
+Optimization Runtime:  0.04952740669250488

@@ -1,0 +1,16 @@
+['Tenthredo_koehleri', 'Nessorhinus_gibberulus']
+anchors:  [136 301]
+true_p:  [0.79684452 0.20315548]
+true_x:  [0.44257398 0.1578403 ]
+true_y:  0.032249459554408284
+Simulation Runtime:  0.21162962913513184
+opt_anchors:  [136 301]
+opt_x:  [0.43890291 0.16866308]
+opt_p:  [0.79325097 0.20674903]
+opt_y:  0.03112121754966795
+optimal anchors:  [136 301]
+optimal p:  [0.79325097 0.20674903]
+optimal x:  [0.43890291 0.16866308]
+optimal y:  0.03112121754966795
+Jaccard:  1.0
+Optimization Runtime:  1232.7296414375305

@@ -1,0 +1,16 @@
+['Acunomia_melanderi', 'Steganomus_ennediensis', 'Nomiapis_bispinosa']
+anchors:  [ 5  7 48]
+true_p:  [0.02562935 0.54336831 0.43100234]
+true_x:  [0.25401542 0.35696798 0.95145397]
+true_y:  0.013987598854072011
+Simulation Runtime:  0.014554977416992188
+opt_anchors:  [ 7 49 30]
+opt_x:  [1.63118687e-21 6.16036827e-01 4.97139852e-01]
+opt_p:  [ 4.83808002e-01  5.16191998e-01 -8.09117736e-21]
+opt_y:  0.0054542932824381855
+optimal anchors:  [ 7 30 49]
+optimal p:  [ 4.83808002e-01 -8.09117736e-21  5.16191998e-01]
+optimal x:  [1.63118687e-21 4.97139852e-01 6.16036827e-01]
+optimal y:  0.0054542932824381855
+Jaccard:  0.2
+Optimization Runtime:  0.07169985771179199

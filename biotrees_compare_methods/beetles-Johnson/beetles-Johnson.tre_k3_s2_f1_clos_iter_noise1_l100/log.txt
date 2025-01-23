@@ -1,0 +1,16 @@
+['Carphoborus_bifurcus_I13691', 'Dendroctonus_ponderosae_Denpon', 'Hypothenemus_birmanus_I13629']
+anchors:  [ 23 219 241]
+true_p:  [0.23524565 0.31245596 0.4522984 ]
+true_x:  [0.78930055 0.15038413 0.90683964]
+true_y:  0.03980284715423877
+Simulation Runtime:  0.08292078971862793
+opt_anchors:  [222  23 241]
+opt_x:  [1.00000000e+00 4.75718908e-23 1.01208481e-20]
+opt_p:  [0.87728492 0.05048351 0.07223158]
+opt_y:  0.07589650710257988
+optimal anchors:  [ 23 219 241]
+optimal p:  [0.23800483 0.33570342 0.42629175]
+optimal x:  [0.81517418 0.22459658 0.89087726]
+optimal y:  0.039503042917575094
+Jaccard:  1.0
+Optimization Runtime:  0.09258580207824707

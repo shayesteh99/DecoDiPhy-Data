@@ -1,0 +1,16 @@
+['Rhinoptilus_africanus', 'Toxostoma_redivivum', 'Corythaeola_cristata']
+anchors:  [ 64 137 580]
+true_p:  [0.17054669 0.55839945 0.27105385]
+true_x:  [0.71367629 0.85260235 0.52072388]
+true_y:  0.031225728994329224
+Simulation Runtime:  11.516849279403687
+opt_anchors:  [138 156 154]
+opt_x:  [1.         0.5658669  0.69668946]
+opt_p:  [ 1.00000000e+00 -2.54730073e-22 -2.13389065e-22]
+opt_y:  0.03710795783646663
+optimal anchors:  [138 154 156]
+optimal p:  [ 1.00000000e+00 -2.13389065e-22 -2.54730073e-22]
+optimal x:  [1.         0.69668946 0.5658669 ]
+optimal y:  0.03710795783646663
+Jaccard:  0.0
+Optimization Runtime:  0.7480413913726807

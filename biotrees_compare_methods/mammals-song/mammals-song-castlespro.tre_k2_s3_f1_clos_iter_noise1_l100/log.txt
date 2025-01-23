@@ -1,0 +1,16 @@
+['DIP', 'MON']
+anchors:  [ 3 33]
+true_p:  [0.27174911 0.72825089]
+true_x:  [0.33618806 0.88972463]
+true_y:  0.07969886944185495
+Simulation Runtime:  0.009194135665893555
+opt_anchors:  [16 31]
+opt_x:  [0.51461969 1.        ]
+opt_p:  [-4.04985358e-23  1.00000000e+00]
+opt_y:  0.210353602093712
+optimal anchors:  [16 30]
+optimal p:  [-2.43298768e-20  1.00000000e+00]
+optimal x:  [0.49771455 0.29438552]
+optimal y:  0.13633046002866317
+Jaccard:  0.0
+Optimization Runtime:  0.0683588981628418

@@ -1,0 +1,16 @@
+['Tetraodontidae_Sphoeroides_spengleri_UPRFL0410', 'Triacanthodidae_Paratriacanthodes_retrospinis_EPLATE_53_B04']
+anchors:  [122 154]
+true_p:  [0.63861457 0.36138543]
+true_x:  [0.37334564 0.52862191]
+true_y:  0.0017366129900553196
+Simulation Runtime:  0.11874270439147949
+opt_anchors:  [123 158]
+opt_x:  [1. 1.]
+opt_p:  [0.46348159 0.53651841]
+opt_y:  -2.9250969439039487e-17
+optimal anchors:  [122 158]
+optimal p:  [0.64044261 0.35955866]
+optimal x:  [0.39629582 0.71899405]
+optimal y:  0.001653095696901749
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.06884026527404785

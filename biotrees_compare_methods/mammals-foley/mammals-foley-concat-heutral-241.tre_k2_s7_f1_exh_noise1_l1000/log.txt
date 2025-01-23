@@ -1,0 +1,16 @@
+['Acomys_cahirinus', 'Pithecia_pithecia']
+anchors:  [ 82 162]
+true_p:  [0.51277177 0.48722823]
+true_x:  [0.81013519 0.83436152]
+true_y:  0.0575451950904218
+Simulation Runtime:  0.3078575134277344
+opt_anchors:  [ 82 162]
+opt_x:  [0.81015717 0.83590817]
+opt_p:  [0.51266382 0.48733618]
+opt_y:  0.05750358486802346
+optimal anchors:  [ 82 162]
+optimal p:  [0.51266382 0.48733618]
+optimal x:  [0.81015717 0.83590817]
+optimal y:  0.05750358486802346
+Jaccard:  1.0
+Optimization Runtime:  1788.168520450592

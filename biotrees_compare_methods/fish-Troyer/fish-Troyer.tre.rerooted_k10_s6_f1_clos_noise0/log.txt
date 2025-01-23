@@ -1,0 +1,24 @@
+['Monacanthidae_Thamnaconus_tessellatus_EPLATE_53_D03', 'Diodontidae_Chilomycterus_antennatus_USNMAC2WT95', 'Monacanthidae_Pseudomonacanthus_elongatus_EPLATE_51_H09', 'Tetraodontidae_Torquigener_hicksii_EPLATE_52_C11', 'Ostraciidae_Rhynchostracion_nasus_EPLATE_53_D05', 'Aracanidae_Anoplocapros_inermis_EPLATE_53_A05', 'Tetraodontidae_Canthigaster_janthinoptera_USNMAG5NQ15', 'Monacanthidae_Aluterus_scriptus_UPRFL0003', 'Monocanthidae_Chaetodermis_penicilligera_EPLATE_53_A01', 'Balistidae_Balistes_vetula_UPRFL0353']
+anchors:  [  8  21  42  75 120 179 221 238 276 281]
+true_p:  [0.12668697 0.02292018 0.07067872 0.11279846 0.00887724 0.13253479
+ 0.07140855 0.17484021 0.19009051 0.08916437]
+true_x:  [0.61349454 0.93818024 0.55232772 0.2623964  0.8691514  0.20222244
+ 0.04572033 0.04208008 0.48144312 0.79546006]
+true_y:  0.003625171453585896
+Simulation Runtime:  0.2845737934112549
+opt_anchors:  [276 274 273 272 277 261 266 260 269 264]
+opt_x:  [1.         0.4447079  0.44008205 0.4304278  1.         0.4161464
+ 0.40959839 0.34108336 0.36762042 0.29308585]
+opt_p:  [4.99993925e-01 1.28825112e-06 1.31318562e-06 1.32204741e-06
+ 4.99993918e-01 1.03769488e-06 1.93354524e-06 1.09577787e-06
+ 2.24330405e-06 1.95897318e-06]
+opt_y:  0.00920870786011864
+optimal anchors:  [260 261 264 266 269 272 273 274 276 277]
+optimal p:  [1.09577787e-06 1.03769488e-06 1.95897318e-06 1.93354524e-06
+ 2.24330405e-06 1.32204741e-06 1.31318562e-06 1.28825112e-06
+ 4.99993925e-01 4.99993918e-01]
+optimal x:  [0.34108336 0.4161464  0.29308585 0.40959839 0.36762042 0.4304278
+ 0.44008205 0.4447079  1.         1.        ]
+optimal y:  0.00920870786011864
+Jaccard:  0.05263157894736842
+Optimization Runtime:  0.08079814910888672

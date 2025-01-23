@@ -1,0 +1,22 @@
+['Teleost_Euteleost_Gobiaria_Gobiiformes_Gobiidae_Periophthalmodon_schlosseri', 'Teleost_Euteleost_Anabantaria_Synbranchiformes_Synbranchidae_Monopterus_albus', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Merlucciidae_Merluccius_capensis', 'Teleost_Euteleost_Ovalentaria_Atheriniformes_Atherinopsidae_Menidia_menidia', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Parachromis_managuensis', 'Teleost_Otophysa_Cypriniformes_Cobitidae_Sinibotia_superciliaris', 'Teleost_Euteleost_Ovalentaria_Pomacentridae_Amphiprion_melanopus']
+anchors:  [ 70  79 114 155 343 414 526]
+true_p:  [0.17926602 0.2423341  0.12417166 0.19325455 0.01890828 0.10863256
+ 0.13343283]
+true_x:  [0.53974357 0.1395885  0.61518224 0.86711766 0.5647482  0.42048029
+ 0.32628494]
+true_y:  0.056969476193078544
+Simulation Runtime:  0.9409365653991699
+opt_anchors:  [ 79 246 265 116 152 242 115]
+opt_x:  [4.07031476e-20 4.26983647e-01 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00 3.90884160e-01 1.00000000e+00]
+opt_p:  [ 1.97332119e-02 -4.94523008e-21 -1.34237593e-22  5.30990073e-03
+  9.69328102e-01 -2.98713033e-21  5.62878488e-03]
+opt_y:  0.1721608341131816
+optimal anchors:  [ 79 115 116 152 242 246 265]
+optimal p:  [ 1.97332119e-02  5.62878488e-03  5.30990073e-03  9.69328102e-01
+ -2.98713033e-21 -4.94523008e-21 -1.34237593e-22]
+optimal x:  [4.07031476e-20 1.00000000e+00 1.00000000e+00 1.00000000e+00
+ 3.90884160e-01 4.26983647e-01 1.00000000e+00]
+optimal y:  0.1721608341131816
+Jaccard:  0.07692307692307693
+Optimization Runtime:  0.07153820991516113

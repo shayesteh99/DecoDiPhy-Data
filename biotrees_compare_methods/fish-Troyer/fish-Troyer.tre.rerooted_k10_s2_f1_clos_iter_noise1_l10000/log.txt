@@ -1,0 +1,24 @@
+['Ostraciidae_Acanthostracion_polygonius_USNMAC2WV43', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Diodontidae_Diodon_holocanthus', 'Diodontidae_Chilomycterus_schoepfii_USNMAC2WQ63', 'Balistidae_Canthidermis_sufflamen_USNMAC7BZ85', 'Tetraodontidae_Arothron_hispidus_USNMAG9RU11', 'Triacanthodidae_Halimochirurgus_centriscoides_53A04', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Tetraodontidae_Takifugu_rubripes', 'Tetraodontidae_Sphoeroides_annulatus_BFT05089', 'Ostraciidae_Rhynchostracion_nasus_EPLATE_53_D05', 'Monocanthidae_Anacanthus_barbatus_EPLATE_52_E12']
+anchors:  [ 23  29  43  47  82 102 121 146 170 231]
+true_p:  [0.06664451 0.08163243 0.08183386 0.05506259 0.02401837 0.03493461
+ 0.17352864 0.04053859 0.24104846 0.20075795]
+true_x:  [0.93818024 0.35539175 0.16258497 0.14161101 0.12929624 0.17068422
+ 0.41825095 0.18576196 0.80681463 0.44137993]
+true_y:  0.013787856018835407
+Simulation Runtime:  0.3959543704986572
+opt_anchors:  [135 158 138 137 159 121  12 164  40 232]
+opt_x:  [1.         1.         0.27539201 0.31613881 1.         1.
+ 0.42143145 0.42007238 1.         1.        ]
+opt_p:  [ 1.62002713e-01  7.52463544e-03 -1.65163872e-20 -1.68975191e-20
+  8.02136943e-03  4.11723507e-01 -5.49800291e-20 -5.92838070e-21
+  1.12515920e-02  3.99476184e-01]
+opt_y:  -2.573077971223891e-18
+optimal anchors:  [ 12  40 121 135 137 138 158 159 164 232]
+optimal p:  [-5.49800291e-20  1.12515920e-02  4.11723507e-01  1.62002713e-01
+ -1.68975191e-20 -1.65163872e-20  7.52463544e-03  8.02136943e-03
+ -5.92838070e-21  3.99476184e-01]
+optimal x:  [0.42143145 1.         1.         1.         0.31613881 0.27539201
+ 1.         1.         0.42007238 1.        ]
+optimal y:  -2.573077971223891e-18
+Jaccard:  0.05263157894736842
+Optimization Runtime:  0.34064197540283203

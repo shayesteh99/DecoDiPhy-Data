@@ -1,0 +1,16 @@
+['Helogale_parvula', 'Eidolon_helvum', 'Felis_nigripes']
+anchors:  [293 407 418]
+true_p:  [0.16225249 0.4363783  0.40136921]
+true_x:  [0.96275412 0.84856414 0.50513578]
+true_y:  0.012463716617639656
+Simulation Runtime:  0.3842754364013672
+opt_anchors:  [418 405 407]
+opt_x:  [0.42960984 1.         0.50426039]
+opt_p:  [1.95527343e-22 1.00000000e+00 1.97964151e-21]
+opt_y:  0.01388759982948347
+optimal anchors:  [405 407 418]
+optimal p:  [1.00000000e+00 1.97964151e-21 1.95527343e-22]
+optimal x:  [1.         0.50426039 0.42960984]
+optimal y:  0.01388759982948347
+Jaccard:  0.5
+Optimization Runtime:  0.10899066925048828

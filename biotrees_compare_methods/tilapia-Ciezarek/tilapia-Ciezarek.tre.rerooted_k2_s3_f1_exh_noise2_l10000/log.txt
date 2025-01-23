@@ -1,0 +1,16 @@
+['Orukwaensis__LakeRukwa__24-2012', 'Ourolepis__Ifakara__T9J4']
+anchors:  [ 60 152]
+true_p:  [0.43750727 0.56249273]
+true_x:  [0.34930689 0.69213426]
+true_y:  0.0021563187077249836
+Simulation Runtime:  0.07825493812561035
+opt_anchors:  [ 60 152]
+opt_x:  [0.34948922 0.6920544 ]
+opt_p:  [0.43750248 0.56249752]
+opt_y:  0.002157572497833396
+optimal anchors:  [ 60 152]
+optimal p:  [0.43750248 0.56249752]
+optimal x:  [0.34948922 0.6920544 ]
+optimal y:  0.002157572497833396
+Jaccard:  1.0
+Optimization Runtime:  241.11747455596924

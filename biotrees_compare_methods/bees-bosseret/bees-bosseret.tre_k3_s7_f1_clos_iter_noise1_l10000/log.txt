@@ -1,0 +1,16 @@
+['Pseudapis_interstitinervis', 'Pseudapis_cinerea', 'Lipotriches_collaris']
+anchors:  [ 9 16 38]
+true_p:  [0.34260489 0.34982742 0.30756768]
+true_x:  [0.35169713 0.65307992 0.19530673]
+true_y:  0.008461992636382955
+Simulation Runtime:  0.00778508186340332
+opt_anchors:  [21 24 38]
+opt_x:  [1.         0.25384805 0.30644976]
+opt_p:  [ 4.65649834e-01 -1.38972289e-23  5.34350166e-01]
+opt_y:  -1.6798970344783674e-21
+optimal anchors:  [21 24 38]
+optimal p:  [ 4.65649834e-01 -1.38972289e-23  5.34350166e-01]
+optimal x:  [1.         0.25384805 0.30644976]
+optimal y:  -1.6798970344783674e-21
+Jaccard:  0.2
+Optimization Runtime:  0.08190703392028809

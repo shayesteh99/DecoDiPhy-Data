@@ -1,0 +1,16 @@
+['TYTAL', 'FULGL']
+anchors:  [26 45]
+true_p:  [0.45104119 0.54895881]
+true_x:  [0.50933869 0.94729005]
+true_y:  0.0492163002017809
+Simulation Runtime:  0.020932674407958984
+opt_anchors:  [41 47]
+opt_x:  [1.         0.50064958]
+opt_p:  [ 1.00000074e+00 -7.38423462e-07]
+opt_y:  0.05467252304726052
+optimal anchors:  [41 47]
+optimal p:  [ 1.00000074e+00 -7.38423462e-07]
+optimal x:  [1.         0.50064958]
+optimal y:  0.05467252304726052
+Jaccard:  0.0
+Optimization Runtime:  0.10515332221984863

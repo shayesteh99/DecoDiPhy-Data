@@ -1,0 +1,18 @@
+['Patagioenas_fasciata', 'Atlantisia_rogersi', 'Opisthocomus_hoazin', 'Furnarius_figulus', 'Podargus_strigoides']
+anchors:  [ 58  87  90 164 362]
+true_p:  [0.23349275 0.2943663  0.01388454 0.22512381 0.2331326 ]
+true_x:  [0.69877867 0.53747204 0.27125811 0.84369707 0.81898961]
+true_y:  0.057664347561174
+Simulation Runtime:  1.010627031326294
+opt_anchors:  [248 192  58 190 368]
+opt_x:  [1.         0.50286656 1.         0.50397042 1.        ]
+opt_p:  [8.21445586e-02 1.40354750e-22 4.68226407e-01 2.12591377e-22
+ 4.49629034e-01]
+opt_y:  0.04147486404483256
+optimal anchors:  [ 58 190 192 248 368]
+optimal p:  [4.68226407e-01 2.12591377e-22 1.40354750e-22 8.21445586e-02
+ 4.49629034e-01]
+optimal x:  [1.         0.50397042 0.50286656 1.         1.        ]
+optimal y:  0.04147486404483256
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.144911527633667

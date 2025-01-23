@@ -1,0 +1,18 @@
+['Monacanthidae_Paramonacanthus_oblongus_EPLATE_53_E01', 'Balistidae_Balistes_vetula_UPRFL0353', 'Lophiidae_Lophiomus_cf_setigerus_EPLATE_47_G05', 'Tetraodontidae_Canthigaster_axiologus_USNMAG9RT89', 'Tetraodontidae_Lagocephalus_laevigatus_UPRFL1635']
+anchors:  [ 76  99 136 183 228]
+true_p:  [0.10423164 0.11068163 0.3861275  0.39087943 0.00807979]
+true_x:  [0.0773465  0.75131189 0.86714891 0.20222244 0.88353048]
+true_y:  0.010805554197108764
+Simulation Runtime:  0.15138888359069824
+opt_anchors:  [143 145 146 150 157]
+opt_x:  [1.         0.48888717 0.51180413 0.43144297 0.49285313]
+opt_p:  [1.00000000e+00 3.57115978e-23 9.39771990e-23 6.99448438e-23
+ 3.67375933e-22]
+opt_y:  0.08617006356148652
+optimal anchors:  [143 145 146 150 157]
+optimal p:  [1.00000000e+00 3.57115978e-23 9.39771990e-23 6.99448438e-23
+ 3.67375933e-22]
+optimal x:  [1.         0.48888717 0.51180413 0.43144297 0.49285313]
+optimal y:  0.08617006356148652
+Jaccard:  0.0
+Optimization Runtime:  0.048407793045043945

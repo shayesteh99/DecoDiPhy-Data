@@ -1,0 +1,16 @@
+['Ourolepis__ZanzibarSite3__Z1B9', 'Omacrochir__Zambia__CFH11-078', 'Ohunteri__LakeChala__G2-K2G3']
+anchors:  [ 67  89 157]
+true_p:  [0.67394934 0.07251727 0.25353339]
+true_x:  [0.33357328 0.6417664  0.27807775]
+true_y:  0.0023566943059805455
+Simulation Runtime:  0.036692142486572266
+opt_anchors:  [ 67  49 155]
+opt_x:  [5.99849291e-25 5.49431286e-01 1.00000000e+00]
+opt_p:  [5.15772144e-01 4.40537072e-24 4.84227856e-01]
+opt_y:  0.0008503002115315199
+optimal anchors:  [ 49  67 155]
+optimal p:  [4.40537072e-24 5.15772144e-01 4.84227856e-01]
+optimal x:  [5.49431286e-01 5.99849291e-25 1.00000000e+00]
+optimal y:  0.0008503002115315199
+Jaccard:  0.2
+Optimization Runtime:  0.0853872299194336

@@ -1,0 +1,16 @@
+['Teleost_Euteleost_Carangaria_Centropomidae_Centropomus_undecimalis', 'Teleost_Osteoglossiformes_Osteoglossiformes_Notopteridae_Papyrocranus_afer', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Maylandia_zebra']
+anchors:  [ 85 130 581]
+true_p:  [0.17054669 0.55839945 0.27105385]
+true_x:  [0.45404412 0.91317907 0.75496881]
+true_y:  0.0769138806976569
+Simulation Runtime:  0.8608882427215576
+opt_anchors:  [130 155 380]
+opt_x:  [0.52026537 0.53056388 1.        ]
+opt_p:  [-2.88350908e-20 -3.36163845e-20  1.00000000e+00]
+opt_y:  0.15626643588462533
+optimal anchors:  [130 155 380]
+optimal p:  [-2.88350908e-20 -3.36163845e-20  1.00000000e+00]
+optimal x:  [0.52026537 0.53056388 1.        ]
+optimal y:  0.15626643588462533
+Jaccard:  0.2
+Optimization Runtime:  0.12264084815979004

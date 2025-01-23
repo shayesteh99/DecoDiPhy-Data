@@ -1,0 +1,16 @@
+['Hypocryptadius_cinnamomeus', 'Spizaetus_tyrannus']
+anchors:  [264 636]
+true_p:  [0.38499296 0.61500704]
+true_x:  [0.49891563 0.86632296]
+true_y:  0.01717907828062165
+Simulation Runtime:  0.9308359622955322
+opt_anchors:  [623 636]
+opt_x:  [1.         0.40147164]
+opt_p:  [ 1.00000000e+00 -2.52415203e-21]
+opt_y:  0.022408546442963643
+optimal anchors:  [623 636]
+optimal p:  [ 1.00000000e+00 -2.52415203e-21]
+optimal x:  [1.         0.40147164]
+optimal y:  0.022408546442963643
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.05531954765319824

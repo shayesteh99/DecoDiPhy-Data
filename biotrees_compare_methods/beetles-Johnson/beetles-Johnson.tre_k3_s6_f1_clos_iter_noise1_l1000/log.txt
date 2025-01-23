@@ -1,0 +1,16 @@
+['Phloeotribus_liminaris_H04561', 'Ptilopodius_sp2026_PNG2_I13653', 'Cnesinus_strigicollis_I13687']
+anchors:  [154 207 212]
+true_p:  [0.37984298 0.32414501 0.29601201]
+true_x:  [0.80200359 0.79333154 0.90469998]
+true_y:  0.06003263473340887
+Simulation Runtime:  0.07419085502624512
+opt_anchors:  [220 157 207]
+opt_x:  [0.50164112 1.         0.56654068]
+opt_p:  [-7.94242325e-23  5.65468670e-01  4.34531330e-01]
+opt_y:  0.06613671531912038
+optimal anchors:  [151 207 220]
+optimal p:  [0.39147618 0.60274954 0.00577428]
+optimal x:  [2.06239909e-20 9.20660869e-01 5.82106098e-01]
+optimal y:  0.06983138751730743
+Jaccard:  0.2
+Optimization Runtime:  0.10599207878112793

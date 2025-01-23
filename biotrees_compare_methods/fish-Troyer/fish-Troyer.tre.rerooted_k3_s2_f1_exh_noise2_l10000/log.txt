@@ -1,0 +1,16 @@
+['Ostraciidae_Acanthostracion_polygonius_USNMAC2WV43', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Diodontidae_Diodon_holocanthus', 'Diodontidae_Chilomycterus_schoepfii_USNMAC2WQ63']
+anchors:  [31 45 49]
+true_p:  [0.43100234 0.54336831 0.02562935]
+true_x:  [0.35539175 0.16258497 0.14161101]
+true_y:  0.001979647753854635
+Simulation Runtime:  0.12302017211914062
+opt_anchors:  [31 45 49]
+opt_x:  [0.35582453 0.16324547 0.1560882 ]
+opt_p:  [0.4309729  0.54341816 0.02560893]
+opt_y:  0.001986087815510785
+optimal anchors:  [31 45 49]
+optimal p:  [0.4309729  0.54341816 0.02560893]
+optimal x:  [0.35582453 0.16324547 0.1560882 ]
+optimal y:  0.001986087815510785
+Jaccard:  1.0
+Optimization Runtime:  62281.64106082916

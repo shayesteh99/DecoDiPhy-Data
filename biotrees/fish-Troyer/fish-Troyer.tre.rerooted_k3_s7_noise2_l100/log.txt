@@ -1,0 +1,147 @@
+['Triacanthidae_Triacanthus_nieuhofi_EPLATE_51_E11', 'Tetraodontidae_Canthigaster_solandri_KU7224', 'Balistidae_Rhinecanthus_lunula_USNMAG5NP92']
+anchors:  [ 81 163 195]
+true_p:  [0.60242308 0.05894187 0.33863505]
+true_x:  [0.33871528 0.78035701 0.09238656]
+true_y:  0.0032807704850643616
+Simulation Runtime:  0.15464091300964355
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2
+[140  29]
+========================================================================================================================================================================================================
+1
+0.0013517750602468795
+========================================================================================================================================================================================================
+2
+0.0010315034464882136
+========================================================================================================================================================================================================
+3
+0.0010315034464882136
+opt_x:  [0.14986267 0.31086546]
+opt_p:  [0.38230168 0.61769832]
+opt_y:  0.012063950188309172
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+3
+[165  80 100]
+========================================================================================================================================================================================================
+1
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+6.725954881440735e-05
+========================================================================================================================================================================================================
+2
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+6.725954881440735e-05
+opt_x:  [0.32844442 0.42464245 0.46282128]
+opt_p:  [0.34663843 0.60279819 0.05056337]
+opt_y:  0.0032612656446132336
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+4
+[195  81 163 276]
+========================================================================================================================================================================================================
+1
+1.359426730655839e-05
+========================================================================================================================================================================================================
+2
+1.359426730655839e-05
+opt_x:  [0.09331108 0.43877641 0.503391   0.38764447]
+opt_p:  [0.33815864 0.60351343 0.05298647 0.00534146]
+opt_y:  0.0023711744630354934
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+5
+[195  81 163 209 146]
+========================================================================================================================================================================================================
+1
+7.282895829809697e-06
+========================================================================================================================================================================================================
+2
+7.282895829809697e-06
+opt_x:  [0.09313223 0.32667874 0.39178463 0.39394813 0.47765165]
+opt_p:  [0.33841698 0.59495359 0.05139779 0.00542804 0.0098036 ]
+opt_y:  0.002106621918390531
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+6
+[195  81 163 209  94  52]
+========================================================================================================================================================================================================
+1
+6.278362933303108e-06
+========================================================================================================================================================================================================
+2
+6.278362933303108e-06
+opt_x:  [9.31721488e-02 3.29951537e-01 3.85756047e-01 3.94706996e-01
+ 4.22372068e-16 8.12165052e-19]
+opt_p:  [0.33844638 0.59647162 0.05134483 0.00543665 0.00547836 0.00282216]
+opt_y:  0.0018943986148152244
+stopped by p0
+[0.0010315034464882136, 6.725954881440735e-05, 1.359426730655839e-05, 7.282895829809697e-06]
+stopped by obj1/2
+optimal anchors:  [ 81 163 195 209]
+optimal p:  [0.60351343 0.05298647 0.33815864 0.00534146]
+optimal x:  [0.43877641 0.503391   0.09331108 0.38764447]
+optimal y:  0.0023711744630354934
+Jaccard:  0.75
+Optimization Runtime:  193.27021527290344

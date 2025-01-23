@@ -1,0 +1,16 @@
+['Eucyclops_serrulatus', 'Helleria_brevicornis']
+anchors:  [ 59 146]
+true_p:  [0.43750727 0.56249273]
+true_x:  [0.87840743 0.89511144]
+true_y:  0.2544009232191997
+Simulation Runtime:  0.06713175773620605
+opt_anchors:  [ 59 146]
+opt_x:  [0.88534571 0.90197344]
+opt_p:  [0.43713763 0.56286237]
+opt_y:  0.258746441094677
+optimal anchors:  [ 59 146]
+optimal p:  [0.43713763 0.56286237]
+optimal x:  [0.88534571 0.90197344]
+optimal y:  0.258746441094677
+Jaccard:  1.0
+Optimization Runtime:  303.8678352832794

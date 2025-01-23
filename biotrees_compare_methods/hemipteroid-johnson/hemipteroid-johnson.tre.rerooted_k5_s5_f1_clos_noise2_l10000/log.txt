@@ -1,0 +1,18 @@
+['Tenthredo_koehleri', 'Nessorhinus_gibberulus', 'Mesovelia_mulsanti', 'Erythrothrips_arizonae', 'Acanthocasuarina_muellerianae']
+anchors:  [136 182 299 354 365]
+true_p:  [0.32172289 0.33941334 0.08202324 0.18046081 0.07637971]
+true_x:  [0.44257398 0.17016973 0.1578403  0.63984886 0.87719814]
+true_y:  0.0510716306340551
+Simulation Runtime:  0.25359320640563965
+opt_anchors:  [183 136 141 146 142]
+opt_x:  [1.         0.56829868 0.53041548 1.         0.51169346]
+opt_p:  [ 4.37106046e-01 -3.71999902e-22 -8.43241801e-22  5.62893954e-01
+ -2.92539815e-22]
+opt_y:  0.14399039911777925
+optimal anchors:  [136 141 142 146 183]
+optimal p:  [-3.71999902e-22 -8.43241801e-22 -2.92539815e-22  5.62893954e-01
+  4.37106046e-01]
+optimal x:  [0.56829868 0.53041548 0.51169346 1.         1.        ]
+optimal y:  0.14399039911777925
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.052068233489990234

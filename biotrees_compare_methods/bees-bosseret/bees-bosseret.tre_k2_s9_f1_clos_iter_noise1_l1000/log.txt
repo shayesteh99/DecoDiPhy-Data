@@ -1,0 +1,16 @@
+['Stictonomia_sangaensis', 'Pachynomia_tshibindica']
+anchors:  [31 35]
+true_p:  [0.24163603 0.75836397]
+true_x:  [0.40811881 0.39790649]
+true_y:  0.003476113240217885
+Simulation Runtime:  0.00840902328491211
+opt_anchors:  [36 35]
+opt_x:  [1. 1.]
+opt_p:  [0.5001819 0.4998181]
+opt_y:  0.00426786697845311
+optimal anchors:  [34 35]
+optimal p:  [0.51434301 0.48565699]
+optimal x:  [0.48406418 0.05894586]
+optimal y:  0.0048128188470355346
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.05393505096435547

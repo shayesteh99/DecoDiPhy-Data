@@ -1,0 +1,18 @@
+['Strigamia_maritima', 'Xibalbanus_tulumensis', 'Speonebalia_cannoni', 'Allobathynella_bangokensis', 'Tricholepidion_gertschi']
+anchors:  [ 15  36  81  96 152]
+true_p:  [0.32642183 0.26031212 0.02546928 0.14632707 0.24146969]
+true_x:  [0.31280361 0.85267927 0.65430681 0.61054279 0.45181514]
+true_y:  0.20690041243634089
+Simulation Runtime:  0.047185420989990234
+opt_anchors:  [ 36  37  38 165 166]
+opt_x:  [0.45579717 0.47178935 1.         0.50135381 1.        ]
+opt_p:  [-3.88039030e-22 -5.71322221e-22  6.76917799e-01 -1.69783469e-22
+  3.23082201e-01]
+opt_y:  0.16574962878510516
+optimal anchors:  [ 36  37  38 165 166]
+optimal p:  [-3.88039030e-22 -5.71322221e-22  6.76917799e-01 -1.69783469e-22
+  3.23082201e-01]
+optimal x:  [0.45579717 0.47178935 1.         0.50135381 1.        ]
+optimal y:  0.16574962878510516
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.04932999610900879

@@ -1,0 +1,18 @@
+['Pachynomia_amoenula', 'Steganomus_ennediensis', 'Ruginomia_rugiventris', 'Stictonomia_aliceae', 'Pseudapis_riftensis']
+anchors:  [ 3  4 13 26 29]
+true_p:  [0.23705227 0.00776345 0.18649499 0.28013281 0.28855649]
+true_x:  [0.9414022  0.25401542 0.23945783 0.91677939 0.3443769 ]
+true_y:  0.010616127790906748
+Simulation Runtime:  0.01646876335144043
+opt_anchors:  [27 29 30  8 10]
+opt_x:  [1.         0.69275468 1.         0.49136301 1.        ]
+opt_p:  [4.61899301e-01 1.59891860e-01 1.35275852e-01 4.25731906e-20
+ 2.42932988e-01]
+opt_y:  0.012333085150855922
+optimal anchors:  [ 8 10 27 29 30]
+optimal p:  [4.25731906e-20 2.42932988e-01 4.61899301e-01 1.59891860e-01
+ 1.35275852e-01]
+optimal x:  [0.49136301 1.         1.         0.69275468 1.        ]
+optimal y:  0.012333085150855922
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.04407763481140137

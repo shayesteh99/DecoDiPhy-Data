@@ -1,0 +1,16 @@
+['Neogonodactylus_bredini', 'Lightiella_incisa', 'Metabetaeus_lohena']
+anchors:  [ 64 159 184]
+true_p:  [0.32956858 0.45743714 0.21299428]
+true_x:  [0.40830622 0.67023765 0.88283314]
+true_y:  0.09951894093756267
+Simulation Runtime:  0.058226823806762695
+opt_anchors:  [ 64 159 184]
+opt_x:  [0.40797138 0.61473698 0.8785299 ]
+opt_p:  [0.32888725 0.45552927 0.21558348]
+opt_y:  0.09962298706989568
+optimal anchors:  [ 64 159 184]
+optimal p:  [0.32888725 0.45552927 0.21558348]
+optimal x:  [0.40797138 0.61473698 0.8785299 ]
+optimal y:  0.09962298706989568
+Jaccard:  1.0
+Optimization Runtime:  18617.10799264908

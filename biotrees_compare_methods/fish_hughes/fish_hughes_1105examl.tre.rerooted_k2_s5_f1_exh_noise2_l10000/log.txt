@@ -1,0 +1,16 @@
+['Teleost_Euteleost_Eupercaria_Perciformes_Scorpaenidae_Pontinus_castor', 'Teleost_Euteleost_Beryciformes_Rondeletiidae_Rondeletia_loricata']
+anchors:  [280 381]
+true_p:  [0.20315548 0.79684452]
+true_x:  [0.92905951 0.80917104]
+true_y:  0.027935542625699094
+Simulation Runtime:  0.5975940227508545
+opt_anchors:  [280 381]
+opt_x:  [0.92894583 0.80922168]
+opt_p:  [0.20315236 0.79684764]
+opt_y:  0.027937281646042148
+optimal anchors:  [280 381]
+optimal p:  [0.20315236 0.79684764]
+optimal x:  [0.92894583 0.80922168]
+optimal y:  0.027937281646042148
+Jaccard:  1.0
+Optimization Runtime:  3399.6925768852234

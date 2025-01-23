@@ -1,0 +1,16 @@
+['Nasalis_larvatus', 'Rousettus_aegyptiacus']
+anchors:  [ 71 291]
+true_p:  [0.36666223 0.63333777]
+true_x:  [0.96019996 0.95306974]
+true_y:  0.025985412911559765
+Simulation Runtime:  0.32547950744628906
+opt_anchors:  [ 71 291]
+opt_x:  [0.95829216 0.95284464]
+opt_p:  [0.36664481 0.63335519]
+opt_y:  0.02598827298381383
+optimal anchors:  [ 71 291]
+optimal p:  [0.36664481 0.63335519]
+optimal x:  [0.95829216 0.95284464]
+optimal y:  0.02598827298381383
+Jaccard:  1.0
+Optimization Runtime:  1803.359001159668

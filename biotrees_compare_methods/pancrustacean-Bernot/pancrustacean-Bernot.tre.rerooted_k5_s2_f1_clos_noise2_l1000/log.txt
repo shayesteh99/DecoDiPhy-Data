@@ -1,0 +1,18 @@
+['Ephemera_danica', 'Apis_mellifera', 'Lepas_anatifera', 'Branchinecta_lindahli', 'Metabetaeus_lohena']
+anchors:  [ 16  19  41  87 180]
+true_p:  [0.23349275 0.01388454 0.2331326  0.2943663  0.22512381]
+true_x:  [0.58705907 0.59869737 0.39677679 0.19647556 0.88283314]
+true_y:  0.2855014655848275
+Simulation Runtime:  0.07584738731384277
+opt_anchors:  [ 27  36  38 174 175]
+opt_x:  [1.         1.         1.         0.49917236 1.        ]
+opt_p:  [4.80474990e-01 1.23219212e-23 2.30132020e-01 9.08541180e-22
+ 2.89392991e-01]
+opt_y:  0.4002482472638077
+optimal anchors:  [ 27  36  38 174 175]
+optimal p:  [4.80474990e-01 1.23219212e-23 2.30132020e-01 9.08541180e-22
+ 2.89392991e-01]
+optimal x:  [1.         1.         1.         0.49917236 1.        ]
+optimal y:  0.4002482472638077
+Jaccard:  0.0
+Optimization Runtime:  0.04419851303100586

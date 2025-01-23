@@ -1,0 +1,16 @@
+['Smilax_bona-nox', 'Catharanthus_roseus']
+anchors:  [18 42]
+true_p:  [0.27259791 0.72740209]
+true_x:  [0.80287979 0.51785434]
+true_y:  0.045740150608382046
+Simulation Runtime:  0.04694414138793945
+opt_anchors:  [18 42]
+opt_x:  [0.80366289 0.51818483]
+opt_p:  [0.27267889 0.72732111]
+opt_y:  0.04579778881710073
+optimal anchors:  [18 42]
+optimal p:  [0.27267889 0.72732111]
+optimal x:  [0.80366289 0.51818483]
+optimal y:  0.04579778881710073
+Jaccard:  1.0
+Optimization Runtime:  293.823233127594

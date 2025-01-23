@@ -1,0 +1,16 @@
+['Eucyclops_serrulatus', 'Heterocypris_incongruens']
+anchors:  [59 78]
+true_p:  [0.63861457 0.36138543]
+true_x:  [0.87840743 0.77849457]
+true_y:  0.44196968277562837
+Simulation Runtime:  0.04640460014343262
+opt_anchors:  [59 78]
+opt_x:  [0.87840743 0.77849457]
+opt_p:  [0.63861457 0.36138543]
+opt_y:  0.44196968277562815
+optimal anchors:  [59 78]
+optimal p:  [0.63861457 0.36138543]
+optimal x:  [0.87840743 0.77849457]
+optimal y:  0.44196968277562815
+Jaccard:  1.0
+Optimization Runtime:  301.88108587265015

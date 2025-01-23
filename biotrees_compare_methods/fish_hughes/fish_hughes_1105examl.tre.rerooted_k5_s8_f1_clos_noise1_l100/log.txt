@@ -1,0 +1,18 @@
+['Teleost_Euteleost_Eupercaria_Centrarchiformes_Terapontidae_Terapon_jarbua', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Boreogadus_saida', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Merlangius_merlangus', 'Teleost_Euteleost_Carangaria_Carangiformes_Coryphaenidae_Coryphaena_hippurus', 'Teleost_Euteleost_Eupercaria_Acanthuriformes_Acanthuridae_Acanthurus_tractus']
+anchors:  [148 182 242 397 399]
+true_p:  [0.2661657  0.18400739 0.08476019 0.20948773 0.255579  ]
+true_x:  [0.90771792 0.51810516 0.56016038 0.75719577 0.77919128]
+true_y:  0.04385223979004026
+Simulation Runtime:  0.748723030090332
+opt_anchors:  [242 267 401 403 148]
+opt_x:  [1.         1.         1.         1.         0.74721725]
+opt_p:  [3.03189873e-01 7.09381145e-22 2.79236043e-01 1.85914014e-01
+ 2.31660070e-01]
+opt_y:  0.04632863324259046
+optimal anchors:  [148 242 267 401 403]
+optimal p:  [2.31660070e-01 3.03189873e-01 7.09381145e-22 2.79236043e-01
+ 1.85914014e-01]
+optimal x:  [0.74721725 1.         1.         1.         1.        ]
+optimal y:  0.04632863324259046
+Jaccard:  0.25
+Optimization Runtime:  0.06049704551696777

@@ -1,0 +1,16 @@
+['Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Rhamphochromis_esox', 'Teleost_Euteleost_Ovalentaria_Pomacentridae_Dascyllus_trimaculatus']
+anchors:  [ 88 117]
+true_p:  [0.31604978 0.68395022]
+true_x:  [0.92898496 0.63743287]
+true_y:  0.023361213440798605
+Simulation Runtime:  0.733238935470581
+opt_anchors:  [119  92]
+opt_x:  [0.99998412 0.91825612]
+opt_p:  [0.73459704 0.26540329]
+opt_y:  0.025553805187965635
+optimal anchors:  [ 92 115]
+optimal p:  [0.31632712 0.68367298]
+optimal x:  [9.54609310e-01 3.22851285e-05]
+optimal y:  0.03498095558168652
+Jaccard:  0.0
+Optimization Runtime:  0.0910646915435791

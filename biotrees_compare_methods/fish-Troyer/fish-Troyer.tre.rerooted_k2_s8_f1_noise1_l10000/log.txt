@@ -1,0 +1,34 @@
+['Tetraodontidae_Sphoeroides_marmoratus_USNMAD9NE03', 'Balistidae_Pseudobalistes_fuscus_USNMAG9RP93']
+anchors:  [120 187]
+true_p:  [0.49487737 0.50512263]
+true_x:  [0.13208771 0.12153144]
+true_y:  0.0020049475409290533
+Simulation Runtime:  0.10449767112731934
+[249 164]
+========================================================================================================================================================================================================
+1
+0.04197839968876872
+========================================================================================================================================================================================================
+2
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+2.4102915242121175e-09
+========================================================================================================================================================================================================
+3
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+2.4102915242121175e-09
+opt_anchors:  [187 120]
+opt_x:  [0.12159274 0.13190851]
+opt_p:  [0.50512804 0.49487196]
+opt_y:  0.0020130824174266143
+optimal anchors:  [120 187]
+optimal p:  [0.49487196 0.50512804]
+optimal x:  [0.13190851 0.12159274]
+optimal y:  0.0020130824174266143
+Jaccard:  1.0
+Optimization Runtime:  26.93149471282959

@@ -1,0 +1,16 @@
+['Helogale_parvula', 'Eidolon_helvum']
+anchors:  [293 407]
+true_p:  [0.27103933 0.72896067]
+true_x:  [0.96275412 0.84856414]
+true_y:  0.01838184225316676
+Simulation Runtime:  0.3122875690460205
+opt_anchors:  [408 297]
+opt_x:  [1. 1.]
+opt_p:  [0.94443713 0.05556287]
+opt_y:  0.012668043443350548
+optimal anchors:  [297 408]
+optimal p:  [0.05556287 0.94443713]
+optimal x:  [1. 1.]
+optimal y:  0.012668043443350548
+Jaccard:  0.0
+Optimization Runtime:  0.0874471664428711

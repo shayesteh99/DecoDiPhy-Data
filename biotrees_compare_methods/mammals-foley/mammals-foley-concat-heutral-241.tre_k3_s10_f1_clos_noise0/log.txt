@@ -1,0 +1,16 @@
+['Eidolon_helvum', 'Loxodonta_africana', 'Dolichotis_patagonum']
+anchors:  [ 17 213 289]
+true_p:  [0.01455541 0.44444061 0.54100398]
+true_x:  [0.96796064 0.91680436 0.96275412]
+true_y:  0.03581492694449749
+Simulation Runtime:  0.5832815170288086
+opt_anchors:  [292 293 289]
+opt_x:  [0.46172329 0.42675344 1.        ]
+opt_p:  [1.45465127e-21 4.05763377e-22 1.00000000e+00]
+opt_y:  0.07895995826634178
+optimal anchors:  [288 292 293]
+optimal p:  [1.00000000e+00 1.07825832e-21 2.36175100e-21]
+optimal x:  [0.93488899 0.4921022  0.50775148]
+optimal y:  0.1373580740660107
+Jaccard:  0.0
+Optimization Runtime:  0.07181549072265625

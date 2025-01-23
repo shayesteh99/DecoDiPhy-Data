@@ -1,0 +1,16 @@
+['TYTAL', 'FULGL', 'GEOFO']
+anchors:  [19 24 43]
+true_p:  [0.18759255 0.36642922 0.44597823]
+true_x:  [0.63172505 0.50933869 0.94729005]
+true_y:  0.04696200152858042
+Simulation Runtime:  0.16193103790283203
+opt_anchors:  [39 44 45]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.9176653  0.04106699 0.04126771]
+opt_y:  0.06501260388856483
+optimal anchors:  [39 44 45]
+optimal p:  [0.9176653  0.04106699 0.04126771]
+optimal x:  [1. 1. 1.]
+optimal y:  0.06501260388856483
+Jaccard:  0.0
+Optimization Runtime:  0.6670589447021484

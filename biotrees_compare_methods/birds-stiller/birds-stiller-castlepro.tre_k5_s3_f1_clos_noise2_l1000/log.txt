@@ -1,0 +1,18 @@
+['Phalacrocorax_auritus', 'Promerops_cafer', 'Zosterops_lateralis', 'Turnix_velox', 'Cephalopterus_ornatus']
+anchors:  [120 239 373 551 554]
+true_p:  [0.17294938 0.186482   0.30232238 0.09849075 0.23975549]
+true_x:  [0.669055   0.57003961 0.4629535  0.29376911 0.44989542]
+true_y:  0.04854208810607955
+Simulation Runtime:  1.4130289554595947
+opt_anchors:  [390 389 440 382 441]
+opt_x:  [1.         1.         1.         0.48942656 1.        ]
+opt_p:  [4.74774370e-01 4.79528175e-01 2.29010744e-02 1.65885197e-22
+ 2.27963804e-02]
+opt_y:  0.051033897626138636
+optimal anchors:  [382 389 390 440 441]
+optimal p:  [1.65885197e-22 4.79528175e-01 4.74774370e-01 2.29010744e-02
+ 2.27963804e-02]
+optimal x:  [0.48942656 1.         1.         1.         1.        ]
+optimal y:  0.051033897626138636
+Jaccard:  0.0
+Optimization Runtime:  0.051325082778930664

@@ -1,0 +1,16 @@
+['Stegomerus_pygmaeus_I10237', 'Ernocladius_corpulentus_I10217', 'Cryptocarenus_heveae_I13627']
+anchors:  [ 98 105 158]
+true_p:  [0.01029159 0.49182783 0.49788057]
+true_x:  [0.41311532 0.67540697 0.58555685]
+true_y:  0.014922399972863692
+Simulation Runtime:  0.0862729549407959
+opt_anchors:  [107 160 158]
+opt_x:  [1.00000000e+00 5.39857881e-01 1.13370381e-23]
+opt_p:  [ 5.58988321e-01 -6.18342715e-24  4.41011679e-01]
+opt_y:  0.019879340032821487
+optimal anchors:  [103 158 160]
+optimal p:  [0.5052581  0.49406921 0.00067269]
+optimal x:  [5.83926965e-21 5.72880256e-01 3.06388619e-17]
+optimal y:  0.020405609747972786
+Jaccard:  0.2
+Optimization Runtime:  0.08426880836486816

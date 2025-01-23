@@ -1,0 +1,16 @@
+['Cryphalus_laticollis_I13626', 'Cryptocarenus_heveae_I13627']
+anchors:  [ 67 102]
+true_p:  [0.6103256 0.3896744]
+true_x:  [0.44690562 0.67540697]
+true_y:  0.00952985011456895
+Simulation Runtime:  0.0742189884185791
+opt_anchors:  [ 67 103]
+opt_x:  [7.19142802e-20 8.33877192e-01]
+opt_p:  [0.45733911 0.54266089]
+opt_y:  0.007834003035372574
+optimal anchors:  [ 67 103]
+optimal p:  [0.45733911 0.54266089]
+optimal x:  [7.19142802e-20 8.33877192e-01]
+optimal y:  0.007834003035372574
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.047154903411865234

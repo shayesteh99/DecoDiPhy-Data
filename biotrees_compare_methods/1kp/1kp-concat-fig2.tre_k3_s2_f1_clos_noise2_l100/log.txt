@@ -1,0 +1,16 @@
+['Smilax_bona-nox', 'Catharanthus_roseus', 'Prumnopitys_andina']
+anchors:  [18 42 82]
+true_p:  [0.43100234 0.02562935 0.54336831]
+true_x:  [0.80287979 0.51785434 0.23877203]
+true_y:  0.05949760834735406
+Simulation Runtime:  0.05864906311035156
+opt_anchors:  [88 86 99]
+opt_x:  [0.53386939 0.48980693 1.        ]
+opt_p:  [-2.00131452e-22 -8.75137659e-22  1.00000000e+00]
+opt_y:  0.11564584924390377
+optimal anchors:  [86 88 99]
+optimal p:  [-8.75137659e-22 -2.00131452e-22  1.00000000e+00]
+optimal x:  [0.48980693 0.53386939 1.        ]
+optimal y:  0.11564584924390377
+Jaccard:  0.0
+Optimization Runtime:  0.04237198829650879

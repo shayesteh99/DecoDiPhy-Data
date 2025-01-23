@@ -1,0 +1,16 @@
+['Saruma_henryi', 'Cedrus_libani']
+anchors:  [75 85]
+true_p:  [0.63861457 0.36138543]
+true_x:  [0.76584704 0.46648869]
+true_y:  0.051800044001673054
+Simulation Runtime:  0.06712150573730469
+opt_anchors:  [ 78 101]
+opt_x:  [1. 1.]
+opt_p:  [0.517092 0.482908]
+opt_y:  0.09738803604177601
+optimal anchors:  [ 78 101]
+optimal p:  [0.517092 0.482908]
+optimal x:  [1. 1.]
+optimal y:  0.09738803604177601
+Jaccard:  0.0
+Optimization Runtime:  0.09272646903991699

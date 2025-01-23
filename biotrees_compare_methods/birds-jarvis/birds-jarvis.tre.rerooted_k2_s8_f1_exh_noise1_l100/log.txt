@@ -1,0 +1,16 @@
+['LEPDI', 'PELCR']
+anchors:  [28 52]
+true_p:  [0.48376284 0.51623716]
+true_x:  [0.47375754 0.97685939]
+true_y:  0.05389341695782411
+Simulation Runtime:  0.01737666130065918
+opt_anchors:  [28 52]
+opt_x:  [0.55409828 0.97603202]
+opt_p:  [0.46967454 0.53032546]
+opt_y:  0.054127966074627804
+optimal anchors:  [28 52]
+optimal p:  [0.46967454 0.53032546]
+optimal x:  [0.55409828 0.97603202]
+optimal y:  0.054127966074627804
+Jaccard:  1.0
+Optimization Runtime:  55.582884073257446

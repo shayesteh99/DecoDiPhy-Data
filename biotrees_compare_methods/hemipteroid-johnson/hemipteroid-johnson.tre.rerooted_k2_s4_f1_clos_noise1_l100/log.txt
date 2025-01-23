@@ -1,0 +1,16 @@
+['Ponana_quadralaba', 'Caliscelis_bonelli']
+anchors:  [127 158]
+true_p:  [0.69562192 0.30437808]
+true_x:  [0.86707278 0.51082532]
+true_y:  0.05174758761967413
+Simulation Runtime:  0.2806735038757324
+opt_anchors:  [127 129]
+opt_x:  [0.99999865 0.28349973]
+opt_p:  [9.99998514e-01 1.48820313e-06]
+opt_y:  0.07335348304634648
+optimal anchors:  [127 129]
+optimal p:  [9.99998514e-01 1.48820313e-06]
+optimal x:  [0.99999865 0.28349973]
+optimal y:  0.07335348304634648
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.05619096755981445

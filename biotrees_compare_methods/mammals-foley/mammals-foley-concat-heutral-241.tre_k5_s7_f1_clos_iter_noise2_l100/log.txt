@@ -1,0 +1,18 @@
+['Acomys_cahirinus', 'Pithecia_pithecia', 'Ctenomys_sociabilis', 'Mesoplodon_bidens', 'Elephantulus_edwardii']
+anchors:  [ 24  80 160 198 328]
+true_p:  [0.32642183 0.26031212 0.02546928 0.14632707 0.24146969]
+true_x:  [0.94049932 0.81013519 0.83436152 0.7733766  0.3727049 ]
+true_y:  0.08693347846547356
+Simulation Runtime:  0.4928548336029053
+opt_anchors:  [317  80  24 101  17]
+opt_x:  [1.         1.         1.         1.         0.51459418]
+opt_p:  [ 1.75416251e-02  1.50874118e-01  4.71983911e-01  3.59600346e-01
+ -2.64941761e-21]
+opt_y:  0.1212332781022803
+optimal anchors:  [ 17  24  80 101 317]
+optimal p:  [-2.64941761e-21  4.71983911e-01  1.50874118e-01  3.59600346e-01
+  1.75416251e-02]
+optimal x:  [0.51459418 1.         1.         1.         1.        ]
+optimal y:  0.1212332781022803
+Jaccard:  0.25
+Optimization Runtime:  0.18282485008239746

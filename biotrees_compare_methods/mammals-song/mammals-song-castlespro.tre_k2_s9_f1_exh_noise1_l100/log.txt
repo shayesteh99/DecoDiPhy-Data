@@ -1,0 +1,16 @@
+['CHO', 'CAN']
+anchors:  [48 58]
+true_p:  [0.37375812 0.62624188]
+true_x:  [0.68075727 0.68973459]
+true_y:  0.04109083726761437
+Simulation Runtime:  0.012840986251831055
+opt_anchors:  [48 58]
+opt_x:  [0.67133249 0.68410666]
+opt_p:  [0.3720914 0.6279086]
+opt_y:  0.04096129978501649
+optimal anchors:  [48 58]
+optimal p:  [0.3720914 0.6279086]
+optimal x:  [0.67133249 0.68410666]
+optimal y:  0.04096129978501649
+Jaccard:  1.0
+Optimization Runtime:  29.595272302627563

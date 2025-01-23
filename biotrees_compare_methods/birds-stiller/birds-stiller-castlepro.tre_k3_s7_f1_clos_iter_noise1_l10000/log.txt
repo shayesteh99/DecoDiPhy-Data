@@ -1,0 +1,16 @@
+['Nestor_notabilis', 'Alca_torda', 'Malurus_elegans']
+anchors:  [156 330 402]
+true_p:  [0.38301956 0.15654919 0.46043125]
+true_x:  [0.67517377 0.18715228 0.35439795]
+true_y:  0.042561800554702975
+Simulation Runtime:  0.9140429496765137
+opt_anchors:  [159 438 374]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.5561374  0.30632003 0.13754257]
+opt_y:  0.03434193139292175
+optimal anchors:  [159 374 438]
+optimal p:  [0.5561374  0.13754257 0.30632003]
+optimal x:  [1. 1. 1.]
+optimal y:  0.03434193139292175
+Jaccard:  0.0
+Optimization Runtime:  0.23101449012756348

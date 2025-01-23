@@ -1,0 +1,16 @@
+['Carphoborus_bifurcus_I13691', 'Dendroctonus_ponderosae_Denpon']
+anchors:  [221 243]
+true_p:  [0.40857035 0.59142965]
+true_x:  [0.15038413 0.90683964]
+true_y:  0.04829460386422847
+Simulation Runtime:  0.07278823852539062
+opt_anchors:  [221 243]
+opt_x:  [0.15092879 0.90676176]
+opt_p:  [0.40877113 0.59122887]
+opt_y:  0.04829276441246208
+optimal anchors:  [221 243]
+optimal p:  [0.40877113 0.59122887]
+optimal x:  [0.15092879 0.90676176]
+optimal y:  0.04829276441246208
+Jaccard:  1.0
+Optimization Runtime:  448.0872166156769

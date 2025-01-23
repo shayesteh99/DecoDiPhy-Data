@@ -1,0 +1,16 @@
+['Ephedra_sinica', 'Medicago_truncatula', 'Zamia_vazquezii']
+anchors:  [ 56  85 101]
+true_p:  [0.60242308 0.05894187 0.33863505]
+true_x:  [0.9120499  0.24726419 0.47851893]
+true_y:  0.09760474307284425
+Simulation Runtime:  0.04023861885070801
+opt_anchors:  [65 56 71]
+opt_x:  [0.25306494 0.9823772  1.        ]
+opt_p:  [-2.78077410e-22  3.13807362e-22  1.00000000e+00]
+opt_y:  0.14637703353122897
+optimal anchors:  [56 65 71]
+optimal p:  [ 3.13807362e-22 -2.78077410e-22  1.00000000e+00]
+optimal x:  [0.9823772  0.25306494 1.        ]
+optimal y:  0.14637703353122897
+Jaccard:  0.2
+Optimization Runtime:  0.0431361198425293

@@ -1,0 +1,24 @@
+['Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Rhamphochromis_esox', 'Teleost_Euteleost_Ovalentaria_Pomacentridae_Dascyllus_trimaculatus', 'Teleost_Euteleost_Ovalentaria_Gobiescociformes_Gobiesocidae_Tomicodon_sp', 'Teleost_Euteleost_Beryciformes_Stephanoberycidae_Acanthochaenus_luetkenii', 'Teleost_Euteleost_Eupercaria_Lophiiformes_Antennariidae_Antennarius_striatus', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Stromateidae_Pampus_argenteus', 'Teleost_Euteleost_Eupercaria_Perciformes_Sebastidae_Sebastes_nigrocinctus', 'Teleost_Euteleost_Eupercaria_Ephippiformes_Ephippidae_Chaetodipterus_faber', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Nothobranchiidae_Nothobranchius_furzeri', 'Lepisosteiformes_Lepisosteiformes_Lepisosteidae_Atractosteus_spatula']
+anchors:  [ 56  86 102 113 174 180 270 316 367 577]
+true_p:  [0.08351556 0.1215144  0.15319424 0.0072258  0.17259454 0.11715903
+ 0.0570368  0.0920663  0.12132697 0.07436637]
+true_x:  [0.89838935 0.92898496 0.18994867 0.63743287 0.74574475 0.52481391
+ 0.28339635 0.88353739 0.68074992 0.06968854]
+true_y:  0.054812268411228784
+Simulation Runtime:  0.6536645889282227
+opt_anchors:  [242 261 238 174 213 231 232 198 150 321]
+opt_x:  [0.01326188 1.         0.17859255 0.12839892 1.         0.44928898
+ 0.29401999 0.09142277 1.         1.        ]
+opt_p:  [-4.19624562e-22  4.01954773e-23 -6.34932840e-22 -8.42895986e-22
+ -1.43124926e-23 -1.58688412e-21 -8.00762470e-22 -1.13982928e-21
+  1.33233111e-01  8.66766889e-01]
+opt_y:  0.13690572395612416
+optimal anchors:  [150 174 198 213 231 232 238 242 261 321]
+optimal p:  [ 1.33233111e-01 -8.42895986e-22 -1.13982928e-21 -1.43124926e-23
+ -1.58688412e-21 -8.00762470e-22 -6.34932840e-22 -4.19624562e-22
+  4.01954773e-23  8.66766889e-01]
+optimal x:  [1.         0.12839892 0.09142277 1.         0.44928898 0.29401999
+ 0.17859255 0.01326188 1.         1.        ]
+optimal y:  0.13690572395612416
+Jaccard:  0.05263157894736842
+Optimization Runtime:  0.1505424976348877

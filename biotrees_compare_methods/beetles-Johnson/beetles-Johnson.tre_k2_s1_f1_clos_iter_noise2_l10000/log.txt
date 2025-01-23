@@ -1,0 +1,16 @@
+['Cosmoderes_cf_consobrinus_I13663', 'Ptilopodius_sp2027_Cangar_I13666']
+anchors:  [ 11 152]
+true_p:  [0.36666223 0.63333777]
+true_x:  [0.8701082  0.71173341]
+true_y:  0.05379105755162343
+Simulation Runtime:  0.09587645530700684
+opt_anchors:  [153  11]
+opt_x:  [1.         0.55179327]
+opt_p:  [0.55383101 0.44616899]
+opt_y:  0.05318369591681676
+optimal anchors:  [ 11 152]
+optimal p:  [0.36665111 0.63334889]
+optimal x:  [0.87010723 0.71185254]
+optimal y:  0.053792804468674175
+Jaccard:  1.0
+Optimization Runtime:  0.06284213066101074

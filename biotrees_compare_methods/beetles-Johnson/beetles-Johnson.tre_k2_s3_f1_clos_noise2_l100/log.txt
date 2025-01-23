@@ -1,0 +1,16 @@
+['Hypocryphalus_cf_scabricollis_I13678', 'Ernoporicus_sp1928_large_I10219']
+anchors:  [ 65 150]
+true_p:  [0.43750727 0.56249273]
+true_x:  [0.72645701 0.44673049]
+true_y:  0.034223379114768915
+Simulation Runtime:  0.13234710693359375
+opt_anchors:  [154 155]
+opt_x:  [0.34337305 0.99999825]
+opt_p:  [1.03015874e-06 9.99998972e-01]
+opt_y:  0.04048282160197207
+optimal anchors:  [154 155]
+optimal p:  [1.03015874e-06 9.99998972e-01]
+optimal x:  [0.34337305 0.99999825]
+optimal y:  0.04048282160197207
+Jaccard:  0.0
+Optimization Runtime:  0.07460141181945801

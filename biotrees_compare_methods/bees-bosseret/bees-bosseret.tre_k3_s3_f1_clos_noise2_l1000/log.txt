@@ -1,0 +1,16 @@
+['Pseudapis_pandeana', 'Pachynomia_amoenula', 'Pseudapis_cinerea']
+anchors:  [ 9 11 33]
+true_p:  [0.18769858 0.35538777 0.45691364]
+true_x:  [0.35169713 0.32733933 0.3443769 ]
+true_y:  0.0030706312955410065
+Simulation Runtime:  0.011191368103027344
+opt_anchors:  [12 11 33]
+opt_x:  [1.         1.         0.55418722]
+opt_p:  [0.25891499 0.25902874 0.48205628]
+opt_y:  0.0025700845956614696
+optimal anchors:  [10 11 33]
+optimal p:  [0.2716906  0.25544359 0.4728658 ]
+optimal x:  [0.7113194  0.0637213  0.47450649]
+optimal y:  0.00306534246084083
+Jaccard:  0.5
+Optimization Runtime:  0.028717756271362305

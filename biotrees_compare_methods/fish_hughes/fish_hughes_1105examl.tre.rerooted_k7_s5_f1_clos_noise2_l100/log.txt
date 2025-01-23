@@ -1,0 +1,22 @@
+['Teleost_Euteleost_Eupercaria_Perciformes_Scorpaenidae_Pontinus_castor', 'Teleost_Euteleost_Beryciformes_Rondeletiidae_Rondeletia_loricata', 'Teleost_Otophysa_Cypriniformes_Danionidae_Danio_rerio', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Rivulidae_Kryptolebias_marmoratus', 'Teleost_Euteleost_Salmoniformes_Salmonidae_Coregonus_clupeaformis', 'Teleost_Euteleost_Eupercaria_Perciformes_Sebastidae_Sebastes_rubrivinctus', 'Teleost_Euteleost_Ovalentaria_Atheriniformes_Melanotaeniidae_Glossolepis_incisus']
+anchors:  [ 57  74 276 277 375 471 526]
+true_p:  [0.22492269 0.18753321 0.05435522 0.14978602 0.21319957 0.11958791
+ 0.05061537]
+true_x:  [0.73144377 0.15555705 0.92905951 0.22239316 0.80917104 0.91193544
+ 0.22337522]
+true_y:  0.03126854797411711
+Simulation Runtime:  0.9511973857879639
+opt_anchors:  [250 269 246 279 154 236 152]
+opt_x:  [0.48502495 0.47647968 0.48212801 0.47364618 0.99999941 0.47209935
+ 0.16054416]
+opt_p:  [-4.55446967e-06 -4.30900651e-06 -4.64822256e-06 -4.89844065e-06
+  1.00002320e+00 -5.14195499e-06  3.31170266e-07]
+opt_y:  0.13516520051148606
+optimal anchors:  [152 154 236 246 250 269 279]
+optimal p:  [ 3.31170266e-07  1.00002320e+00 -5.14195499e-06 -4.64822256e-06
+ -4.55446967e-06 -4.30900651e-06 -4.89844065e-06]
+optimal x:  [0.16054416 0.99999941 0.47209935 0.48212801 0.48502495 0.47647968
+ 0.47364618]
+optimal y:  0.13516520051148606
+Jaccard:  0.0
+Optimization Runtime:  0.16099262237548828

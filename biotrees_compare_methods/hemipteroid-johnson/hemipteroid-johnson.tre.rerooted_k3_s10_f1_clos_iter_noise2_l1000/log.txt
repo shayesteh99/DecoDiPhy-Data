@@ -1,0 +1,16 @@
+['Heterocaecilius_solocipennis', 'Ischnodemus_falicus', 'Peruphasma_schultei']
+anchors:  [ 23 223 283]
+true_p:  [0.01455541 0.44444061 0.54100398]
+true_x:  [0.87012317 0.8145603  0.72904043]
+true_y:  0.11220805486925156
+Simulation Runtime:  0.245680570602417
+opt_anchors:  [283 223 213]
+opt_x:  [7.39225894e-01 7.60066802e-23 3.26516328e-01]
+opt_p:  [ 6.86455066e-01  3.13544934e-01 -1.67731277e-22]
+opt_y:  0.00885110262165381
+optimal anchors:  [213 223 283]
+optimal p:  [-1.67731277e-22  3.13544934e-01  6.86455066e-01]
+optimal x:  [3.26516328e-01 7.60066802e-23 7.39225894e-01]
+optimal y:  0.00885110262165381
+Jaccard:  0.5
+Optimization Runtime:  0.058737993240356445

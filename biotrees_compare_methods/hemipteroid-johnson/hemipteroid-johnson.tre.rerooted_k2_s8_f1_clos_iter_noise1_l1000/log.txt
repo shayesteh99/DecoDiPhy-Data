@@ -1,0 +1,16 @@
+['Empoasca_fabae', 'Thrips_palmi']
+anchors:  [122 181]
+true_p:  [0.44974402 0.55025598]
+true_x:  [0.9099021 0.3530597]
+true_y:  0.07166532249377547
+Simulation Runtime:  0.173598051071167
+opt_anchors:  [183 126]
+opt_x:  [1. 1.]
+opt_p:  [0.20685707 0.79314293]
+opt_y:  0.079054912753786
+optimal anchors:  [126 183]
+optimal p:  [0.79314293 0.20685707]
+optimal x:  [1. 1.]
+optimal y:  0.079054912753786
+Jaccard:  0.0
+Optimization Runtime:  0.08072233200073242

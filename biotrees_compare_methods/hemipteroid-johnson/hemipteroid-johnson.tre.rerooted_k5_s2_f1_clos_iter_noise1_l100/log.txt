@@ -1,0 +1,18 @@
+['Arocatus_melanocephalus', 'Corimelaena_lateralis', 'Anoplogonius_nigricollis', 'Frankliniella_occidentalis', 'Plea_minutissima']
+anchors:  [  9  10  35  87 183]
+true_p:  [0.05807963 0.30801764 0.18070416 0.14002956 0.31316901]
+true_x:  [0.11622419 0.34224421 0.3603851  0.53667985 0.4064749 ]
+true_y:  0.03676094151581241
+Simulation Runtime:  0.2776808738708496
+opt_anchors:  [ 10  37 176 183  20]
+opt_x:  [1.         0.99906902 0.11497341 0.5527331  0.45594258]
+opt_p:  [ 5.78839075e-01  6.18111657e-03 -1.82500685e-05  4.14997779e-01
+  2.81030293e-07]
+opt_y:  0.012272894509729307
+optimal anchors:  [ 10  20  37 176 183]
+optimal p:  [ 5.78839075e-01  2.81030293e-07  6.18111657e-03 -1.82500685e-05
+  4.14997779e-01]
+optimal x:  [1.         0.45594258 0.99906902 0.11497341 0.5527331 ]
+optimal y:  0.012272894509729307
+Jaccard:  0.25
+Optimization Runtime:  0.15415143966674805

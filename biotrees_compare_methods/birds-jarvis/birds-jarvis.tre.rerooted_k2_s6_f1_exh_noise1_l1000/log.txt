@@ -1,0 +1,16 @@
+['CHLUN', 'TAEGU']
+anchors:  [19 73]
+true_p:  [0.54346083 0.45653917]
+true_x:  [0.60324745 0.98000018]
+true_y:  0.056202510564420896
+Simulation Runtime:  0.01517033576965332
+opt_anchors:  [19 73]
+opt_x:  [0.60407232 0.97820269]
+opt_p:  [0.54349669 0.45650331]
+opt_y:  0.05622354564825201
+optimal anchors:  [19 73]
+optimal p:  [0.54349669 0.45650331]
+optimal x:  [0.60407232 0.97820269]
+optimal y:  0.05622354564825201
+Jaccard:  1.0
+Optimization Runtime:  56.385565519332886

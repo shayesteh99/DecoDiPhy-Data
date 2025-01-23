@@ -1,0 +1,18 @@
+['Oamphimelas__LakeManyara__P3H2', 'Ourolepis__Mbuyunipool__T6A8', 'Oleucostictus__LakeAlbert__U3L3', 'Omacrochir__Zambia__CFH11-078', 'Oshiranus__LakeIlamba__142A']
+anchors:  [ 15  33  63 124 139]
+true_p:  [0.35560592 0.26079683 0.27622012 0.02433018 0.08304695]
+true_x:  [0.44901593 0.11889249 0.33357328 0.3358576  0.34088072]
+true_y:  0.0016660795658243193
+Simulation Runtime:  0.04025697708129883
+opt_anchors:  [15 17 18 41 40]
+opt_x:  [1.         0.49219955 0.49462032 1.         1.        ]
+opt_p:  [ 3.36500160e-01 -2.54033984e-23 -3.31428786e-23  3.31823485e-01
+  3.31676356e-01]
+opt_y:  0.01608898671942707
+optimal anchors:  [15 17 18 40 41]
+optimal p:  [ 3.36500160e-01 -2.54033984e-23 -3.31428786e-23  3.31676356e-01
+  3.31823485e-01]
+optimal x:  [1.         0.49219955 0.49462032 1.         1.        ]
+optimal y:  0.01608898671942707
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.04859352111816406

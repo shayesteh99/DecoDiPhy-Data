@@ -1,0 +1,16 @@
+['Ephemera_danica', 'Apis_mellifera', 'Lepas_anatifera']
+anchors:  [16 19 89]
+true_p:  [0.08449453 0.59049317 0.32501231]
+true_x:  [0.58705907 0.59869737 0.19647556]
+true_y:  0.28887310296938923
+Simulation Runtime:  0.05017518997192383
+opt_anchors:  [27 92 23]
+opt_x:  [0.2226535 1.        1.       ]
+opt_p:  [3.64850584e-10 2.48436719e-01 7.51563281e-01]
+opt_y:  0.0432226116290137
+optimal anchors:  [23 27 92]
+optimal p:  [7.51563281e-01 3.64850584e-10 2.48436719e-01]
+optimal x:  [1.        0.2226535 1.       ]
+optimal y:  0.0432226116290137
+Jaccard:  0.0
+Optimization Runtime:  0.18933963775634766

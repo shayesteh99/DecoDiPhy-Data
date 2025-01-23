@@ -1,0 +1,16 @@
+['Cosmoderes_cf_consobrinus_I13663', 'Ptilopodius_sp2027_Cangar_I13666', 'Dendroctonus_frontalis_I02535']
+anchors:  [ 11 152 218]
+true_p:  [0.45026681 0.41647345 0.13325974]
+true_x:  [0.8701082  0.71173341 0.15404134]
+true_y:  0.04932073726757513
+Simulation Runtime:  0.07215046882629395
+opt_anchors:  [ 11 152 218]
+opt_x:  [0.8693687  0.71115591 0.1641296 ]
+opt_p:  [0.45039812 0.41641008 0.1331918 ]
+opt_y:  0.04942729391494427
+optimal anchors:  [ 11 152 218]
+optimal p:  [0.45039812 0.41641008 0.1331918 ]
+optimal x:  [0.8693687  0.71115591 0.1641296 ]
+optimal y:  0.04942729391494427
+Jaccard:  1.0
+Optimization Runtime:  35744.574209690094

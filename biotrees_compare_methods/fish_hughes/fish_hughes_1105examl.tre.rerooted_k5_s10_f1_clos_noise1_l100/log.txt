@@ -1,0 +1,18 @@
+['Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Osteoglossum_bicirrhosum', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Aplocheilidae_Aplocheilus_lineatus', 'Teleost_Euteleost_Percopsaria_Percopsiformes_Percopsidae_Percopsis_omiscomaycus', 'Teleost_Otophysa_Siluriformes_Sisoridae_Glyptothorax_sinensis', 'Lepisosteiformes_Lepisosteiformes_Lepisosteidae_Lepisosteus_oculatus']
+anchors:  [ 56 451 504 579 588]
+true_p:  [0.32383472 0.16485557 0.00523228 0.43742971 0.06864772]
+true_x:  [0.61596537 0.21741117 0.75287959 0.24926462 0.26465949]
+true_y:  0.05462111085297742
+Simulation Runtime:  0.6474339962005615
+opt_anchors:  [382 385 579 384 453]
+opt_x:  [0.49600983 0.50377615 0.22872558 0.99999947 0.55623078]
+opt_p:  [3.15092050e-07 2.84703587e-07 4.38848345e-01 5.61150889e-01
+ 1.66053493e-07]
+opt_y:  0.14446502953485385
+optimal anchors:  [382 384 385 453 579]
+optimal p:  [3.15092050e-07 5.61150889e-01 2.84703587e-07 1.66053493e-07
+ 4.38848345e-01]
+optimal x:  [0.49600983 0.99999947 0.50377615 0.55623078 0.22872558]
+optimal y:  0.14446502953485385
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.061043739318847656

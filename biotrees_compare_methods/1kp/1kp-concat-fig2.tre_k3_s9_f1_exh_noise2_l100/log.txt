@@ -1,0 +1,16 @@
+['Huperzia_squarrosa', 'Sphagnum_lescurii', 'Ginkgo_biloba']
+anchors:  [ 85 121 128]
+true_p:  [0.49182783 0.01029159 0.49788057]
+true_x:  [0.7270981  0.14863367 0.4554893 ]
+true_y:  0.08698834781903561
+Simulation Runtime:  0.07251667976379395
+opt_anchors:  [ 85 128 176]
+opt_x:  [7.69756769e-01 4.52804997e-01 2.99340217e-20]
+opt_p:  [0.49598087 0.49983572 0.00418341]
+opt_y:  0.08565124622367062
+optimal anchors:  [ 85 128 176]
+optimal p:  [0.49598087 0.49983572 0.00418341]
+optimal x:  [7.69756769e-01 4.52804997e-01 2.99340217e-20]
+optimal y:  0.08565124622367062
+Jaccard:  0.5
+Optimization Runtime:  18318.84154701233

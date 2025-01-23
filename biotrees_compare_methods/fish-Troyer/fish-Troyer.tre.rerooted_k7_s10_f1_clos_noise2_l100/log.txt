@@ -1,0 +1,22 @@
+['Monacanthidae_Thamnaconus_tessellatus_EPLATE_53_D03', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Ostraciidae_Ostracion_rhinorhynchos', 'Monacanthidae_Pervagor_janthinosoma_EPLATE_53_A06', 'Monocanthidae_Brachaluteres_taylori_EPLATE_52_G12', 'Aracanidae_Aracana_aurita_EPLATE_53_H04', 'Tetraodontidae_Sphoeroides_greeleyi_UPRFL1637', 'Monacanthidae_Paramonacanthus_oblongus_EPLATE_53_E01']
+anchors:  [  6  20 104 213 228 234 280]
+true_p:  [0.16102213 0.00670306 0.07261129 0.20467393 0.06397604 0.24187022
+ 0.24914333]
+true_x:  [0.01071204 0.56237624 0.0806529  0.5757377  0.88353048 0.24530604
+ 0.48144312]
+true_y:  0.006780458678505485
+Simulation Runtime:  0.21292829513549805
+opt_anchors:  [280 278 277 276 281 265 270]
+opt_x:  [0.99999007 0.50313954 0.50349339 0.50409748 0.99999011 0.50320359
+ 0.5050511 ]
+opt_p:  [4.99097110e-01 5.53258411e-06 5.52638437e-06 5.52416380e-06
+ 5.00875217e-01 5.59202724e-06 5.47988249e-06]
+opt_y:  0.022695295478952993
+optimal anchors:  [265 270 276 277 278 280 281]
+optimal p:  [5.59202724e-06 5.47988249e-06 5.52416380e-06 5.52638437e-06
+ 5.53258411e-06 4.99097110e-01 5.00875217e-01]
+optimal x:  [0.50320359 0.5050511  0.50409748 0.50349339 0.50313954 0.99999007
+ 0.99999011]
+optimal y:  0.022695295478952993
+Jaccard:  0.07692307692307693
+Optimization Runtime:  0.07480502128601074

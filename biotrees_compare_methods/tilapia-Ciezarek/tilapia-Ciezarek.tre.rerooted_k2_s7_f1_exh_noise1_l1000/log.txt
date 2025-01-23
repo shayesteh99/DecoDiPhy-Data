@@ -1,0 +1,16 @@
+['Okarongae__MbambaBay__OR1A3', 'Otanganicae__Katanga__42']
+anchors:  [43 71]
+true_p:  [0.15645947 0.84354053]
+true_x:  [0.04167449 0.40253536]
+true_y:  0.0029849193767391862
+Simulation Runtime:  0.039201974868774414
+opt_anchors:  [43 71]
+opt_x:  [0.0476722  0.39826138]
+opt_p:  [0.15711804 0.84288196]
+opt_y:  0.002947460258281418
+optimal anchors:  [43 71]
+optimal p:  [0.15711804 0.84288196]
+optimal x:  [0.0476722  0.39826138]
+optimal y:  0.002947460258281418
+Jaccard:  1.0
+Optimization Runtime:  231.27138257026672

@@ -1,0 +1,16 @@
+['Eucyclops_serrulatus', 'Helleria_brevicornis', 'Cumella_sp']
+anchors:  [ 59 137 144]
+true_p:  [0.16540268 0.04033435 0.79426297]
+true_x:  [0.87840743 0.59460803 0.89511144]
+true_y:  0.20910858995690668
+Simulation Runtime:  0.05244946479797363
+opt_anchors:  [144 152 146]
+opt_x:  [0.63082696 1.         0.2778531 ]
+opt_p:  [-2.54780782e-06  1.00001027e+00 -7.76832393e-06]
+opt_y:  0.2697453278007987
+optimal anchors:  [144 146 152]
+optimal p:  [-2.54780782e-06 -7.76832393e-06  1.00001027e+00]
+optimal x:  [0.63082696 0.2778531  1.        ]
+optimal y:  0.2697453278007987
+Jaccard:  0.2
+Optimization Runtime:  0.04874062538146973

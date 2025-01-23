@@ -1,0 +1,18 @@
+['Leucodon_brachypus', 'Sorghum_bicolor', 'Ophioglossum_petiolatum', 'Dendrolycopodium_obscurum', 'Sabal_bermudana']
+anchors:  [ 19  20 113 121 145]
+true_p:  [0.11962626 0.17084486 0.20370359 0.35534462 0.15048066]
+true_x:  [0.91467908 0.41707101 0.8379427  0.81891619 0.76263442]
+true_y:  0.05675200436875661
+Simulation Runtime:  0.0518496036529541
+opt_anchors:  [121 122 114 101 104]
+opt_x:  [1.         1.         1.         1.         0.49889204]
+opt_p:  [1.71946512e-01 1.72944359e-01 2.68074096e-01 3.87035033e-01
+ 1.75646928e-22]
+opt_y:  0.14614449178404423
+optimal anchors:  [101 104 114 121 122]
+optimal p:  [3.87035033e-01 1.75646928e-22 2.68074096e-01 1.71946512e-01
+ 1.72944359e-01]
+optimal x:  [1.         0.49889204 1.         1.         1.        ]
+optimal y:  0.14614449178404423
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.03588247299194336

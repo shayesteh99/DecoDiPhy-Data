@@ -1,0 +1,16 @@
+['Phalacrocorax_brasilianus', 'Psilopogon_haemacephalus']
+anchors:  [241 307]
+true_p:  [0.44423434 0.55576566]
+true_x:  [0.57942938 0.15506551]
+true_y:  0.037259264911259804
+Simulation Runtime:  1.0862038135528564
+opt_anchors:  [241 242]
+opt_x:  [1. 1.]
+opt_p:  [0.49735468 0.50264532]
+opt_y:  0.06684737651164468
+optimal anchors:  [241 242]
+optimal p:  [0.49735468 0.50264532]
+optimal x:  [1. 1.]
+optimal y:  0.06684737651164468
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.0415036678314209

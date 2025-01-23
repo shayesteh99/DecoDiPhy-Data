@@ -1,0 +1,18 @@
+['Pteruthius_melanotis', 'Lonchura_striata', 'Oxyruncus_cristatus', 'Leptosomus_discolor', 'Rynchops_niger']
+anchors:  [145 269 381 469 619]
+true_p:  [0.23752204 0.18714637 0.09403865 0.29876724 0.1825257 ]
+true_x:  [0.96988844 0.4251497  0.95482008 0.4691238  0.6482141 ]
+true_y:  0.037471640766676334
+Simulation Runtime:  0.9505355358123779
+opt_anchors:  [374 417 156 438 254]
+opt_x:  [1.         1.         1.         0.45578897 1.        ]
+opt_p:  [ 6.69271688e-24  5.56351642e-01  3.37543261e-01 -9.17526029e-23
+  1.06105097e-01]
+opt_y:  0.04361360062138474
+optimal anchors:  [156 254 374 417 438]
+optimal p:  [ 3.37543261e-01  1.06105097e-01  6.69271688e-24  5.56351642e-01
+ -9.17526029e-23]
+optimal x:  [1.         1.         1.         1.         0.45578897]
+optimal y:  0.04361360062138474
+Jaccard:  0.0
+Optimization Runtime:  0.16528868675231934

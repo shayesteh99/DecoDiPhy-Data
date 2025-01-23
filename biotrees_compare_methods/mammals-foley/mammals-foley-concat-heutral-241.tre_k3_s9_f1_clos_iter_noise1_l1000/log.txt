@@ -1,0 +1,16 @@
+['Scalopus_aquaticus', 'Camelus_dromedarius', 'Xerus_inauris']
+anchors:  [186 237 309]
+true_p:  [0.31304612 0.37901183 0.30794205]
+true_x:  [0.59078235 0.78087423 0.12668265]
+true_y:  0.03966494181182374
+Simulation Runtime:  0.42191052436828613
+opt_anchors:  [312 187 237]
+opt_x:  [0.43873628 1.         0.6374126 ]
+opt_p:  [-1.73065707e-22  2.38979865e-01  7.61020135e-01]
+opt_y:  0.00659593837498827
+optimal anchors:  [187 237 312]
+optimal p:  [ 2.38979865e-01  7.61020135e-01 -1.73065707e-22]
+optimal x:  [1.         0.6374126  0.43873628]
+optimal y:  0.00659593837498827
+Jaccard:  0.2
+Optimization Runtime:  0.20878291130065918

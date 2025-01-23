@@ -1,0 +1,18 @@
+['Tigriopus_californicus', 'Chthamalus_fragilis', 'Meinertellus_cundinamarcensis', 'Triops_granarius', 'Penaeus_penicilliatus']
+anchors:  [ 15  44  55  91 171]
+true_p:  [0.25014602 0.15277528 0.25136477 0.2787369  0.06697703]
+true_x:  [0.46071809 0.61186229 0.88257857 0.81120213 0.08587026]
+true_y:  0.2095325249035207
+Simulation Runtime:  0.045709848403930664
+opt_anchors:  [15 17 38 40 39]
+opt_x:  [1.         0.42152556 0.40418354 1.         0.57964493]
+opt_p:  [ 7.11252128e-01 -1.06493326e-21  2.46565657e-22  2.88747872e-01
+ -4.93930030e-22]
+opt_y:  0.48011272386268194
+optimal anchors:  [15 17 38 39 40]
+optimal p:  [ 7.11252128e-01 -1.06493326e-21  2.46565657e-22 -4.93930030e-22
+  2.88747872e-01]
+optimal x:  [1.         0.42152556 0.40418354 0.57964493 1.        ]
+optimal y:  0.48011272386268194
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.04994463920593262

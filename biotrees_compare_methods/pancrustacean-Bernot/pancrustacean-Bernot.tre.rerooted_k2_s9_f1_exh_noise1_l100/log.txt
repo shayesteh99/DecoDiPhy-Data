@@ -1,0 +1,16 @@
+['Echinogammarus_pirloti', 'Sphaeroma_terebrans']
+anchors:  [120 145]
+true_p:  [0.44638835 0.55361165]
+true_x:  [0.10916789 0.90390533]
+true_y:  0.09429560683223864
+Simulation Runtime:  0.0601351261138916
+opt_anchors:  [120 145]
+opt_x:  [0.10309606 0.91654959]
+opt_p:  [0.44526615 0.55473385]
+opt_y:  0.09800649584060882
+optimal anchors:  [120 145]
+optimal p:  [0.44526615 0.55473385]
+optimal x:  [0.10309606 0.91654959]
+optimal y:  0.09800649584060882
+Jaccard:  1.0
+Optimization Runtime:  303.41382813453674

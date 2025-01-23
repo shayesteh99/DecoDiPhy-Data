@@ -1,0 +1,16 @@
+['BALRE', 'PTEGU']
+anchors:  [64 79]
+true_p:  [0.02025218 0.97974782]
+true_x:  [0.97553093 0.96973101]
+true_y:  0.07135507903743489
+Simulation Runtime:  0.01772904396057129
+opt_anchors:  [64 79]
+opt_x:  [0.97500109 0.96969922]
+opt_p:  [0.02013451 0.97986549]
+opt_y:  0.07134948982516331
+optimal anchors:  [64 79]
+optimal p:  [0.02013451 0.97986549]
+optimal x:  [0.97500109 0.96969922]
+optimal y:  0.07134948982516331
+Jaccard:  1.0
+Optimization Runtime:  57.369370460510254

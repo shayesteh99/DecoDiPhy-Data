@@ -1,0 +1,16 @@
+['Monomastix_opisthostigma', 'Leucodon_brachypus']
+anchors:  [153 197]
+true_p:  [0.27103933 0.72896067]
+true_x:  [0.76263442 0.37580817]
+true_y:  0.48235225633403234
+Simulation Runtime:  0.055150508880615234
+opt_anchors:  [153 197]
+opt_x:  [0.86425631 0.37731662]
+opt_p:  [0.27389712 0.72610288]
+opt_y:  0.4844534372976765
+optimal anchors:  [153 197]
+optimal p:  [0.27389712 0.72610288]
+optimal x:  [0.86425631 0.37731662]
+optimal y:  0.4844534372976765
+Jaccard:  1.0
+Optimization Runtime:  291.54426741600037

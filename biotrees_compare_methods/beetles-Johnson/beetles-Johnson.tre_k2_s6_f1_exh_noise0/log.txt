@@ -1,0 +1,15 @@
+['Phloeotribus_liminaris_H04561', 'Ptilopodius_sp2026_PNG2_I13653']
+anchors:  [154 207]
+true_p:  [0.27103933 0.72896067]
+true_x:  [0.80200359 0.79333154]
+true_y:  0.047983105700075884
+Simulation Runtime:  0.06874299049377441
+opt_x:  [0.80200359 0.79333154]
+opt_p:  [0.27103933 0.72896067]
+opt_y:  0.04798310570007588
+optimal anchors:  [154 207]
+optimal p:  [0.27103933 0.72896067]
+optimal x:  [0.80200359 0.79333154]
+optimal y:  0.04798310570007588
+Jaccard:  1.0
+Optimization Runtime:  487.1474177837372

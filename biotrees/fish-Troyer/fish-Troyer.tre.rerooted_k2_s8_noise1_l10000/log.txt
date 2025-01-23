@@ -1,0 +1,53 @@
+['Tetraodontidae_Sphoeroides_marmoratus_USNMAD9NE03', 'Balistidae_Pseudobalistes_fuscus_USNMAG9RP93']
+anchors:  [120 187]
+true_p:  [0.49487737 0.50512263]
+true_x:  [0.13208771 0.12153144]
+true_y:  0.0020049475409290533
+Simulation Runtime:  0.09789204597473145
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2
+[249 164]
+========================================================================================================================================================================================================
+1
+0.04197839968876872
+========================================================================================================================================================================================================
+2
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+2.4102915242121175e-09
+========================================================================================================================================================================================================
+3
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+2.4102915242121175e-09
+opt_x:  [0.12159274 0.13190851]
+opt_p:  [0.50512804 0.49487196]
+opt_y:  0.0020130824174266143
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+3
+[187 120   8]
+========================================================================================================================================================================================================
+1
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+1.979745083448085e-09
+========================================================================================================================================================================================================
+2
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+1.979745083448085e-09
+opt_x:  [1.21424616e-01 1.31737725e-01 1.85736150e-18]
+opt_p:  [5.05114459e-01 4.94862504e-01 2.30364385e-05]
+opt_y:  0.0020116074403426546
+stopped by p0
+[2.4102915242121175e-09]
+optimal anchors:  [120 187]
+optimal p:  [0.49487196 0.50512804]
+optimal x:  [0.13190851 0.12159274]
+optimal y:  0.0020130824174266143
+Jaccard:  1.0
+Optimization Runtime:  57.615675926208496

@@ -1,0 +1,24 @@
+['Teleost_Euteleost_Carangaria_Centropomidae_Centropomus_undecimalis', 'Teleost_Osteoglossiformes_Osteoglossiformes_Notopteridae_Papyrocranus_afer', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Maylandia_zebra', 'Teleost_Euteleost_Eupercaria_Perciformes_Scorpaenidae_Pontinus_castor', 'Teleost_Euteleost_Carangaria_Polynemidae_Polynemus_dubius', 'Teleost_Otophysa_Characiformes_Characidae_Thayeria_boehlkei', 'Teleost_Euteleost_Galaxiiformes_Galaxiidae_Galaxiella_nigrostriata', 'Teleost_Euteleost_Esociformes_Esocidae_Esox_lucius', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Trisopterus_minutus', 'Teleost_Euteleost_Eupercaria_Ephippiformes_Drepaneidae_Drepane_punctata']
+anchors:  [ 17  86 131 134 177 273 392 466 503 567]
+true_p:  [0.044793   0.11308858 0.05692929 0.15239788 0.06353927 0.06666368
+ 0.07694473 0.14091161 0.1101171  0.17461486]
+true_x:  [0.31354041 0.45404412 0.91317907 0.76511699 0.7714691  0.92905951
+ 0.90771874 0.73288397 0.90427935 0.75496881]
+true_y:  0.07419576748608574
+Simulation Runtime:  0.6527872085571289
+opt_anchors:  [247 375 378 266 131 243 154 153 377 325]
+opt_x:  [0.49954252 1.         1.         0.49769244 0.49777856 0.50416686
+ 0.48475331 0.49090512 0.48394253 0.50209412]
+opt_p:  [-3.64160916e-20  1.94090528e-22  1.00000000e+00 -3.22762957e-20
+ -3.41676341e-20 -3.52640072e-20 -3.61476364e-20 -3.57669144e-20
+ -2.56504885e-21 -3.11756323e-20]
+opt_y:  0.25964283580792824
+optimal anchors:  [131 153 154 243 247 266 325 375 377 378]
+optimal p:  [-3.41676341e-20 -3.57669144e-20 -3.61476364e-20 -3.52640072e-20
+ -3.64160916e-20 -3.22762957e-20 -3.11756323e-20  1.94090528e-22
+ -2.56504885e-21  1.00000000e+00]
+optimal x:  [0.49777856 0.49090512 0.48475331 0.50416686 0.49954252 0.49769244
+ 0.50209412 1.         0.48394253 1.        ]
+optimal y:  0.25964283580792824
+Jaccard:  0.05263157894736842
+Optimization Runtime:  0.09134054183959961

@@ -1,0 +1,26 @@
+['Teleost_Euteleost_Gobiaria_Gobiiformes_Gobiidae_Periophthalmodon_schlosseri', 'Teleost_Euteleost_Anabantaria_Synbranchiformes_Synbranchidae_Monopterus_albus', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Merlucciidae_Merluccius_capensis', 'Teleost_Euteleost_Ovalentaria_Atheriniformes_Atherinopsidae_Menidia_menidia', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Parachromis_managuensis', 'Teleost_Otophysa_Cypriniformes_Cobitidae_Sinibotia_superciliaris', 'Teleost_Euteleost_Ovalentaria_Pomacentridae_Amphiprion_melanopus', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Theragra_chalcogramma', 'Amiiformes_Amiidae_Amia_calva_gill', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Melanochromis_auratus']
+anchors:  [ 11  75  84  92 117 158 346 397 415 527]
+true_p:  [0.05505221 0.14837025 0.2005688  0.10251729 0.10277117 0.15994791
+ 0.01564952 0.01477645 0.08991018 0.11043623]
+true_x:  [0.83375953 0.53974357 0.1395885  0.92809007 0.61518224 0.86711766
+ 0.5647482  0.58662194 0.42048029 0.32628494]
+true_y:  0.05872508359533504
+Simulation Runtime:  1.1222960948944092
+opt_anchors:  [ 84 249 268 155 119 245 114 118 153  99]
+opt_x:  [1.36247591e-05 4.80559846e-01 4.69526977e-01 9.99999766e-01
+ 3.90118755e-01 4.76426196e-01 3.69046917e-02 3.79094593e-01
+ 4.80524083e-01 1.00000000e+00]
+opt_p:  [ 1.74483117e-02 -2.93197248e-06 -2.75467667e-06  9.62569708e-01
+  3.77473596e-07 -3.02044671e-06  1.49970355e-07  3.79018474e-07
+  1.16950951e-07  1.99896532e-02]
+opt_y:  0.18854727857555614
+optimal anchors:  [ 84  99 114 118 119 153 155 245 249 268]
+optimal p:  [ 1.74483117e-02  1.99896532e-02  1.49970355e-07  3.79018474e-07
+  3.77473596e-07  1.16950951e-07  9.62569708e-01 -3.02044671e-06
+ -2.93197248e-06 -2.75467667e-06]
+optimal x:  [1.36247591e-05 1.00000000e+00 3.69046917e-02 3.79094593e-01
+ 3.90118755e-01 4.80524083e-01 9.99999766e-01 4.76426196e-01
+ 4.80559846e-01 4.69526977e-01]
+optimal y:  0.18854727857555614
+Jaccard:  0.05263157894736842
+Optimization Runtime:  0.10535240173339844

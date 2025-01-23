@@ -1,0 +1,16 @@
+['Ponana_quadralaba', 'Osmylus_fulvicephalus', 'Valenzuela_badiostigma']
+anchors:  [127 266 302]
+true_p:  [0.35538777 0.18769858 0.45691364]
+true_x:  [0.86707278 0.1965451  0.75090718]
+true_y:  0.08760074425856404
+Simulation Runtime:  0.19639825820922852
+opt_anchors:  [127 146 129]
+opt_x:  [0.40549902 1.         0.42575431]
+opt_p:  [3.46818930e-21 1.00000000e+00 4.39195976e-21]
+opt_y:  0.22783614972314103
+optimal anchors:  [127 129 146]
+optimal p:  [3.46818930e-21 4.39195976e-21 1.00000000e+00]
+optimal x:  [0.40549902 0.42575431 1.        ]
+optimal y:  0.22783614972314103
+Jaccard:  0.2
+Optimization Runtime:  0.04731297492980957

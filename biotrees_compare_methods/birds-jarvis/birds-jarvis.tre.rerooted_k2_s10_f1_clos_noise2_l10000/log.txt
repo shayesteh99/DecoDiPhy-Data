@@ -1,0 +1,16 @@
+['CHLUN', 'ACACH']
+anchors:  [11 73]
+true_p:  [0.02619955 0.97380045]
+true_x:  [0.18836881 0.98000018]
+true_y:  0.07342055149417646
+Simulation Runtime:  0.01790761947631836
+opt_anchors:  [41 48]
+opt_x:  [1. 1.]
+opt_p:  [0.80418026 0.19581974]
+opt_y:  0.07092922817439277
+optimal anchors:  [41 48]
+optimal p:  [0.80418026 0.19581974]
+optimal x:  [1. 1.]
+optimal y:  0.07092922817439277
+Jaccard:  0.0
+Optimization Runtime:  0.04835796356201172

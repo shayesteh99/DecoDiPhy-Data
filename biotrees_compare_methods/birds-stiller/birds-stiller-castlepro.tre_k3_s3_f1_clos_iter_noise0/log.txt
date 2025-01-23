@@ -1,0 +1,16 @@
+['Phalacrocorax_auritus', 'Promerops_cafer', 'Zosterops_lateralis']
+anchors:  [241 555 558]
+true_p:  [0.35538777 0.18769858 0.45691364]
+true_x:  [0.57003961 0.29376911 0.44989542]
+true_y:  0.018405950583985618
+Simulation Runtime:  9.07378888130188
+opt_anchors:  [516 238 560]
+opt_x:  [0.83548267 1.         1.        ]
+opt_p:  [3.69150310e-24 4.58857346e-01 5.41142654e-01]
+opt_y:  0.01904309547159263
+optimal anchors:  [238 516 560]
+optimal p:  [4.58857346e-01 3.69150310e-24 5.41142654e-01]
+optimal x:  [1.         0.83548267 1.        ]
+optimal y:  0.01904309547159263
+Jaccard:  0.0
+Optimization Runtime:  1.2497985363006592

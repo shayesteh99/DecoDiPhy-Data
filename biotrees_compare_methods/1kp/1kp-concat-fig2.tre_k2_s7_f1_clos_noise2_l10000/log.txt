@@ -1,0 +1,16 @@
+['Ephedra_sinica', 'Medicago_truncatula']
+anchors:  [56 85]
+true_p:  [0.91087844 0.08912156]
+true_x:  [0.9120499  0.24726419]
+true_y:  0.12066004224093405
+Simulation Runtime:  0.049646854400634766
+opt_anchors:  [56 65]
+opt_x:  [1.2626071e-20 1.0000000e+00]
+opt_p:  [0.10592126 0.89407874]
+opt_y:  0.1407885405340201
+optimal anchors:  [56 65]
+optimal p:  [0.10592126 0.89407874]
+optimal x:  [1.2626071e-20 1.0000000e+00]
+optimal y:  0.1407885405340201
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.042496442794799805

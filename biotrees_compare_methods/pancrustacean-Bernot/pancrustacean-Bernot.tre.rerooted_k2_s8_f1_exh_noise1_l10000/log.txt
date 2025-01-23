@@ -1,0 +1,16 @@
+['Tigriopus_californicus', 'Chthamalus_fragilis']
+anchors:  [59 95]
+true_p:  [0.13769099 0.86230901]
+true_x:  [0.88257857 0.81120213]
+true_y:  0.14616960484998448
+Simulation Runtime:  0.05316901206970215
+opt_anchors:  [59 95]
+opt_x:  [0.88291703 0.81116181]
+opt_p:  [0.13771989 0.86228011]
+opt_y:  0.14616209966099053
+optimal anchors:  [59 95]
+optimal p:  [0.13771989 0.86228011]
+optimal x:  [0.88291703 0.81116181]
+optimal y:  0.14616209966099053
+Jaccard:  1.0
+Optimization Runtime:  298.86553978919983

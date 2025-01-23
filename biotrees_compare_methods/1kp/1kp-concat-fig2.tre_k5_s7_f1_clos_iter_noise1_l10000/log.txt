@@ -1,0 +1,18 @@
+['Ephedra_sinica', 'Medicago_truncatula', 'Zamia_vazquezii', 'Cylindrocystis_brebissonii', 'Colchicum_autumnale']
+anchors:  [ 18  54  83  99 161]
+true_p:  [0.10732728 0.10675455 0.28590166 0.28996462 0.21005189]
+true_x:  [0.70556703 0.9120499  0.24726419 0.47851893 0.41652483]
+true_y:  0.1327296162714098
+Simulation Runtime:  0.042809247970581055
+opt_anchors:  [102 100  96  76  85]
+opt_x:  [1.         0.48756025 1.         0.49291816 1.        ]
+opt_p:  [ 1.00000000e+00 -2.30981990e-22  1.61348492e-23 -4.50307112e-22
+  5.52758158e-23]
+opt_y:  0.15109204476054236
+optimal anchors:  [ 76  85  96 100 102]
+optimal p:  [-4.50307112e-22  5.52758158e-23  1.61348492e-23 -2.30981990e-22
+  1.00000000e+00]
+optimal x:  [0.49291816 1.         1.         0.48756025 1.        ]
+optimal y:  0.15109204476054236
+Jaccard:  0.0
+Optimization Runtime:  0.11082720756530762

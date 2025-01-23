@@ -1,0 +1,16 @@
+['Heterocaecilius_solocipennis', 'Megacopta_cribaria', 'Campanulotes_compar']
+anchors:  [ 45 246 283]
+true_p:  [0.16225249 0.40136921 0.4363783 ]
+true_x:  [0.87334329 0.68046947 0.72904043]
+true_y:  0.08274293938417593
+Simulation Runtime:  0.19993042945861816
+opt_anchors:  [260 283 246]
+opt_x:  [1.00000000e+00 1.22532470e-19 3.92478727e-01]
+opt_p:  [9.68585735e-01 3.14142650e-02 1.04441296e-20]
+opt_y:  0.16738264682186502
+optimal anchors:  [246 260 283]
+optimal p:  [1.04441296e-20 9.68585735e-01 3.14142650e-02]
+optimal x:  [3.92478727e-01 1.00000000e+00 1.22532470e-19]
+optimal y:  0.16738264682186502
+Jaccard:  0.5
+Optimization Runtime:  0.09285473823547363

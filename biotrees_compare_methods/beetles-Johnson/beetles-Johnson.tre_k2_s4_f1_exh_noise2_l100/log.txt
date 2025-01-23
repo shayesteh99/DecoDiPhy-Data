@@ -1,0 +1,16 @@
+['Hypocryphalus_cf_scabricollis_I13678', 'Margadillius_sp_Fernleaf_I13700']
+anchors:  [61 64]
+true_p:  [0.36138543 0.63861457]
+true_x:  [0.62027808 0.72645701]
+true_y:  0.07678094677182573
+Simulation Runtime:  0.09709525108337402
+opt_anchors:  [61 64]
+opt_x:  [0.49755013 0.7635965 ]
+opt_p:  [0.35487723 0.64512277]
+opt_y:  0.07792906972333226
+optimal anchors:  [61 64]
+optimal p:  [0.35487723 0.64512277]
+optimal x:  [0.49755013 0.7635965 ]
+optimal y:  0.07792906972333226
+Jaccard:  1.0
+Optimization Runtime:  448.4596679210663

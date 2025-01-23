@@ -1,0 +1,16 @@
+['Pseudapis_cinerea', 'Pachynomia_amoenula', 'Acunomia_melanderi']
+anchors:  [ 9 35 48]
+true_p:  [0.39120332 0.27621528 0.3325814 ]
+true_x:  [0.35169713 0.3443769  0.95145397]
+true_y:  0.011584413511857293
+Simulation Runtime:  0.011276483535766602
+opt_anchors:  [ 9 35 48]
+opt_x:  [0.33741205 0.39431467 0.93736431]
+opt_p:  [0.39009917 0.27911077 0.33079006]
+opt_y:  0.011289144777102734
+optimal anchors:  [ 9 35 48]
+optimal p:  [0.39009917 0.27911077 0.33079006]
+optimal x:  [0.33741205 0.39431467 0.93736431]
+optimal y:  0.011289144777102734
+Jaccard:  1.0
+Optimization Runtime:  301.7482306957245

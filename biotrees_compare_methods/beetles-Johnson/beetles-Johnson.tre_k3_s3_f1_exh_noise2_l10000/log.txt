@@ -1,0 +1,16 @@
+['Hypocryphalus_cf_scabricollis_I13678', 'Ernoporicus_sp1928_large_I10219', 'Scolytogenes_darwini_I10233']
+anchors:  [ 65 145 148]
+true_p:  [0.35538777 0.18769858 0.45691364]
+true_x:  [0.72645701 0.65745222 0.44673049]
+true_y:  0.03641530123222059
+Simulation Runtime:  0.08952903747558594
+opt_anchors:  [ 65 145 148]
+opt_x:  [0.72631194 0.65738643 0.44546511]
+opt_p:  [0.35540652 0.18772338 0.45687011]
+opt_y:  0.036413384203503894
+optimal anchors:  [ 65 145 148]
+optimal p:  [0.35540652 0.18772338 0.45687011]
+optimal x:  [0.72631194 0.65738643 0.44546511]
+optimal y:  0.036413384203503894
+Jaccard:  1.0
+Optimization Runtime:  34464.27501773834

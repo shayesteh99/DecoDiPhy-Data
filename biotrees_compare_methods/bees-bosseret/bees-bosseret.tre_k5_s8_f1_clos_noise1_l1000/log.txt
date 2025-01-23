@@ -1,0 +1,18 @@
+['Pseudapis_pandeana', 'Pseudapis_nilotica', 'Pseudapis_cinerea', 'Macronomia_clavisetis', 'Steganomus_ennediensis']
+anchors:  [ 5  7  9 16 38]
+true_p:  [0.24010539 0.20436818 0.23799978 0.16983456 0.1476921 ]
+true_x:  [0.25401542 0.35169713 0.32733933 0.09632446 0.96480388]
+true_y:  0.012166920998619234
+Simulation Runtime:  0.010560989379882812
+opt_anchors:  [10 16  9 14 17]
+opt_x:  [1.         1.         1.         0.43232139 1.        ]
+opt_p:  [2.55544123e-01 2.44421185e-01 2.55461678e-01 1.04552357e-20
+ 2.44573013e-01]
+opt_y:  0.012540683896695437
+optimal anchors:  [ 9 10 14 16 17]
+optimal p:  [2.55461678e-01 2.55544123e-01 1.04552357e-20 2.44421185e-01
+ 2.44573013e-01]
+optimal x:  [1.         1.         0.43232139 1.         1.        ]
+optimal y:  0.012540683896695437
+Jaccard:  0.25
+Optimization Runtime:  0.036659955978393555

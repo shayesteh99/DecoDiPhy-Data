@@ -1,0 +1,16 @@
+['Lasionectes_entrichoma', 'Armadillo_officinalis']
+anchors:  [ 37 146]
+true_p:  [0.59108448 0.40891552]
+true_x:  [0.0899564  0.18439664]
+true_y:  0.07470881745367566
+Simulation Runtime:  0.05056285858154297
+opt_anchors:  [ 37 146]
+opt_x:  [0.0899872  0.18419056]
+opt_p:  [0.59109195 0.40890805]
+opt_y:  0.07470106329312819
+optimal anchors:  [ 37 146]
+optimal p:  [0.59109195 0.40890805]
+optimal x:  [0.0899872  0.18419056]
+optimal y:  0.07470106329312819
+Jaccard:  1.0
+Optimization Runtime:  307.6521027088165

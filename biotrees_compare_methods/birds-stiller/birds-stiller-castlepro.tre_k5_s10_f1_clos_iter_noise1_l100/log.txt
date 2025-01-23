@@ -1,0 +1,18 @@
+['Rhabdornis_inornatus', 'Anas_zonorhyncha', 'Aphelocoma_coerulescens', 'Anthoscopus_minutus', 'Cinclus_mexicanus']
+anchors:  [ 33 438 493 577 593]
+true_p:  [0.21409534 0.19269603 0.18797162 0.19382299 0.21141402]
+true_x:  [0.1362778  0.43567057 0.7685861  0.88641867 0.88074866]
+true_y:  0.027539269156090188
+Simulation Runtime:  0.8893187046051025
+opt_anchors:  [439 591 494 582 196]
+opt_x:  [0.50443945 1.         1.         0.45119813 1.        ]
+opt_p:  [ 1.08210464e-21  5.07691739e-01  1.66825198e-02 -2.87021671e-21
+  4.75625741e-01]
+opt_y:  0.0600945884441129
+optimal anchors:  [196 439 494 582 591]
+optimal p:  [ 4.75625741e-01  1.08210464e-21  1.66825198e-02 -2.87021671e-21
+  5.07691739e-01]
+optimal x:  [1.         0.50443945 1.         0.45119813 1.        ]
+optimal y:  0.0600945884441129
+Jaccard:  0.0
+Optimization Runtime:  0.16424775123596191

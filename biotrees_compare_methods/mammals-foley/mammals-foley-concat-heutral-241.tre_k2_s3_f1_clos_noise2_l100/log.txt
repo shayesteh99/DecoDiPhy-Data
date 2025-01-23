@@ -1,0 +1,16 @@
+['Tupaia_chinensis', 'Hipposideros_galeritus']
+anchors:  [ 35 301]
+true_p:  [0.43750727 0.56249273]
+true_x:  [0.10361578 0.32397765]
+true_y:  0.022997900245983482
+Simulation Runtime:  0.2740292549133301
+opt_anchors:  [301 302]
+opt_x:  [1. 1.]
+opt_p:  [0.49877627 0.50122373]
+opt_y:  0.08373473196299298
+optimal anchors:  [301 302]
+optimal p:  [0.49877627 0.50122373]
+optimal x:  [1. 1.]
+optimal y:  0.08373473196299298
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.032251596450805664

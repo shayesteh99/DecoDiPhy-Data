@@ -1,0 +1,16 @@
+['Kochia_scoparia', 'Anomodon_attenuatus']
+anchors:  [ 39 151]
+true_p:  [0.36666223 0.63333777]
+true_x:  [0.62291801 0.82510236]
+true_y:  0.0632446193269127
+Simulation Runtime:  0.05466485023498535
+opt_anchors:  [ 39 151]
+opt_x:  [0.60496765 0.89190601]
+opt_p:  [0.36444758 0.63555242]
+opt_y:  0.06313579341764868
+optimal anchors:  [ 39 151]
+optimal p:  [0.36444758 0.63555242]
+optimal x:  [0.60496765 0.89190601]
+optimal y:  0.06313579341764868
+Jaccard:  1.0
+Optimization Runtime:  283.250536441803

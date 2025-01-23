@@ -1,0 +1,24 @@
+['Teleost_Euteleost_Salmoniformes_Salmonidae_Salmo_salar', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Melanogrammus_aeglefinus', 'Teleost_Euteleost_Eupercaria_Perciformes_Cyclopteridae_Cyclopterus_lumpus', 'Teleost_Euteleost_Anabantaria_Anabantiformes_Channidae_Channa_argus', 'Teleost_Euteleost_Eupercaria_Chaetodontiformes_Chaetodontidae_Chaetodon_auriga', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Poeciliidae_Xiphophorus_couchianus', 'Teleost_Euteleost_Batrachoidaria_Batrachoidiformes_Batrachoididae_Chatrabus_melanurus', 'Teleost_Otophysa_Characiformes_Hepsetidae_Hepsetus_odoe', 'Teleost_Euteleost_Ovalentaria_Blenniiformes_Tripterygiidae_Enneanectes_sp', 'Teleost_Anguilliformes_Anguillidae_Anguilla_rostrata']
+anchors:  [ 25  42 107 162 216 288 391 467 509 556]
+true_p:  [0.125919   0.14158658 0.06708772 0.14320131 0.17521024 0.0426051
+ 0.04453904 0.03044423 0.10560692 0.12379985]
+true_x:  [0.08345839 0.70246831 0.68119832 0.82780564 0.94153383 0.40533343
+ 0.76201836 0.34024914 0.9185346  0.52640224]
+true_y:  0.0451236929876349
+Simulation Runtime:  0.5404741764068604
+opt_anchors:  [249 268 245 217 235 157 236 155 238 239]
+opt_x:  [0.48687299 0.47953911 0.48471929 0.46832698 0.47087612 0.99999866
+ 0.46586411 0.10315733 0.48666995 0.48553957]
+opt_p:  [-1.04030240e-05 -9.78339462e-06 -1.05784171e-05 -1.28195966e-05
+ -1.22668580e-05  1.00009215e+00 -1.22373894e-05  7.88350110e-07
+ -1.24454020e-05 -1.24401206e-05]
+opt_y:  0.20858573990045476
+optimal anchors:  [155 157 217 235 236 238 239 245 249 268]
+optimal p:  [ 7.88350110e-07  1.00009215e+00 -1.28195966e-05 -1.22668580e-05
+ -1.22373894e-05 -1.24454020e-05 -1.24401206e-05 -1.05784171e-05
+ -1.04030240e-05 -9.78339462e-06]
+optimal x:  [0.10315733 0.99999866 0.46832698 0.47087612 0.46586411 0.48666995
+ 0.48553957 0.48471929 0.48687299 0.47953911]
+optimal y:  0.20858573990045476
+Jaccard:  0.0
+Optimization Runtime:  0.06600069999694824

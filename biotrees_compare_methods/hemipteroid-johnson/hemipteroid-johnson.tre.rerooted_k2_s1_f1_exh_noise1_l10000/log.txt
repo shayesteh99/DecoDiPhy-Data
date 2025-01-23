@@ -1,0 +1,16 @@
+['Lygus_lineolaris', 'Aaroniella_sp']
+anchors:  [ 70 285]
+true_p:  [0.28491914 0.71508086]
+true_x:  [0.51185868 0.73266954]
+true_y:  0.08224668857791843
+Simulation Runtime:  0.17674636840820312
+opt_anchors:  [ 70 285]
+opt_x:  [0.51210012 0.73271149]
+opt_p:  [0.28491755 0.71508245]
+opt_y:  0.08226472147131217
+optimal anchors:  [ 70 285]
+optimal p:  [0.28491755 0.71508245]
+optimal x:  [0.51210012 0.73271149]
+optimal y:  0.08226472147131217
+Jaccard:  1.0
+Optimization Runtime:  1101.6604719161987

@@ -1,0 +1,16 @@
+['APTFO', 'COLST']
+anchors:  [27 46]
+true_p:  [0.91087844 0.08912156]
+true_x:  [0.6859727  0.38716559]
+true_y:  0.11070724253190317
+Simulation Runtime:  0.019379615783691406
+opt_anchors:  [27 46]
+opt_x:  [0.65345239 0.49030857]
+opt_p:  [0.88951857 0.11048143]
+opt_y:  0.10972700146517926
+optimal anchors:  [27 46]
+optimal p:  [0.88951857 0.11048143]
+optimal x:  [0.65345239 0.49030857]
+optimal y:  0.10972700146517926
+Jaccard:  1.0
+Optimization Runtime:  56.65018892288208

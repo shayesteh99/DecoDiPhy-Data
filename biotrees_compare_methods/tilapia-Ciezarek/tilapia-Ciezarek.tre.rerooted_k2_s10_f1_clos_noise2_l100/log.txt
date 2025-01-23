@@ -1,0 +1,16 @@
+['Ourolepis__Kilombero__F4', 'Ospilurus1']
+anchors:  [  3 149]
+true_p:  [0.02619955 0.97380045]
+true_x:  [0.74919702 0.34965175]
+true_y:  0.004116307521968981
+Simulation Runtime:  0.04402899742126465
+opt_anchors:  [150 152]
+opt_x:  [1.         0.52713822]
+opt_p:  [1.00000000e+00 1.29944043e-23]
+opt_y:  0.0030143666376420044
+optimal anchors:  [150 152]
+optimal p:  [1.00000000e+00 1.29944043e-23]
+optimal x:  [1.         0.52713822]
+optimal y:  0.0030143666376420044
+Jaccard:  0.0
+Optimization Runtime:  0.0433964729309082

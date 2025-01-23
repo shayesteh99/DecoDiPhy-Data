@@ -1,0 +1,16 @@
+['Emerita_talpoida', 'Oniscus_asellus', 'Acyrthosiphon_pisum']
+anchors:  [ 22 147 195]
+true_p:  [0.302558   0.40288486 0.29455713]
+true_x:  [0.92582213 0.66359824 0.67875229]
+true_y:  0.25286938723020386
+Simulation Runtime:  0.051518917083740234
+opt_anchors:  [178 151  16]
+opt_x:  [0.49011323 0.90119254 1.        ]
+opt_p:  [2.74722817e-22 4.88505017e-01 5.11494983e-01]
+opt_y:  0.40647296740378897
+optimal anchors:  [ 16 151 178]
+optimal p:  [5.11494983e-01 4.88505017e-01 2.74722817e-22]
+optimal x:  [1.         0.90119254 0.49011323]
+optimal y:  0.40647296740378897
+Jaccard:  0.0
+Optimization Runtime:  0.09388899803161621

@@ -1,0 +1,16 @@
+['Huperzia_squarrosa', 'Sphagnum_lescurii']
+anchors:  [123 130]
+true_p:  [0.02025218 0.97974782]
+true_x:  [0.14863367 0.4554893 ]
+true_y:  0.12404375894093378
+Simulation Runtime:  0.05051827430725098
+opt_anchors:  [148 147]
+opt_x:  [1.        0.5247484]
+opt_p:  [ 1.00000000e+00 -6.77096957e-22]
+opt_y:  0.07787043670164306
+optimal anchors:  [130 147]
+optimal p:  [0.99769693 0.00230307]
+optimal x:  [4.65953009e-01 9.77818023e-19]
+optimal y:  0.12918256788944968
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.042641639709472656

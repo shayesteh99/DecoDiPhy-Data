@@ -1,0 +1,16 @@
+['Eulemur_flavifrons', 'Spermophilus_dauricus']
+anchors:  [117 187]
+true_p:  [0.59954045 0.40045955]
+true_x:  [0.26810062 0.63994016]
+true_y:  0.007728225681261912
+Simulation Runtime:  0.2818005084991455
+opt_anchors:  [117 187]
+opt_x:  [1. 1.]
+opt_p:  [0.57449675 0.42550325]
+opt_y:  -3.8651594322443874e-17
+optimal anchors:  [116 187]
+optimal p:  [0.6037208 0.3962792]
+optimal x:  [1.25971271e-20 5.79932947e-01]
+optimal y:  0.016221859276026145
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.09407210350036621

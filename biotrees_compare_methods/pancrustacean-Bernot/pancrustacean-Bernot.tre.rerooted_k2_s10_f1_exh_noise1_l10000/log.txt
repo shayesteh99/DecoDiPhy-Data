@@ -1,0 +1,16 @@
+['Oniscus_asellus', 'Occasjapyx_japonicus']
+anchors:  [  8 147]
+true_p:  [0.56906691 0.43093309]
+true_x:  [0.28581139 0.66359824]
+true_y:  0.07108347101631807
+Simulation Runtime:  0.051099300384521484
+opt_anchors:  [  8 147]
+opt_x:  [0.28577461 0.66378369]
+opt_p:  [0.56905603 0.43094397]
+opt_y:  0.07109025896203995
+optimal anchors:  [  8 147]
+optimal p:  [0.56905603 0.43094397]
+optimal x:  [0.28577461 0.66378369]
+optimal y:  0.07109025896203995
+Jaccard:  1.0
+Optimization Runtime:  295.7210602760315

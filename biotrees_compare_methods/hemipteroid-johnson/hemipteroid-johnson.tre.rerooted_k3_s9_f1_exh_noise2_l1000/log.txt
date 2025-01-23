@@ -1,0 +1,16 @@
+['Haematomyzus_elephantis', 'Aleochara_curtula', 'Gynaikothrips_ficorum']
+anchors:  [181 248 310]
+true_p:  [0.49182783 0.01029159 0.49788057]
+true_x:  [0.36772917 0.55632267 0.66957084]
+true_y:  0.2020101642103576
+Simulation Runtime:  0.20147204399108887
+opt_anchors:  [181 248 310]
+opt_x:  [0.3664609  0.85439739 0.66946733]
+opt_p:  [0.49167178 0.01025707 0.49807115]
+opt_y:  0.2020730834106921
+optimal anchors:  [181 248 310]
+optimal p:  [0.49167178 0.01025707 0.49807115]
+optimal x:  [0.3664609  0.85439739 0.66946733]
+optimal y:  0.2020730834106921
+Jaccard:  1.0
+Optimization Runtime:  131865.2733836174

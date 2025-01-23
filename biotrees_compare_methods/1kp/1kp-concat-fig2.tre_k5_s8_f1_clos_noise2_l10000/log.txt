@@ -1,0 +1,16 @@
+['Sarcandra_glabra', 'Ginkgo_biloba', 'Cycas_micholitzii', 'Diospyros_malabarica', 'Populus_trichocarpa']
+anchors:  [35 39 52 79 80]
+true_p:  [0.25136477 0.15277528 0.06697703 0.2787369  0.25014602]
+true_x:  [0.77509194 0.44898329 0.4568754  0.7270981  0.64013794]
+true_y:  0.05087133886225075
+Simulation Runtime:  0.0738070011138916
+opt_anchors:  [81 80 74 85 86]
+opt_x:  [1.         0.75292974 1.         1.         1.        ]
+opt_p:  [0.20677705 0.22646734 0.51780246 0.02454914 0.02440401]
+opt_y:  0.05031403027629184
+optimal anchors:  [74 80 81 85 86]
+optimal p:  [0.51780246 0.22646734 0.20677705 0.02454914 0.02440401]
+optimal x:  [1.         0.75292974 1.         1.         1.        ]
+optimal y:  0.05031403027629184
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.043720245361328125

@@ -1,0 +1,18 @@
+['Echinogammarus_pirloti', 'Sphaeroma_terebrans', 'Chthamalus_fragilis', 'Conchoecia_obtusata', 'Lasionectes_entrichoma']
+anchors:  [ 37  69  93 114 139]
+true_p:  [0.11068163 0.10423164 0.3861275  0.00807979 0.39087943]
+true_x:  [0.0899564  0.68438965 0.81120213 0.10916789 0.90390533]
+true_y:  0.15940529150965999
+Simulation Runtime:  0.07856011390686035
+opt_anchors:  [ 94  93 148 172 173]
+opt_x:  [1.         1.         1.         0.49173559 1.        ]
+opt_p:  [2.79886891e-01 2.72876400e-01 3.90135286e-01 1.12807430e-21
+ 5.71014237e-02]
+opt_y:  0.10829567159067496
+optimal anchors:  [ 93  94 148 172 173]
+optimal p:  [2.72876400e-01 2.79886891e-01 3.90135286e-01 1.12807430e-21
+ 5.71014237e-02]
+optimal x:  [1.         1.         1.         0.49173559 1.        ]
+optimal y:  0.10829567159067496
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.030521392822265625

@@ -1,0 +1,16 @@
+['Ourolepis__Kilombero__F4', 'Ospilurus1', 'Orovumae__LakeChidya__141A']
+anchors:  [  3 110 147]
+true_p:  [0.01455541 0.44444061 0.54100398]
+true_x:  [0.74919702 0.35312318 0.34965175]
+true_y:  0.002934189354269483
+Simulation Runtime:  0.03509402275085449
+opt_anchors:  [148 153 150]
+opt_x:  [0.51848705 1.         0.49072861]
+opt_p:  [-1.79694976e-23  1.00000000e+00 -3.16794728e-23]
+opt_y:  0.00989335979739399
+optimal anchors:  [148 150 153]
+optimal p:  [-1.79694976e-23 -3.16794728e-23  1.00000000e+00]
+optimal x:  [0.51848705 0.49072861 1.        ]
+optimal y:  0.00989335979739399
+Jaccard:  0.0
+Optimization Runtime:  0.05150008201599121

@@ -1,0 +1,18 @@
+['Lygus_lineolaris', 'Aaroniella_sp', 'Acanthosoma_haemorrhoidale', 'Nessorhinus_gibberulus', 'Corythucha_ciliata']
+anchors:  [ 41  58  59 130 279]
+true_p:  [0.22154968 0.34545209 0.05920113 0.25437991 0.11941719]
+true_x:  [0.86586653 0.72259635 0.51185868 0.44257398 0.73266954]
+true_y:  0.08968177556314824
+Simulation Runtime:  0.23349547386169434
+opt_anchors:  [ 52 140  66  59 130]
+opt_x:  [1.         1.         1.         1.         0.56343393]
+opt_p:  [8.99665817e-02 5.33945926e-01 3.10746598e-02 3.45012833e-01
+ 1.96062503e-21]
+opt_y:  0.1354983119177034
+optimal anchors:  [ 52  59  66 130 140]
+optimal p:  [8.99665817e-02 3.45012833e-01 3.10746598e-02 1.96062503e-21
+ 5.33945926e-01]
+optimal x:  [1.         1.         1.         0.56343393 1.        ]
+optimal y:  0.1354983119177034
+Jaccard:  0.25
+Optimization Runtime:  0.12905025482177734

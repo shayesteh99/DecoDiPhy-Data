@@ -1,0 +1,16 @@
+['Heterocaecilius_solocipennis', 'Megacopta_cribaria']
+anchors:  [ 45 285]
+true_p:  [0.18447973 0.81552027]
+true_x:  [0.87334329 0.72904043]
+true_y:  0.0976889158048544
+Simulation Runtime:  0.17666935920715332
+opt_anchors:  [ 45 285]
+opt_x:  [0.87150388 0.72799491]
+opt_p:  [0.18462091 0.81537909]
+opt_y:  0.09747043797406721
+optimal anchors:  [ 45 285]
+optimal p:  [0.18462091 0.81537909]
+optimal x:  [0.87150388 0.72799491]
+optimal y:  0.09747043797406721
+Jaccard:  1.0
+Optimization Runtime:  1087.17666721344

@@ -1,0 +1,16 @@
+['Rhinoptilus_africanus', 'Toxostoma_redivivum']
+anchors:  [139 582]
+true_p:  [0.36666223 0.63333777]
+true_x:  [0.85260235 0.52072388]
+true_y:  0.031399013058997345
+Simulation Runtime:  0.7737901210784912
+opt_anchors:  [585 587]
+opt_x:  [0.47901737 1.        ]
+opt_p:  [7.19085471e-22 1.00000000e+00]
+opt_y:  0.03463105808439471
+optimal anchors:  [585 587]
+optimal p:  [7.19085471e-22 1.00000000e+00]
+optimal x:  [0.47901737 1.        ]
+optimal y:  0.03463105808439471
+Jaccard:  0.0
+Optimization Runtime:  0.05301165580749512

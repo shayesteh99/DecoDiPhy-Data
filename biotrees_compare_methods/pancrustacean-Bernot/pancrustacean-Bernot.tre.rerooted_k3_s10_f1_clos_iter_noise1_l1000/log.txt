@@ -1,0 +1,16 @@
+['Oniscus_asellus', 'Occasjapyx_japonicus', 'Paraceradocus_miersii']
+anchors:  [  8 106 145]
+true_p:  [0.26608164 0.53242468 0.20149368]
+true_x:  [0.28581139 0.41075394 0.66359824]
+true_y:  0.1326257160134282
+Simulation Runtime:  0.05244755744934082
+opt_anchors:  [115 176   8]
+opt_x:  [1.         0.51759715 0.54517624]
+opt_p:  [5.32087872e-01 3.68834619e-22 4.67912128e-01]
+opt_y:  0.1428100767030721
+optimal anchors:  [  8 115 176]
+optimal p:  [4.67912128e-01 5.32087872e-01 3.68834619e-22]
+optimal x:  [0.54517624 1.         0.51759715]
+optimal y:  0.1428100767030721
+Jaccard:  0.2
+Optimization Runtime:  0.0990912914276123

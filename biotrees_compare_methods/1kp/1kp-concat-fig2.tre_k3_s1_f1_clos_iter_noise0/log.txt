@@ -1,0 +1,16 @@
+['Kochia_scoparia', 'Anomodon_attenuatus', 'Pyramimonas_parkeae']
+anchors:  [  1  44 156]
+true_p:  [0.17054669 0.55839945 0.27105385]
+true_x:  [0.59871234 0.62291801 0.82510236]
+true_y:  0.19510167685128282
+Simulation Runtime:  0.04363727569580078
+opt_anchors:  [ 83 156  70]
+opt_x:  [0.49761615 1.         0.60672625]
+opt_p:  [-1.57327276e-21  6.18730212e-01  3.81269788e-01]
+opt_y:  0.18936270392719873
+optimal anchors:  [ 70  83 156]
+optimal p:  [ 3.81269788e-01 -1.57327276e-21  6.18730212e-01]
+optimal x:  [0.60672625 0.49761615 1.        ]
+optimal y:  0.18936270392719873
+Jaccard:  0.2
+Optimization Runtime:  0.09459209442138672

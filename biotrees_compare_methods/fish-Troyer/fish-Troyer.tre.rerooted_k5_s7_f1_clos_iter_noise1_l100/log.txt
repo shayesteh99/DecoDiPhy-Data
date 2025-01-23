@@ -1,0 +1,18 @@
+['Triacanthidae_Triacanthus_nieuhofi_EPLATE_51_E11', 'Tetraodontidae_Canthigaster_solandri_KU7224', 'Balistidae_Rhinecanthus_lunula_USNMAG5NP92', 'Ostraciidae_Ostracion_whitleyi_USNMAG7PW56', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Molidae_Mola_mola']
+anchors:  [ 22  38  77 159 191]
+true_p:  [0.3062294  0.27610884 0.08267285 0.1854157  0.14957322]
+true_x:  [0.91143711 0.79097913 0.33871528 0.78035701 0.09238656]
+true_y:  0.02809654533947182
+Simulation Runtime:  0.1220407485961914
+opt_anchors:  [143  11  20 150 159]
+opt_x:  [1.         0.49999861 0.49987833 0.4946783  1.        ]
+opt_p:  [2.93563705e-01 1.72884471e-22 6.81185544e-22 1.76115352e-21
+ 7.06436295e-01]
+opt_y:  0.032133286502893287
+optimal anchors:  [ 11  20 143 150 159]
+optimal p:  [1.72884471e-22 6.81185544e-22 2.93563705e-01 1.76115352e-21
+ 7.06436295e-01]
+optimal x:  [0.49999861 0.49987833 1.         0.4946783  1.        ]
+optimal y:  0.032133286502893287
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.15259218215942383

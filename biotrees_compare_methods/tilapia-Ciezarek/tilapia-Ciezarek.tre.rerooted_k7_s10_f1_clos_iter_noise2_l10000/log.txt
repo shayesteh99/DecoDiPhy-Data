@@ -1,0 +1,22 @@
+['Ourolepis__Kilombero__F4', 'Ospilurus1', 'Orovumae__LakeChidya__141A', 'Oshiranus__Salima__411B', 'Oniloticus__LakeAlbert__U1A1', 'Ovariabilis__MakobeIsland__395', 'Oshiranuschilwae__MalawiBUaquarium__OR1A2']
+anchors:  [  3   6  52 104 105 116 139]
+true_p:  [0.00670306 0.16102213 0.07261129 0.06397604 0.20467393 0.24187022
+ 0.24914333]
+true_x:  [0.74919702 0.59089575 0.14768375 0.57226081 0.35312318 0.48415647
+ 0.34965175]
+true_y:  0.0027297083201437955
+Simulation Runtime:  0.08093476295471191
+opt_anchors:  [101 129 137 106  95 145   4]
+opt_x:  [1.         1.         0.02711974 1.         1.         1.
+ 1.        ]
+opt_p:  [-2.71341528e-21  2.54848663e-01  4.55320357e-22  1.30584144e-01
+  3.36156990e-01  8.42498425e-03  2.69985219e-01]
+opt_y:  1.3908129050525244e-19
+optimal anchors:  [  4  95 101 106 129 137 145]
+optimal p:  [ 2.69985219e-01  3.36156990e-01 -2.71341528e-21  1.30584144e-01
+  2.54848663e-01  4.55320357e-22  8.42498425e-03]
+optimal x:  [1.         1.         1.         1.         1.         0.02711974
+ 1.        ]
+optimal y:  1.3908129050525244e-19
+Jaccard:  0.0
+Optimization Runtime:  0.1715693473815918

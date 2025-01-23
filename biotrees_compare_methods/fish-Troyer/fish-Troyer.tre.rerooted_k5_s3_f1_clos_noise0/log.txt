@@ -1,0 +1,18 @@
+['Tetraodontidae_Sphoeroides_spengleri_UPRFL0410', 'Monacanthidae_Aluterus_heudelotii_USNMAD9NE01', 'Monacanthidae_Meuschenia_trachylepis_EPLATE_53_G01', 'Tetraodontidae_Canthigaster_bennetti_USNMAG5NT52', 'Balistidae_Pseudobalistes_fuscus_USNMAG9RP93']
+anchors:  [ 66 120 185 274 291]
+true_p:  [0.17294938 0.186482   0.30232238 0.09849075 0.23975549]
+true_x:  [0.73271065 0.37334564 0.12153144 0.7226768  0.83688287]
+true_y:  0.00672030959842888
+Simulation Runtime:  0.0999760627746582
+opt_anchors:  [185 170 171 183 176]
+opt_x:  [0.58861552 1.         1.         0.48570162 0.49560532]
+opt_p:  [-3.99293567e-22  5.01605859e-01  4.98394141e-01  9.20971960e-22
+  1.55624560e-22]
+opt_y:  0.0595115794178371
+optimal anchors:  [170 171 176 183 185]
+optimal p:  [ 5.01605859e-01  4.98394141e-01  1.55624560e-22  9.20971960e-22
+ -3.99293567e-22]
+optimal x:  [1.         1.         0.49560532 0.48570162 0.58861552]
+optimal y:  0.0595115794178371
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.03713417053222656

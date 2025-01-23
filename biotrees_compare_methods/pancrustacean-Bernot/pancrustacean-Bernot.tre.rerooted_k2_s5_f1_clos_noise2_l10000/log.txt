@@ -1,0 +1,16 @@
+['Neogonodactylus_bredini', 'Lightiella_incisa']
+anchors:  [ 64 159]
+true_p:  [0.79684452 0.20315548]
+true_x:  [0.40830622 0.67023765]
+true_y:  0.14303506698732352
+Simulation Runtime:  0.06223154067993164
+opt_anchors:  [64 40]
+opt_x:  [0.60095844 0.50257237]
+opt_p:  [ 1.00000000e+00 -4.74989904e-21]
+opt_y:  0.2188220599101488
+optimal anchors:  [40 64]
+optimal p:  [-4.74989904e-21  1.00000000e+00]
+optimal x:  [0.50257237 0.60095844]
+optimal y:  0.2188220599101488
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.017695903778076172

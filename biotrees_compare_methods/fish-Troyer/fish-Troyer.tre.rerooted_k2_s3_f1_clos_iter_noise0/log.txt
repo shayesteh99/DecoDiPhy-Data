@@ -1,0 +1,16 @@
+['Tetraodontidae_Sphoeroides_spengleri_UPRFL0410', 'Monacanthidae_Aluterus_heudelotii_USNMAD9NE01']
+anchors:  [122 297]
+true_p:  [0.43750727 0.56249273]
+true_x:  [0.37334564 0.83688287]
+true_y:  0.004252586794105939
+Simulation Runtime:  0.11281585693359375
+opt_anchors:  [298 123]
+opt_x:  [1. 1.]
+opt_p:  [0.27407615 0.72592385]
+opt_y:  -3.4658623247691977e-16
+optimal anchors:  [123 297]
+optimal p:  [0.43756515 0.56243613]
+optimal x:  [0.8602708  0.83562103]
+optimal y:  0.004922098819807331
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.07655882835388184

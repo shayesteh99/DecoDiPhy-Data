@@ -1,0 +1,16 @@
+['Oleucostictus__LakeAlbert__U7L7', 'Oesculentus__Malimbe__MG340', 'Ojipe__NyumbayaMunga__P2G6']
+anchors:  [15 22 91]
+true_p:  [0.25782909 0.36473652 0.37743439]
+true_x:  [0.49532233 0.46465105 0.14265626]
+true_y:  0.0012862328887063503
+Simulation Runtime:  0.035452842712402344
+opt_anchors:  [85 25 15]
+opt_x:  [1.00000000e+00 6.56215014e-26 9.24382339e-25]
+opt_p:  [0.25637821 0.43681945 0.30680234]
+opt_y:  0.011946994755179978
+optimal anchors:  [15 25 86]
+optimal p:  [0.24714846 0.35988463 0.39296662]
+optimal x:  [1.62998421e-01 4.84436196e-01 3.45100016e-05]
+optimal y:  0.007647388432823959
+Jaccard:  0.2
+Optimization Runtime:  0.07025575637817383

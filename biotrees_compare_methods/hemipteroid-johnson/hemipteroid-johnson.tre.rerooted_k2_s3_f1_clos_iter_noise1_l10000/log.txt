@@ -1,0 +1,16 @@
+['Ponana_quadralaba', 'Osmylus_fulvicephalus']
+anchors:  [127 304]
+true_p:  [0.51487699 0.48512301]
+true_x:  [0.86707278 0.75090718]
+true_y:  0.07974161942794045
+Simulation Runtime:  0.18154549598693848
+opt_anchors:  [127 304]
+opt_x:  [9.39307088e-23 8.54078723e-01]
+opt_p:  [0.0619134 0.9380866]
+opt_y:  0.02582727768743799
+optimal anchors:  [127 304]
+optimal p:  [0.0619134 0.9380866]
+optimal x:  [9.39307088e-23 8.54078723e-01]
+optimal y:  0.02582727768743799
+Jaccard:  1.0
+Optimization Runtime:  0.05135631561279297

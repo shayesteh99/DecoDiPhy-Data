@@ -1,0 +1,16 @@
+['Orukwaensis__LakeRukwa__24-2012', 'Goldenchambo__LakeIkapu__G7B1', 'Agrahami__LakeMagadi__Ag2638', 'Oplacidus__Mozambique__AC13-A128', 'Oshiranus__Salima__411B']
+anchors:  [ 31  58  70 100 118]
+true_p:  [0.24943878 0.24798872 0.14033427 0.18331006 0.17892817]
+true_x:  [0.03700566 0.34930689 0.35811168 0.40000948 0.48415647]
+true_y:  0.002050905693787598
+Simulation Runtime:  0.0644676685333252
+opt_anchors:  [43 42 65 47 96]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.04116844 0.04167906 0.19220147 0.14442452 0.58052652]
+opt_y:  0.027225668223588236
+optimal anchors:  [42 43 47 65 96]
+optimal p:  [0.04167906 0.04116844 0.14442452 0.19220147 0.58052652]
+optimal x:  [1. 1. 1. 1. 1.]
+optimal y:  0.027225668223588236
+Jaccard:  0.0
+Optimization Runtime:  0.0302736759185791

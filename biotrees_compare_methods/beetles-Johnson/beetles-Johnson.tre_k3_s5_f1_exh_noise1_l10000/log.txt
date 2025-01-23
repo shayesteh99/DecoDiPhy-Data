@@ -1,0 +1,16 @@
+['Cosmoderes_imitatrix_I14144', 'Cryphalus_piceus_I10210', 'Euwallacea_fornicatus_I13668']
+anchors:  [ 77 159 185]
+true_p:  [0.33390196 0.36381645 0.30228159]
+true_x:  [0.36013849 0.4500311  0.02770435]
+true_y:  0.021725424696993897
+Simulation Runtime:  0.07295489311218262
+opt_anchors:  [ 77 159 185]
+opt_x:  [0.35986925 0.45016689 0.02767777]
+opt_p:  [0.33388364 0.36383763 0.30227873]
+opt_y:  0.02172374837888369
+optimal anchors:  [ 77 159 185]
+optimal p:  [0.33388364 0.36383763 0.30227873]
+optimal x:  [0.35986925 0.45016689 0.02767777]
+optimal y:  0.02172374837888369
+Jaccard:  1.0
+Optimization Runtime:  35501.53422284126

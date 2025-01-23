@@ -1,0 +1,16 @@
+['DIP', 'ERI']
+anchors:  [32 37]
+true_p:  [0.63861457 0.36138543]
+true_x:  [0.88972463 0.86712259]
+true_y:  0.09233568565515157
+Simulation Runtime:  0.01216435432434082
+opt_anchors:  [32 37]
+opt_x:  [0.90534991 0.86720036]
+opt_p:  [0.6449532 0.3550468]
+opt_y:  0.09309255487985887
+optimal anchors:  [32 37]
+optimal p:  [0.6449532 0.3550468]
+optimal x:  [0.90534991 0.86720036]
+optimal y:  0.09309255487985887
+Jaccard:  1.0
+Optimization Runtime:  29.69870901107788

@@ -1,0 +1,24 @@
+['Tetraodontidae_Sphoeroides_spengleri_UPRFL0410', 'Monacanthidae_Aluterus_heudelotii_USNMAD9NE01', 'Monacanthidae_Meuschenia_trachylepis_EPLATE_53_G01', 'Tetraodontidae_Canthigaster_bennetti_USNMAG5NT52', 'Balistidae_Pseudobalistes_fuscus_USNMAG9RP93', 'Monacanthidae_Rudarius_minutus_EPLATE_53_F05', 'Monocanthidae_Anacanthus_barbatus_EPLATE_52_E12', 'Ostraciidae_Lactophrys_triqueter_UPRFL0072', 'Aracanidae_Aracana_aurita_EPLATE_53_H04', 'Monocanthidae_Chaetodermis_penicilligera_EPLATE_53_A01']
+anchors:  [  6  33  62 116 181 206 226 235 236 269]
+true_p:  [0.18850968 0.07356637 0.17441772 0.14556814 0.00252067 0.17079928
+ 0.08413447 0.05630922 0.0747993  0.02937515]
+true_x:  [0.01071204 0.10345559 0.73271065 0.37334564 0.12153144 0.57248648
+ 0.04572033 0.44137993 0.83688287 0.7226768 ]
+true_y:  0.02456268970934073
+Simulation Runtime:  0.2432866096496582
+opt_anchors:  [141  10 265 143 236  65 277 116  89 226]
+opt_x:  [1.         0.51675388 1.         0.39725995 1.         0.47158133
+ 1.         1.         1.         1.        ]
+opt_p:  [ 5.24886371e-02  8.55758259e-02  9.81105061e-08 -1.79309691e-07
+ -5.35994657e-08 -3.30840810e-07  4.03314269e-08  5.49597559e-03
+  4.21747070e-01  4.34692912e-01]
+opt_y:  -1.4716050549654507e-05
+optimal anchors:  [ 10  65  89 116 141 143 226 236 265 277]
+optimal p:  [ 8.55758259e-02 -3.30840810e-07  4.21747070e-01  5.49597559e-03
+  5.24886371e-02 -1.79309691e-07  4.34692912e-01 -5.35994657e-08
+  9.81105061e-08  4.03314269e-08]
+optimal x:  [0.51675388 0.47158133 1.         1.         1.         0.39725995
+ 1.         1.         1.         1.        ]
+optimal y:  -1.4716050549654507e-05
+Jaccard:  0.17647058823529413
+Optimization Runtime:  0.46500492095947266

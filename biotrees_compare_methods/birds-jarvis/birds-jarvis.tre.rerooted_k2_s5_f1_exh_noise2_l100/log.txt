@@ -1,0 +1,16 @@
+['PTEGU', 'HALLE']
+anchors:  [40 79]
+true_p:  [0.79684452 0.20315548]
+true_x:  [0.02607795 0.96973101]
+true_y:  0.015354773772318094
+Simulation Runtime:  0.019457578659057617
+opt_anchors:  [40 79]
+opt_x:  [0.01904403 0.93010339]
+opt_p:  [0.79683945 0.20316055]
+opt_y:  0.015017054834771951
+optimal anchors:  [40 79]
+optimal p:  [0.79683945 0.20316055]
+optimal x:  [0.01904403 0.93010339]
+optimal y:  0.015017054834771951
+Jaccard:  1.0
+Optimization Runtime:  56.48442983627319

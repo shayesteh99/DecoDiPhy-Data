@@ -1,0 +1,16 @@
+['Dictyophara_europaea', 'Aphelonotus_fraterculus', 'Blaberus_atropos']
+anchors:  [ 59 167 208]
+true_p:  [0.60242308 0.05894187 0.33863505]
+true_x:  [0.23507513 0.57109888 0.47642303]
+true_y:  0.10596944046215345
+Simulation Runtime:  0.2006394863128662
+opt_anchors:  [ 63 210  61]
+opt_x:  [1.         1.         0.59630098]
+opt_p:  [ 4.59138455e-01  5.40861545e-01 -4.18394674e-22]
+opt_y:  0.059502674594592915
+optimal anchors:  [ 61  63 210]
+optimal p:  [-4.18394674e-22  4.59138455e-01  5.40861545e-01]
+optimal x:  [0.59630098 1.         1.        ]
+optimal y:  0.059502674594592915
+Jaccard:  0.0
+Optimization Runtime:  0.08980393409729004

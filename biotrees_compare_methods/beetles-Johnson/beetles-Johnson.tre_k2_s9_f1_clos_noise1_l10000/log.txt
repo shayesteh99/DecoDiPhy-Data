@@ -1,0 +1,16 @@
+['Stegomerus_pygmaeus_I10237', 'Ernocladius_corpulentus_I10217']
+anchors:  [ 98 160]
+true_p:  [0.38677122 0.61322878]
+true_x:  [0.41311532 0.58555685]
+true_y:  0.03166449633412737
+Simulation Runtime:  0.0730891227722168
+opt_anchors:  [160 161]
+opt_x:  [1. 1.]
+opt_p:  [0.50026806 0.49973194]
+opt_y:  0.04632804405381009
+optimal anchors:  [160 161]
+optimal p:  [0.50026806 0.49973194]
+optimal x:  [1. 1.]
+optimal y:  0.04632804405381009
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.03379678726196289

@@ -1,0 +1,18 @@
+['Eucyclops_serrulatus', 'Heterocypris_incongruens', 'Drosophila_melanogaster', 'Crangon_septemspinosa', 'Speonebalia_cannoni']
+anchors:  [ 28  57  76  96 179]
+true_p:  [0.19869175 0.37973234 0.08976578 0.03081606 0.30099408]
+true_x:  [0.88633131 0.87840743 0.77849457 0.61054279 0.36205251]
+true_y:  0.3484013092462508
+Simulation Runtime:  0.05254483222961426
+opt_anchors:  [ 16 196  57 174  40]
+opt_x:  [1.         1.         0.77878551 0.49665586 0.4467297 ]
+opt_p:  [ 9.93592918e-02  1.89438937e-01  7.11201771e-01  3.75037784e-22
+ -4.11829551e-22]
+opt_y:  0.2707049393418597
+optimal anchors:  [ 16  40  57 174 196]
+optimal p:  [ 9.93592918e-02 -4.11829551e-22  7.11201771e-01  3.75037784e-22
+  1.89438937e-01]
+optimal x:  [1.         0.4467297  0.77878551 0.49665586 1.        ]
+optimal y:  0.2707049393418597
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.15464282035827637

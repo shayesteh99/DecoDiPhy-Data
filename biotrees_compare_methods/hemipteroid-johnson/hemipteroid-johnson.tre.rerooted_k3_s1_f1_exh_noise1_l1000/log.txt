@@ -1,0 +1,16 @@
+['Lygus_lineolaris', 'Aaroniella_sp', 'Acanthosoma_haemorrhoidale']
+anchors:  [ 41  68 283]
+true_p:  [0.41824047 0.16575442 0.41600511]
+true_x:  [0.86586653 0.51185868 0.73266954]
+true_y:  0.07174979503796733
+Simulation Runtime:  0.16718220710754395
+opt_anchors:  [ 41  68 283]
+opt_x:  [0.86583042 0.51975277 0.73393257]
+opt_p:  [0.41828931 0.16562418 0.41608651]
+opt_y:  0.07193604006100206
+optimal anchors:  [ 41  68 283]
+optimal p:  [0.41828931 0.16562418 0.41608651]
+optimal x:  [0.86583042 0.51975277 0.73393257]
+optimal y:  0.07193604006100206
+Jaccard:  1.0
+Optimization Runtime:  137970.27400875092

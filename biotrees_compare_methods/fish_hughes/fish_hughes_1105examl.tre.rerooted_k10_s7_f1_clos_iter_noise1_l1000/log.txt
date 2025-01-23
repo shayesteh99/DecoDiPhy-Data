@@ -1,0 +1,26 @@
+['Teleost_Euteleost_Gobiaria_Gobiiformes_Gobiidae_Periophthalmodon_schlosseri', 'Teleost_Euteleost_Anabantaria_Synbranchiformes_Synbranchidae_Monopterus_albus', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Merlucciidae_Merluccius_capensis', 'Teleost_Euteleost_Ovalentaria_Atheriniformes_Atherinopsidae_Menidia_menidia', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Parachromis_managuensis', 'Teleost_Otophysa_Cypriniformes_Cobitidae_Sinibotia_superciliaris', 'Teleost_Euteleost_Ovalentaria_Pomacentridae_Amphiprion_melanopus', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Theragra_chalcogramma', 'Amiiformes_Amiidae_Amia_calva_gill', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Melanochromis_auratus']
+anchors:  [ 11  75  84  92 117 158 346 397 415 527]
+true_p:  [0.01425243 0.09800718 0.15129878 0.15982488 0.12012805 0.07862082
+ 0.12744029 0.03376732 0.14628691 0.07037334]
+true_x:  [0.83375953 0.53974357 0.1395885  0.92809007 0.61518224 0.86711766
+ 0.5647482  0.58662194 0.42048029 0.32628494]
+true_y:  0.040512734027309
+Simulation Runtime:  0.8366842269897461
+opt_anchors:  [155 268 114 249 118 377 119  84 415  96]
+opt_x:  [3.74402135e-01 5.63064430e-01 6.79823250e-01 3.35139432e-01
+ 5.22138864e-01 1.00000000e+00 5.56214014e-01 2.25260070e-01
+ 1.00000000e+00 1.21055118e-23]
+opt_p:  [ 7.06668110e-22 -8.65342135e-22 -7.31171001e-22 -1.42327752e-22
+ -5.24976298e-22  6.85928577e-01 -1.67016386e-21  3.59381385e-22
+  2.65168358e-01  4.89030658e-02]
+opt_y:  0.09475375705254856
+optimal anchors:  [ 84  96 114 118 119 155 249 268 377 415]
+optimal p:  [ 3.59381385e-22  4.89030658e-02 -7.31171001e-22 -5.24976298e-22
+ -1.67016386e-21  7.06668110e-22 -1.42327752e-22 -8.65342135e-22
+  6.85928577e-01  2.65168358e-01]
+optimal x:  [2.25260070e-01 1.21055118e-23 6.79823250e-01 5.22138864e-01
+ 5.56214014e-01 3.74402135e-01 3.35139432e-01 5.63064430e-01
+ 1.00000000e+00 1.00000000e+00]
+optimal y:  0.09475375705254856
+Jaccard:  0.1111111111111111
+Optimization Runtime:  0.5641963481903076

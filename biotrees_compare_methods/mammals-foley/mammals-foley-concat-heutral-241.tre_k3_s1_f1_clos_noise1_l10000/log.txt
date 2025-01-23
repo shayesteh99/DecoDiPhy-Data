@@ -1,0 +1,16 @@
+['Nasalis_larvatus', 'Rousettus_aegyptiacus', 'Vulpes_lagopus']
+anchors:  [ 71 291 425]
+true_p:  [0.11893599 0.40574498 0.47531903]
+true_x:  [0.96019996 0.95306974 0.08770381]
+true_y:  0.020596393229083423
+Simulation Runtime:  0.37212252616882324
+opt_anchors:  [428 429 426]
+opt_x:  [0.50059444 0.50133337 1.        ]
+opt_p:  [-5.75167995e-22 -1.44797576e-21  1.00000000e+00]
+opt_y:  0.002885531126072048
+optimal anchors:  [426 428 429]
+optimal p:  [ 1.00000000e+00 -5.75167995e-22 -1.44797576e-21]
+optimal x:  [1.         0.50059444 0.50133337]
+optimal y:  0.002885531126072048
+Jaccard:  0.0
+Optimization Runtime:  0.05680680274963379

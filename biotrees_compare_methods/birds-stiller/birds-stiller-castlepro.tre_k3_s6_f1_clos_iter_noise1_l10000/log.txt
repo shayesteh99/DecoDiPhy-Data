@@ -1,0 +1,16 @@
+['Sturnus_vulgaris', 'Piaya_cayana', 'Poecile_atricapillus']
+anchors:  [ 83 496 584]
+true_p:  [0.62102866 0.28120582 0.09776552]
+true_x:  [0.75864602 0.1602112  0.40627253]
+true_y:  0.03618205161134921
+Simulation Runtime:  1.1432263851165771
+opt_anchors:  [196 497  83]
+opt_x:  [1.71690948e-01 1.00000000e+00 1.16437933e-22]
+opt_p:  [-2.82696620e-23  5.00850717e-01  4.99149283e-01]
+opt_y:  0.04903415629890444
+optimal anchors:  [ 83 196 496]
+optimal p:  [ 6.19384416e-01 -2.11239171e-21  3.80615584e-01]
+optimal x:  [0.75397384 0.49907326 0.47462152]
+optimal y:  0.04005264888959073
+Jaccard:  0.5
+Optimization Runtime:  0.11120343208312988

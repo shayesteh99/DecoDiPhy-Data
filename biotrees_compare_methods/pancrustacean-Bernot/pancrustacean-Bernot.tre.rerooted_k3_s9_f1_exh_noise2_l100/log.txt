@@ -1,0 +1,16 @@
+['Echinogammarus_pirloti', 'Sphaeroma_terebrans', 'Chthamalus_fragilis']
+anchors:  [ 97 118 143]
+true_p:  [0.49182783 0.01029159 0.49788057]
+true_x:  [0.81120213 0.10916789 0.90390533]
+true_y:  0.1237377644807248
+Simulation Runtime:  0.0646204948425293
+opt_anchors:  [ 97 119 143]
+opt_x:  [0.76806119 0.28228829 0.90149288]
+opt_p:  [0.48816525 0.01153451 0.50030024]
+opt_y:  0.12426752511204062
+optimal anchors:  [ 97 119 143]
+optimal p:  [0.48816525 0.01153451 0.50030024]
+optimal x:  [0.76806119 0.28228829 0.90149288]
+optimal y:  0.12426752511204062
+Jaccard:  0.5
+Optimization Runtime:  18877.187997102737

@@ -1,0 +1,16 @@
+['Monacanthidae_Thamnaconus_tessellatus_EPLATE_53_D03', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Ostraciidae_Ostracion_rhinorhynchos', 'Monacanthidae_Pervagor_janthinosoma_EPLATE_53_A06']
+anchors:  [ 22 217 288]
+true_p:  [0.01455541 0.44444061 0.54100398]
+true_x:  [0.56237624 0.5757377  0.48144312]
+true_y:  0.004306853708170878
+Simulation Runtime:  0.15015721321105957
+opt_anchors:  [288 289 286]
+opt_x:  [1.         1.         0.49827718]
+opt_p:  [5.00813099e-01 4.99186901e-01 7.25907533e-23]
+opt_y:  0.02007936718884551
+optimal anchors:  [286 288 289]
+optimal p:  [7.25907533e-23 5.00813099e-01 4.99186901e-01]
+optimal x:  [0.49827718 1.         1.        ]
+optimal y:  0.02007936718884551
+Jaccard:  0.2
+Optimization Runtime:  0.03046894073486328

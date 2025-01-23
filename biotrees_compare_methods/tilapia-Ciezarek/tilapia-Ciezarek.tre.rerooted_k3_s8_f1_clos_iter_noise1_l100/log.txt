@@ -1,0 +1,16 @@
+['Orukwaensis__LakeRukwa__T10D02', 'Ojipe__NyumbayaMunga__P2G3', 'Omossambicus__SouthAfrica__RB09-059']
+anchors:  [60 93 96]
+true_p:  [0.56277035 0.3807582  0.05647145]
+true_x:  [0.15669923 0.09057205 0.15923548]
+true_y:  0.0026973088723111715
+Simulation Runtime:  0.03679990768432617
+opt_anchors:  [60 87 93]
+opt_x:  [1.20897963e-24 5.34149092e-01 5.82452380e-24]
+opt_p:  [7.45066523e-01 9.18055880e-25 2.54933477e-01]
+opt_y:  5.6742648326245066e-05
+optimal anchors:  [60 87 93]
+optimal p:  [7.45066523e-01 9.18055880e-25 2.54933477e-01]
+optimal x:  [1.20897963e-24 5.34149092e-01 5.82452380e-24]
+optimal y:  5.6742648326245066e-05
+Jaccard:  0.5
+Optimization Runtime:  0.057187557220458984

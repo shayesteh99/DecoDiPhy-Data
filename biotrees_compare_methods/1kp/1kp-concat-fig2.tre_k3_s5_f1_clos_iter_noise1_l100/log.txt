@@ -1,0 +1,16 @@
+['Nothoceros_vincentianus', 'Persea_americana', 'Klebsormidium_subtile']
+anchors:  [ 3  8 77]
+true_p:  [0.27365329 0.26573445 0.46061226]
+true_x:  [0.81520005 0.03823013 0.80650689]
+true_y:  0.11493343923385393
+Simulation Runtime:  0.054473161697387695
+opt_anchors:  [105   8  77]
+opt_x:  [3.15915837e-01 5.31716979e-01 1.08669096e-21]
+opt_p:  [-6.45685823e-22  7.51199090e-01  2.48800910e-01]
+opt_y:  0.14511076059097164
+optimal anchors:  [  8  77 105]
+optimal p:  [ 7.51199090e-01  2.48800910e-01 -6.45685823e-22]
+optimal x:  [5.31716979e-01 1.08669096e-21 3.15915837e-01]
+optimal y:  0.14511076059097164
+Jaccard:  0.5
+Optimization Runtime:  0.09902739524841309

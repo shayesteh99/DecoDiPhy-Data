@@ -1,0 +1,16 @@
+['Sturnus_vulgaris', 'Piaya_cayana']
+anchors:  [ 83 586]
+true_p:  [0.86398677 0.13601323]
+true_x:  [0.75864602 0.40627253]
+true_y:  0.04507251959111248
+Simulation Runtime:  0.9369678497314453
+opt_anchors:  [83 84]
+opt_x:  [1. 1.]
+opt_p:  [0.50498441 0.49501559]
+opt_y:  0.05331608900404131
+optimal anchors:  [83 84]
+optimal p:  [0.50498441 0.49501559]
+optimal x:  [1. 1.]
+optimal y:  0.05331608900404131
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.04230308532714844

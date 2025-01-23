@@ -1,0 +1,16 @@
+['Saruma_henryi', 'Ceratodon_purpureus']
+anchors:  [ 75 144]
+true_p:  [0.53765034 0.46234966]
+true_x:  [0.76584704 0.56311958]
+true_y:  0.057710737432478745
+Simulation Runtime:  0.04718780517578125
+opt_anchors:  [78 73]
+opt_x:  [0.99999744 0.58731607]
+opt_p:  [9.99997805e-01 2.18925174e-06]
+opt_y:  0.12091467484767841
+optimal anchors:  [73 78]
+optimal p:  [2.18925174e-06 9.99997805e-01]
+optimal x:  [0.58731607 0.99999744]
+optimal y:  0.12091467484767841
+Jaccard:  0.0
+Optimization Runtime:  0.04632925987243652

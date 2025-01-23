@@ -1,0 +1,16 @@
+['Pteruthius_melanotis', 'Lonchura_striata']
+anchors:  [475 625]
+true_p:  [0.62075966 0.37924034]
+true_x:  [0.4691238 0.6482141]
+true_y:  0.030244895286495953
+Simulation Runtime:  0.9561200141906738
+opt_anchors:  [447 625]
+opt_x:  [1.         0.59946488]
+opt_p:  [0.27956268 0.72043732]
+opt_y:  0.018962925515501355
+optimal anchors:  [447 625]
+optimal p:  [0.27956268 0.72043732]
+optimal x:  [1.         0.59946488]
+optimal y:  0.018962925515501355
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.17723631858825684

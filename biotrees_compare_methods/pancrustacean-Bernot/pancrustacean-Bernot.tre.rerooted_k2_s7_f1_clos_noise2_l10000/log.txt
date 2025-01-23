@@ -1,0 +1,16 @@
+['Strigamia_maritima', 'Xibalbanus_tulumensis']
+anchors:  [38 83]
+true_p:  [0.91087844 0.08912156]
+true_x:  [0.85267927 0.65430681]
+true_y:  0.08505602362640652
+Simulation Runtime:  0.054372310638427734
+opt_anchors:  [38 39]
+opt_x:  [1. 1.]
+opt_p:  [0.5075871 0.4924129]
+opt_y:  0.09094826549746621
+optimal anchors:  [38 39]
+optimal p:  [0.5075871 0.4924129]
+optimal x:  [1. 1.]
+optimal y:  0.09094826549746621
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.028441905975341797

@@ -1,0 +1,16 @@
+['Dictyophara_europaea', 'Aphelonotus_fraterculus']
+anchors:  [ 59 167]
+true_p:  [0.4938356 0.5061644]
+true_x:  [0.23507513 0.57109888]
+true_y:  0.07599310197689764
+Simulation Runtime:  0.17657780647277832
+opt_anchors:  [167 168]
+opt_x:  [1. 1.]
+opt_p:  [0.49995724 0.50004276]
+opt_y:  0.07236690973408737
+optimal anchors:  [167 168]
+optimal p:  [0.49995724 0.50004276]
+optimal x:  [1. 1.]
+optimal y:  0.07236690973408737
+Jaccard:  0.3333333333333333
+Optimization Runtime:  0.03337979316711426
