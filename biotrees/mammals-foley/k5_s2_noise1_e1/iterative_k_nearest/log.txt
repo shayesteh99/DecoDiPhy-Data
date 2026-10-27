@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 50  44 440  16 468]
+opt_x:  [1.         1.         1.         1.         0.49613569]
+opt_p:  [2.01196882e-01 5.77716203e-02 2.25024138e-01 5.16007360e-01
+ 9.07799585e-22]
+opt_y:  0.06927977275546372
+optimal anchors:  ['Trichechus_manatus', 'Pongo_abelii', 'I31', 'Zalophus_californianus', 'Ceratotherium_simum']
+optimal p:  [0.29839056 0.20463751 0.24477421 0.23729429 0.01490346]
+optimal x:  [0.99999648 0.99998478 0.78908867 1.         0.99998341]
+optimal y:  0.07142216721587741
+Optimization Runtime:  0.4732553958892822

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [100 112 113  43  45]
+opt_x:  [1.         0.51374928 0.47563677 0.53306749 1.        ]
+opt_p:  [9.70176951e-01 7.23262311e-22 1.84719494e-22 6.76905700e-23
+ 2.98230491e-02]
+opt_y:  0.11283787584136451
+optimal anchors:  ['Pan_troglodytes', 'Homo_sapiens', 'Daubentonia_madagascariensis', 'Eulemur_fulvus', 'Lemur_catta']
+optimal p:  [6.76905700e-23 2.98230491e-02 9.70176951e-01 7.23262311e-22
+ 1.84719494e-22]
+optimal x:  [0.53306749 1.         1.         0.51374928 0.47563677]
+optimal y:  0.11283787584136451
+Optimization Runtime:  0.3680424690246582

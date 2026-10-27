@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 15  62  98 101 163]
+opt_x:  [0.36284038 1.         1.         1.         1.        ]
+opt_p:  [0.28022278 0.24065037 0.10804733 0.10828434 0.26279518]
+opt_y:  0.19139936510146494
+optimal anchors:  ['I16', 'I36', 'I59', 'Ginkgo_biloba', 'Mesotaenium_endlicherianum']
+optimal p:  [0.31141382 0.21028259 0.10762328 0.10796567 0.26271464]
+optimal x:  [0.51047134 0.57541882 1.         1.         1.        ]
+optimal y:  0.19057989500479364
+Optimization Runtime:  0.28867673873901367

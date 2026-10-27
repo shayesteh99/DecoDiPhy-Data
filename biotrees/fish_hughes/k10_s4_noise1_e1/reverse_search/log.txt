@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [113 114 119 120 248 250 317 408 409 482]
+opt_x:  [6.42661794e-07 5.22564834e-01 9.99999422e-01 9.99999491e-01
+ 9.99999966e-01 7.92469794e-01 5.94721270e-08 9.71049680e-01
+ 6.66112088e-01 1.00000000e+00]
+opt_p:  [0.03566299 0.043361   0.1726397  0.17601655 0.08112818 0.11057276
+ 0.06417908 0.14626092 0.05019915 0.11997967]
+opt_y:  0.08466507179745153
+optimal anchors:  ['Teleost_Euteleost_Ovalentaria_Pomacentridae_Chromis_chromis', 'Teleost_Euteleost_Ovalentaria_Pomacentridae_Amphiprion_melanopus', 'I74', 'Teleost_Euteleost_Ovalentaria_Mugiliformes_Mugilidae_Mugil_cephalus', 'I142', 'Teleost_Euteleost_Eupercaria_Labriformes_Scaridae_Scarus_ghobban', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Scomberomorus_regalis', 'I222', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Merlucciidae_Merluccius_merluccius', 'I256']
+optimal p:  [0.0396537  0.01736955 0.36483381 0.01271278 0.07719137 0.11227227
+ 0.05927399 0.14573655 0.05058114 0.12037487]
+optimal x:  [7.31185319e-05 1.99574071e-04 1.00000000e+00 1.28262123e-03
+ 1.00000000e+00 7.96037830e-01 6.26017715e-01 9.69272817e-01
+ 6.68530666e-01 1.16156219e-01]
+optimal y:  0.08627450319028018
+Optimization Runtime:  3.6517348289489746

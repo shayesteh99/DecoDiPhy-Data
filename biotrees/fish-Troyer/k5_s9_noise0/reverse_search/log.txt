@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 98 135 180 183 184]
+opt_x:  [0.99999261 0.92544612 1.         0.19399324 0.28984778]
+opt_p:  [0.21432284 0.38770559 0.16807798 0.11938278 0.11051089]
+opt_y:  0.01154655385153792
+optimal anchors:  ['Tetraodontidae_Lagocephalus_cheesemanii_EPLATE_52_D10', 'Lophiidae_Lophius_litulon_CSIROGT6889', 'Balistidae_Canthidermis_sufflamen_USNMAC7BZ85', 'Balistidae_Balistes_polylepis_USNMAG7PC77', 'Balistidae_Balistes_capriscus_USNMAD9NF67']
+optimal p:  [0.21432284 0.38770559 0.16807798 0.11938278 0.11051089]
+optimal x:  [0.99999261 0.92544612 1.         0.19399324 0.28984778]
+optimal y:  0.01154655385153792
+Optimization Runtime:  0.9347395896911621

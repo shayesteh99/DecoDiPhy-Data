@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [438 590 597 493 477]
+opt_x:  [0.49151015 0.56111815 0.11350275 0.42279605 1.        ]
+opt_p:  [ 2.30829818e-21 -1.76835123e-21  4.34940866e-22  1.35349475e-22
+  1.00000000e+00]
+opt_y:  0.06038568863283208
+optimal anchors:  ['Corvus_moneduloides', 'Cnemophilus_loriae', 'Poecile_atricapillus', 'Buphagus_erythrorhynchus', 'Promerops_cafer']
+optimal p:  [ 2.30829818e-21  1.00000000e+00  1.35349475e-22 -1.76835123e-21
+  4.34940866e-22]
+optimal x:  [0.49151015 1.         0.42279605 0.56111815 0.11350275]
+optimal y:  0.06038568863283208
+Optimization Runtime:  0.8213274478912354

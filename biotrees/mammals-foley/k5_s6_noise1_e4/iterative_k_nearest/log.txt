@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [413 400 464 441 411]
+opt_x:  [0.52557079 1.         1.         0.47056951 0.54565948]
+opt_p:  [-5.98778212e-22  1.26918231e-01  8.73081769e-01  1.13573273e-21
+ -1.34553464e-22]
+opt_y:  0.06785255595796913
+optimal anchors:  ['Cryptoprocta_ferox', 'Panthera_onca', 'Felis_catus', 'Odobenus_rosmarus', 'Dicerorhinus_sumatrensis']
+optimal p:  [ 1.26918231e-01 -1.34553464e-22 -5.98778212e-22  1.13573273e-21
+  8.73081769e-01]
+optimal x:  [1.         0.54565948 0.52557079 0.47056951 1.        ]
+optimal y:  0.06785255595796913
+Optimization Runtime:  0.4387786388397217

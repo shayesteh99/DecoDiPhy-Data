@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [404 296]
+opt_x:  [1. 1.]
+opt_p:  [0.77057099 0.22942901]
+opt_y:  0.035700971754513325
+optimal anchors:  ['Pteropus_vampyrus', 'Cryptoprocta_ferox']
+optimal p:  [0.22942901 0.77057099]
+optimal x:  [1. 1.]
+optimal y:  0.035700971754513325
+Optimization Runtime:  0.3815498352050781

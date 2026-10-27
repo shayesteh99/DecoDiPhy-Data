@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 21 145 193]
+opt_x:  [0.929515   0.69163091 0.32373171]
+opt_p:  [0.40237414 0.1608561  0.43676976]
+opt_y:  0.26298141822623033
+optimal anchors:  ['Thrips_palmi', 'I76', 'I100']
+optimal p:  [0.40237414 0.1608561  0.43676976]
+optimal x:  [0.929515   0.69163091 0.32373171]
+optimal y:  0.26298141822623033
+Optimization Runtime:  18649.646809101105

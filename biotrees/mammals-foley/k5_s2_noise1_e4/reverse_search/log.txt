@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 23  26  44 432 437]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.17025195 0.16942073 0.38424801 0.13797896 0.13810035]
+opt_y:  0.07313681020396069
+optimal anchors:  ['I13', 'I14', 'Pongo_abelii', 'I222', 'Spilogale_gracilis']
+optimal p:  [0.17025195 0.16942073 0.38424801 0.13797896 0.13810035]
+optimal x:  [1. 1. 1. 1. 1.]
+optimal y:  0.07313681020396069
+Optimization Runtime:  1.143662929534912

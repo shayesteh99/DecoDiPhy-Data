@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [119 181 182 184 293 294 452]
+opt_x:  [1.         1.         1.         0.35017774 1.         1.
+ 1.        ]
+opt_p:  [0.49590713 0.03404321 0.03384404 0.03533247 0.12007432 0.11989883
+ 0.1609    ]
+opt_y:  0.11996702651253212
+optimal anchors:  ['I21', 'Aplodontia_rufa', 'I95', 'Ictidomys_tridecemlineatus', 'Craseonycteris_thonglongyai', 'I152', 'I232']
+optimal p:  [ 2.13636590e-01  1.19834874e-01  1.21429608e-01 -9.88881433e-23
+  1.00513215e-01  9.95332073e-02  3.45052506e-01]
+optimal x:  [0.42040088 1.         1.         0.44029382 1.         1.
+ 1.        ]
+optimal y:  0.11080213082854946
+Optimization Runtime:  1.7108821868896484

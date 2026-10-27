@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [148 114 151]
+opt_x:  [1 1 1]
+opt_p:  [ 5.19008895e-01  4.80995786e-01 -4.73894055e-06]
+opt_y:  0.0905114367224972
+optimal anchors:  ['Echinogammarus_pirloti', 'Ligia_exotica', 'Sphaeroma_terebrans']
+optimal p:  [ 4.80995786e-01  5.19008895e-01 -4.73894055e-06]
+optimal x:  [1 1 1]
+optimal y:  0.0905114367224972
+Optimization Runtime:  0.19402408599853516

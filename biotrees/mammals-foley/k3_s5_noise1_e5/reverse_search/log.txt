@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [127 376 377]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.69225905 0.15433242 0.15340853]
+opt_y:  0.1304269484585616
+optimal anchors:  ['I65', 'Capra_hircus', 'Ammotragus_lervia']
+optimal p:  [0.70213713 0.14971802 0.14814485]
+optimal x:  [0.43474712 1.         1.        ]
+optimal y:  0.1348454148361349
+Optimization Runtime:  1.06015944480896

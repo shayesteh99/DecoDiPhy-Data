@@ -1,0 +1,17 @@
+created matrices
+opt_anchors:  [453 444 376 477 364 542 565 373 151 491]
+opt_x:  [0.57335833 1.         0.64549609 0.63062376 0.48416948 1.
+ 1.         0.51069493 1.         1.        ]
+opt_p:  [ 2.82259686e-22  1.07651135e-01  7.82935670e-22  7.58326705e-22
+ -1.80499297e-22  1.07516834e-01  4.78396877e-01  2.34537604e-21
+  1.59111438e-01  1.47323717e-01]
+opt_y:  0.13758955831530356
+optimal anchors:  ['Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'Teleost_Euteleost_Holocentriformes_Holocentridae_Neoniphon_sammara', 'Teleost_Euteleost_Beryciformes_Rondeletiidae_Rondeletia_loricata', 'Teleost_Euteleost_Trachichthyformes_Monocentridae_Monocentris_japonica', 'I203', 'Teleost_Euteleost_Aulopiformes_Chlorophthalmidae_Chlorophthalmus_agassizi', 'Teleost_Euteleost_Argentiniformes_Argentinidae_Argentina_sp', 'I251', 'Teleost_Otophysa_Siluriformes_Pangasiidae_Pangasianodon_hypophthalamus', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides']
+optimal p:  [ 1.65212136e-01 -1.38456750e-22 -1.03043955e-22  9.71345583e-23
+  3.62064319e-01 -2.75013032e-22 -4.24607295e-22  1.59757873e-01
+  8.29358287e-02  2.30029844e-01]
+optimal x:  [1.00000000e+00 4.86728699e-01 2.65081630e-01 5.92156805e-01
+ 8.76898829e-23 5.03761548e-01 5.31075992e-01 5.82788353e-01
+ 1.00000000e+00 1.00000000e+00]
+optimal y:  0.25108850351065465
+Optimization Runtime:  0.892449140548706

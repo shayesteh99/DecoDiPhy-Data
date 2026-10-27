@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 15  24 165 172 226]
+opt_x:  [1.         0.50155373 1.         0.49336954 1.        ]
+opt_p:  [ 4.90338591e-01  1.48664902e-22  2.56085182e-01 -1.55653870e-22
+  2.53576227e-01]
+opt_y:  0.04221910517528391
+optimal anchors:  ['I10', 'I16', 'I86', 'Balistidae_Xanthichthys_auromarginatus_USNMAG7PY24', 'Monocanthidae_Chaetodermis_penicilligera_EPLATE_53_A01']
+optimal p:  [ 4.90338591e-01  1.48664902e-22  2.56085182e-01 -1.55653870e-22
+  2.53576227e-01]
+optimal x:  [1.         0.50155373 1.         0.49336954 1.        ]
+optimal y:  0.04221910517528391
+Optimization Runtime:  0.723665714263916

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [17 19 44 47 78 83 84]
+opt_x:  [0.95511222 1.         0.96968595 0.74138574 1.         0.35631542
+ 0.66883745]
+opt_p:  [0.13075922 0.01313568 0.03612675 0.10062031 0.6307195  0.0467737
+ 0.04186483]
+opt_y:  0.4882243311902116
+optimal anchors:  ['Thrips_palmi', 'I15', 'Calanus_finmarchicus', 'Eucyclops_serrulatus', 'Amphibalanus_amphitrite', 'Pollicipes_pollicipes', 'I51']
+optimal p:  [1.99565668e-01 2.83526068e-08 1.92155324e-02 1.52054501e-01
+ 5.82393868e-02 5.43814352e-02 5.16543448e-01]
+optimal x:  [1.         0.24225454 1.         1.         0.74640281 0.99999998
+ 0.86914727]
+optimal y:  0.46816281825044814
+Optimization Runtime:  0.2376563549041748

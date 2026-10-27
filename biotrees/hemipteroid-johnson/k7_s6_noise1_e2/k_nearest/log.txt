@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [251  47 250  15  37 249  11]
+opt_x:  [1.         1.         0.63987241 1.         0.45499904 0.52702999
+ 1.        ]
+opt_p:  [5.66704029e-01 1.94844850e-01 8.26207259e-23 2.25154800e-01
+ 1.29764308e-22 8.87261213e-23 1.32963214e-02]
+opt_y:  0.12881026383663396
+optimal anchors:  ['Largus_californicus_2', 'Anasa_tristis', 'Sehirus_cincutus', 'Corimelaena_lateralis', 'Embidopsocus_sp', 'Liposcelis_bostrychophila', 'Badonnelia_titei']
+optimal p:  [1.32963214e-02 2.25154800e-01 1.29764308e-22 1.94844850e-01
+ 8.87261213e-23 8.26207259e-23 5.66704029e-01]
+optimal x:  [1.         1.         0.45499904 1.         0.52702999 0.63987241
+ 1.        ]
+optimal y:  0.12881026383663396
+Optimization Runtime:  0.3238222599029541

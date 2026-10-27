@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [189 175  15 187  37]
+opt_x:  [1.         0.50975385 1.         1.         0.45880337]
+opt_p:  [ 2.09751772e-01  3.62833219e-22  6.27901554e-01  1.62346674e-01
+ -4.62529555e-22]
+opt_y:  0.2699775950652907
+optimal anchors:  ['I12', 'Godzilliognomus_frondosus', 'Litopenaeus_vannamei', 'Neocaridina_denticulata', 'Enoplometopus_cf_daumi']
+optimal p:  [ 3.50956213e-01  5.58262135e-02 -3.41389577e-23  1.55679793e-01
+  4.37537781e-01]
+optimal x:  [0.66392869 1.         0.46050812 1.         1.        ]
+optimal y:  0.28920233979734733
+Optimization Runtime:  0.22493958473205566

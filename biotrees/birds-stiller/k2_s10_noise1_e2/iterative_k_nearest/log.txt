@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [584 581]
+opt_x:  [0.49788144 1.        ]
+opt_p:  [-1.444525e-21  1.000000e+00]
+opt_y:  0.03305407196231583
+optimal anchors:  ['Buphagus_erythrorhynchus', 'Sturnus_vulgaris']
+optimal p:  [ 1.000000e+00 -1.444525e-21]
+optimal x:  [1.         0.49788144]
+optimal y:  0.03305407196231583
+Optimization Runtime:  0.7701976299285889

@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 14  87  91 130 139]
+opt_x:  [1.00000000e+00 9.72320124e-01 9.61263355e-22 1.00000000e+00
+ 9.14346550e-01]
+opt_p:  [0.13969906 0.42096384 0.11112048 0.25280206 0.07541456]
+opt_y:  0.46262757713641817
+optimal anchors:  ['Machilis_hrabei', 'I47', 'Amphibalanus_amphitrite', 'I69', 'Ligia_exotica']
+optimal p:  [0.1467607  0.41368954 0.10601664 0.18650079 0.14703234]
+optimal x:  [1.         0.95423205 0.84367127 0.74362163 1.        ]
+optimal y:  0.45932819346104414
+Optimization Runtime:  0.6086757183074951

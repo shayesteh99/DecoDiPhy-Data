@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [  5 210 213 237 283]
+opt_x:  [1.00000000e+00 1.00000000e+00 5.69674197e-01 1.00000000e+00
+ 1.23946153e-19]
+opt_p:  [0.23969694 0.47168834 0.14932834 0.09317498 0.0461114 ]
+opt_y:  0.03957460043288701
+optimal anchors:  ['I7', 'I108', 'I111', 'Monacanthidae_Rudarius_minutus_EPLATE_53_F05', 'Monocanthidae_Thamnaconus_striatus_EPLATE_51_G11']
+optimal p:  [0.23969603 0.47255537 0.153395   0.08825157 0.04610203]
+optimal x:  [1.00000000e+00 1.00000000e+00 5.82395047e-01 9.70727145e-01
+ 1.21657470e-19]
+optimal y:  0.03943031375806658
+Optimization Runtime:  0.5908174514770508

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [318 460 420 183 322 396 131]
+opt_x:  [1.00000000e+00 4.68612410e-01 1.20337999e-22 6.03750223e-23
+ 4.98192730e-01 4.57510347e-22 1.00000000e+00]
+opt_p:  [ 8.71817667e-02 -7.12521827e-23  3.79149802e-02  7.16377359e-02
+ -1.35028270e-22  9.04545056e-02  7.12811012e-01]
+opt_y:  0.10790430608623469
+optimal anchors:  ['I68', 'Xerus_inauris', 'Eubalaena_japonica', 'Balaenoptera_acutorostrata', 'Cryptoprocta_ferox', 'Vulpes_lagopus', 'Dicerorhinus_sumatrensis']
+optimal p:  [ 2.68144498e-01  1.61163115e-01  2.93677655e-01 -2.58877980e-24
+  1.25432101e-01  1.46137712e-01  5.44491827e-03]
+optimal x:  [0.49517491 1.         1.         0.55695668 1.         1.
+ 1.        ]
+optimal y:  0.053163359437222724
+Optimization Runtime:  0.42520618438720703

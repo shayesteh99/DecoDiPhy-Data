@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [  4  22  35 192 193]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.02784785 0.01430678 0.42529153 0.27071177 0.26184208]
+opt_y:  0.3300092960697766
+optimal anchors:  ['Monomastix_opisthostigma', 'I17', 'Yucca_filamentosa', 'Chlorokybus_atmophyticus', 'Mesostigma_viride']
+optimal p:  [2.78467266e-02 4.39597229e-01 3.98355349e-09 2.70712065e-01
+ 2.61843976e-01]
+optimal x:  [1.         0.96388804 0.99999992 1.         1.        ]
+optimal y:  0.3300259698088013
+Optimization Runtime:  0.7756845951080322

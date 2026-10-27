@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [147 153]
+opt_x:  [0.56576877 1.        ]
+opt_p:  [-1.95406212e-21  1.00000000e+00]
+opt_y:  0.20966541730869012
+optimal anchors:  ['Armadillo_officinalis', 'Sphaeroma_terebrans']
+optimal p:  [-1.95406212e-21  1.00000000e+00]
+optimal x:  [0.56576877 1.        ]
+optimal y:  0.20966541730869012
+Optimization Runtime:  0.11049652099609375

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [60 61 62]
+opt_x:  [0.45351826 0.502845   1.        ]
+opt_p:  [9.13233587e-21 5.53131411e-21 1.00000000e+00]
+opt_y:  0.08178435345411637
+optimal anchors:  ['Arilus_cristatus', 'Rhodnius_prolixus', 'Phymata_pennsylvanica']
+optimal p:  [9.13233587e-21 5.53131411e-21 1.00000000e+00]
+optimal x:  [0.45351826 0.502845   1.        ]
+optimal y:  0.08178435345411637
+Optimization Runtime:  0.1829509735107422

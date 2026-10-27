@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 69 124 180 297 298]
+opt_x:  [0.23549352 0.95593405 1.         1.         1.        ]
+opt_p:  [0.1599105  0.17674027 0.31636809 0.17330013 0.17368101]
+opt_y:  0.0747127607704727
+optimal anchors:  ['Lygus_lineolaris', 'Hespenedra_chilensis', 'I99', 'Euroleon_nostras', 'Corydalus_cornutus']
+optimal p:  [0.15512367 0.16595114 0.36135346 0.15855435 0.15901738]
+optimal x:  [0.07958306 0.78029617 0.82837211 1.         1.        ]
+optimal y:  0.10086542299466313
+Optimization Runtime:  2.189659833908081

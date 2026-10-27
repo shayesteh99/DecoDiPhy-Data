@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [260 259 249 191 370 369 437]
+opt_x:  [0.49944358 0.49948113 1.         1.         1.         1.
+ 1.        ]
+opt_p:  [-2.00536991e-21 -1.97233266e-21  3.89039909e-01  1.38616127e-01
+  3.10514373e-02  3.14421349e-02  4.09850392e-01]
+opt_y:  0.05292084630838199
+optimal anchors:  ['Aptenodytes_forsteri', 'Cathartes_aura', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla', 'Manacus_manacus', 'Lepidothrix_coronata', 'Corvus_cornix']
+optimal p:  [ 1.38616127e-01  3.89039909e-01 -1.97233266e-21 -2.00536991e-21
+  3.14421349e-02  3.10514373e-02  4.09850392e-01]
+optimal x:  [1.         1.         0.49948113 0.49944358 1.         1.
+ 1.        ]
+optimal y:  0.05292084630838199
+Optimization Runtime:  0.9096152782440186

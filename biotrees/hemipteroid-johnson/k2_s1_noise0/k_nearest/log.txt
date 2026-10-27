@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [284 271]
+opt_x:  [1.         0.36914889]
+opt_p:  [ 1.00000000e+00 -6.31403171e-21]
+opt_y:  0.11875483141499552
+optimal anchors:  ['Mesopsocus_unipunctatus', 'Heterocaecilius_solocipennis']
+optimal p:  [-6.31403171e-21  1.00000000e+00]
+optimal x:  [0.36914889 1.        ]
+optimal y:  0.11875483141499552
+Optimization Runtime:  0.264209508895874

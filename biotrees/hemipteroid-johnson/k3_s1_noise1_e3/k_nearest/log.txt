@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [67 60 51]
+opt_x:  [1.         1.         0.54603519]
+opt_p:  [2.82859049e-01 7.17140951e-01 1.43984053e-21]
+opt_y:  0.09834187160196078
+optimal anchors:  ['Corimelaena_lateralis', 'Pagasa_sp', 'Notostira_elongata']
+optimal p:  [1.43984053e-21 7.17140951e-01 2.82859049e-01]
+optimal x:  [0.54603519 1.         1.        ]
+optimal y:  0.09834187160196078
+Optimization Runtime:  0.24882745742797852

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [13 82 90]
+opt_x:  [0.52078738 0.03774303 0.96153218]
+opt_p:  [0.36840078 0.32880683 0.3027924 ]
+opt_y:  0.032335197315655824
+optimal anchors:  ['I9', 'I45', 'Ojipe__NyumbayaMunga__P2G3']
+optimal p:  [0.36840078 0.32880683 0.3027924 ]
+optimal x:  [0.52078738 0.03774303 0.96153218]
+optimal y:  0.032335197315655824
+Optimization Runtime:  0.24535560607910156

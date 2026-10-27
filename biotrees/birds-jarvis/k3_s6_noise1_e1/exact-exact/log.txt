@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 7 21 70]
+opt_x:  [0.95700185 0.6945002  0.77163697]
+opt_p:  [0.20253144 0.15812521 0.63934335]
+opt_y:  0.055888996723637195
+optimal anchors:  ['CHAVO', 'GEOFO', 'TAUER']
+optimal p:  [0.20253144 0.15812521 0.63934335]
+optimal x:  [0.95700185 0.6945002  0.77163697]
+optimal y:  0.055888996723637195
+Optimization Runtime:  1427.3220610618591

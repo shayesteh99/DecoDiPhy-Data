@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 29  35  47  99 207 232 233]
+opt_x:  [0.48450387 1.         1.         1.         0.94481596 1.
+ 1.        ]
+opt_p:  [7.40025400e-23 3.23019663e-01 1.06369934e-01 1.29205595e-01
+ 2.74181376e-02 2.07059990e-01 2.06926681e-01]
+opt_y:  0.057329861905520585
+optimal anchors:  ['I12', 'I25', 'Trypodendron_lineatum_I10238', 'I56', 'Cnesinus_strigicollis_I13687', 'Polygraphus_camerunus_I13634', 'Crypturgus_alutaceus_I13689']
+optimal p:  [0.35515771 0.04816111 0.06279381 0.14113293 0.04026564 0.17640133
+ 0.17608746]
+optimal x:  [0.83370317 1.         1.         0.84173434 0.95122595 1.
+ 1.        ]
+optimal y:  0.06315160395299566
+Optimization Runtime:  0.5424046516418457

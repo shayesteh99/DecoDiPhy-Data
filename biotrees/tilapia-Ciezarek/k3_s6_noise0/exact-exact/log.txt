@@ -1,0 +1,12 @@
+created matrices
+Solver reached max iterations. Using the last available solution.
+Solver reached max iterations. Using the last available solution.
+opt_anchors:  [ 24 127 146]
+opt_x:  [0.4908553  0.3764535  0.34965175]
+opt_p:  [0.16225249 0.40136921 0.4363783 ]
+opt_y:  0.0024944730760929354
+optimal anchors:  ['Oesculentus__LakeRukwa__T10F04', 'Oshiranus__LakeIlamba__142A', 'I79']
+optimal p:  [0.16225249 0.40136921 0.4363783 ]
+optimal x:  [0.4908553  0.3764535  0.34965175]
+optimal y:  0.0024944730760929354
+Optimization Runtime:  11121.08432173729

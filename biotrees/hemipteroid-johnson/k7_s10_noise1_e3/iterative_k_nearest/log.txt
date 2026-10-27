@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [255 215 209 249 233 254 277]
+opt_x:  [0.44826668 1.         0.59659697 0.48980046 1.         0.43713491
+ 0.4734758 ]
+opt_p:  [ 5.71403580e-21  5.75599177e-01 -2.88318327e-21  1.72616831e-20
+  4.24400823e-01  6.17425154e-21  2.28126497e-21]
+opt_y:  0.1838694907851184
+optimal anchors:  ['Zootermopsis_nevadensis', 'Galloisiana_yuasai', 'Echmepteryx_hageni', 'Columbicola_columbae', 'Badonnelia_titei', 'Stimulopalpus_japonicus', 'Aaroniella_sp']
+optimal p:  [-2.88318327e-21  5.75599177e-01  4.24400823e-01  1.72616831e-20
+  6.17425154e-21  5.71403580e-21  2.28126497e-21]
+optimal x:  [0.59659697 1.         1.         0.48980046 0.43713491 0.44826668
+ 0.4734758 ]
+optimal y:  0.1838694907851184
+Optimization Runtime:  0.32729458808898926

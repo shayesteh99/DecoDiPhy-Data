@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 15 111 125 145 146]
+opt_x:  [0.42358755 0.65298548 0.7511933  0.64006678 1.        ]
+opt_p:  [0.19424724 0.23706036 0.28013188 0.15871717 0.12984335]
+opt_y:  0.023734804132588556
+optimal anchors:  ['Hypothenemus_perhispidus_I13633', 'Pityoborus_comatus_I13658', 'Scolytogenes_sp_PNG_I13701', 'I81', 'Ptilopodius_sp2027_Cangar_I13666']
+optimal p:  [0.19424713 0.23705998 0.28012971 0.17322712 0.11533606]
+optimal x:  [0.42358197 0.65298277 0.75118778 0.00079003 0.50463758]
+optimal y:  0.023734844709288282
+Optimization Runtime:  0.7337052822113037

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [146 147]
+opt_x:  [1. 1.]
+opt_p:  [0.49943387 0.50056613]
+opt_y:  0.11365269095434123
+optimal anchors:  ['Trachelipus_rathkei', 'Armadillo_officinalis']
+optimal p:  [0.49943387 0.50056613]
+optimal x:  [1. 1.]
+optimal y:  0.11365269095434123
+Optimization Runtime:  0.09158611297607422

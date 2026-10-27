@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [178 150]
+opt_x:  [0.49986578 1.        ]
+opt_p:  [2.30242442e-20 1.00000000e+00]
+opt_y:  0.2593910919432011
+optimal anchors:  ['Ligia_exotica', 'Penaeus_penicilliatus']
+optimal p:  [1.00000000e+00 2.30242442e-20]
+optimal x:  [1.         0.49986578]
+optimal y:  0.2593910919432011
+Optimization Runtime:  0.11139273643493652

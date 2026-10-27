@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [458 442 316  45 100 350 414]
+opt_x:  [1.         0.53753567 0.41849754 1.         1.         1.
+ 1.        ]
+opt_p:  [ 1.33956317e-03  9.36935246e-23 -2.70859251e-22  9.15117717e-02
+  6.30456264e-01  1.64846855e-01  1.11845546e-01]
+opt_y:  0.08977296724809798
+optimal anchors:  ['Pongo_abelii', 'Daubentonia_madagascariensis', 'Eubalaena_japonica', 'Okapia_johnstoni', 'Acinonyx_jubatus', 'Neomonachus_schauinslandi', 'Tapirus_terrestris']
+optimal p:  [ 9.15117717e-02  6.30456264e-01 -2.70859251e-22  1.64846855e-01
+  1.11845546e-01  9.36935246e-23  1.33956317e-03]
+optimal x:  [1.         1.         0.41849754 1.         1.         0.53753567
+ 1.        ]
+optimal y:  0.08977296724809798
+Optimization Runtime:  0.5796468257904053

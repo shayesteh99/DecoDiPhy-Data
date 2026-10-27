@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [50 18 40 49 43 35 19 48 14 15]
+opt_x:  [1.         1.         1.         0.74270759 1.         1.
+ 1.         0.08240601 0.52602848 0.50652869]
+opt_p:  [ 7.22136512e-01  1.38938710e-01  6.31579668e-22  1.31349264e-21
+  1.33619283e-21  1.43394625e-22  1.38924778e-01 -1.43719232e-21
+  1.62258021e-21  5.37025725e-21]
+opt_y:  0.10341948759957106
+optimal anchors:  ['Largus_californicus_2', 'Largus_californicus_1', 'Anasa_tristis', 'Alydus_pilosus', 'I21', 'Acanthosoma_haemorrhoidale', 'I29', 'Anoplogonius_nigricollis', 'Scutelleridae_sp', 'Corimelaena_lateralis']
+optimal p:  [-1.65028543e-21 -1.46759354e-21  1.38895543e-01  1.38967945e-01
+ -6.51310355e-21  9.17328161e-21  2.89444988e-21  5.69262478e-21
+  8.23587138e-21  7.22136512e-01]
+optimal x:  [0.47987675 0.47931252 1.         1.         0.41396522 0.62687067
+ 0.53007442 0.57795614 0.53388776 1.        ]
+optimal y:  0.10341948759957102
+Optimization Runtime:  0.3111908435821533

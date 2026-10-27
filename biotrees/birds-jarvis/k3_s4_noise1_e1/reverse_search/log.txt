@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [17 24 42]
+opt_x:  [3.76263542e-19 9.74982797e-01 5.82660856e-01]
+opt_p:  [0.41661158 0.34429905 0.23908938]
+opt_y:  0.06672116328749747
+optimal anchors:  ['TAEGU', 'COLST', 'I29']
+optimal p:  [0.38156192 0.38990878 0.22852929]
+optimal x:  [0.67294474 0.98150673 0.55915719]
+optimal y:  0.061824526671525756
+Optimization Runtime:  0.3320913314819336

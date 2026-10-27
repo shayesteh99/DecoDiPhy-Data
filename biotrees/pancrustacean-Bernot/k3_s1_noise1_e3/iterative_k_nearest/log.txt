@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 37 178 153]
+opt_x:  [1.         0.50592509 1.        ]
+opt_p:  [ 6.31436399e-01 -2.91510457e-21  3.68563601e-01]
+opt_y:  0.19143590988562767
+optimal anchors:  ['Morlockia_williamsi', 'Sphaeroma_terebrans', 'Penaeus_penicilliatus']
+optimal p:  [ 6.31436399e-01  3.68563601e-01 -2.91510457e-21]
+optimal x:  [1.         1.         0.50592509]
+optimal y:  0.19143590988562767
+Optimization Runtime:  0.14847898483276367

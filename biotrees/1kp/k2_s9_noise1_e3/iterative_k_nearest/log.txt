@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [116 124]
+opt_x:  [1. 1.]
+opt_p:  [0.03611846 0.96388154]
+opt_y:  0.18141446117587565
+optimal anchors:  ['Angiopteris_evecta', 'Dendrolycopodium_obscurum']
+optimal p:  [0.03611846 0.96388154]
+optimal x:  [1. 1.]
+optimal y:  0.18141446117587565
+Optimization Runtime:  0.2115156650543213

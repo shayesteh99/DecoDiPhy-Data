@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [148 136  35 111 147]
+opt_x:  [0.99999964 1.         1.         1.         0.26004198]
+opt_p:  [1.03281398e-01 2.53593096e-01 2.34170436e-01 4.08955041e-01
+ 2.93531578e-08]
+opt_y:  0.04585586422773018
+optimal anchors:  ['I12', 'I61', 'Ernoporicus_spessivtzevi_I10220', 'Ernoporicus_sp1928_large_I10219', 'Ernoporicus_sp1929_small_I13664']
+optimal p:  [ 2.28966990e-01  2.20141239e-01  2.41807194e-01 -5.12731841e-07
+  3.09085091e-01]
+optimal x:  [0.54673988 0.60159335 1.         0.99555405 1.        ]
+optimal y:  0.04741311086034629
+Optimization Runtime:  0.2629506587982178

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [469 306 305 468 314]
+opt_x:  [1.         1.         1.         1.         0.50034476]
+opt_p:  [ 3.84500340e-01  1.14916780e-01  1.14275455e-01  3.86307425e-01
+ -3.19979157e-21]
+opt_y:  0.08249929946033811
+optimal anchors:  ['Camelus_ferus', 'Camelus_bactrianus', 'Eubalaena_japonica', 'Ceratotherium_simum', 'Ceratotherium_simum_cottoni']
+optimal p:  [ 1.14275455e-01  1.14916780e-01 -3.19979157e-21  3.86307425e-01
+  3.84500340e-01]
+optimal x:  [1.         1.         0.50034476 1.         1.        ]
+optimal y:  0.08249929946033811
+Optimization Runtime:  0.3719027042388916

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 60 101]
+opt_x:  [0.40585734 1.        ]
+opt_p:  [1.33301489e-21 1.00000000e+00]
+opt_y:  0.05339312322022775
+optimal anchors:  ['Arilus_cristatus', 'Trichocorixa_calva']
+optimal p:  [1.33301489e-21 1.00000000e+00]
+optimal x:  [0.40585734 1.        ]
+optimal y:  0.05339312322022775
+Optimization Runtime:  0.2170107364654541

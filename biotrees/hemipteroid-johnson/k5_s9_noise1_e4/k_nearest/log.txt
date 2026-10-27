@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [208 209 143 206 215]
+opt_x:  [0.44107442 0.31859938 1.         0.18675082 1.        ]
+opt_p:  [-1.21449950e-22  6.19753508e-23  3.81551311e-01 -7.58840833e-23
+  6.18448689e-01]
+opt_y:  0.21357355762028762
+optimal anchors:  ['Mapuchea_sp', 'Blaberus_atropos', 'Cryptocercus_wrighti', 'Zootermopsis_nevadensis', 'Galloisiana_yuasai']
+optimal p:  [ 3.81551311e-01 -7.58840833e-23 -1.21449950e-22  6.19753508e-23
+  6.18448689e-01]
+optimal x:  [1.         0.18675082 0.44107442 0.31859938 1.        ]
+optimal y:  0.21357355762028762
+Optimization Runtime:  0.24427032470703125

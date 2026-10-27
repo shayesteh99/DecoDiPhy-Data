@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [106  74   4]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.11521508 0.37905732 0.5057276 ]
+opt_y:  0.06766979503883415
+optimal anchors:  ['I124', 'I39', 'Cryptocarenus_seriatus_I10214']
+optimal p:  [0.31216937 0.33172246 0.35610818]
+optimal x:  [4.81250901e-01 4.49583403e-22 6.65022692e-01]
+optimal y:  0.04003288035088541
+Optimization Runtime:  0.23778080940246582

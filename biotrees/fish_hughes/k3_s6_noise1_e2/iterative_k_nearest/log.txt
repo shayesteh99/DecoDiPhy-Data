@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [554 577 503]
+opt_x:  [1.         1.         0.48912455]
+opt_p:  [3.65203378e-01 6.34796622e-01 4.42054470e-20]
+opt_y:  0.2523101049832122
+optimal anchors:  ['Teleost_Otophysa_Siluriformes_Pangasiidae_Pangasianodon_hypophthalamus', 'Teleost_Otophysa_Gonorynchiformes_Chanidae_Chanos_chanos', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides']
+optimal p:  [4.42054470e-20 3.65203378e-01 6.34796622e-01]
+optimal x:  [0.48912455 1.         1.        ]
+optimal y:  0.2523101049832122
+Optimization Runtime:  0.5320651531219482

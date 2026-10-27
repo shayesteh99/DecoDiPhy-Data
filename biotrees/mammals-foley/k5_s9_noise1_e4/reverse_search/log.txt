@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [135 180 303 305 306]
+opt_x:  [0.99999901 1.         0.99994617 0.11741955 0.12332044]
+opt_p:  [0.02410439 0.58234088 0.36571814 0.01395497 0.01388166]
+opt_y:  0.12951637112684047
+optimal anchors:  ['Zapus_hudsonius', 'I94', 'I156', 'Camelus_ferus', 'Camelus_bactrianus']
+optimal p:  [0.03855656 0.5237084  0.37380906 0.03194954 0.03197647]
+optimal x:  [1.         0.99999724 0.56470655 0.65732156 0.65592599]
+optimal y:  0.12972333922033855
+Optimization Runtime:  0.999967098236084

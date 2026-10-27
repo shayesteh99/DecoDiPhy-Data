@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 64  79 182]
+opt_x:  [0.90806414 0.06358525 1.        ]
+opt_p:  [0.38676479 0.22144734 0.39178787]
+opt_y:  0.03026460821481738
+optimal anchors:  ['I36', 'I44', 'Balistidae_Canthidermis_sufflamen_USNMAC7BZ85']
+optimal p:  [0.38676479 0.22144734 0.39178787]
+optimal x:  [0.90806414 0.06358525 1.        ]
+optimal y:  0.03026460821481738
+Optimization Runtime:  0.6086969375610352

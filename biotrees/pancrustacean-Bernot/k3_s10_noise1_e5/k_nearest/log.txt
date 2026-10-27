@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [148 151 175]
+opt_x:  [1.         1.         0.99999973]
+opt_p:  [1.44098256e-09 6.52308207e-01 3.47691792e-01]
+opt_y:  0.29845773388694125
+optimal anchors:  ['I78', 'Sphaeroma_terebrans', 'Litopenaeus_vannamei']
+optimal p:  [1.00293812e-20 6.52308217e-01 3.47691783e-01]
+optimal x:  [0.50521129 1.         1.        ]
+optimal y:  0.2984577321910755
+Optimization Runtime:  0.1475667953491211

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [491 492 574 575 579]
+opt_x:  [1.         0.41356901 0.51844276 0.58337969 0.5236545 ]
+opt_p:  [ 1.00000000e+00  7.52409277e-22  1.87815461e-22 -1.91463429e-21
+ -1.02253742e-21]
+opt_y:  0.05423759160379894
+optimal anchors:  ['I252', 'Pseudopodoces_humilis', 'I293', 'Buphagus_erythrorhynchus', 'Leucopsar_rothschildi']
+optimal p:  [ 1.00000000e+00  7.52409277e-22  1.87815461e-22 -1.91463429e-21
+ -1.02253742e-21]
+optimal x:  [1.         0.41356901 0.51844276 0.58337969 0.5236545 ]
+optimal y:  0.05423759160379894
+Optimization Runtime:  2.821977138519287

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 31  60  78 207 339]
+opt_x:  [0.47772348 1.         1.         1.         1.        ]
+opt_p:  [0.32295485 0.16025254 0.12974494 0.15300977 0.23403791]
+opt_y:  0.09286417506515127
+optimal anchors:  ['I6', 'I21', 'I42', 'Zootermopsis_nevadensis', 'Dactylopius_confuses']
+optimal p:  [0.10657798 0.3140138  0.18984816 0.15479097 0.2347691 ]
+optimal x:  [0.62948288 0.35513792 0.45676432 1.         1.        ]
+optimal y:  0.0957741707546078
+Optimization Runtime:  6.22298264503479

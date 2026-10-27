@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 51  58  75 129 278]
+opt_x:  [1.        1.        1.        0.9469029 0.8210538]
+opt_p:  [0.24272595 0.24730038 0.1300732  0.25950699 0.12039347]
+opt_y:  0.07738319823463508
+optimal anchors:  ['I24', 'I38', 'I42', 'Centrotus_cornutus', 'Heterocaecilius_solocipennis']
+optimal p:  [ 2.22024258e-01  4.05926892e-01 -9.49958407e-22  2.53647559e-01
+  1.18401291e-01]
+optimal x:  [0.01348798 0.56346818 0.1460213  0.85753019 0.79430492]
+optimal y:  0.09023453827862936
+Optimization Runtime:  2.5874783992767334

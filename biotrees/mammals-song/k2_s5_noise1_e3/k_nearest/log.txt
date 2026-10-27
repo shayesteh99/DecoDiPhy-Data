@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [14 12]
+opt_x:  [1.         0.10458895]
+opt_p:  [ 1.00000000e+00 -3.27060765e-25]
+opt_y:  0.06435066728042248
+optimal anchors:  ['PAN', 'GOR']
+optimal p:  [-3.27060765e-25  1.00000000e+00]
+optimal x:  [0.10458895 1.        ]
+optimal y:  0.06435066728042248
+Optimization Runtime:  0.060610055923461914

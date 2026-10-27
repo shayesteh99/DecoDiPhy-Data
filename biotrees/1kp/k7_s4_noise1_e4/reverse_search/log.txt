@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 40  53  68  96  99 172 173]
+opt_x:  [1.51259958e-21 9.16522749e-01 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00 1.00000000e+00 1.00000000e+00]
+opt_p:  [0.13320731 0.11433112 0.29340307 0.13099582 0.130981   0.10099034
+ 0.09609134]
+opt_y:  0.167951214694244
+optimal anchors:  ['I35', 'Boehmeria_nivea', 'Sarcandra_glabra', 'I59', 'Ginkgo_biloba', 'Coleochaete_scutata', 'Chaetosphaeridium_globosum']
+optimal p:  [0.13232534 0.11506656 0.29355339 0.13097511 0.13099813 0.10100402
+ 0.09607744]
+optimal x:  [0.99111741 0.91766285 1.         1.         1.         1.
+ 1.        ]
+optimal y:  0.16787782493141268
+Optimization Runtime:  0.33199334144592285

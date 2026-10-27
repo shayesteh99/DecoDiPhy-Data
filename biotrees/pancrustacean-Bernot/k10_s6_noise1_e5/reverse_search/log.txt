@@ -1,0 +1,15 @@
+created matrices
+opt_anchors:  [  1   7  24 136 159 167 180 185 186 187]
+opt_x:  [0.62434373 1.         0.98535365 1.         1.         1.
+ 1.         1.         1.         0.00372611]
+opt_p:  [0.00886987 0.52439809 0.03264664 0.09475798 0.08045744 0.12096093
+ 0.07919567 0.02411664 0.02398889 0.01060784]
+opt_y:  0.4253970934875643
+optimal anchors:  ['Sminthurus_viridis', 'I7', 'Tribolium_castaneum', 'Trachelipus_rathkei', 'Thysanoessa_inermis', 'Sergestes_similis', 'Pagurus_longicarpus', 'Cherax_destructor', 'Enoplometopus_cf_daumi', 'Folsomia_candida']
+optimal p:  [0.01673129 0.52036427 0.02748033 0.09441172 0.07978056 0.11983866
+ 0.08019208 0.02392624 0.0236075  0.01366735]
+optimal x:  [8.10901866e-01 2.65638814e-23 9.02536360e-01 1.00000000e+00
+ 1.00000000e+00 1.00000000e+00 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00 5.41476995e-01]
+optimal y:  0.42653500244335824
+Optimization Runtime:  0.5789823532104492

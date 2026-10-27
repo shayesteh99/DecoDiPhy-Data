@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [584 606]
+opt_x:  [0.47312029 1.        ]
+opt_p:  [2.72061235e-21 1.00000000e+00]
+opt_y:  0.04498117333400188
+optimal anchors:  ['Sturnus_vulgaris', 'Leptocoma_aspasia']
+optimal p:  [2.72061235e-21 1.00000000e+00]
+optimal x:  [0.47312029 1.        ]
+optimal y:  0.04498117333400188
+Optimization Runtime:  0.7639126777648926

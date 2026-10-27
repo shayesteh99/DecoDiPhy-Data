@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [485 550 380 573 519]
+opt_x:  [1.         0.23088437 1.         1.         1.        ]
+opt_p:  [-1.45982061e-21  2.11639124e-21  5.13545422e-01  1.42235117e-01
+  3.44219461e-01]
+opt_y:  0.2440379204963906
+optimal anchors:  ['I19', 'I244', 'Teleost_Otophysa_Characiformes_Serrasalmidae_Pygocentrus_nattereri', 'Teleost_Otophysa_Gonorynchiformes_Chanidae_Chanos_chanos', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides']
+optimal p:  [3.93273776e-01 8.66482925e-22 2.50906361e-01 1.18853354e-01
+ 2.36966510e-01]
+optimal x:  [1.20755530e-22 6.57321076e-01 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00]
+optimal y:  0.23444350164021488
+Optimization Runtime:  0.7200350761413574

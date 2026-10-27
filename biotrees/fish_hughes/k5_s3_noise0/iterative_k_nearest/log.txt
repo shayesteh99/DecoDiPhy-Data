@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [449 381 398 154 590]
+opt_x:  [1.00000000e+00 3.31454688e-01 2.07481916e-22 4.74399061e-01
+ 1.00000000e+00]
+opt_p:  [6.33203883e-23 4.63924725e-22 2.42564770e-01 1.59178538e-01
+ 5.98256692e-01]
+opt_y:  0.09645297498296843
+optimal anchors:  ['Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'Teleost_Euteleost_Trachichthyformes_Monocentridae_Monocentris_japonica', 'I203', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Arctogadus_glacialis', 'Amiiformes_Amiidae_Amia_calva_gill']
+optimal p:  [3.44994393e-01 1.79240040e-02 2.43151368e-08 2.95840797e-01
+ 3.41240782e-01]
+optimal x:  [1.         1.         0.24891836 0.57657865 1.        ]
+optimal y:  0.2081933178712947
+Optimization Runtime:  0.5895442962646484

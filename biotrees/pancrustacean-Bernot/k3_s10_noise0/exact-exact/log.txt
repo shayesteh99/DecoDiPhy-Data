@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [  7 105 144]
+opt_x:  [0.28581139 0.41075394 0.66359824]
+opt_p:  [0.01455541 0.44444061 0.54100398]
+opt_y:  0.10961196445261502
+optimal anchors:  ['Megajapyx_major', 'I58', 'Trachelipus_rathkei']
+optimal p:  [0.01455541 0.44444061 0.54100398]
+optimal x:  [0.28581139 0.41075394 0.66359824]
+optimal y:  0.10961196445261502
+Optimization Runtime:  18272.550395727158

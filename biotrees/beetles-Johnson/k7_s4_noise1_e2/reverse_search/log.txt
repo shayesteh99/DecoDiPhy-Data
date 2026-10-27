@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 21  42  67  78  98 177 178]
+opt_x:  [1.         0.91313183 1.         1.         1.         1.
+ 1.        ]
+opt_p:  [0.11686533 0.40492895 0.20998991 0.0381598  0.0933579  0.06825709
+ 0.06844102]
+opt_y:  0.05262724884623512
+optimal anchors:  ['I22', 'I27', 'I40', 'Hypocryphalus_montanus_I13638', 'I56', 'Xyleborus_granulosus_I13674', 'Ambrosiodmus_rubricollis_I14146']
+optimal p:  [0.12497343 0.37150856 0.19879436 0.05379583 0.11484264 0.06793426
+ 0.06815093]
+optimal x:  [0.26532355 0.88120377 0.75903828 1.         0.82909657 1.
+ 1.        ]
+optimal y:  0.05278208328213646
+Optimization Runtime:  0.5655443668365479

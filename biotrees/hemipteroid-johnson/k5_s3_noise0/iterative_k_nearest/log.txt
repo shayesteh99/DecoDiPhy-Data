@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [182 208 143 297  69]
+opt_x:  [1.00000000e+00 5.33063937e-01 1.00000000e+00 8.07094082e-01
+ 7.03317552e-22]
+opt_p:  [1.98290592e-01 3.01316904e-22 1.92530571e-01 4.20367792e-01
+ 1.88811045e-01]
+opt_y:  0.08347949345228307
+optimal anchors:  ['Lygus_lineolaris', 'I64', 'Cycadothrips_chadwicki', 'Cryptocercus_wrighti', 'Euroleon_nostras']
+optimal p:  [0.1538417  0.17225233 0.3295172  0.0382823  0.30610648]
+optimal x:  [3.09260814e-02 2.88287201e-22 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00]
+optimal y:  0.10685978505574446
+Optimization Runtime:  0.31983280181884766

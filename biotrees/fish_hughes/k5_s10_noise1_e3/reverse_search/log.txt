@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [452 496 505 584 586]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.35262997 0.13272912 0.1224287  0.23724169 0.15497052]
+opt_y:  0.20872097703979814
+optimal anchors:  ['I202', 'I257', 'Teleost_Otophysa_Siluriformes_Plotosidae_Plotosus_lineatus', 'I294', 'I300']
+optimal p:  [0.34397713 0.12749983 0.11819261 0.28311504 0.12721538]
+optimal x:  [0.12290939 1.         1.         0.81692809 1.        ]
+optimal y:  0.22351840133315795
+Optimization Runtime:  1.921316146850586

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [430 436 593 489 586 596 249]
+opt_x:  [0.5222194  0.50065577 0.48187387 0.49037983 1.         1.
+ 0.99999972]
+opt_p:  [-2.99480350e-07 -2.80327835e-07 -7.77578539e-07 -7.38229734e-07
+  2.40137557e-01  2.01610818e-01  5.58253721e-01]
+opt_y:  0.0563956893149196
+optimal anchors:  ['Cathartes_aura', 'Paradisaea_raggiana', 'Corvus_cornix', 'Poecile_atricapillus', 'Buphagus_erythrorhynchus', 'Promerops_cafer', 'Dicaeum_eximium']
+optimal p:  [ 2.53168424e-01  1.95060927e-01  7.37184325e-22  4.54772306e-02
+  1.49249801e-01  3.57043617e-01 -1.28138870e-20]
+optimal x:  [1.         1.         0.49606156 1.         1.         1.
+ 0.44221419]
+optimal y:  0.05682758883004646
+Optimization Runtime:  0.9182665348052979

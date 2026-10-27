@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [230 444 446 470 471 486 495 496 568 576]
+opt_x:  [1.         1.         1.         0.98670248 0.60633077 0.39478084
+ 0.3076355  0.49641532 0.90937992 0.6149554 ]
+opt_p:  [0.12027719 0.08127652 0.10022489 0.09993851 0.06496069 0.08174722
+ 0.0877563  0.05895354 0.17961862 0.12524652]
+opt_y:  0.1391556615133578
+optimal anchors:  ['Teleost_Euteleost_Eupercaria_Lutjaniformes_Haemulidae_Haemulon_flavolineatum', 'I203', 'I234', 'I246', 'Teleost_Euteleost_Salmoniformes_Salmonidae_Oncorhynchus_mykiss', 'I255', 'I260', 'Teleost_Otophysa_Siluriformes_Amblycipitidae_Liobagrus_styani', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Scleropages_formosus', 'I300']
+optimal p:  [0.12352207 0.07975873 0.09600052 0.11328454 0.05368186 0.08189821
+ 0.07621938 0.07049046 0.17987234 0.1252719 ]
+optimal x:  [1.         0.33653109 0.18965967 0.9995571  0.52361884 0.39798177
+ 0.35420062 0.57883521 0.91034023 0.61554247]
+optimal y:  0.13882862278220914
+Optimization Runtime:  10.674740076065063

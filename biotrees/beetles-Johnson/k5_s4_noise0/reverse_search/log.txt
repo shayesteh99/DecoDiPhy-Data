@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 37  68 105 182 186]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.25906032 0.37440868 0.18073688 0.0913792  0.09441491]
+opt_y:  0.04310377093037411
+optimal anchors:  ['I13', 'I38', 'Gnathotrichus_materiarius_I13680', 'I100', 'Coccotrypes_dactyliperda_I14147']
+optimal p:  [0.25650959 0.37613794 0.18162021 0.12475038 0.06098188]
+optimal x:  [0.54318317 0.31358631 1.         0.49798214 1.        ]
+optimal y:  0.04316394720094477
+Optimization Runtime:  2.1157946586608887

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [378 614 615 616 618 619 679]
+opt_x:  [1.         1.         1.         0.51941411 0.47118585 0.54386997
+ 1.        ]
+opt_p:  [ 5.45686359e-01  9.22835037e-02  9.23345082e-02 -4.76087513e-22
+ -7.64093633e-23  2.69379020e-23  2.69695629e-01]
+opt_y:  0.04035999459290186
+optimal anchors:  ['Onychorhynchus_coronatus', 'Ploceus_nigricollis', 'I314', 'Taeniopygia_guttata', 'Vidua_macroura', 'Vidua_chalybeata', 'Dromaius_novaehollandiae']
+optimal p:  [ 5.45686359e-01  9.22835037e-02  9.23345082e-02 -4.76087513e-22
+ -7.64093633e-23  2.69379020e-23  2.69695629e-01]
+optimal x:  [1.         1.         1.         0.51941411 0.47118585 0.54386997
+ 1.        ]
+optimal y:  0.04035999459290186
+Optimization Runtime:  2.8154799938201904

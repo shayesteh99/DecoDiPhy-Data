@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [105 121]
+opt_x:  [0.45929773 1.        ]
+opt_p:  [7.65905402e-22 1.00000000e+00]
+opt_y:  0.20018570359257504
+optimal anchors:  ['Daubentonia_madagascariensis', 'Galeopterus_variegatus']
+optimal p:  [7.65905402e-22 1.00000000e+00]
+optimal x:  [0.45929773 1.        ]
+optimal y:  0.20018570359257504
+Optimization Runtime:  0.32036519050598145

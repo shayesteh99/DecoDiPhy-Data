@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [11 15 33 36 95]
+opt_x:  [1.         1.         1.         0.99963717 1.        ]
+opt_p:  [0.09401417 0.12022099 0.29110076 0.07570865 0.41895542]
+opt_y:  0.482211024526751
+optimal anchors:  ['Acerentomon_sp.', 'I11', 'I18', 'Morlockia_williamsi', 'I53']
+optimal p:  [0.04269205 0.0962111  0.41374955 0.06748582 0.37986149]
+optimal x:  [1.         0.08906695 0.08688604 0.79146975 0.36609411]
+optimal y:  0.4836976056619756
+Optimization Runtime:  0.3033022880554199

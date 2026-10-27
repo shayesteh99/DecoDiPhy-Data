@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [156 197]
+opt_x:  [0.70589978 0.91237329]
+opt_p:  [1.38148699e-21 1.00000000e+00]
+opt_y:  0.35140581510572044
+optimal anchors:  ['Hedwigia_ciliata', 'Nephroselmis_pyriformis']
+optimal p:  [1.38148699e-21 1.00000000e+00]
+optimal x:  [0.70589978 0.91237329]
+optimal y:  0.35140581510572044
+Optimization Runtime:  0.07567095756530762

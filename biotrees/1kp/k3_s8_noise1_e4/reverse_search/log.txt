@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 9 67 83]
+opt_x:  [3.26122091e-01 1.00000000e+00 1.74112591e-20]
+opt_p:  [0.71927928 0.25594567 0.02477504]
+opt_y:  0.20538473625215437
+optimal anchors:  ['I10', 'Eschscholzia_californica', 'Cycas_rumphii']
+optimal p:  [0.71927928 0.25594567 0.02477504]
+optimal x:  [3.26122091e-01 1.00000000e+00 1.74112591e-20]
+optimal y:  0.20538473625215437
+Optimization Runtime:  0.27611589431762695

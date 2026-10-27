@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [289 146]
+opt_x:  [1. 1.]
+opt_p:  [0.55265355 0.44734645]
+opt_y:  0.045267033174412094
+optimal anchors:  ['Triacanthodidae_Hollardia_hollardia_Vims40109', 'Monocanthidae_Thamnaconus_striatus_EPLATE_51_G11']
+optimal p:  [0.44734645 0.55265355]
+optimal x:  [1. 1.]
+optimal y:  0.045267033174412094
+Optimization Runtime:  0.18404269218444824

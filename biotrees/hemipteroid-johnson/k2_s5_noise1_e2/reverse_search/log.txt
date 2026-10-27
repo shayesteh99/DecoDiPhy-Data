@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [132 135]
+opt_x:  [1.         0.53429815]
+opt_p:  [ 1.00000000e+00 -5.69727473e-22]
+opt_y:  0.11178157680343723
+optimal anchors:  ['I70', 'Centrotus_cornutus']
+optimal p:  [ 1.00000000e+00 -5.69727473e-22]
+optimal x:  [1.         0.53429815]
+optimal y:  0.11178157680343723
+Optimization Runtime:  0.5725514888763428

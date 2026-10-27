@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [47 50]
+opt_x:  [0.99999804 1.        ]
+opt_p:  [9.99999898e-01 1.07320018e-07]
+opt_y:  0.03297651851032115
+optimal anchors:  ['Austronomia_australica', 'Hoplonomia_elliotii']
+optimal p:  [9.99997959e-01 2.03686914e-06]
+optimal x:  [0.99999801 0.6059262 ]
+optimal y:  0.03297650889375127
+Optimization Runtime:  0.07588005065917969

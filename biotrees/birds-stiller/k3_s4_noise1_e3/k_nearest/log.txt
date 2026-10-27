@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [195 238 194]
+opt_x:  [1.         0.49777967 1.        ]
+opt_p:  [ 5.00237738e-01 -2.57119450e-22  4.99762262e-01]
+opt_y:  0.0556629072405062
+optimal anchors:  ['Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Phalacrocorax_auritus']
+optimal p:  [ 4.99762262e-01  5.00237738e-01 -2.57119450e-22]
+optimal x:  [1.         1.         0.49777967]
+optimal y:  0.0556629072405062
+Optimization Runtime:  0.7308154106140137

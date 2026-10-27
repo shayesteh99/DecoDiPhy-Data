@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  9  92  31 175  46]
+opt_x:  [8.15047101e-22 1.00000000e+00 6.81260445e-01 1.00000000e+00
+ 1.00000000e+00]
+opt_p:  [ 3.71224205e-02  4.03236348e-01 -1.09887906e-22  3.92551181e-01
+  1.67090050e-01]
+opt_y:  0.12967974795918952
+optimal anchors:  ['Scutelleridae_sp', 'Alydus_pilosus', 'Chauliops_fallax', 'Gelastocoris_oculatus', 'Cycadothrips_chadwicki']
+optimal p:  [ 3.71224205e-02 -1.09887906e-22  1.67090050e-01  4.03236348e-01
+  3.92551181e-01]
+optimal x:  [8.15047101e-22 6.81260445e-01 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00]
+optimal y:  0.12967974795918952
+Optimization Runtime:  0.3313589096069336

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [300 121]
+opt_x:  [1. 1.]
+opt_p:  [0.14926252 0.85073748]
+opt_y:  0.14037136759061242
+optimal anchors:  ['Galeopterus_variegatus', 'Hipposideros_armiger']
+optimal p:  [0.85073748 0.14926252]
+optimal x:  [1. 1.]
+optimal y:  0.14037136759061242
+Optimization Runtime:  0.3475840091705322

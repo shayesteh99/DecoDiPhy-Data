@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [146  82 147 144 141 142 145]
+opt_x:  [1.         1.         0.70993965 0.44291399 0.43279833 0.42427915
+ 0.41440117]
+opt_p:  [ 2.65965048e-01  6.12286926e-01  1.21748027e-01 -2.04409790e-20
+ -1.95714987e-20 -2.13000528e-20 -1.99162680e-20]
+opt_y:  0.05388450983740867
+optimal anchors:  ['Cycas_micholitzii', 'I80', 'Rhynchostegium_serrulatum', 'Thuidium_delicatulum', 'Anomodon_attenuatus', 'Leucodon_brachypus', 'Physcomitrella_patens']
+optimal p:  [6.12286926e-01 2.29011886e-01 1.46413045e-18 1.48542150e-18
+ 1.47450177e-18 1.51479970e-18 1.58701188e-01]
+optimal x:  [1.         0.34083997 0.33910361 0.30599884 0.35855289 0.29783615
+ 0.77747945]
+optimal y:  0.05369280533000801
+Optimization Runtime:  0.10876297950744629

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [132 133 166]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.08322462 0.08259264 0.83418274]
+opt_y:  0.06035944637830793
+optimal anchors:  ['I1', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Tetraodontidae_Takifugu_flavidus', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Tetraodontidae_Takifugu_rubripes']
+optimal p:  [0.77827175 0.11127985 0.1104484 ]
+optimal x:  [0.38730908 1.         1.        ]
+optimal y:  0.04746536178264289
+Optimization Runtime:  0.29317808151245117

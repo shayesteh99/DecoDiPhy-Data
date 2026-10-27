@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [282 222 212]
+opt_x:  [0.77973687 0.93701795 0.50333503]
+opt_p:  [ 5.24369827e-01  4.75630173e-01 -2.43178585e-22]
+opt_y:  0.1198176594437833
+optimal anchors:  ['Cryptocercus_wrighti', 'Timema_cristinae', 'Aaroniella_sp']
+optimal p:  [-2.43178585e-22  4.75630173e-01  5.24369827e-01]
+optimal x:  [0.50333503 0.93701795 0.77973687]
+optimal y:  0.1198176594437833
+Optimization Runtime:  0.19618725776672363

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 59  60 123 155 252]
+opt_x:  [1.         0.56636483 1.         1.         1.        ]
+opt_p:  [ 2.91590553e-01 -1.95670933e-22  2.42748133e-01  1.65567575e-01
+  3.00093739e-01]
+opt_y:  0.14283557793864787
+optimal anchors:  ['I34', 'Pagasa_sp', 'I67', 'Bruchomorpha_oculata', 'I112']
+optimal p:  [ 2.91590553e-01 -1.95670933e-22  2.42748133e-01  1.65567575e-01
+  3.00093739e-01]
+optimal x:  [1.         0.56636483 1.         1.         1.        ]
+optimal y:  0.14283557793864787
+Optimization Runtime:  0.9050159454345703

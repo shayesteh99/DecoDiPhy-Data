@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [585 581]
+opt_x:  [0.4937659  0.99998915]
+opt_p:  [1.07054926e-05 9.99989279e-01]
+opt_y:  0.042005132541676336
+optimal anchors:  ['Buphagus_erythrorhynchus', 'Leucopsar_rothschildi']
+optimal p:  [9.99989279e-01 1.07054926e-05]
+optimal x:  [0.99998915 0.4937659 ]
+optimal y:  0.042005132541676336
+Optimization Runtime:  0.7958071231842041

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [111  98 147 144  76 119  74]
+opt_x:  [0.61053747 0.50167176 1.         0.47402839 0.46923978 1.
+ 1.        ]
+opt_p:  [2.13471194e-22 4.39000174e-22 3.21786736e-01 4.25803630e-22
+ 3.81975015e-22 3.37871629e-01 3.40341635e-01]
+opt_y:  0.14293359681974147
+optimal anchors:  ['I15', 'Amborella_trichopoda', 'Ginkgo_biloba', 'Angiopteris_evecta', 'Huperzia_squarrosa', 'Hedwigia_ciliata', 'Polytrichum_commune']
+optimal p:  [2.65030737e-01 1.25587495e-08 1.85237020e-02 2.11072390e-01
+ 1.84074992e-01 3.20273582e-08 3.21298135e-01]
+optimal x:  [0.02585561 0.81220332 1.         0.99999992 0.99999992 0.41183741
+ 1.        ]
+optimal y:  0.15624448770807906
+Optimization Runtime:  0.251345157623291

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [21 30 44]
+opt_x:  [0.68515975 0.90107115 1.        ]
+opt_p:  [0.11205086 0.2274445  0.66050464]
+opt_y:  0.029610312971077173
+optimal anchors:  ['I13', 'Agrahami__LakeMagadi__Ag2630', 'I35']
+optimal p:  [0.12128657 0.2274445  0.65126893]
+optimal x:  [0.71906463 0.90107115 0.86180764]
+optimal y:  0.029323804788187597
+Optimization Runtime:  0.45182275772094727

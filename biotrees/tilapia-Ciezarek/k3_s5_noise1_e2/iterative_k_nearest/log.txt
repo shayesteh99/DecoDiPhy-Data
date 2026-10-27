@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [66 86 68]
+opt_x:  [1.         1.         0.50020053]
+opt_p:  [2.45545493e-01 7.54454507e-01 6.97358739e-23]
+opt_y:  0.011221949206253279
+optimal anchors:  ['I37', 'Osquamipinnis__LakeMassoko__221A', 'Ohunteri__LakeChala__G1-K2G2']
+optimal p:  [0.57049964 0.01009926 0.41940111]
+optimal x:  [0.98283939 0.99998927 0.99999919]
+optimal y:  0.020488019293623917
+Optimization Runtime:  0.20635557174682617

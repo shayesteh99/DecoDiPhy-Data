@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [440 441 438]
+opt_x:  [0.51027292 0.50293703 1.        ]
+opt_p:  [2.92590578e-23 2.83655409e-22 1.00000000e+00]
+opt_y:  0.018487344512822308
+optimal anchors:  ['Corvus_moneduloides', 'Corvus_cornix', 'Corvus_brachyrhynchos']
+optimal p:  [1.00000000e+00 2.92590578e-23 2.83655409e-22]
+optimal x:  [1.         0.51027292 0.50293703]
+optimal y:  0.018487344512822308
+Optimization Runtime:  0.7942183017730713

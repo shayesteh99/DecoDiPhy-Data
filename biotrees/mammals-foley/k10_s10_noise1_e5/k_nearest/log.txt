@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [459 458 454 456 451 452 306 448 447 446]
+opt_x:  [0.5014401  0.5004592  1.         0.46444619 1.         1.
+ 0.41963475 1.         0.50031851 0.49927098]
+opt_p:  [ 8.59871585e-22  9.38486470e-22  6.67654019e-03 -6.58771936e-22
+  4.71558119e-01  4.68637828e-01 -2.46706913e-22  5.31275132e-02
+  1.54470467e-21  2.22080184e-21]
+opt_y:  0.10862622603273589
+optimal anchors:  ['Eubalaena_japonica', 'Equus_caballus', 'Equus_przewalskii', 'Equus_asinus', 'Tapirus_indicus', 'Tapirus_terrestris', 'Dicerorhinus_sumatrensis', 'Diceros_bicornis', 'Ceratotherium_simum', 'Ceratotherium_simum_cottoni']
+optimal p:  [-2.46706913e-22  2.22080184e-21  1.54470467e-21  5.31275132e-02
+  4.71558119e-01  4.68637828e-01  6.67654019e-03 -6.58771936e-22
+  9.38486470e-22  8.59871585e-22]
+optimal x:  [0.41963475 0.49927098 0.50031851 1.         1.         1.
+ 1.         0.46444619 0.5004592  0.5014401 ]
+optimal y:  0.10862622603273589
+Optimization Runtime:  0.39455437660217285

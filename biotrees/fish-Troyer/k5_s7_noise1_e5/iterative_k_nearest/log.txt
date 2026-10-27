@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [142   8  84 163  76]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.01730614 0.09152038 0.14090969 0.5534394  0.19682438]
+opt_y:  0.023938080126843227
+optimal anchors:  ['Aracanidae_Anoplocapros_inermis_EPLATE_53_A05', 'Tetraodontidae_Canthigaster_solandri_USNMAG9RM90', 'Tetraodontidae_Arothron_meleagris_USNMAG5NP43', 'Triacanthodidae_Hollardia_hollardia_Vims40109', 'Balistidae_Odonus_niger_USNMAG7PW08']
+optimal p:  [0.09152038 0.19682438 0.14090969 0.01730614 0.5534394 ]
+optimal x:  [1. 1. 1. 1. 1.]
+optimal y:  0.023938080126843227
+Optimization Runtime:  0.33011794090270996

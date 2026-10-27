@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 9 38 46]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.5614985  0.14486599 0.29363551]
+opt_y:  0.05215657786182546
+optimal anchors:  ['I24', 'I21', 'Chauliops_fallax']
+optimal p:  [0.64721937 0.3006776  0.05210303]
+optimal x:  [0.33856207 0.37259163 1.        ]
+optimal y:  0.06558670276827053
+Optimization Runtime:  2.3397042751312256

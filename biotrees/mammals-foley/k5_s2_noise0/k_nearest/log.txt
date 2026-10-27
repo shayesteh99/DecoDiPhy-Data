@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [54 49 50 55 53]
+opt_x:  [0.51829661 1.         1.         0.4732436  0.509684  ]
+opt_p:  [-4.94854825e-22  4.99838277e-01  5.00161723e-01 -9.29822691e-22
+ -8.56231673e-22]
+opt_y:  0.06905494937010558
+optimal anchors:  ['Mandrillus_leucophaeus', 'Papio_anubis', 'Macaca_mulatta', 'Macaca_fascicularis', 'Macaca_nemestrina']
+optimal p:  [ 4.99838277e-01  5.00161723e-01 -8.56231673e-22 -4.94854825e-22
+ -9.29822691e-22]
+optimal x:  [1.         1.         0.509684   0.51829661 0.4732436 ]
+optimal y:  0.06905494937010558
+Optimization Runtime:  0.2887694835662842

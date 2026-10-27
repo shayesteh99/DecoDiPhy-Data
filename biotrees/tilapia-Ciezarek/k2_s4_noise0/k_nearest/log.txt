@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [59 61]
+opt_x:  [1.         0.61834543]
+opt_p:  [1.00000000e+00 3.15602866e-24]
+opt_y:  0.010275634491181525
+optimal anchors:  ['Orukwaensis__LakeRukwa__T10D02', 'Omalagarasi__Uvinza__130']
+optimal p:  [1.00000000e+00 3.15602866e-24]
+optimal x:  [1.         0.61834543]
+optimal y:  0.010275634491181525
+Optimization Runtime:  0.0735771656036377

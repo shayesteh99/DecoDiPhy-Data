@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  8 103 208 237 238 282 294]
+opt_x:  [0.93920884 0.96744996 0.96724091 0.98515812 1.         0.92374747
+ 1.        ]
+opt_p:  [0.07764953 0.06605707 0.20362789 0.07529073 0.18731324 0.33268437
+ 0.05737717]
+opt_y:  0.08488770983817791
+optimal anchors:  ['Myrmecophaga_tridactyla', 'Propithecus_coquereli', 'Hydrochoerus_hydrochaeris', 'I124', 'Crocidura_indochinensis', 'Rousettus_aegyptiacus', 'Megaderma_lyra']
+optimal p:  [0.07764953 0.06605707 0.20362788 0.19311424 0.06948983 0.33268458
+ 0.05737687]
+optimal x:  [0.93920884 0.96744975 0.96724088 0.96996145 0.98391912 0.92374891
+ 0.99999172]
+optimal y:  0.08488768154642859
+Optimization Runtime:  6.961654424667358

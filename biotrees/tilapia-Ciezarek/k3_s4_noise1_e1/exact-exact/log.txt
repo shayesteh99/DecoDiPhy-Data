@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [30 57 69]
+opt_x:  [0.77766249 0.84169453 0.83419098]
+opt_p:  [0.39088333 0.38993767 0.219179  ]
+opt_y:  0.012609127107269157
+optimal anchors:  ['Agrahami__LakeMagadi__Ag2630', 'Orukwaensis__LakeRukwa__T10D02', 'Goldenchambo__LakeIkapu__G7B3']
+optimal p:  [0.39088333 0.38993767 0.219179  ]
+optimal x:  [0.77766249 0.84169453 0.83419098]
+optimal y:  0.012609127107269157
+Optimization Runtime:  11751.276860952377

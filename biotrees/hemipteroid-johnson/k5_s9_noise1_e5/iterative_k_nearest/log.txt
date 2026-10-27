@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [206 173 178 116 306]
+opt_x:  [0.57525486 1.         0.67075903 1.         1.        ]
+opt_p:  [-1.49688910e-21  4.58972023e-01  1.08438311e-21  6.01350190e-02
+  4.80892958e-01]
+opt_y:  0.15119693672878584
+optimal anchors:  ['Tibicen_dorsata', 'Peloridium_hammoniorum', 'Cycadothrips_chadwicki', 'Blaberus_atropos', 'Gyrinus_marinus']
+optimal p:  [ 6.01350190e-02  4.58972023e-01  1.08438311e-21 -1.49688910e-21
+  4.80892958e-01]
+optimal x:  [1.         1.         0.67075903 0.57525486 1.        ]
+optimal y:  0.15119693672878584
+Optimization Runtime:  0.3369159698486328

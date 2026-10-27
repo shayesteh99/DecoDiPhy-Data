@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [ 24  41  44  77 149 183 188]
+opt_x:  [1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.07208744 0.08002459 0.19862244 0.25431098 0.11036203 0.11745935
+ 0.16713317]
+opt_y:  0.22562906193101895
+optimal anchors:  ['I4', 'I20', 'Inula_helenium', 'I39', 'Kadsura_heteroclita', 'Leucodon_brachypus', 'Chlorokybus_atmophyticus']
+optimal p:  [0.10725122 0.06421971 0.21079487 0.06232503 0.26736405 0.10923855
+ 0.17880657]
+optimal x:  [0.04515429 0.80575365 0.92389349 0.58129371 1.         1.
+ 1.        ]
+optimal y:  0.22164136341933968
+Optimization Runtime:  0.4327974319458008

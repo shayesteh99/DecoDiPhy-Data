@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 73  83  90 137 150]
+opt_x:  [0.62134355 1.         0.38836344 1.         0.50629682]
+opt_p:  [0.06539335 0.5541045  0.06209281 0.19581695 0.12259239]
+opt_y:  0.0334820221126499
+optimal anchors:  ['Osquamipinnis__LakeIlamba__120B', 'Ojipe__NyumbayaMunga__P2G6', 'I51', 'I75', 'I83']
+optimal p:  [0.06580763 0.06274585 0.57631828 0.1650488  0.13007943]
+optimal x:  [0.69577751 0.39963057 0.92852015 1.         0.54429238]
+optimal y:  0.033461995558885044
+Optimization Runtime:  0.27297544479370117

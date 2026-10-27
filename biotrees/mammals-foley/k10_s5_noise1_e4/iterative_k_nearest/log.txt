@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [454 314 452 329 102 432 392 118 183 319]
+opt_x:  [0.49182795 1.         1.         0.4561332  1.         1.
+ 1.         1.         1.         0.52049442]
+opt_p:  [-6.73822691e-22  6.72333602e-02  4.46809056e-02  2.81356189e-22
+ -1.87984254e-23  3.11827624e-02  1.43590806e-01  1.59451565e-01
+  5.53860602e-01 -2.44678459e-22]
+opt_y:  0.06120432025452954
+optimal anchors:  ['I55', 'Galeopterus_variegatus', 'Glis_glis', 'Eubalaena_japonica', 'Eschrichtius_robustus', 'Lipotes_vexillifer', 'Cryptoprocta_ferox', 'Zalophus_californianus', 'Tapirus_indicus', 'Dicerorhinus_sumatrensis']
+optimal p:  [ 1.76759011e-22  1.96371573e-01  2.18571195e-01  2.20014381e-01
+ -7.56928836e-23 -1.99174568e-22  1.00162284e-01  6.53562388e-02
+  1.99524328e-01  5.09536516e-23]
+optimal x:  [0.44425479 1.         1.         1.         0.4932527  0.50575338
+ 1.         1.         1.         0.45547098]
+optimal y:  0.09564895980611954
+Optimization Runtime:  1.354513168334961

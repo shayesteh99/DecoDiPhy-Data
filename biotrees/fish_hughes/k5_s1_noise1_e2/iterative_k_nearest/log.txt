@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [129 266 247 278  94]
+opt_x:  [1.         0.05765382 0.4012759  1.         0.5015609 ]
+opt_p:  [ 1.00000000e+00 -1.99269350e-21 -2.88178554e-21 -4.16620852e-24
+ -7.75003513e-21]
+opt_y:  0.1556204706203431
+optimal anchors:  ['Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Oreochromis_niloticus', 'Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'Teleost_Euteleost_Eupercaria_Centrarchiformes_Oplegnathidae_Oplegnathus_punctatus', 'Teleost_Euteleost_Eupercaria_Pempheriformes_Epigonidae_Epigonus_sp', 'I154']
+optimal p:  [ 8.47136448e-03  9.91528636e-01  7.98920656e-23 -6.40292802e-22
+ -2.63870477e-21]
+optimal x:  [6.77675742e-21 1.00000000e+00 1.00000000e+00 2.29597457e-01
+ 3.55410678e-01]
+optimal y:  0.16036131790792935
+Optimization Runtime:  0.5540709495544434

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 63 118 119 120 134 135 257]
+opt_x:  [0.49197762 0.52460108 0.52071121 0.28091458 0.66056107 0.5208638
+ 1.        ]
+opt_p:  [-1.67215510e-21 -1.10297809e-21 -2.10133436e-21 -3.11612086e-22
+ -1.46690498e-21 -7.64432861e-22  1.00000000e+00]
+opt_y:  0.03863120380061647
+optimal anchors:  ['Corythaixoides_concolor', 'I63', 'Calidris_pugnax', 'Limosa_lapponica', 'Glareola_pratincola', 'Dromas_ardeola', 'Aquila_chrysaetos']
+optimal p:  [-1.67215510e-21 -1.10297809e-21 -2.10133436e-21 -3.11612086e-22
+ -1.46690498e-21 -7.64432861e-22  1.00000000e+00]
+optimal x:  [0.49197762 0.52460108 0.52071121 0.28091458 0.66056107 0.5208638
+ 1.        ]
+optimal y:  0.03863120380061647
+Optimization Runtime:  2.714257001876831

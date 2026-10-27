@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [26 45]
+opt_x:  [0.44070823 0.84985025]
+opt_p:  [0.92333992 0.07666008]
+opt_y:  0.08962361446149687
+optimal anchors:  ['I19', 'PYGAD']
+optimal p:  [0.92333992 0.07666008]
+optimal x:  [0.44070823 0.84985025]
+optimal y:  0.08962361446149687
+Optimization Runtime:  51.30732536315918

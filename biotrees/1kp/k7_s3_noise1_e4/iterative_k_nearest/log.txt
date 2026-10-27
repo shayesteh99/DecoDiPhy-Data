@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 84 146  82  78 148  76 130]
+opt_x:  [0.38455843 0.50074825 1.         0.69151264 1.         1.
+ 1.        ]
+opt_p:  [ 3.48617331e-22 -1.43128833e-21 -1.88117348e-23  7.58336029e-23
+  5.26118608e-01  4.65584649e-01  8.29674351e-03]
+opt_y:  0.17176115263764535
+optimal anchors:  ['I14', 'Amborella_trichopoda', 'Cycas_rumphii', 'Zamia_vazquezii', 'Sphaerocarpos_texanus', 'Hedwigia_ciliata', 'Sphagnum_lescurii']
+optimal p:  [ 3.15511545e-01  3.62861425e-02  1.25598784e-07  1.29190820e-01
+  1.85484033e-02 -1.58325733e-06  5.00464543e-01]
+optimal x:  [9.43341403e-07 9.99963285e-01 1.00000000e+00 9.99999508e-01
+ 1.00000000e+00 4.62385064e-01 9.99998964e-01]
+optimal y:  0.18775577446136293
+Optimization Runtime:  0.2958815097808838

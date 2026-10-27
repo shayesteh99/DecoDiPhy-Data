@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [238 475]
+opt_x:  [1. 1.]
+opt_p:  [0.82733782 0.17266218]
+opt_y:  0.10480587251093658
+optimal anchors:  ['I120', 'Ceratotherium_simum_cottoni']
+optimal p:  [0.94217444 0.05782556]
+optimal x:  [0.38059834 1.        ]
+optimal y:  0.1313072171584041
+Optimization Runtime:  0.3814969062805176

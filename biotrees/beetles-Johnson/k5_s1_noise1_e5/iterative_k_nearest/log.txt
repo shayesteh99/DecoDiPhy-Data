@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [215 192 231 196  40]
+opt_x:  [1.         0.47058301 1.         1.         1.        ]
+opt_p:  [ 7.31434019e-01 -2.91341403e-22  1.95362334e-01  3.68418863e-02
+  3.63617600e-02]
+opt_y:  0.06158118749681884
+optimal anchors:  ['Hypothenemus_piaparolinae_I10225', 'Coccotrypes_sp2035_Cangar_I13659', 'Ips_pini_EST', 'Hylesinus_sp_I02536', 'Sueus_niisimai_I14148']
+optimal p:  [ 3.63617600e-02 -2.91341403e-22  3.68418863e-02  7.31434019e-01
+  1.95362334e-01]
+optimal x:  [1.         0.47058301 1.         1.         1.        ]
+optimal y:  0.06158118749681884
+Optimization Runtime:  0.2647552490234375

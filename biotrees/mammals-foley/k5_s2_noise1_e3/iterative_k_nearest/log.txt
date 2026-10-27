@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 50 468  44 440  24]
+opt_x:  [0.49076895 0.48463632 1.         1.         1.        ]
+opt_p:  [-4.70948111e-22 -2.39498353e-22  2.00083486e-01  2.30969069e-01
+  5.68947445e-01]
+opt_y:  0.06672317423612124
+optimal anchors:  ['Orycteropus_afer', 'Pongo_abelii', 'Papio_anubis', 'Zalophus_californianus', 'Ceratotherium_simum']
+optimal p:  [ 5.68947445e-01  2.00083486e-01 -4.70948111e-22  2.30969069e-01
+ -2.39498353e-22]
+optimal x:  [1.         1.         0.49076895 1.         0.48463632]
+optimal y:  0.06672317423612124
+Optimization Runtime:  0.4469730854034424

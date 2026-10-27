@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [251  47  15 204 250  37  46]
+opt_x:  [1.         1.         1.         1.         0.35750819 1.
+ 0.50290701]
+opt_p:  [ 4.98628176e-01  1.88574359e-01  2.23665737e-01  8.91317287e-02
+  1.83729964e-22  1.88341743e-24 -1.57250740e-22]
+opt_y:  0.13262698366353817
+optimal anchors:  ['Anasa_tristis', 'Acanthosoma_haemorrhoidale', 'Scutelleridae_sp', 'Corimelaena_lateralis', 'Cryptocercus_wrighti', 'Liposcelis_bostrychophila', 'Badonnelia_titei']
+optimal p:  [ 2.23665737e-01 -8.48183017e-23 -1.06850620e-22  1.88574359e-01
+  8.91317287e-02  3.64399619e-22  4.98628176e-01]
+optimal x:  [1.         0.82497237 0.56745729 1.         1.         0.44917599
+ 1.        ]
+optimal y:  0.13262698366353812
+Optimization Runtime:  0.3495488166809082

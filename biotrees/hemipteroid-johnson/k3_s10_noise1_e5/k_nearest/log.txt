@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [212 213 210]
+opt_x:  [0.5696788  0.53589175 1.        ]
+opt_p:  [7.62236761e-22 8.24182971e-22 1.00000000e+00]
+opt_y:  0.18627945869337184
+optimal anchors:  ['Blaberus_atropos', 'Cryptocercus_wrighti', 'Zootermopsis_nevadensis']
+optimal p:  [1.00000000e+00 7.62236761e-22 8.24182971e-22]
+optimal x:  [1.         0.5696788  0.53589175]
+optimal y:  0.18627945869337184
+Optimization Runtime:  0.22500824928283691

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [250 253]
+opt_x:  [1. 1.]
+opt_p:  [1.23921717e-23 1.00000000e+00]
+opt_y:  0.10625986253648603
+optimal anchors:  ['Echinophthirius_horridus', 'Columbicola_columbae']
+optimal p:  [-2.27663954e-22  1.00000000e+00]
+optimal x:  [0.23955572 1.        ]
+optimal y:  0.106259862536486
+Optimization Runtime:  3.617034673690796

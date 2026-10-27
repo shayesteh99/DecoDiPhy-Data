@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 29  43  44  82 198]
+opt_x:  [0.32137411 0.65843938 0.49410297 0.31061034 1.        ]
+opt_p:  [0.23799933 0.17934295 0.12028295 0.23034084 0.23203394]
+opt_y:  0.015619512984915563
+optimal anchors:  ['I17', 'I26', 'Diodontidae_Chilomycterus_spinosus_USNMAD9NF85', 'I48', 'Balistidae_Abalistes_filamentosus_EPLATE_51_B12']
+optimal p:  [0.23799933 0.17934295 0.12028295 0.23034084 0.23203394]
+optimal x:  [0.32137411 0.65843938 0.49410297 0.31061034 1.        ]
+optimal y:  0.015619512984915563
+Optimization Runtime:  0.7004678249359131

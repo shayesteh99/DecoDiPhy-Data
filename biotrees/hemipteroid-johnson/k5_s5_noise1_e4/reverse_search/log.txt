@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [133 178 182 356 364]
+opt_x:  [0.85343467 0.80715742 1.         1.         1.        ]
+opt_p:  [0.26446896 0.40098032 0.08336302 0.14207512 0.10911257]
+opt_y:  0.16603580835687265
+optimal anchors:  ['I71', 'I93', 'Orothrips_kelloggi', 'I182', 'Hydrometra_stagnorum']
+optimal p:  [0.26361913 0.39757938 0.08336302 0.14696792 0.10847055]
+optimal x:  [0.83943959 0.80393506 1.         0.97026069 1.        ]
+optimal y:  0.16792602212872523
+Optimization Runtime:  0.7375247478485107

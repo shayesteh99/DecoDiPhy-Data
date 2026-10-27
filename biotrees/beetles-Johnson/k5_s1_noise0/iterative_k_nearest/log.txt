@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [215 192 213 202 171]
+opt_x:  [1.         1.         0.44573224 1.         0.48739542]
+opt_p:  [ 6.96993289e-01  1.10658849e-01 -9.19930137e-20  1.92347862e-01
+  1.75413787e-21]
+opt_y:  0.049296174250348435
+optimal anchors:  ['I88', 'Xylosandrus_crassiusculus_genome_I16394', 'I109', 'Dendroctonus_frontalis_454EST', 'Hylesinus_sp_I02536']
+optimal p:  [6.13309058e-01 1.22268001e-07 1.79170664e-01 2.07514708e-01
+ 5.44833357e-06]
+optimal x:  [8.19203833e-01 1.00000000e+00 9.44394575e-01 8.17695383e-06
+ 1.76106322e-01]
+optimal y:  0.05790901597596996
+Optimization Runtime:  0.21273207664489746

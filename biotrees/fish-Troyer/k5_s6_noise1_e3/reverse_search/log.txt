@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 44  45 241 248 283]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.12647377 0.12600121 0.34720786 0.13462063 0.26569652]
+opt_y:  0.019808544983087227
+optimal anchors:  ['Diodontidae_Chilomycterus_schoepfii_USNMAC2WQ63', 'Diodontidae_Chilomycterus_spinosus_USNMAD9NF85', 'I124', 'Monacanthidae_Pseudomonacanthus_macrurus_USNMAB6QQ85', 'I146']
+optimal p:  [0.12643533 0.12608666 0.34310063 0.13038879 0.27398859]
+optimal x:  [1.         1.         1.         1.         0.90396156]
+optimal y:  0.020503709703044836
+Optimization Runtime:  0.4956986904144287

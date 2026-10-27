@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [135 279 394 404 410 550 587]
+opt_x:  [1.         1.         1.         1.         0.53797468 1.
+ 1.        ]
+opt_p:  [0.08271287 0.18144708 0.19398978 0.10661946 0.08297986 0.23532764
+ 0.11692331]
+opt_y:  0.2077197527834808
+optimal anchors:  ['I3', 'Teleost_Euteleost_Ovalentaria_Pseudochromidae_Pseudochromis_fuscus', 'I147', 'Teleost_Euteleost_Trachichthyformes_Monocentridae_Monocentris_japonica', 'I209', 'I216', 'I250']
+optimal p:  [0.09137323 0.08786085 0.19245656 0.14438026 0.10187893 0.09235098
+ 0.28969918]
+optimal x:  [0.29394755 1.         1.         1.         0.46243964 0.80241359
+ 0.6225904 ]
+optimal y:  0.21187565154754212
+Optimization Runtime:  158.8025722503662

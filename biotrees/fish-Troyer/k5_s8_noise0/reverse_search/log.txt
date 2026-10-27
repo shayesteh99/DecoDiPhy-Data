@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 67 115 182 184 185]
+opt_x:  [1.         0.83740464 0.22980506 0.32326994 1.        ]
+opt_p:  [0.17021542 0.29877785 0.29987121 0.13929106 0.09184445]
+opt_y:  0.007169036825595518
+optimal anchors:  ['Tetraodontidae_Canthigaster_punctatissima_UPRFL0354', 'I64', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Balistidae_Pseudobalistes_fuscus', 'I97', 'Balistidae_Balistes_capriscus_USNMAD9NF67']
+optimal p:  [0.17021542 0.29877785 0.23289569 0.16724959 0.13086144]
+optimal x:  [1.         0.83740464 0.00831443 0.40045256 0.27967744]
+optimal y:  0.007169036824766737
+Optimization Runtime:  1.3656229972839355

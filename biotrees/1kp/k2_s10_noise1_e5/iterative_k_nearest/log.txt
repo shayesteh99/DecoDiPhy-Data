@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [150 158]
+opt_x:  [0.51575142 1.        ]
+opt_p:  [-3.39521165e-21  1.00000000e+00]
+opt_y:  0.1830712661457791
+optimal anchors:  ['Anomodon_attenuatus', 'Sphagnum_lescurii']
+optimal p:  [-3.39521165e-21  1.00000000e+00]
+optimal x:  [0.51575142 1.        ]
+optimal y:  0.1830712661457791
+Optimization Runtime:  0.12774205207824707

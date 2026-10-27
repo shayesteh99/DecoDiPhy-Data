@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 40  57  59 129 199 235 274]
+opt_x:  [0.99995624 0.93112557 1.         1.         0.91225679 0.99998708
+ 0.98188444]
+opt_p:  [0.14691772 0.28068608 0.01612972 0.12218251 0.27821925 0.06055907
+ 0.0953057 ]
+opt_y:  0.15141977666541825
+optimal anchors:  ['Sehirus_cincutus', 'I38', 'Notostira_elongata', 'Centrotus_cornutus', 'I121', 'Liposcelis_bostrychophila', 'Heterocaecilius_solocipennis']
+optimal p:  [0.14691771 0.27724635 0.01956944 0.12218251 0.27821925 0.06055907
+ 0.0953057 ]
+optimal x:  [0.99995548 0.94551036 0.74019201 1.         0.91225679 0.99998613
+ 0.98188444]
+optimal y:  0.1512086119078211
+Optimization Runtime:  0.6193013191223145

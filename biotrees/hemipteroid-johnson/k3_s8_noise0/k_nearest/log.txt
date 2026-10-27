@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [181 184 182]
+opt_x:  [0.52959608 1.         0.38725112]
+opt_p:  [-1.69789662e-21  1.00000000e+00  4.58769530e-22]
+opt_y:  0.10730066089718238
+optimal anchors:  ['Frankliniella_occidentalis', 'Frankliniella_cephalica', 'Cycadothrips_chadwicki']
+optimal p:  [-1.69789662e-21  4.58769530e-22  1.00000000e+00]
+optimal x:  [0.52959608 0.38725112 1.        ]
+optimal y:  0.10730066089718238
+Optimization Runtime:  0.1821575164794922

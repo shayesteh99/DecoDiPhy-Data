@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [55 84]
+opt_x:  [0.80235328 0.70242699]
+opt_p:  [0.90882982 0.09117018]
+opt_y:  0.0872515803058772
+optimal anchors:  ['Boehmeria_nivea', 'I52']
+optimal p:  [0.90882982 0.09117018]
+optimal x:  [0.80235328 0.70242699]
+optimal y:  0.0872515803058772
+Optimization Runtime:  264.5770032405853

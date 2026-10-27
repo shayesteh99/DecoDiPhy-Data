@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 62 209  61]
+opt_x:  [1.         1.         0.48106291]
+opt_p:  [ 4.63721387e-01  5.36278613e-01 -2.12053572e-22]
+opt_y:  0.05647723826868683
+optimal anchors:  ['I42', 'Rhodnius_prolixus', 'I112']
+optimal p:  [6.23204376e-01 5.43046703e-16 3.76795624e-01]
+optimal x:  [0.31224175 0.99982225 0.84256235]
+optimal y:  0.11857155268575176
+Optimization Runtime:  0.2642707824707031

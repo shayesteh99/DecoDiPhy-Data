@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [249 369 433 190 412 260 112]
+opt_x:  [0.54448024 0.54548494 0.47571324 0.53509576 1.         0.50001401
+ 1.        ]
+opt_p:  [ 1.20874389e-22 -8.78846978e-23 -3.99579401e-22  4.39998290e-22
+  5.94521205e-01  3.61100797e-22  4.05478795e-01]
+opt_y:  0.05364652806368028
+optimal anchors:  ['Himantopus_himantopus', 'Pygoscelis_adeliae', 'Cathartes_aura', 'Haliaeetus_albicilla', 'Manacus_manacus', 'Ptilorrhoa_leucosticta', 'Aphelocoma_coerulescens']
+optimal p:  [ 4.05478795e-01  4.39998290e-22  1.20874389e-22  3.61100797e-22
+ -8.78846978e-23  5.94521205e-01 -3.99579401e-22]
+optimal x:  [1.         0.53509576 0.54448024 0.50001401 0.54548494 1.
+ 0.47571324]
+optimal y:  0.05364652806368028
+Optimization Runtime:  0.9170973300933838

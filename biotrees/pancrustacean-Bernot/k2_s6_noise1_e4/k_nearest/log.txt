@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [201 179]
+opt_x:  [1. 1.]
+opt_p:  [0.87210958 0.12789042]
+opt_y:  0.22202387919480118
+optimal anchors:  ['Litopenaeus_vannamei', 'Cherax_destructor']
+optimal p:  [0.12789042 0.87210958]
+optimal x:  [1. 1.]
+optimal y:  0.22202387919480118
+Optimization Runtime:  0.1268913745880127

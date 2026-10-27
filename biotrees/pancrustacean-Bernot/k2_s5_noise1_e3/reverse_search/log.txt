@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 63 157]
+opt_x:  [0.90383975 0.85035259]
+opt_p:  [0.71417493 0.28582507]
+opt_y:  0.5257209273859819
+optimal anchors:  ['Hutchinsoniella_macracantha', 'I81']
+optimal p:  [0.71417493 0.28582507]
+optimal x:  [0.90383975 0.85035259]
+optimal y:  0.5257209273859819
+Optimization Runtime:  0.20384860038757324

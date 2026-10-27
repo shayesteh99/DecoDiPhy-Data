@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 8 13 15]
+opt_x:  [0.75675459 0.50762262 0.47188999]
+opt_p:  [0.3998835  0.2973442  0.30277237]
+opt_y:  0.008060605543683536
+optimal anchors:  ['Nomiapis_bispinosa', 'Pseudapis_riftensis', 'I12']
+optimal p:  [0.3998835  0.2973442  0.30277237]
+optimal x:  [0.75675459 0.50762262 0.47188999]
+optimal y:  0.008060605543683536
+Optimization Runtime:  0.1887507438659668

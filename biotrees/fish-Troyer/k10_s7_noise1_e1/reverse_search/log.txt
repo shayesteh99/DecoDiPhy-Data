@@ -1,0 +1,15 @@
+created matrices
+opt_anchors:  [ 16  22  23  24  27  45  70 184 258 280]
+opt_x:  [1.         0.49807933 0.52944977 0.50210294 1.         1.
+ 1.         1.         0.87934099 1.        ]
+opt_p:  [1.78479832e-01 5.48956313e-23 6.05313041e-23 7.76203790e-23
+ 1.78703596e-01 1.62287578e-01 1.91790478e-01 1.21970080e-01
+ 1.16366726e-01 5.04017095e-02]
+opt_y:  0.034219093639545256
+optimal anchors:  ['I10', 'I11', 'I14', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Ostraciidae_Ostracion_rhinorhynchos', 'I15', 'I29', 'I43', 'I104', 'Monacanthidae_Eubalichthys_quadrispinis_EPLATE_53_G02', 'Monacanthidae_Aluterus_heudelotii_USNMAD9NE01']
+optimal p:  [0.25704399 0.03516571 0.02862431 0.02622512 0.03179041 0.15185354
+ 0.18884641 0.11445919 0.11687072 0.04912061]
+optimal x:  [0.94010541 1.         0.43293404 0.71026442 0.41086224 1.
+ 1.         1.         0.87150928 0.99999876]
+optimal y:  0.03656829907320078
+Optimization Runtime:  0.702073335647583

@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [114 115 116 179 180 205 206 207 225 234]
+opt_x:  [0.99999938 0.54662509 0.54726835 0.99998837 0.83048063 0.96688449
+ 0.38522604 0.17324264 0.46677717 0.99999959]
+opt_p:  [2.64064840e-01 3.13691136e-07 3.13549456e-07 2.69438418e-01
+ 2.76930429e-06 2.04541171e-01 2.04737342e-03 2.42895783e-03
+ 2.59481765e-07 2.57475581e-01]
+opt_y:  0.026113711542813264
+optimal anchors:  ['I63', 'Tetraodontidae_Sphoeroides_nephelus_USNMAC4YB58', 'Tetraodontidae_Sphoeroides_marmoratus_USNMAD9NE03', 'I95', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Balistidae_Pseudobalistes_fuscus', 'I123', 'Monocanthidae_Brachaluteres_jacksonianus_EPLATE_52_F12', 'Monocanthidae_Brachaluteres_taylori_EPLATE_52_G12', 'Monacanthidae_Chaetoderma_penicilligera_EPLATE_51_F09', 'I149']
+optimal p:  [2.64064840e-01 3.13691136e-07 3.13549456e-07 2.69438418e-01
+ 2.76930429e-06 2.04541171e-01 2.04737342e-03 2.42895783e-03
+ 2.59481765e-07 2.57475581e-01]
+optimal x:  [0.99999938 0.54662509 0.54726835 0.99998837 0.83048063 0.96688449
+ 0.38522604 0.17324264 0.46677717 0.99999959]
+optimal y:  0.026113711542813264
+Optimization Runtime:  0.795468807220459

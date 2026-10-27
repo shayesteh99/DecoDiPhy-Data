@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [124 123]
+opt_x:  [1. 1.]
+opt_p:  [0.50777462 0.49222538]
+opt_y:  0.11937294040026009
+optimal anchors:  ['Pseudolycopodiella_caroliniana', 'Dendrolycopodium_obscurum']
+optimal p:  [0.49222538 0.50777462]
+optimal x:  [1. 1.]
+optimal y:  0.11937294040026009
+Optimization Runtime:  0.08933568000793457

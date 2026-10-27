@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [258 237 281 222 244]
+opt_x:  [4.93752929e-01 7.75285145e-22 1.00000000e+00 9.43898730e-01
+ 4.66696392e-01]
+opt_p:  [-2.72817654e-22  1.15482843e-01  3.45291184e-01  3.55664933e-01
+  1.83561040e-01]
+opt_y:  0.005207343356854817
+optimal anchors:  ['Timema_cristinae', 'Echmepteryx_hageni', 'Campanulotes_compar', 'Badonnelia_titei', 'Aaroniella_sp']
+optimal p:  [2.29453990e-01 2.38090899e-01 2.62233662e-01 1.38008921e-22
+ 2.70221448e-01]
+optimal x:  [0.81769267 0.73746395 0.697724   0.42581994 0.70626588]
+optimal y:  0.10123213963649177
+Optimization Runtime:  0.28974008560180664

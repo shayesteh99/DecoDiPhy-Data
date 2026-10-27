@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [156 159]
+opt_x:  [0.23929963 1.        ]
+opt_p:  [9.81198444e-23 1.00000000e+00]
+opt_y:  0.45913031726571485
+optimal anchors:  ['Hedwigia_ciliata', 'Polytrichum_commune']
+optimal p:  [9.81198444e-23 1.00000000e+00]
+optimal x:  [0.23929963 1.        ]
+optimal y:  0.45913031726571485
+Optimization Runtime:  0.08890557289123535

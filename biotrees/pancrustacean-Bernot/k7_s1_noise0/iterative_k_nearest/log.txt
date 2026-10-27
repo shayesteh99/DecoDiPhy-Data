@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [185  14 172  35  29  16 183]
+opt_x:  [0.99999997 0.64774575 1.         0.99999867 1.         0.56646336
+ 0.17359374]
+opt_p:  [ 2.49050630e-01  5.84226046e-01 -5.16839165e-10  6.46046281e-02
+  1.02118602e-01  8.97049063e-08  5.91614784e-09]
+opt_y:  0.18976558110183886
+optimal anchors:  ['Meinertellus_cundinamarcensis', 'Tricholepidion_gertschi', 'I14', 'I21', 'I92', 'Neocaridina_denticulata', 'Enoplometopus_cf_daumi']
+optimal p:  [ 4.06258010e-01 -1.18395481e-07  9.61216376e-02  1.07854851e-01
+ -1.32432193e-09  3.93934626e-02  3.50372158e-01]
+optimal x:  [0.73396167 0.51683283 0.81454752 0.84081918 0.35953895 1.
+ 1.        ]
+optimal y:  0.19894214118542974
+Optimization Runtime:  0.25298404693603516

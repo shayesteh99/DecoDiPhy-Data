@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [161 153  88  39 136  91 160]
+opt_x:  [4.94975222e-01 4.96313121e-01 1.00000000e+00 1.00000000e+00
+ 1.85872085e-19 1.00000000e+00 4.90785524e-01]
+opt_p:  [-2.44533230e-19 -2.43904415e-19  2.22571020e-01  3.81293847e-01
+  3.13798382e-01  8.23367515e-02 -2.37639093e-19]
+opt_y:  0.0430961935063855
+optimal anchors:  ['I19', 'Lepas_anatifera', 'Amphibalanus_amphitrite', 'Idotea_baltica', 'Lysiosquillina_maculata', 'Euphausia_superba', 'Thysanoessa_inermis']
+optimal p:  [0.25437121 0.09367264 0.16821272 0.26296145 0.00130028 0.12892235
+ 0.09055934]
+optimal x:  [0.77035218 1.         0.71034078 0.92135759 1.         0.1891658
+ 1.        ]
+optimal y:  0.1998673309788253
+Optimization Runtime:  0.2324986457824707

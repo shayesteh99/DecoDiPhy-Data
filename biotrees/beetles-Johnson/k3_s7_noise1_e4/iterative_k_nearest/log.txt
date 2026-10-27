@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 45 240 227]
+opt_x:  [1.         1.         0.59523385]
+opt_p:  [ 4.14948065e-02  9.58505194e-01 -1.08006709e-22]
+opt_y:  0.05566510569350771
+optimal anchors:  ['I27', 'Hylocurus_flaglerensis_H04562', 'I123']
+optimal p:  [ 4.34367007e-01 -9.64334521e-19  5.65632993e-01]
+optimal x:  [0.93303923 0.47280581 0.76600085]
+optimal y:  0.09525230694130066
+Optimization Runtime:  0.18288946151733398

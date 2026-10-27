@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 22  23  79 197 327]
+opt_x:  [1.         1.         0.99999989 0.99999944 0.99999989]
+opt_p:  [3.43258376e-01 8.52928420e-07 2.16437093e-01 1.58068409e-01
+ 2.82235270e-01]
+opt_y:  0.07287089759841461
+optimal anchors:  ['I12', 'I14', 'Callicebus_donacophilus', 'Octodon_degus', 'Ziphius_cavirostris']
+optimal p:  [3.43245364e-01 1.31986958e-05 2.16437321e-01 1.58068559e-01
+ 2.82235554e-01]
+optimal x:  [0.99994568 0.74578191 1.         1.         0.99998355]
+optimal y:  0.07287083127702082
+Optimization Runtime:  1.158466100692749

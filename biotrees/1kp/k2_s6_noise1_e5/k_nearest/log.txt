@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [160 159]
+opt_x:  [1.        0.4145647]
+opt_p:  [ 1.00000000e+00 -3.70129253e-22]
+opt_y:  0.4735151530542173
+optimal anchors:  ['Polytrichum_commune', 'Sphagnum_lescurii']
+optimal p:  [-3.70129253e-22  1.00000000e+00]
+optimal x:  [0.4145647 1.       ]
+optimal y:  0.4735151530542173
+Optimization Runtime:  0.0957334041595459

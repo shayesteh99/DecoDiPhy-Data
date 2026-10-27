@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [21 17]
+opt_x:  [0.75198474 1.        ]
+opt_p:  [-1.04898182e-09  1.00000000e+00]
+opt_y:  0.12777073999603322
+optimal anchors:  ['Colchicum_autumnale', 'Sabal_bermudana']
+optimal p:  [ 1.00000000e+00 -1.04898182e-09]
+optimal x:  [1.         0.75198474]
+optimal y:  0.12777073999603322
+Optimization Runtime:  0.09087324142456055

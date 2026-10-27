@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [  2  69 104]
+opt_x:  [0.55791096 0.79016877 0.84935152]
+opt_p:  [0.32719124 0.32209372 0.35071503]
+opt_y:  0.04680530773598541
+optimal anchors:  ['I124', 'Cryphalus_sp1845_BigEyeRidge_I13652', 'Cryptocarenus_seriatus_I10214']
+optimal p:  [0.32719124 0.32209372 0.35071503]
+optimal x:  [0.55791096 0.79016877 0.84935152]
+optimal y:  0.04680530773598541
+Optimization Runtime:  34004.41738963127

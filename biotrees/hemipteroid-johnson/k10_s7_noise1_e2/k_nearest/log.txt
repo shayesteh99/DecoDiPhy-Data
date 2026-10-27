@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [50 18 35 40 43 49 33 34 19 48]
+opt_x:  [1.         1.         0.51852234 0.52569378 0.44774007 1.
+ 0.46815717 0.49042442 1.         0.60885149]
+opt_p:  [ 7.02301241e-01  1.48792767e-01 -7.28613628e-21 -4.80472497e-21
+ -3.03867804e-21 -7.86849537e-23 -2.42829624e-21 -4.68406835e-21
+  1.48905992e-01 -4.52456821e-22]
+opt_y:  0.10481873014553633
+optimal anchors:  ['Anasa_tristis', 'Alydus_pilosus', 'Lygaeus_equestris', 'Oncopeltus_fasciatus', 'Arocatus_melanocephalus', 'Sehirus_cincutus', 'Chalcocoris_rutilans', 'I30', 'Anoplogonius_nigricollis', 'Corimelaena_lateralis']
+optimal p:  [ 1.61440260e-01  1.36260569e-01 -1.04724880e-07 -1.04673614e-07
+ -1.07436020e-07  1.47957328e-06  1.48729580e-06  1.45874256e-06
+  1.59146875e-06  7.02293473e-01]
+optimal x:  [1.         1.         0.50591949 0.50675835 0.493055   0.45096367
+ 0.4448678  0.39950788 0.46700592 0.99999844]
+optimal y:  0.10481848116003904
+Optimization Runtime:  0.26355767250061035

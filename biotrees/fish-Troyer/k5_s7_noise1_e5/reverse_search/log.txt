@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [20 24 25 74 79]
+opt_x:  [1.         0.49897304 0.52808932 1.         0.48798898]
+opt_p:  [ 7.48488031e-01 -3.12691388e-22 -3.41777974e-22  2.51511969e-01
+ -1.65008414e-22]
+opt_y:  0.03486819945896264
+optimal anchors:  ['I13', 'I15', 'Ostraciidae_Rhynchostracion_nasus_EPLATE_53_D05', 'I43', 'Tetraodontidae_Canthigaster_janthinoptera_USNMAG5NQ15']
+optimal p:  [ 7.48488031e-01 -3.12691388e-22 -3.41777974e-22  2.51511969e-01
+ -1.65008414e-22]
+optimal x:  [1.         0.49897304 0.52808932 1.         0.48798898]
+optimal y:  0.03486819945896264
+Optimization Runtime:  0.4336996078491211

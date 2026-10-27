@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [102 150  49]
+opt_x:  [0.49408585 1.         0.22187449]
+opt_p:  [-4.04382242e-21  7.17908716e-01  2.82091284e-01]
+opt_y:  0.3901600999313556
+optimal anchors:  ['Diospyros_malabarica', 'Ginkgo_biloba', 'Anomodon_attenuatus']
+optimal p:  [ 2.82091284e-01 -4.04382242e-21  7.17908716e-01]
+optimal x:  [0.22187449 0.49408585 1.        ]
+optimal y:  0.3901600999313556
+Optimization Runtime:  0.12415218353271484

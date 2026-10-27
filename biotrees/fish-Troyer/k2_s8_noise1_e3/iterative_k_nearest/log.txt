@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [171 116]
+opt_x:  [1. 1.]
+opt_p:  [0.20620991 0.79379009]
+opt_y:  -2.6646613160736925e-16
+optimal anchors:  ['Tetraodontidae_Sphoeroides_maculatus_USNMAE2QZ45', 'Balistidae_Melichthys_vidua_STRIBFT11786']
+optimal p:  [0.79379009 0.20620991]
+optimal x:  [1. 1.]
+optimal y:  -2.6646613160736925e-16
+Optimization Runtime:  0.1884293556213379

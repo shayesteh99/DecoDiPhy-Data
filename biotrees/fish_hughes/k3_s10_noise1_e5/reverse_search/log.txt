@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [452 577 586]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.62313144 0.04305222 0.33381633]
+opt_y:  0.24535571391963917
+optimal anchors:  ['Teleost_Euteleost_Polymixiiformes_Polymixiidae_Polymixia_japonica', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides', 'Teleost_Osteoglossiformes_Osteoglossiformes_Pantodontidae_Pantodon_buchholzi']
+optimal p:  [0.62313144 0.04305222 0.33381633]
+optimal x:  [1. 1. 1.]
+optimal y:  0.24535571391963917
+Optimization Runtime:  1.6424953937530518

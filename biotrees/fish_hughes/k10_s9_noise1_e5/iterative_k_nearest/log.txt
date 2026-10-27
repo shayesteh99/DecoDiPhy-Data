@@ -1,0 +1,18 @@
+created matrices
+opt_anchors:  [374 371 326 156 238 442 244 450 281 402]
+opt_x:  [4.97266240e-01 4.99285397e-01 4.98434765e-01 5.00355450e-01
+ 4.98793318e-01 5.17523993e-01 4.97921570e-01 1.00000000e+00
+ 4.98107917e-01 6.38505344e-19]
+opt_p:  [-6.13857581e-20 -7.53121121e-20 -1.65728236e-19 -1.72775822e-19
+ -1.77328809e-19 -3.46888467e-20 -1.78758347e-19  9.98749004e-01
+ -1.77006013e-19  1.25099619e-03]
+opt_y:  0.1402223648548914
+optimal anchors:  ['Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'Teleost_Euteleost_Eupercaria_Moronidae_Morone_saxatilis', 'Teleost_Euteleost_Eupercaria_Centrarchiformes_Percichthyidae_Siniperca_scherzeri', 'Teleost_Euteleost_Eupercaria_Perciformes_Scorpaenidae_Dendrochirus_zebra', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Scomberomorus_regalis', 'Teleost_Euteleost_Beryciformes_Rondeletiidae_Rondeletia_loricata', 'Teleost_Euteleost_Trachichthyformes_Monocentridae_Monocentris_japonica', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Lotidae_Brosme_brosme', 'Teleost_Euteleost_Polymixiiformes_Polymixiidae_Polymixia_japonica', 'Teleost_Euteleost_Aulopiformes_Chlorophthalmidae_Parasudis_fraserbrunneri']
+optimal p:  [-1.72775822e-19 -1.77328809e-19 -1.78758347e-19 -1.77006013e-19
+ -1.65728236e-19 -7.53121121e-20 -6.13857581e-20  1.25099619e-03
+ -3.46888467e-20  9.98749004e-01]
+optimal x:  [5.00355450e-01 4.98793318e-01 4.97921570e-01 4.98107917e-01
+ 4.98434765e-01 4.99285397e-01 4.97266240e-01 6.38505344e-19
+ 5.17523993e-01 1.00000000e+00]
+optimal y:  0.1402223648548914
+Optimization Runtime:  0.7512948513031006

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [88 99 98]
+opt_x:  [0.60149935 0.99999929 0.99999902]
+opt_p:  [0.10687391 0.44656301 0.44656307]
+opt_y:  0.028365436033344724
+optimal anchors:  ['Ohunteri__LakeChala__G1-K2G2', 'Omossambicus__SouthAfrica__RB09-059', 'Omossambicus__Mozambique__C13']
+optimal p:  [0.10687391 0.44656307 0.44656301]
+optimal x:  [0.60149935 0.99999902 0.99999929]
+optimal y:  0.028365436033344724
+Optimization Runtime:  0.08411407470703125

@@ -1,0 +1,17 @@
+created matrices
+opt_anchors:  [ 34  86  87  46  92  20  51  22  30 122]
+opt_x:  [1.         0.49424336 0.49574896 1.         0.51813168 0.49934724
+ 1.         0.49956783 1.         1.        ]
+opt_p:  [ 4.50981526e-01 -1.67673596e-20 -1.67241389e-20  8.84037766e-02
+ -3.65664585e-21 -6.06011555e-21  1.00140130e-01 -6.02073733e-21
+  1.31927023e-01  2.28547544e-01]
+opt_y:  0.00791688892332679
+optimal anchors:  ['Oesculentus__LakeRukwa__T10F04', 'Oesculentus__Malimbe__V71', 'Oamphimelas__LakeManyara__P3H1', 'I25', 'Ovariabilis__MakobeIsland__395', 'Omalagarasi__Uvinza__131', 'Omossambicus__SouthAfrica__RB09-059', 'Omossambicus__Mozambique__C13', 'Oplacidus__Mozambique__AC13-A158', 'I71']
+optimal p:  [-2.03497159e-06  1.03034997e-01  8.48446574e-02  5.36561866e-01
+ -5.54035795e-09  1.39346445e-02  6.63902182e-07  6.62933701e-07
+  2.28588939e-01  3.30356201e-02]
+optimal x:  [3.38816651e-01 9.99537968e-01 8.41068036e-01 6.22228983e-01
+ 5.63509144e-01 3.42867620e-07 4.90569149e-01 4.92740460e-01
+ 1.00000000e+00 8.89227911e-01]
+optimal y:  0.029559429013082943
+Optimization Runtime:  0.579289436340332

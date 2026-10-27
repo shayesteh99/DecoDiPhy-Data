@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [116 181 190 287 290]
+opt_x:  [1.         1.         1.         1.         0.34679201]
+opt_p:  [0.3604777  0.15866971 0.15770677 0.28894807 0.03419775]
+opt_y:  0.022259902417865626
+optimal anchors:  ['I62', 'I94', 'I99', 'I124', 'Monacanthidae_Aluterus_scriptus_UPRFL0003']
+optimal p:  [0.36025128 0.15718363 0.15622568 0.2732329  0.05310651]
+optimal x:  [1.         1.         1.         0.30353898 0.69996425]
+optimal y:  0.022381226031944892
+Optimization Runtime:  0.3658721446990967

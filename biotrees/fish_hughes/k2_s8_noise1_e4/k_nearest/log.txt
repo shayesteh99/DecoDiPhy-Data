@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [245 381]
+opt_x:  [0.99093509 1.        ]
+opt_p:  [2.66405136e-23 1.00000000e+00]
+opt_y:  0.19878578040926623
+optimal anchors:  ['Teleost_Euteleost_Eupercaria_Centrarchiformes_Oplegnathidae_Oplegnathus_punctatus', 'Teleost_Euteleost_Beryciformes_Rondeletiidae_Rondeletia_loricata']
+optimal p:  [2.66405136e-23 1.00000000e+00]
+optimal x:  [0.99093509 1.        ]
+optimal y:  0.19878578040926623
+Optimization Runtime:  0.5122735500335693

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [578 579]
+opt_x:  [1. 1.]
+opt_p:  [0.49232439 0.50767561]
+opt_y:  0.05377625155231848
+optimal anchors:  ['Elachura_formosa', 'I292']
+optimal p:  [0.49232439 0.50767561]
+optimal x:  [1. 1.]
+optimal y:  0.05377625155231848
+Optimization Runtime:  2.8044533729553223

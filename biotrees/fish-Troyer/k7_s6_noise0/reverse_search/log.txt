@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  6   8  39  74 241 279 280]
+opt_x:  [0.52167486 0.50145133 0.99996106 0.72510007 0.02616841 0.14670793
+ 0.94401308]
+opt_p:  [0.10768085 0.10602196 0.103589   0.16763498 0.24580229 0.16936704
+ 0.09990392]
+opt_y:  0.005136832728134645
+optimal anchors:  ['I7', 'Aracanidae_Anoplocapros_amygdaloides_EPLATE_53_C05', 'I24', 'Tetraodontidae_Canthigaster_criobe_USNMAG9RL45', 'Monacanthidae_Pseudomonacanthus_elongatus_EPLATE_52_C12', 'Monocanthidae_Thamnaconus_striatus_EPLATE_51_G11', 'Monocanthidae_Cantheschenia_grandisquamis_EPLATE_53_C03']
+optimal p:  [0.10424673 0.10300332 0.1131269  0.16502834 0.2450955  0.16951148
+ 0.09998776]
+optimal x:  [0.51674025 0.50115709 0.14051006 0.59512761 0.01842779 0.13049335
+ 0.91655066]
+optimal y:  0.005806476997944148
+Optimization Runtime:  2.4916064739227295

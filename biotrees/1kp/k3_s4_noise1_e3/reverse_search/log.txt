@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [13 49 98]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.39567159 0.35228686 0.25204155]
+opt_y:  0.15006309430592296
+optimal anchors:  ['I14', 'I31', 'Ginkgo_biloba']
+optimal p:  [0.40481892 0.34464962 0.25053147]
+optimal x:  [1.         0.50680496 1.        ]
+optimal y:  0.14914409760695196
+Optimization Runtime:  0.4593667984008789

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [140 115]
+opt_x:  [0.48281786 1.        ]
+opt_p:  [-4.35551975e-21  1.00000000e+00]
+opt_y:  0.09120417997706283
+optimal anchors:  ['Aphrophora_alni', 'Holdgatiella_chepuensis']
+optimal p:  [ 1.00000000e+00 -4.35551975e-21]
+optimal x:  [1.         0.48281786]
+optimal y:  0.09120417997706283
+Optimization Runtime:  0.21904540061950684

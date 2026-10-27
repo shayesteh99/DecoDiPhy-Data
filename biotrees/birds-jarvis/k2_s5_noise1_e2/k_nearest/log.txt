@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [40 39]
+opt_x:  [1.         0.74981868]
+opt_p:  [0.46644111 0.53355889]
+opt_y:  0.05674386560801898
+optimal anchors:  ['I23', 'HALAL']
+optimal p:  [0.61625559 0.38374441]
+optimal x:  [0.6483003  0.60620138]
+optimal y:  0.05672631676268441
+Optimization Runtime:  0.0462193489074707

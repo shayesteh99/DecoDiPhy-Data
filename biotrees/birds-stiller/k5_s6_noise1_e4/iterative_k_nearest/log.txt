@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [575 437 492 259 597]
+opt_x:  [1.         0.49915263 0.4952134  1.         1.        ]
+opt_p:  [ 5.96643669e-02 -4.96231022e-21 -4.28113285e-21  4.97277211e-01
+  4.43058422e-01]
+opt_y:  0.04527153687578488
+optimal anchors:  ['Haliaeetus_leucocephalus', 'Corvus_moneduloides', 'Pseudopodoces_humilis', 'I293', 'Promerops_cafer']
+optimal p:  [0.27649267 0.06012693 0.0754709  0.25525312 0.33265638]
+optimal x:  [1.         1.         1.         0.69930997 1.        ]
+optimal y:  0.04771772213717382
+Optimization Runtime:  0.9465720653533936

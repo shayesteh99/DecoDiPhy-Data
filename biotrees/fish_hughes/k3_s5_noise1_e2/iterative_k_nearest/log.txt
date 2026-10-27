@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [382 381 272]
+opt_x:  [1.         0.4250069  0.49876083]
+opt_p:  [ 1.00000000e+00 -1.38509761e-21 -2.23915990e-20]
+opt_y:  0.17577836445480993
+optimal anchors:  ['Teleost_Euteleost_Eupercaria_Pempheriformes_Epigonidae_Epigonus_sp', 'Teleost_Euteleost_Beryciformes_Berycidae_Beryx_splendens', 'Teleost_Euteleost_Trachichthyformes_Monocentridae_Monocentris_japonica']
+optimal p:  [-2.23915990e-20 -1.38509761e-21  1.00000000e+00]
+optimal x:  [0.49876083 0.4250069  1.        ]
+optimal y:  0.17577836445480993
+Optimization Runtime:  0.5100970268249512

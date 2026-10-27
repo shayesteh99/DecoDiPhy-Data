@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 3 34]
+opt_x:  [0.99999034 0.37776541]
+opt_p:  [0.84603207 0.15396797]
+opt_y:  0.06696151498668033
+optimal anchors:  ['I4', 'Ostraciidae_Lactophrys_triqueter_UPRFL0072']
+optimal p:  [0.84603207 0.15396797]
+optimal x:  [0.99999034 0.37776541]
+optimal y:  0.06696151498668033
+Optimization Runtime:  0.402479887008667

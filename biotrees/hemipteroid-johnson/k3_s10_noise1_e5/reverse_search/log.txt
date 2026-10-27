@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [231 260 281]
+opt_x:  [1.         1.         0.84526159]
+opt_p:  [0.67000494 0.04358005 0.28641501]
+opt_y:  0.19945866513869334
+optimal anchors:  ['Zorotypus_caudelli', 'Stimulopalpus_japonicus', 'I146']
+optimal p:  [0.67000494 0.04358005 0.28641501]
+optimal x:  [1.         1.         0.84526159]
+optimal y:  0.19945866513869334
+Optimization Runtime:  0.43797969818115234

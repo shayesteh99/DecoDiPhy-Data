@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [61 80 99]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.26184996 0.35377369 0.38437635]
+opt_y:  0.17170523496167173
+optimal anchors:  ['I11', 'Carica_papaya', 'I48']
+optimal p:  [6.12182798e-01 3.87817202e-01 1.69709717e-22]
+optimal x:  [0.90378887 1.         0.48001124]
+optimal y:  0.17365181761364143
+Optimization Runtime:  0.3226139545440674

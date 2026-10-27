@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [236 238]
+opt_x:  [0.80306734 0.8069984 ]
+opt_p:  [0.65702987 0.34297013]
+opt_y:  0.15054278786566333
+optimal anchors:  ['I119', 'Condylura_cristata']
+optimal p:  [0.65702987 0.34297013]
+optimal x:  [0.80306734 0.8069984 ]
+optimal y:  0.15054278786566333
+Optimization Runtime:  0.9870526790618896

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [160 171]
+opt_x:  [1.         0.19394803]
+opt_p:  [ 1.00000000e+00 -2.69805519e-21]
+opt_y:  0.1669844521440267
+optimal anchors:  ['I98', 'Teleost_Euteleost_Anabantaria_Anabantiformes_Anabantidae_Anabas_testudineus']
+optimal p:  [ 1.00000000e+00 -2.69805519e-21]
+optimal x:  [1.         0.19394803]
+optimal y:  0.1669844521440267
+Optimization Runtime:  1.7934072017669678

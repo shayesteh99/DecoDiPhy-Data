@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [102 155  70 180 191]
+opt_x:  [1.         0.41965011 1.         0.4262396  0.80817204]
+opt_p:  [ 8.48503292e-23 -1.86864210e-21  3.93392761e-01 -2.09843234e-21
+  6.06607239e-01]
+opt_y:  0.18104524617249268
+optimal anchors:  ['I26', 'I58', 'Polytrichum_commune', 'Coleochaete_scutata', 'Nephroselmis_pyriformis']
+optimal p:  [3.88775708e-01 9.71826096e-23 1.85269710e-01 4.61511218e-02
+ 3.79803460e-01]
+optimal x:  [1.60187871e-22 6.29307460e-01 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00]
+optimal y:  0.32451874762467275
+Optimization Runtime:  0.20615601539611816

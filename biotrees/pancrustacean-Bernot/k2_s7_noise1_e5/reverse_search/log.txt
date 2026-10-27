@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [35 82]
+opt_x:  [0.70707466 1.        ]
+opt_p:  [0.70622882 0.29377118]
+opt_y:  0.43851672633462785
+optimal anchors:  ['I19', 'Cryptops_hortensis']
+optimal p:  [0.70622882 0.29377118]
+optimal x:  [0.70707466 1.        ]
+optimal y:  0.43851672633462785
+Optimization Runtime:  0.19036173820495605

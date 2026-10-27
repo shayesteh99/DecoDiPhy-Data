@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [19 33 41]
+opt_x:  [0.45350381 0.62270077 0.92689825]
+opt_p:  [0.62070098 0.19439336 0.18490565]
+opt_y:  0.01742469969469972
+optimal anchors:  ['I12', 'I19', 'Macronomia_clavisetis']
+optimal p:  [0.62070098 0.19439336 0.18490565]
+optimal x:  [0.45350381 0.62270077 0.92689825]
+optimal y:  0.01742469969469972
+Optimization Runtime:  281.69979786872864

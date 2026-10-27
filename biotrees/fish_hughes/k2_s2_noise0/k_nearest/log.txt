@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [90 91]
+opt_x:  [0.47571334 1.        ]
+opt_p:  [-1.0948586e-23  1.0000000e+00]
+opt_y:  0.03587833400796474
+optimal anchors:  ['Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Maylandia_zebra', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Pundamilia_nyererei']
+optimal p:  [-1.0948586e-23  1.0000000e+00]
+optimal x:  [0.47571334 1.        ]
+optimal y:  0.03587833400796474
+Optimization Runtime:  0.5188262462615967

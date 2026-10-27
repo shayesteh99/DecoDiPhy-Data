@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 42 437  60  98  16 458 445]
+opt_x:  [0.48998012 0.40585478 0.99999998 1.         1.         0.48879754
+ 1.        ]
+opt_p:  [ 1.88120690e-08 -9.23947178e-09  1.27606369e-01  2.61139456e-01
+  4.55866808e-01  2.45319846e-07  1.55387112e-01]
+opt_y:  0.07915239099735977
+optimal anchors:  ['Trichechus_manatus', 'Homo_sapiens', 'Cercopithecus_neglectus', 'Daubentonia_madagascariensis', 'Odobenus_rosmarus', 'Ursus_maritimus', 'Tapirus_terrestris']
+optimal p:  [ 4.55866808e-01  1.88120690e-08  1.27606369e-01  2.61139456e-01
+ -9.23947178e-09  1.55387112e-01  2.45319846e-07]
+optimal x:  [1.         0.48998012 0.99999998 1.         0.40585478 1.
+ 0.48879754]
+optimal y:  0.07915239099735977
+Optimization Runtime:  0.5145189762115479

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [156 373 253]
+opt_x:  [0.47508027 1.         1.        ]
+opt_p:  [-1.33154617e-22  8.02281732e-01  1.97718268e-01]
+opt_y:  0.05123111198198359
+optimal anchors:  ['Uria_lomvia', 'Cathartes_aura', 'Manacus_manacus']
+optimal p:  [-1.33154617e-22  1.97718268e-01  8.02281732e-01]
+optimal x:  [0.47508027 1.         1.        ]
+optimal y:  0.05123111198198359
+Optimization Runtime:  0.8187787532806396

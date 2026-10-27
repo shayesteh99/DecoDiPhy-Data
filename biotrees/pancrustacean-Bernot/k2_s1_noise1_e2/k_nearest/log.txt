@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [150 146]
+opt_x:  [1.         0.57572436]
+opt_p:  [1.00000000e+00 2.54203368e-21]
+opt_y:  0.21339119804149795
+optimal anchors:  ['Oniscus_asellus', 'Ligia_exotica']
+optimal p:  [2.54203368e-21 1.00000000e+00]
+optimal x:  [0.57572436 1.        ]
+optimal y:  0.21339119804149795
+Optimization Runtime:  0.09265947341918945

@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 11  44  86 179 180]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.43795    0.0850755  0.13944681 0.17145936 0.16606833]
+opt_y:  0.4072766162963678
+optimal anchors:  ['I7', 'Triops_granarius', 'I47', 'Palaemon_sp', 'Crangon_septemspinosa']
+optimal p:  [0.22346293 0.00976573 0.50938032 0.13077008 0.12662094]
+optimal x:  [2.58231969e-22 1.00000000e+00 8.66217279e-01 1.00000000e+00
+ 1.00000000e+00]
+optimal y:  0.4794848391988642
+Optimization Runtime:  0.32802438735961914

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [124 126 127 286 383 384 385]
+opt_x:  [1.         0.48521426 1.         1.         1.         0.53943735
+ 0.50344894]
+opt_p:  [ 2.12483242e-01 -4.77340259e-22  2.12351807e-01  3.54396829e-01
+  2.20768123e-01  1.38363028e-22  1.44160899e-21]
+opt_y:  0.0796068903297555
+optimal anchors:  ['I68', 'Dipodomys_stephensi', 'Castor_canadensis', 'Eidolon_helvum', 'I197', 'Rangifer_tarandus', 'Elaphurus_davidianus']
+optimal p:  [ 2.12483242e-01 -4.77340259e-22  2.12351807e-01  3.54396829e-01
+  2.20768123e-01  1.38363028e-22  1.44160899e-21]
+optimal x:  [1.         0.48521426 1.         1.         1.         0.53943735
+ 0.50344894]
+optimal y:  0.0796068903297555
+Optimization Runtime:  0.8092560768127441

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [316  79  23 100  16]
+opt_x:  [1.         1.         1.         1.         0.44528899]
+opt_p:  [1.92975548e-02 1.46329217e-01 4.67185025e-01 3.67188203e-01
+ 1.65132304e-21]
+opt_y:  0.12179385693249666
+optimal anchors:  ['Trichechus_manatus', 'Orycteropus_afer', 'I43', 'Daubentonia_madagascariensis', 'I164']
+optimal p:  [4.00869609e-20 3.64741448e-01 2.20012038e-01 2.09746757e-01
+ 2.05499757e-01]
+optimal x:  [0.01488371 1.         0.43115935 1.         0.43316643]
+optimal y:  0.12355771309426385
+Optimization Runtime:  0.4681875705718994

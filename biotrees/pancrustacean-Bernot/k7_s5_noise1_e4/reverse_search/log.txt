@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 63  95 130 157 164 189 192]
+opt_x:  [0.98756048 1.         1.         1.         1.         1.
+ 1.        ]
+opt_p:  [0.35347983 0.0585522  0.19024543 0.07479586 0.29594729 0.01332585
+ 0.01365354]
+opt_y:  0.39401559242329187
+optimal anchors:  ['Hutchinsoniella_macracantha', 'I49', 'Stygiomysis_cokei', 'Anaspides_tasmaniae', 'I89', 'I83', 'Lysiosquillina_maculata']
+optimal p:  [ 3.50360719e-01  5.97494521e-02  1.71209788e-01 -2.97193503e-22
+  3.99430543e-01  9.71930562e-03  9.53019148e-03]
+optimal x:  [0.98731676 0.61217489 1.         1.         0.39807908 1.
+ 1.        ]
+optimal y:  0.39847651340353585
+Optimization Runtime:  0.29267454147338867

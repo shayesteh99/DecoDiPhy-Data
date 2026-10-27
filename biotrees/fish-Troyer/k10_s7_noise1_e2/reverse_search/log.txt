@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [ 16  27  45  47  70  72  73  74  75 258]
+opt_x:  [1.         1.         1.         0.26373462 1.         0.45679185
+ 0.47619914 0.50196016 0.50805777 1.        ]
+opt_p:  [ 2.03971702e-01  2.04115504e-01  1.70692857e-01 -7.83090230e-24
+  1.96937039e-01 -7.96486476e-23 -4.49280141e-23  1.32499955e-22
+  6.58226044e-23  2.24282897e-01]
+opt_y:  0.02989007929772682
+optimal anchors:  ['I11', 'I17', 'I29', 'Diodontidae_Diodon_hystrix_STRIBFT11552', 'I43', 'Tetraodontidae_Canthigaster_solandri_USNMAG9RM90', 'I45', 'Tetraodontidae_Canthigaster_criobe_USNMAG9RL45', 'Tetraodontidae_Canthigaster_janthinoptera_USNMAG5NQ15', 'Monacanthidae_Eubalichthys_quadrispinis_EPLATE_53_G02']
+optimal p:  [ 2.03971702e-01  2.04115504e-01  1.70692857e-01 -7.83090230e-24
+  1.96937039e-01 -7.96486476e-23 -4.49280141e-23  1.32499955e-22
+  6.58226044e-23  2.24282897e-01]
+optimal x:  [1.         1.         1.         0.26373462 1.         0.45679185
+ 0.47619914 0.50196016 0.50805777 1.        ]
+optimal y:  0.02989007929772682
+Optimization Runtime:  0.6700263023376465

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 24 147]
+opt_x:  [1. 1.]
+opt_p:  [0.26778268 0.73221732]
+opt_y:  0.011751676288207691
+optimal anchors:  ['Oesculentus__LakeRukwa__T10F04', 'I75']
+optimal p:  [0.25467313 0.74532687]
+optimal x:  [1.         0.16220415]
+optimal y:  0.013716848573035886
+Optimization Runtime:  0.5457077026367188

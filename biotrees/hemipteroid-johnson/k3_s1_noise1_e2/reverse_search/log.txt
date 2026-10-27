@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 56  69 282]
+opt_x:  [1.         0.99734734 0.87097702]
+opt_p:  [0.54982844 0.21301909 0.23715247]
+opt_y:  0.14955626900434313
+optimal anchors:  ['I33', 'Lopidea_amorphae', 'Heterocaecilius_solocipennis']
+optimal p:  [0.54982844 0.21301909 0.23715247]
+optimal x:  [1.         0.99734734 0.87097702]
+optimal y:  0.14955626900434313
+Optimization Runtime:  0.5299696922302246

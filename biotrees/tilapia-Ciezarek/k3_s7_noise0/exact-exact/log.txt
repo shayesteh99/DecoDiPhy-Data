@@ -1,0 +1,11 @@
+created matrices
+Solver reached max iterations. Using the last available solution.
+opt_anchors:  [ 42  70 101]
+opt_x:  [0.04167449 0.40253536 0.40000948]
+opt_p:  [0.60242308 0.05894187 0.33863505]
+opt_y:  0.0016727047024885588
+optimal anchors:  ['Otanganicae__Katanga__41', 'I44', 'Oplacidus__Mozambique__AC13-A158']
+optimal p:  [0.60242308 0.05894187 0.33863505]
+optimal x:  [0.04167449 0.40253536 0.40000948]
+optimal y:  0.0016727047024885588
+Optimization Runtime:  12085.748539447784

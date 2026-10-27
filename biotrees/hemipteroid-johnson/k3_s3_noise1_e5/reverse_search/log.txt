@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [125 269 299]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.36320178 0.14015768 0.49664054]
+opt_y:  0.14600757881833917
+optimal anchors:  ['I67', 'Amphipsocus_japonicus', 'I154']
+optimal p:  [0.30321512 0.0999437  0.59684119]
+optimal x:  [1.         1.         0.96359838]
+optimal y:  0.19471615312367477
+Optimization Runtime:  0.649442195892334

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 85  88 122]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.20950951 0.20489512 0.58559538]
+opt_y:  0.09483976055139624
+optimal anchors:  ['I58', 'I59', 'Dendrolycopodium_obscurum']
+optimal p:  [0.41098795 0.0125983  0.57641376]
+optimal x:  [0.97274019 0.22511947 1.        ]
+optimal y:  0.11032312037854113
+Optimization Runtime:  0.72088623046875

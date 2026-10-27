@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 88 114 122]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.09808877 0.23699183 0.6649194 ]
+opt_y:  0.14778724258376952
+optimal anchors:  ['Zamia_vazquezii', 'Angiopteris_evecta', 'Dendrolycopodium_obscurum']
+optimal p:  [0.09808877 0.23699183 0.6649194 ]
+optimal x:  [1. 1. 1.]
+optimal y:  0.14778724258376952
+Optimization Runtime:  0.2148580551147461

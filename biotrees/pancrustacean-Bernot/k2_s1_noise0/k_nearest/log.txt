@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [146 147]
+opt_x:  [1. 1.]
+opt_p:  [0.50047139 0.49952861]
+opt_y:  0.03029220882373834
+optimal anchors:  ['Oniscus_asellus', 'Trachelipus_rathkei']
+optimal p:  [0.50047139 0.49952861]
+optimal x:  [1. 1.]
+optimal y:  0.03029220882373834
+Optimization Runtime:  0.09238529205322266

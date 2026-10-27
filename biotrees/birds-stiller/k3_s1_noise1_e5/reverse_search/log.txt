@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 63 136 137]
+opt_x:  [1.         0.91951248 0.27577382]
+opt_p:  [ 1.00000000e+00  4.78320115e-22 -1.16628826e-21]
+opt_y:  0.03886141428170842
+optimal anchors:  ['Corythaixoides_concolor', 'Glareola_pratincola', 'Dromas_ardeola']
+optimal p:  [ 1.00000000e+00  4.78320115e-22 -1.16628826e-21]
+optimal x:  [1.         0.91951248 0.27577382]
+optimal y:  0.03886141428170842
+Optimization Runtime:  2.805314302444458

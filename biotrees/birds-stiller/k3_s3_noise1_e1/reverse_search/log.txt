@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [240 553 559]
+opt_x:  [1.         0.85062969 1.        ]
+opt_p:  [0.36090478 0.24242609 0.39666912]
+opt_y:  0.025498405517132606
+optimal anchors:  ['Phalacrocorax_brasilianus', 'I279', 'Leptocoma_aspasia']
+optimal p:  [0.36090478 0.24242609 0.39666912]
+optimal x:  [1.         0.85062969 1.        ]
+optimal y:  0.025498405517132606
+Optimization Runtime:  3.250577211380005

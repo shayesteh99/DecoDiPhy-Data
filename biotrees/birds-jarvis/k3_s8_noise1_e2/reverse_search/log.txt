@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 7 25 48]
+opt_x:  [6.93799704e-05 3.68644937e-02 1.07883939e-06]
+opt_p:  [0.24861106 0.31936766 0.43202142]
+opt_y:  0.0881641195162497
+optimal anchors:  ['FALPE', 'I20', 'EGRGA']
+optimal p:  [0.23099075 0.40373669 0.36527256]
+optimal x:  [0.9849491  0.47284145 0.78056418]
+optimal y:  0.08394028015791956
+Optimization Runtime:  0.610595703125

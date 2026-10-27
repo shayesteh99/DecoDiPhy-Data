@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [221  45 240]
+opt_x:  [0.43257637 1.         1.        ]
+opt_p:  [-9.77014454e-23  3.29251488e-01  6.70748512e-01]
+opt_y:  0.07538899640464672
+optimal anchors:  ['I27', 'Hylesinus_sp_I02536', 'I123']
+optimal p:  [ 4.19508350e-01 -4.10116313e-19  5.80491650e-01]
+optimal x:  [0.82755044 0.458781   0.32020297]
+optimal y:  0.09094094191170803
+Optimization Runtime:  0.1475672721862793

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [234 233]
+opt_x:  [1. 1.]
+opt_p:  [0.5000593 0.4999407]
+opt_y:  -8.830241801289314e-17
+optimal anchors:  ['Monacanthidae_Paramonacanthus_choirocephalus_EPLATE_53_D01', 'Monacanthidae_Paramonacanthus_japonicus_EPLATE_51_B11']
+optimal p:  [0.4999407 0.5000593]
+optimal x:  [1. 1.]
+optimal y:  -8.830241801289314e-17
+Optimization Runtime:  0.14541864395141602

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [584 155]
+opt_x:  [1. 1.]
+opt_p:  [0.53179212 0.46820788]
+opt_y:  0.018926121663332757
+optimal anchors:  ['Alca_torda', 'Sturnus_vulgaris']
+optimal p:  [0.46820788 0.53179212]
+optimal x:  [1. 1.]
+optimal y:  0.018926121663332757
+Optimization Runtime:  0.8159229755401611

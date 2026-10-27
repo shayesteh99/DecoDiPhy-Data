@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [152 123 147]
+opt_x:  [1.         1.         0.48609823]
+opt_p:  [ 5.93685444e-01  4.06314556e-01 -9.27544420e-24]
+opt_y:  0.011037110825635995
+optimal anchors:  ['Oshiranus__Lituhu__T8H7', 'Ourolepis__Kilombero__F3', 'Ourolepis__LakeLugongwe__T2J5']
+optimal p:  [ 4.06314556e-01 -9.27544420e-24  5.93685444e-01]
+optimal x:  [1.         0.48609823 1.        ]
+optimal y:  0.011037110825635995
+Optimization Runtime:  0.13031220436096191

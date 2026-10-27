@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [383 488 576]
+opt_x:  [1. 1. 1.]
+opt_p:  [ 4.37053754e-01 -1.53976781e-22  5.62946246e-01]
+opt_y:  0.27302671804669726
+optimal anchors:  ['I19', 'Teleost_Euteleost_Argentiniformes_Argentinidae_Argentina_sp', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides']
+optimal p:  [0.55362201 0.01474595 0.43163204]
+optimal x:  [1.1469531e-22 1.0000000e+00 1.0000000e+00]
+optimal y:  0.3363801090326563
+Optimization Runtime:  0.627032995223999

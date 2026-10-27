@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [384 381 452]
+opt_x:  [1.         0.59563411 1.        ]
+opt_p:  [-1.80314893e-21  9.82665113e-22  1.00000000e+00]
+opt_y:  0.35012074838102664
+optimal anchors:  ['I19', 'Teleost_Euteleost_Beryciformes_Rondeletiidae_Rondeletia_loricata', 'Teleost_Euteleost_Polymixiiformes_Polymixiidae_Polymixia_japonica']
+optimal p:  [-1.50532304e-21 -4.15555054e-22  1.00000000e+00]
+optimal x:  [0.11967133 0.77320398 1.        ]
+optimal y:  0.3501207483810267
+Optimization Runtime:  0.49341344833374023

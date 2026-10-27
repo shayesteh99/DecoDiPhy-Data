@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [66 48]
+opt_x:  [1. 1.]
+opt_p:  [0.93741378 0.06258622]
+opt_y:  0.02129366191389186
+optimal anchors:  ['Okaromo__LakeNyamagoma__206', 'Omacrochir__Angola__RB12-A050']
+optimal p:  [0.06258622 0.93741378]
+optimal x:  [1. 1.]
+optimal y:  0.02129366191389186
+Optimization Runtime:  0.1183629035949707

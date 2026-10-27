@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [212 241 242 286 298]
+opt_x:  [0.97753196 0.98505175 1.         0.92450074 1.        ]
+opt_p:  [0.23691605 0.08445389 0.22917424 0.38416778 0.06528804]
+opt_y:  0.08942397848608448
+optimal anchors:  ['Hydrochoerus_hydrochaeris', 'I124', 'Crocidura_indochinensis', 'Rousettus_aegyptiacus', 'Megaderma_lyra']
+optimal p:  [0.23691605 0.243589   0.07003912 0.38416782 0.06528801]
+optimal x:  [0.97753197 0.94082337 0.98197526 0.92450128 1.        ]
+optimal y:  0.08942398785991791
+Optimization Runtime:  9.464344024658203

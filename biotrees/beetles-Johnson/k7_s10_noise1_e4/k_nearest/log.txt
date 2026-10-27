@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [143 142 211 132 151 131 144]
+opt_x:  [0.49059342 0.64294083 0.99999985 0.99999599 1.         0.79747907
+ 1.        ]
+opt_p:  [-7.70498120e-07 -7.65818423e-07  3.53653629e-01  2.18941139e-03
+  5.98701563e-01  1.31324863e-07  4.54568021e-02]
+opt_y:  0.07766884031098406
+optimal anchors:  ['Scolytogenes_sp2020_nr_cicatricosus_I14145', 'Ernoporicus_spessivtzevi_I10220', 'Ernoporicus_fagi_I10218', 'Ernoporicus_sp1928_large_I10219', 'Ernoporicus_sp1929_small_I13664', 'Procryphalus_mucronatus_I10231', 'Hylesinus_sp_I02536']
+optimal p:  [ 1.31324863e-07  2.18941139e-03 -7.65818423e-07 -7.70498120e-07
+  4.54568021e-02  5.98701563e-01  3.53653629e-01]
+optimal x:  [0.79747907 0.99999599 0.64294083 0.49059342 1.         1.
+ 0.99999985]
+optimal y:  0.07766884031098406
+Optimization Runtime:  0.27453064918518066

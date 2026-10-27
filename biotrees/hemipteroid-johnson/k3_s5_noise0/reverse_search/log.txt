@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [135 301 368]
+opt_x:  [0.45786505 1.         0.88921896]
+opt_p:  [0.67196539 0.16754248 0.16049214]
+opt_y:  0.0542631536842396
+optimal anchors:  ['Centrotus_cornutus', 'I162', 'Hydrometra_stagnorum']
+optimal p:  [0.67008034 0.17083696 0.1590827 ]
+optimal x:  [0.44257398 0.1578403  0.87719814]
+optimal y:  0.05860744642822763
+Optimization Runtime:  5.8358869552612305

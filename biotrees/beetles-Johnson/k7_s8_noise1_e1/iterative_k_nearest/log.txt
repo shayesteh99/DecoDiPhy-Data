@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [100  41 216  80 111  78  13]
+opt_x:  [1.         0.49462412 1.         1.         0.97265694 0.11305194
+ 0.82815466]
+opt_p:  [ 1.69730473e-01  7.78567409e-07  1.93999953e-01  3.34199936e-01
+  1.13989872e-08 -9.13981051e-08  3.02068939e-01]
+opt_y:  0.06209366008641254
+optimal anchors:  ['Cosmoderes_cf_consobrinus_I13663', 'Hypothenemus_piaparolinae_I10225', 'I35', 'Cryphalus_bicolor_I10211', 'Cryptocarenus_seriatus_I10214', 'Pityophthorus_liquidambarus_I10230', 'Hylesinus_sp_I02536']
+optimal p:  [0.34959411 0.02151303 0.1990186  0.0431862  0.21493421 0.03810086
+ 0.133653  ]
+optimal x:  [1.00000000e+00 1.00000000e+00 4.91099644e-20 1.00000000e+00
+ 7.60421458e-01 1.00000000e+00 1.00000000e+00]
+optimal y:  0.05520992578231921
+Optimization Runtime:  0.29907846450805664

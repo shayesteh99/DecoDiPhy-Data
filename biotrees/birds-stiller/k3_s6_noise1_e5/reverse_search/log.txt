@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [495 496 581]
+opt_x:  [1.         0.54715358 0.40452834]
+opt_p:  [ 1.00000000e+00  4.11893613e-22 -1.09641566e-21]
+opt_y:  0.052973392395779466
+optimal anchors:  ['I252', 'Pseudopodoces_humilis', 'Toxostoma_redivivum']
+optimal p:  [ 1.00000000e+00  4.11893613e-22 -1.09641566e-21]
+optimal x:  [1.         0.54715358 0.40452834]
+optimal y:  0.052973392395779466
+Optimization Runtime:  2.9314568042755127

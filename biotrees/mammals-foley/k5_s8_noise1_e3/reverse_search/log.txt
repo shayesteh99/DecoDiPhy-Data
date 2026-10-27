@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 74 112 114 182 219]
+opt_x:  [1.         1.         1.         0.93155968 1.        ]
+opt_p:  [0.14843167 0.14347519 0.25864087 0.10910048 0.34035178]
+opt_y:  0.10078436291244172
+optimal anchors:  ['I20', 'Semnopithecus_entellus', 'I60', 'Ictidomys_tridecemlineatus', 'I100']
+optimal p:  [0.34587533 0.12198786 0.10583907 0.12274199 0.30355575]
+optimal x:  [0.36614978 1.         0.17037418 1.         0.87525812]
+optimal y:  0.10189977742353445
+Optimization Runtime:  1.113220453262329

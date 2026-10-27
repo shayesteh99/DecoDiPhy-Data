@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [52 53 57]
+opt_x:  [0.99999954 0.16826399 1.        ]
+opt_p:  [1.00000001e+00 2.28758554e-08 2.00241576e-08]
+opt_y:  0.08809465022223635
+optimal anchors:  ['I28', 'I29', 'Columbina_picui']
+optimal p:  [1.0000000e+00 5.6143309e-22 2.7271657e-22]
+optimal x:  [1.         0.50215222 0.50912502]
+optimal y:  0.0880946773399279
+Optimization Runtime:  2.86893630027771

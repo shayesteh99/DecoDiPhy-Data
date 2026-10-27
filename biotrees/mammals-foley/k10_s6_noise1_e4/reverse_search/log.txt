@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [ 16 378 379 388 389 390 392 393 395 405]
+opt_x:  [1.         1.         1.         1.         0.50607546 0.50468659
+ 0.48780294 0.49923833 1.         0.50870493]
+opt_p:  [ 4.81736634e-01  6.61529647e-02  6.69585392e-02  1.91959112e-01
+ -7.75003420e-22  1.30703036e-21  4.18454266e-22  4.10170699e-22
+  1.93192750e-01  4.75319021e-22]
+opt_y:  0.0641536767682846
+optimal anchors:  ['Procavia_capensis', 'Rangifer_tarandus', 'Elaphurus_davidianus', 'I205', 'I206', 'Cryptoprocta_ferox', 'Mungos_mungo', 'Suricata_suricatta', 'Paradoxurus_hermaphroditus', 'Puma_concolor']
+optimal p:  [ 4.81736634e-01  6.61529647e-02  6.69585392e-02  1.91959112e-01
+ -7.75003420e-22  1.30703036e-21  4.18454266e-22  4.10170699e-22
+  1.93192750e-01  4.75319021e-22]
+optimal x:  [1.         1.         1.         1.         0.50607546 0.50468659
+ 0.48780294 0.49923833 1.         0.50870493]
+optimal y:  0.0641536767682846
+Optimization Runtime:  1.0013494491577148

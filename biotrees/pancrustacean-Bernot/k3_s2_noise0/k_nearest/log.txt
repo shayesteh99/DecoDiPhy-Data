@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [92 91 90]
+opt_x:  [0.99999949 0.6592666  0.72390703]
+opt_p:  [9.99998949e-01 5.34008999e-07 5.14298166e-07]
+opt_y:  0.027656154943893372
+optimal anchors:  ['Chthamalus_fragilis', 'Amphibalanus_amphitrite', 'Pollicipes_pollicipes']
+optimal p:  [5.14298166e-07 5.34008999e-07 9.99998949e-01]
+optimal x:  [0.72390703 0.6592666  0.99999949]
+optimal y:  0.027656154943893372
+Optimization Runtime:  0.09126400947570801

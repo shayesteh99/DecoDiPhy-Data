@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [299 468 105]
+opt_x:  [1.         0.48408303 1.        ]
+opt_p:  [ 6.96828248e-01 -4.04022868e-22  3.03171752e-01]
+opt_y:  0.10224072687970152
+optimal anchors:  ['Daubentonia_madagascariensis', 'Rhinolophus_sinicus', 'Dicerorhinus_sumatrensis']
+optimal p:  [ 3.03171752e-01  6.96828248e-01 -4.04022868e-22]
+optimal x:  [1.         1.         0.48408303]
+optimal y:  0.10224072687970152
+Optimization Runtime:  0.3635561466217041

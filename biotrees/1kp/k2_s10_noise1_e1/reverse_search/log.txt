@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [150 157]
+opt_x:  [0.83799349 1.        ]
+opt_p:  [0.81479609 0.18520391]
+opt_y:  0.03446097754702657
+optimal anchors:  ['Anomodon_attenuatus', 'Polytrichum_commune']
+optimal p:  [0.81479609 0.18520391]
+optimal x:  [0.83799349 1.        ]
+optimal y:  0.03446097754702657
+Optimization Runtime:  0.755422830581665

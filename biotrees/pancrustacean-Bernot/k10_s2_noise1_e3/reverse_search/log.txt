@@ -1,0 +1,15 @@
+created matrices
+opt_anchors:  [ 16  57  71  82 134 158 159 171 172 179]
+opt_x:  [1.         1.         0.70965963 0.65456405 1.         1.
+ 1.         1.         1.         1.        ]
+opt_p:  [0.04949423 0.44102756 0.05652484 0.07950183 0.09058884 0.0327039
+ 0.03324025 0.03704374 0.0363504  0.14352439]
+opt_y:  0.41827583241766214
+optimal anchors:  ['I15', 'I34', 'Heterocypris_incongruens', 'I49', 'Sphaeroma_terebrans', 'Euphausia_crystallorophias', 'Thysanoessa_inermis', 'Palaemon_sp', 'Crangon_septemspinosa', 'Cherax_destructor']
+optimal p:  [0.04357836 0.49626636 0.01775551 0.07484115 0.08877458 0.03184722
+ 0.03212267 0.03767341 0.03626533 0.14087542]
+optimal x:  [5.22291694e-01 6.18652709e-01 3.09971752e-19 6.14627367e-01
+ 1.00000000e+00 1.00000000e+00 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00 1.00000000e+00]
+optimal y:  0.42197361699208236
+Optimization Runtime:  0.35535740852355957

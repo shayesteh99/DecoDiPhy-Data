@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [583 496 497]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.31833567 0.33819034 0.34347399]
+opt_y:  0.02490098703381355
+optimal anchors:  ['Pseudopodoces_humilis', 'Parus_major', 'Leucopsar_rothschildi']
+optimal p:  [0.33819034 0.34347399 0.31833567]
+optimal x:  [1. 1. 1.]
+optimal y:  0.02490098703381355
+Optimization Runtime:  0.8018839359283447

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 30  82 108 181 272 303 442]
+opt_x:  [8.75664858e-18 3.07915097e-01 1.00000000e+00 5.72974373e-01
+ 8.39824683e-01 1.00000000e+00 1.00000000e+00]
+opt_p:  [0.0736965  0.12731094 0.09128184 0.12228335 0.0561033  0.30689848
+ 0.22242559]
+opt_y:  0.12374290603487961
+optimal anchors:  ['I28', 'I55', 'Teleost_Euteleost_Ovalentaria_Blenniiformes_Tripterygiidae_Enneanectes_sp', 'I109', 'I154', 'I167', 'Teleost_Euteleost_Polymixiiformes_Polymixiidae_Polymixia_japonica']
+optimal p:  [0.0736965  0.12731094 0.09128184 0.12228335 0.0561033  0.30689848
+ 0.22242559]
+optimal x:  [8.75664858e-18 3.07915097e-01 1.00000000e+00 5.72974373e-01
+ 8.39824683e-01 1.00000000e+00 1.00000000e+00]
+optimal y:  0.12374290603487961
+Optimization Runtime:  157.68094682693481

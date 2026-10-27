@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [173  13 191   7  17 186  35]
+opt_x:  [0.449893   0.33691776 0.48408197 0.50890429 1.         0.90295395
+ 0.44698867]
+opt_p:  [ 6.35647179e-08 -1.69760119e-08  5.50347758e-08  4.92900630e-01
+  1.75075034e-01  3.32024245e-01 -1.02531201e-08]
+opt_y:  0.301049481490119
+optimal anchors:  ['Megajapyx_major', 'Tricholepidion_gertschi', 'Thrips_palmi', 'Morlockia_williamsi', 'Sergestes_similis', 'Pagurus_longicarpus', 'Cherax_destructor']
+optimal p:  [3.29595326e-01 1.56793791e-01 8.85424665e-02 2.03065941e-21
+ 1.44668713e-01 2.75942217e-01 4.45748636e-03]
+optimal x:  [0.78864211 1.         0.76390769 0.49120947 1.         0.97411784
+ 1.        ]
+optimal y:  0.3926507264320585
+Optimization Runtime:  0.19698238372802734

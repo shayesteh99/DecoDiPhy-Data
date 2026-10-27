@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [159 188]
+opt_x:  [0.60158604 1.        ]
+opt_p:  [1.51199153e-21 1.00000000e+00]
+opt_y:  0.3755299078097092
+optimal anchors:  ['Polytrichum_commune', 'Klebsormidium_subtile']
+optimal p:  [1.51199153e-21 1.00000000e+00]
+optimal x:  [0.60158604 1.        ]
+optimal y:  0.3755299078097092
+Optimization Runtime:  0.11303448677062988

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [590 438 493 581 511]
+opt_x:  [1.         1.         1.         0.45839807 0.4790512 ]
+opt_p:  [ 5.99333108e-01  3.64174364e-01  3.64925279e-02 -2.56074803e-21
+  9.29455984e-22]
+opt_y:  0.022883205685173255
+optimal anchors:  ['I223', 'I251', 'Acrocephalus_arundinaceus', 'Cercotrichas_coryphaeus', 'I293']
+optimal p:  [2.61754705e-01 2.83571713e-01 3.57496176e-17 8.99411275e-03
+ 4.45679469e-01]
+optimal x:  [0.78868262 0.79844601 0.46716913 1.         0.19028276]
+optimal y:  0.03670904121811061
+Optimization Runtime:  0.9087269306182861

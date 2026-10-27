@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [241 390 393 402 407]
+opt_x:  [1.         1.         0.31535174 0.49632768 0.52251176]
+opt_p:  [ 4.88543335e-01  5.11456665e-01 -9.48250647e-22 -1.52735856e-21
+ -1.08868230e-21]
+opt_y:  0.1114056690807205
+optimal anchors:  ['Teleost_Euteleost_Eupercaria_Centrarchiformes_Oplegnathidae_Oplegnathus_punctatus', 'I210', 'I213', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Pollachius_virens', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Lotidae_Molva_molva']
+optimal p:  [ 4.88543335e-01  5.11456665e-01 -9.48250647e-22 -1.52735856e-21
+ -1.08868230e-21]
+optimal x:  [1.         1.         0.31535174 0.49632768 0.52251176]
+optimal y:  0.1114056690807205
+Optimization Runtime:  2.256451368331909

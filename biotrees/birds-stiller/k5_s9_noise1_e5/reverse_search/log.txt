@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [380 614 617 618 620]
+opt_x:  [1.         1.         0.49178777 1.         0.50400814]
+opt_p:  [ 7.58227707e-01  2.41772293e-01 -4.07811582e-22 -1.67661412e-23
+  6.85333949e-23]
+opt_y:  0.05242092168522331
+optimal anchors:  ['Onychorhynchus_coronatus', 'Urocynchramus_pylzowi', 'I314', 'I316', 'Vidua_macroura']
+optimal p:  [ 7.58227707e-01  2.41772293e-01 -3.37462930e-22 -2.05002334e-22
+  3.96498526e-23]
+optimal x:  [1.         1.         0.47625274 0.42226745 0.55106508]
+optimal y:  0.05242092168522331
+Optimization Runtime:  2.8799734115600586

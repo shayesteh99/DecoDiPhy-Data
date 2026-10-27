@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [21 22 23 24 47 73 78]
+opt_x:  [0.99999498 0.99999499 0.49808037 0.49978126 1.         1.
+ 1.        ]
+opt_p:  [3.03110150e-01 3.03110147e-01 1.52660556e-06 1.52487662e-06
+ 2.85353099e-01 5.42117754e-02 5.42117758e-02]
+opt_y:  0.030862790975850367
+optimal anchors:  ['Ostraciidae_Ostracion_cubicus_USNMAG5NP65', 'I14', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Ostraciidae_Ostracion_rhinorhynchos', 'I15', 'I29', 'I44', 'Tetraodontidae_Canthigaster_valentini_USNMAG5NP15']
+optimal p:  [3.03110150e-01 3.03110147e-01 1.52660556e-06 1.52487662e-06
+ 2.85353099e-01 5.42117754e-02 5.42117758e-02]
+optimal x:  [0.99999498 0.99999499 0.49808037 0.49978126 1.         1.
+ 1.        ]
+optimal y:  0.030862790975850367
+Optimization Runtime:  0.45072507858276367

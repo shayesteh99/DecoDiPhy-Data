@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [39 90 56]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.07202326 0.36345957 0.56451716]
+opt_y:  0.1383590143764563
+optimal anchors:  ['Godzilliognomus_frondosus', 'Eucyclops_serrulatus', 'Lepas_anatifera']
+optimal p:  [0.07202326 0.56451716 0.36345957]
+optimal x:  [1. 1. 1.]
+optimal y:  0.1383590143764563
+Optimization Runtime:  0.17098569869995117

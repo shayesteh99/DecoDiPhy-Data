@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [136 162 260 261 125 274 123 180  82 235]
+opt_x:  [1.         0.36766081 1.         1.         1.         0.46808872
+ 0.41655875 0.35444003 1.         1.        ]
+opt_p:  [ 1.42607179e-01 -2.01245349e-07  2.02326884e-01  2.02280128e-01
+  1.26921908e-01 -3.26357355e-08 -1.83666882e-07 -2.78539553e-07
+  3.25864711e-01 -1.18873676e-07]
+opt_y:  -1.992536992780424e-05
+optimal anchors:  ['Tetraodontidae_Arothron_meleagris_USNMAG5NP43', 'I65', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Tetraodontidae_Takifugu_rubripes', 'Triacanthodidae_Hollardia_hollardia_Vims40109', 'Balistidae_Melichthys_niger_UPRFL0061', 'Balistidae_Balistes_polylepis_USNMAG7PC77', 'Monacanthidae_Pseudomonacanthus_macrurus_USNMAB6QQ85', 'Monacanthidae_Eubalichthys_quadrispinis_EPLATE_53_G02', 'Monacanthidae_Eubalichthys_bucephalus_EPLATE_74_D04', 'Monocanthidae_Eubalichthys_gunnii_EPLATE_53_A03']
+optimal p:  [ 6.23944609e-02  2.40444973e-01  7.60104440e-02  7.48047872e-02
+  2.81359103e-02  1.00709944e-01  2.65675220e-01  7.59121411e-02
+  7.59121405e-02 -2.04379781e-08]
+optimal x:  [0.999994   0.79610734 0.65729038 1.         1.         1.
+ 1.         1.         1.         0.52499562]
+optimal y:  0.029760561073215668
+Optimization Runtime:  0.4482910633087158

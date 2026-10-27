@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 18  60  95 164 170 171 177]
+opt_x:  [1.         1.         1.         1.         0.50121321 1.
+ 1.        ]
+opt_p:  [1.74501071e-01 1.91613667e-01 3.05976198e-01 6.95094763e-03
+ 2.68131726e-06 6.76469231e-02 2.53308510e-01]
+opt_y:  0.21719369955825132
+optimal anchors:  ['I4', 'Colchicum_autumnale', 'Populus_trichocarpa', 'Ginkgo_biloba', 'Mesotaenium_endlicherianum', 'Roya_obtusa', 'Spirogyra_sp']
+optimal p:  [3.21066424e-01 1.75436035e-01 1.92990500e-01 2.94475883e-01
+ 3.76604950e-08 7.96975531e-08 1.60310407e-02]
+optimal x:  [7.22662989e-08 9.99999998e-01 1.00000000e+00 9.99999994e-01
+ 1.63701588e-01 3.14219935e-01 1.00000000e+00]
+optimal y:  0.22378713112612053
+Optimization Runtime:  0.5027213096618652

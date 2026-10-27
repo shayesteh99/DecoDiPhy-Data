@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [32 33 34 17 18]
+opt_x:  [0.56484747 1.         0.20397292 1.         1.        ]
+opt_p:  [-2.44847123e-21 -3.65261222e-22  7.63041312e-22  4.99708197e-01
+  5.00291803e-01]
+opt_y:  0.08659542156687132
+optimal anchors:  ['Anasa_tristis', 'Alydus_pilosus', 'I21', 'Lygaeus_equestris', 'Arocatus_melanocephalus']
+optimal p:  [ 4.99697429e-01  5.00302571e-01 -3.00863041e-21 -2.24601494e-21
+  9.00390302e-22]
+optimal x:  [1.         1.         0.53168139 0.56499674 0.17059348]
+optimal y:  0.08659542156687126
+Optimization Runtime:  0.22753572463989258

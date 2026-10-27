@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [162 286 293 391 410]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.21203231 0.20189883 0.19382785 0.19900483 0.19323618]
+opt_y:  0.0833079791066645
+optimal anchors:  ['Teleost_Euteleost_Anabantaria_Anabantiformes_Channidae_Channa_gachua', 'I157', 'Teleost_Euteleost_Eupercaria_Perciformes_Peristediidae_Peristedion_sp', 'I210', 'I211']
+optimal p:  [0.20454556 0.20236855 0.19425421 0.28933486 0.10949681]
+optimal x:  [1.00000000e+00 1.00000000e+00 1.00000000e+00 1.00000000e+00
+ 1.32628998e-20]
+optimal y:  0.08804288662026447
+Optimization Runtime:  1.9360675811767578

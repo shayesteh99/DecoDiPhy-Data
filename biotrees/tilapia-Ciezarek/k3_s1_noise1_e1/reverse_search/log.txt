@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 31  32 141]
+opt_x:  [0.99575851 0.87635213 0.41548598]
+opt_p:  [0.61423642 0.0851608  0.30060271]
+opt_y:  0.0192074169128683
+optimal anchors:  ['I19', 'Oamphimelas__LakeManyara__P3H1', 'I75']
+optimal p:  [0.61423642 0.0851608  0.30060271]
+optimal x:  [0.99575851 0.87635213 0.41548598]
+optimal y:  0.0192074169128683
+Optimization Runtime:  0.44735264778137207

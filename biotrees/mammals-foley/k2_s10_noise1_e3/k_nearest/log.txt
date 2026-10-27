@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [293 294]
+opt_x:  [1. 1.]
+opt_p:  [0.49908126 0.50091874]
+opt_y:  0.030089032637153037
+optimal anchors:  ['Pteropus_alecto', 'Pteropus_vampyrus']
+optimal p:  [0.49908126 0.50091874]
+optimal x:  [1. 1.]
+optimal y:  0.030089032637153037
+Optimization Runtime:  0.3294343948364258

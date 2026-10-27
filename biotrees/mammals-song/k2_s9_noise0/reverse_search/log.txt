@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [56 57]
+opt_x:  [1.00000000e+00 2.79711859e-20]
+opt_p:  [0.77707826 0.22292174]
+opt_y:  0.04786630677704433
+optimal anchors:  ['I3', 'DAS']
+optimal p:  [0.44290428 0.55709408]
+optimal x:  [0.29096553 0.55275653]
+optimal y:  0.04720858743026689
+Optimization Runtime:  0.2755143642425537

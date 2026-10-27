@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 92 103 110]
+opt_x:  [3.73788654e-25 1.41142086e-22 1.62998329e-01]
+opt_p:  [2.97621513e-01 7.02378487e-01 6.81615256e-24]
+opt_y:  0.02977647142175277
+optimal anchors:  ['Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Haplochromis_burtoni', 'Teleost_Euteleost_Ovalentaria_Gobiescociformes_Gobiesocidae_Acyrtus_sp', 'Teleost_Euteleost_Ovalentaria_Grammatidae_Lipogramma_evides']
+optimal p:  [2.97621513e-01 7.02378487e-01 6.81615256e-24]
+optimal x:  [3.73788654e-25 1.41142086e-22 1.62998329e-01]
+optimal y:  0.02977647142175277
+Optimization Runtime:  0.47023963928222656

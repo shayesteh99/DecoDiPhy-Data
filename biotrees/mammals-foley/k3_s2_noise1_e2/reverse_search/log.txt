@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 25  27 435]
+opt_x:  [1.         0.90034703 0.6556534 ]
+opt_p:  [0.23311893 0.29848612 0.46839495]
+opt_y:  0.10721193822995706
+optimal anchors:  ['Elephantulus_edwardii', 'Microgale_talazaci', 'I221']
+optimal p:  [0.23311893 0.29848612 0.46839495]
+optimal x:  [1.         0.90034703 0.6556534 ]
+optimal y:  0.10721193822995706
+Optimization Runtime:  4.626343727111816

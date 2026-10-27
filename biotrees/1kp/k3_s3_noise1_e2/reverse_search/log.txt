@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 73 145 156]
+opt_x:  [0.27827127 0.98706929 1.        ]
+opt_p:  [0.3514419  0.32981535 0.31874275]
+opt_y:  0.12014940133996897
+optimal anchors:  ['I44', 'I75', 'Rosulabryum_cf_capillare']
+optimal p:  [0.34942662 0.23544197 0.41513142]
+optimal x:  [0.20839167 0.7024702  1.        ]
+optimal y:  0.11951989896331355
+Optimization Runtime:  0.5684938430786133

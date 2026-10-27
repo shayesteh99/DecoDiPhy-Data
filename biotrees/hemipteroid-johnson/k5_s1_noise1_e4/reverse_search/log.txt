@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 51  57  76 128 278]
+opt_x:  [1.         0.40169316 1.         1.         1.        ]
+opt_p:  [0.16802963 0.11671182 0.35041645 0.23224399 0.13259811]
+opt_y:  0.13278449905406015
+optimal anchors:  ['I23', 'I38', 'Saldula_saltatoria', 'I72', 'Heterocaecilius_solocipennis']
+optimal p:  [0.1810737  0.10875567 0.3443089  0.23296426 0.13289747]
+optimal x:  [0.38356608 0.32816453 1.         1.         1.        ]
+optimal y:  0.1342831638066749
+Optimization Runtime:  0.5936682224273682

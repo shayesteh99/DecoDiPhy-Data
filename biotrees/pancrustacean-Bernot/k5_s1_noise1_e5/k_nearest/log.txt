@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [175 176 174 187 189]
+opt_x:  [0.49506391 0.36465148 0.32630867 0.44102215 1.        ]
+opt_p:  [-5.90386875e-21 -9.59228722e-22 -2.93969423e-21 -1.11646654e-21
+  1.00000000e+00]
+opt_y:  0.37245924750725934
+optimal anchors:  ['Penaeus_duorarum', 'Litopenaeus_vannamei', 'Penaeus_penicilliatus', 'Neocaridina_denticulata', 'Enoplometopus_cf_daumi']
+optimal p:  [-2.93969423e-21 -5.90386875e-21 -9.59228722e-22 -1.11646654e-21
+  1.00000000e+00]
+optimal x:  [0.32630867 0.49506391 0.36465148 0.44102215 1.        ]
+optimal y:  0.37245924750725934
+Optimization Runtime:  0.09160900115966797

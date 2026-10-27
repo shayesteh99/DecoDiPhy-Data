@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [586 139]
+opt_x:  [1. 1.]
+opt_p:  [0.53372152 0.46627848]
+opt_y:  0.03448492563252756
+optimal anchors:  ['Glareola_pratincola', 'I295']
+optimal p:  [0.36666223 0.63333777]
+optimal x:  [0.85260235 0.52072388]
+optimal y:  0.03139901305880194
+Optimization Runtime:  0.7697970867156982

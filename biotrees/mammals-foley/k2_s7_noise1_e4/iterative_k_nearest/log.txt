@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 81 102]
+opt_x:  [0.38313246 1.        ]
+opt_p:  [-8.04569034e-22  1.00000000e+00]
+opt_y:  0.09566803997247891
+optimal anchors:  ['Callicebus_donacophilus', 'Daubentonia_madagascariensis']
+optimal p:  [-8.04569034e-22  1.00000000e+00]
+optimal x:  [0.38313246 1.        ]
+optimal y:  0.09566803997247891
+Optimization Runtime:  0.3171517848968506

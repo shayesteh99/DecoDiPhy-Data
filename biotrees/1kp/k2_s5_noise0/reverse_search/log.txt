@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 6 75]
+opt_x:  [0.03823013 0.80650689]
+opt_p:  [0.20315548 0.79684452]
+opt_y:  0.05619267219297114
+optimal anchors:  ['Nothoceros_aenigmaticus', 'Liriodendron_tulipifera']
+optimal p:  [0.20315548 0.79684452]
+optimal x:  [0.03823013 0.80650689]
+optimal y:  0.05619267219297114
+Optimization Runtime:  2.0266647338867188

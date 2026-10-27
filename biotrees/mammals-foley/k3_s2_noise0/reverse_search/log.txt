@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 27 438 439]
+opt_x:  [0.40779214 1.         1.        ]
+opt_p:  [0.54574323 0.22678928 0.22746749]
+opt_y:  0.04218285495608483
+optimal anchors:  ['Microgale_talazaci', 'I224', 'Enhydra_lutris']
+optimal p:  [0.54336831 0.30200229 0.1546294 ]
+optimal x:  [0.40319386 0.24567962 0.95619664]
+optimal y:  0.04438428832138345
+Optimization Runtime:  5.643953323364258

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 70  78 282]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.1705941  0.60736666 0.22203924]
+opt_y:  0.17815295199075873
+optimal anchors:  ['I6', 'Reuteroscopus_ornatus', 'Heterocaecilius_solocipennis']
+optimal p:  [0.69067249 0.07238477 0.23694274]
+optimal x:  [2.20477613e-01 2.16349750e-22 1.00000000e+00]
+optimal y:  0.18251278448785493
+Optimization Runtime:  0.591754674911499

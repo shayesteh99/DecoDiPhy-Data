@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [153 194 197 200 211]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.09254816 0.17185156 0.1716422  0.2810405  0.28291759]
+opt_y:  0.07890489366796566
+optimal anchors:  ['Ernoporicus_sp1928_large_I10219', 'I103', 'Premnobius_cavipennis_I13693', 'I105', 'I106']
+optimal p:  [0.0871793  0.15245358 0.15246689 0.50558843 0.10231181]
+optimal x:  [0.99999834 1.         0.99986964 0.98445089 1.        ]
+optimal y:  0.08322118956055102
+Optimization Runtime:  0.29097747802734375

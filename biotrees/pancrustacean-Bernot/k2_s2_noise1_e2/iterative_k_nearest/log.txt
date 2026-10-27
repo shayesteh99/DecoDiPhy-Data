@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [26 16]
+opt_x:  [0.99999814 0.77076557]
+opt_p:  [ 1.00000559e+00 -5.58182723e-06]
+opt_y:  0.47844361832416615
+optimal anchors:  ['I11', 'Locusta_migratoria']
+optimal p:  [0.99242796 0.00757204]
+optimal x:  [0.99496595 1.        ]
+optimal y:  0.5237636452334486
+Optimization Runtime:  0.09614372253417969

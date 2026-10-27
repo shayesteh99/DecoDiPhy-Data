@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [444 197 515]
+opt_x:  [0.46393891 1.         1.        ]
+opt_p:  [1.82838253e-22 5.75883852e-01 4.24116148e-01]
+opt_y:  0.03958838364666031
+optimal anchors:  ['Aptenodytes_forsteri', 'Corvus_brachyrhynchos', 'Acrocephalus_arundinaceus']
+optimal p:  [5.75883852e-01 1.82838253e-22 4.24116148e-01]
+optimal x:  [1.         0.46393891 1.        ]
+optimal y:  0.03958838364666031
+Optimization Runtime:  0.8150901794433594

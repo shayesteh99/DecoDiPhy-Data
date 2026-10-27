@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [59 92]
+opt_x:  [0.15669923 0.09057205]
+opt_p:  [0.47418219 0.52581781]
+opt_y:  0.0024706370533557156
+optimal anchors:  ['Orukwaensis__LakeRukwa__24-2012', 'Ojipe__NyumbayaMunga__P2G6']
+optimal p:  [0.47418219 0.52581781]
+optimal x:  [0.15669923 0.09057205]
+optimal y:  0.0024706370533557156
+Optimization Runtime:  0.7388417720794678

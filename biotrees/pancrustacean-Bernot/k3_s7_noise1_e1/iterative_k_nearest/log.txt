@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [39 38 97]
+opt_x:  [1.         0.12334409 0.59245796]
+opt_p:  [4.28668009e-01 9.84838437e-12 5.71331991e-01]
+opt_y:  0.19586851890060836
+optimal anchors:  ['I19', 'Lasionectes_entrichoma', 'Nebalia_bipes']
+optimal p:  [0.21002912 0.48222221 0.30774867]
+optimal x:  [0.84941395 1.         0.73681435]
+optimal y:  0.23996455559507082
+Optimization Runtime:  0.12369012832641602

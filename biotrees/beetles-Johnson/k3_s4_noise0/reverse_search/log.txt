@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [21 37 68]
+opt_x:  [0.44213489 1.         1.        ]
+opt_p:  [3.91050123e-24 4.09710838e-01 5.90289162e-01]
+opt_y:  0.052075883902471184
+optimal anchors:  ['I12', 'Hypothenemus_ingens_I10226', 'I38']
+optimal p:  [0.30825347 0.103356   0.58839052]
+optimal x:  [0.12145352 1.         0.31988872]
+optimal y:  0.05244899946899017
+Optimization Runtime:  1.8143298625946045

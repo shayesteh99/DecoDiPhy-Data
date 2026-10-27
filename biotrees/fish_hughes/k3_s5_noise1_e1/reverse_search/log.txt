@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [368 379 380]
+opt_x:  [0.9999998 1.        1.       ]
+opt_p:  [ 5.81041823e-01  4.18958198e-01 -2.04236554e-08]
+opt_y:  0.1512654628386889
+optimal anchors:  ['I194', 'I199', 'Teleost_Euteleost_Beryciformes_Stephanoberycidae_Acanthochaenus_luetkenii']
+optimal p:  [ 5.81041823e-01  4.18958198e-01 -2.04236554e-08]
+optimal x:  [0.9999998 1.        1.       ]
+optimal y:  0.1512654628386889
+Optimization Runtime:  9.622376441955566

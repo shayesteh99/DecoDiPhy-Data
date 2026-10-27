@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [64 55 70]
+opt_x:  [6.14679414e-04 8.44748916e-01 1.00000000e+00]
+opt_p:  [-6.10485858e-23 -1.38912679e-22  1.00000000e+00]
+opt_y:  0.13395513683269894
+optimal anchors:  ['Boehmeria_nivea', 'Vitis_vinifera', 'Sarcandra_glabra']
+optimal p:  [-1.38912679e-22 -6.10485858e-23  1.00000000e+00]
+optimal x:  [8.44748916e-01 6.14679414e-04 1.00000000e+00]
+optimal y:  0.13395513683269894
+Optimization Runtime:  0.07644152641296387

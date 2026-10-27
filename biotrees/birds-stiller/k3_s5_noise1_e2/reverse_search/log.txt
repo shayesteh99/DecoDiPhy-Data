@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [256 262 633]
+opt_x:  [0.99997431 0.28611785 1.        ]
+opt_p:  [0.45954852 0.28986847 0.25058304]
+opt_y:  0.04393394416297097
+optimal anchors:  ['I129', 'I133', 'Passer_domesticus']
+optimal p:  [0.42506254 0.32444389 0.25049524]
+optimal x:  [0.89578199 0.48640069 1.        ]
+optimal y:  0.04386726669183467
+Optimization Runtime:  3.597036838531494

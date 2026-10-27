@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 10  96 140 141 143]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.39580591 0.33012573 0.07065529 0.07077014 0.13264293]
+opt_y:  0.06549586749749012
+optimal anchors:  ['Cosmoderes_cf_consobrinus_I13663', 'I55', 'Scolytogenes_coccotrypanoides_I13662', 'Scolytogenes_jalapae_I10234', 'I81']
+optimal p:  [0.39580591 0.33012573 0.07065529 0.07077014 0.13264293]
+optimal x:  [1. 1. 1. 1. 1.]
+optimal y:  0.06549586749749012
+Optimization Runtime:  0.30846738815307617

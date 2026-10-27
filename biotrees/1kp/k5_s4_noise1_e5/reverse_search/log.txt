@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 49  70  97 176 177]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.15915964 0.30367668 0.30347299 0.12029261 0.11339808]
+opt_y:  0.18659009755283634
+optimal anchors:  ['I31', 'Sarcandra_glabra', 'I57', 'Coleochaete_scutata', 'Chaetosphaeridium_globosum']
+optimal p:  [0.15108071 0.31217414 0.30307511 0.12001948 0.11365057]
+optimal x:  [0.11745291 1.         1.         1.         1.        ]
+optimal y:  0.18589252902042894
+Optimization Runtime:  0.29221677780151367

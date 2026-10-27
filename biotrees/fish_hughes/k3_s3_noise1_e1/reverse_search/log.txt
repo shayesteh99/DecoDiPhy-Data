@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [264 559 600]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.36200542 0.2021421  0.43585248]
+opt_y:  0.3689191066893425
+optimal anchors:  ['I3', 'I143', 'Teleost_Clupeiformes_Clupeiformes_Clupeidae_Clupea_harengus']
+optimal p:  [0.4525465  0.36025847 0.18719503]
+optimal x:  [0.67119175 0.62534205 1.        ]
+optimal y:  0.3879224569759553
+Optimization Runtime:  15.697757482528687

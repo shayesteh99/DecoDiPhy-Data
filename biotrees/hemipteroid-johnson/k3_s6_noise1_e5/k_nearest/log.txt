@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [259 258 257]
+opt_x:  [1.         0.57077339 0.34161665]
+opt_p:  [ 1.00000000e+00 -4.04583762e-21  2.42120957e-21]
+opt_y:  0.16072430508259086
+optimal anchors:  ['Embidopsocus_sp', 'Liposcelis_bostrychophila', 'Badonnelia_titei']
+optimal p:  [ 2.42120957e-21 -4.04583762e-21  1.00000000e+00]
+optimal x:  [0.34161665 0.57077339 1.        ]
+optimal y:  0.16072430508259086
+Optimization Runtime:  0.21156048774719238

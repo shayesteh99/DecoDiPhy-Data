@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [35 38 97]
+opt_x:  [0.9858527 1.        1.       ]
+opt_p:  [0.50163056 0.15049397 0.34787547]
+opt_y:  0.48296397374526207
+optimal anchors:  ['I19', 'Morlockia_williamsi', 'I51']
+optimal p:  [0.39688806 0.14741657 0.45569538]
+optimal x:  [0.93840929 0.9377754  0.31374482]
+optimal y:  0.4830741177532404
+Optimization Runtime:  0.24114203453063965

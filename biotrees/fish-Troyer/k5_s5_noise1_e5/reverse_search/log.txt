@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 16 168 172 174 226]
+opt_x:  [1.         0.50076249 0.49492239 1.         1.        ]
+opt_p:  [ 5.28231955e-01 -2.90939034e-22 -8.63588058e-23  2.24945073e-01
+  2.46822972e-01]
+opt_y:  0.04077209088556971
+optimal anchors:  ['I11', 'Balistidae_Xenobalistes_tumidipectoris_EPLATE_53_F03', 'Balistidae_Xanthichthys_auromarginatus_USNMAG7PY24', 'Balistidae_Odonus_niger_USNMAG7PW08', 'Monocanthidae_Chaetodermis_penicilligera_EPLATE_53_A01']
+optimal p:  [ 5.28231955e-01 -2.90939034e-22 -8.63588058e-23  2.24945073e-01
+  2.46822972e-01]
+optimal x:  [1.         0.50076249 0.49492239 1.         1.        ]
+optimal y:  0.04077209088556971
+Optimization Runtime:  0.438016414642334

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 45 152 182 187 191]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.37907449 0.15745664 0.13586853 0.13249815 0.19510218]
+opt_y:  0.29134396217664604
+optimal anchors:  ['I5', 'I32', 'Hedwigia_ciliata', 'Chlorokybus_atmophyticus', 'I101']
+optimal p:  [0.10632236 0.37855139 0.15461406 0.08153249 0.27897971]
+optimal x:  [0.35019197 0.33615858 1.         0.96897889 0.66479421]
+optimal y:  0.2982510221103671
+Optimization Runtime:  0.7364296913146973

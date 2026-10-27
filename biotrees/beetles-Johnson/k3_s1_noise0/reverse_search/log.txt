@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [  9  10 150]
+opt_x:  [0.75905918 0.71924896 0.82510746]
+opt_p:  [0.44360265 0.25834813 0.29804922]
+opt_y:  0.07144087639451582
+optimal anchors:  ['I10', 'Cosmoderes_monilicollis_I13692', 'I81']
+optimal p:  [0.44360265 0.25834813 0.29804922]
+optimal x:  [0.75905918 0.71924896 0.82510746]
+optimal y:  0.07144087639451582
+Optimization Runtime:  0.4190802574157715

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [39 14 90]
+opt_x:  [1. 1. 1.]
+opt_p:  [2.41346133e-22 5.32274100e-01 4.67725900e-01]
+opt_y:  0.45350258619724126
+optimal anchors:  ['Machilis_hrabei', 'Godzilliognomus_frondosus', 'Lepas_anatifera']
+optimal p:  [5.32274100e-01 2.41346133e-22 4.67725900e-01]
+optimal x:  [1. 1. 1.]
+optimal y:  0.45350258619724126
+Optimization Runtime:  0.171600341796875

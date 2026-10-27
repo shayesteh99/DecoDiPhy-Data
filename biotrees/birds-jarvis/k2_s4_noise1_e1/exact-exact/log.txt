@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [26 44]
+opt_x:  [0.97866277 0.5646525 ]
+opt_p:  [0.62157744 0.37842256]
+opt_y:  0.0747130506534231
+optimal anchors:  ['COLST', 'I29']
+optimal p:  [0.62157744 0.37842256]
+optimal x:  [0.97866277 0.5646525 ]
+optimal y:  0.0747130506534231
+Optimization Runtime:  51.737473487854004

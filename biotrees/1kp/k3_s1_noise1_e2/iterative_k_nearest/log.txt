@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 82 159  69]
+opt_x:  [0.48724758 1.         1.        ]
+opt_p:  [-3.59910925e-21  6.44401652e-01  3.55598348e-01]
+opt_y:  0.17728772940021198
+optimal anchors:  ['I30', 'Liriodendron_tulipifera', 'Hedwigia_ciliata']
+optimal p:  [0.33436583 0.24215402 0.42348014]
+optimal x:  [0.42183072 1.         1.        ]
+optimal y:  0.20142066970395714
+Optimization Runtime:  0.19898629188537598

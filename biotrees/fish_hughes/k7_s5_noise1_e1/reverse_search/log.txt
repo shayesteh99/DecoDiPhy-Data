@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 55  72 274 276 373 470 471]
+opt_x:  [0.30780059 0.4761587  1.         0.77516885 0.25491212 1.
+ 1.        ]
+opt_p:  [0.22337144 0.18842052 0.11149961 0.08854347 0.18615349 0.09987927
+ 0.1021322 ]
+opt_y:  0.0827784833132853
+optimal anchors:  ['I42', 'I50', 'I151', 'Teleost_Euteleost_Eupercaria_Perciformes_Sebastidae_Sebastes_nigrocinctus', 'I199', 'Teleost_Euteleost_Salmoniformes_Salmonidae_Thymallus_thymallus', 'I246']
+optimal p:  [0.22383177 0.18750226 0.1049631  0.0956497  0.18601461 0.09985524
+ 0.10218332]
+optimal x:  [0.31064381 0.46975758 0.32111486 0.82115065 0.25143381 1.
+ 1.        ]
+optimal y:  0.08275755351399683
+Optimization Runtime:  4.930185079574585

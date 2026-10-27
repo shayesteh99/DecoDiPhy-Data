@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [169 144 290  92 270]
+opt_x:  [4.99745614e-01 4.99630820e-01 7.65241725e-18 1.00000000e+00
+ 7.55586966e-01]
+opt_p:  [-4.67093885e-18 -3.39347786e-18  1.14444913e-01  6.11312492e-01
+  2.74242594e-01]
+opt_y:  0.005732108238918612
+optimal anchors:  ['Tetraodontidae_Arothron_reticularis_EPLATE_51_C07', 'Triacanthodidae_Hollardia_hollardia_Vims40109', 'Balistidae_Melichthys_vidua_STRIBFT11786', 'Monacanthidae_Eubalichthys_bucephalus_EPLATE_74_D04', 'Monacanthidae_Aluterus_scriptus_UPRFL0003']
+optimal p:  [ 6.11312492e-01 -3.39347786e-18 -4.67093885e-18  2.74242594e-01
+  1.14444913e-01]
+optimal x:  [1.00000000e+00 4.99630820e-01 4.99745614e-01 7.55586966e-01
+ 7.65241725e-18]
+optimal y:  0.005732108238918612
+Optimization Runtime:  0.21328163146972656

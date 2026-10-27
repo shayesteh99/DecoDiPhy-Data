@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 32  49  50  51  52  53  54  74 189 350]
+opt_x:  [1.         0.99993425 1.         1.         1.         1.
+ 1.         0.40395631 0.99995129 0.34923187]
+opt_p:  [0.60290658 0.04796513 0.01358593 0.01358597 0.04795702 0.01431549
+ 0.01431255 0.05890789 0.08935882 0.09710464]
+opt_y:  0.11412198041100313
+optimal anchors:  ['Tupaia_tana', 'I31', 'Mandrillus_leucophaeus', 'Papio_anubis', 'I33', 'Macaca_mulatta', 'Macaca_nemestrina', 'Pithecia_pithecia', 'Octodon_degus', 'Bison_bison']
+optimal p:  [0.60290658 0.04796513 0.01358593 0.01358597 0.04795702 0.01431549
+ 0.01431255 0.05890789 0.08935882 0.09710464]
+optimal x:  [1.         0.99993425 1.         1.         1.         1.
+ 1.         0.40395631 0.99995129 0.34923187]
+optimal y:  0.11412198041100313
+Optimization Runtime:  1.3388571739196777

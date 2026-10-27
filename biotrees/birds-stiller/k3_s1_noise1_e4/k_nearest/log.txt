@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [193 155 153]
+opt_x:  [1.         0.45803402 1.        ]
+opt_p:  [ 8.96743262e-01 -5.78718767e-22  1.03256738e-01]
+opt_y:  0.051581039819512176
+optimal anchors:  ['Alca_torda', 'Uria_lomvia', 'Aptenodytes_forsteri']
+optimal p:  [ 1.03256738e-01 -5.78718767e-22  8.96743262e-01]
+optimal x:  [1.         0.45803402 1.        ]
+optimal y:  0.051581039819512176
+Optimization Runtime:  0.8176634311676025

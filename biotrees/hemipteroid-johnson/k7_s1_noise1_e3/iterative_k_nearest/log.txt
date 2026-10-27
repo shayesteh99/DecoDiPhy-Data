@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [209 139  51  94 169  65 252]
+opt_x:  [0.52381772 1.         1.         0.936472   0.42845855 1.
+ 1.        ]
+opt_p:  [ 2.01584761e-22  3.93792687e-02  2.20856023e-01  4.66227820e-23
+ -1.49039510e-22  2.73060500e-01  4.66704209e-01]
+opt_y:  0.14456412440445446
+optimal anchors:  ['I23', 'Pagasa_sp', 'Gelastocoris_oculatus', 'I64', 'Peloridium_hammoniorum', 'Cryptocercus_wrighti', 'Stimulopalpus_japonicus']
+optimal p:  [0.20188006 0.16926313 0.06022302 0.16665929 0.03049232 0.15173429
+ 0.2197479 ]
+optimal x:  [0.6262212  1.         1.         0.86418432 1.         1.
+ 1.        ]
+optimal y:  0.14820146129772763
+Optimization Runtime:  0.39326930046081543

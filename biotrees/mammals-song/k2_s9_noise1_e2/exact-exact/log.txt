@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [47 57]
+opt_x:  [0.72084124 0.82935664]
+opt_p:  [0.16887383 0.83112617]
+opt_y:  0.06774118460134212
+optimal anchors:  ['FEL', 'DAS']
+optimal p:  [0.16887383 0.83112617]
+optimal x:  [0.72084124 0.82935664]
+optimal y:  0.06774118460134212
+Optimization Runtime:  27.726093769073486

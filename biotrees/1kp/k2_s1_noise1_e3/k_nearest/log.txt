@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [152 150]
+opt_x:  [0.49586613 1.        ]
+opt_p:  [-8.22776789e-06  1.00000824e+00]
+opt_y:  0.01972727577253376
+optimal anchors:  ['Leucodon_brachypus', 'Rhynchostegium_serrulatum']
+optimal p:  [ 1.00000824e+00 -8.22776789e-06]
+optimal x:  [1.         0.49586613]
+optimal y:  0.01972727577253376
+Optimization Runtime:  0.09512710571289062

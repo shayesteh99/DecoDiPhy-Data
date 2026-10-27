@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [123 151]
+opt_x:  [0.64672224 1.        ]
+opt_p:  [0.49297113 0.50702887]
+opt_y:  0.06817516143879378
+optimal anchors:  ['I66', 'Ptilopodius_sp2027_Cangar_I13666']
+optimal p:  [0.49297113 0.50702887]
+optimal x:  [0.64672224 1.        ]
+optimal y:  0.06817516143879378
+Optimization Runtime:  0.25223422050476074

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [449 495 577 584 586]
+opt_x:  [0.88026007 0.7018151  0.9122321  1.         0.96267877]
+opt_p:  [0.28841281 0.28461089 0.14061209 0.11214263 0.17422158]
+opt_y:  0.21201934921446647
+optimal anchors:  ['I234', 'I256', 'I295', 'Teleost_Osteoglossiformes_Osteoglossiformes_Pantodontidae_Pantodon_buchholzi', 'I300']
+optimal p:  [0.28841281 0.28461089 0.14061209 0.11214263 0.17422158]
+optimal x:  [0.88026007 0.7018151  0.9122321  1.         0.96267877]
+optimal y:  0.21201934921446647
+Optimization Runtime:  1.9949116706848145

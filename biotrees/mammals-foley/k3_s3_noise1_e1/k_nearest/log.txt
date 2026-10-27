@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [298 299 473]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.41929419 0.42171894 0.15898687]
+opt_y:  0.08135181112358982
+optimal anchors:  ['Hipposideros_armiger', 'Rhinolophus_sinicus', 'Ceratotherium_simum_cottoni']
+optimal p:  [0.41929419 0.42171894 0.15898687]
+optimal x:  [1. 1. 1.]
+optimal y:  0.08135181112358982
+Optimization Runtime:  0.32071924209594727

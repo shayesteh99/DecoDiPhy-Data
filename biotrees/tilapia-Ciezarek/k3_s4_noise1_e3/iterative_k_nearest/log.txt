@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [64 41 36]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.72927746 0.00716657 0.26355597]
+opt_y:  0.016120159386033266
+optimal anchors:  ['Oamphimelas__LakeManyara__P3H2', 'Otanganicae__Katanga__42', 'Omacrochir__Zambia__CFH11-078']
+optimal p:  [0.26355597 0.00716657 0.72927746]
+optimal x:  [1. 1. 1.]
+optimal y:  0.016120159386033266
+Optimization Runtime:  0.3077847957611084

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [326 333]
+opt_x:  [1. 1.]
+opt_p:  [0.5126846 0.4873154]
+opt_y:  0.13946938577493503
+optimal anchors:  ['I175', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Scomber_scombrus']
+optimal p:  [0.5126846 0.4873154]
+optimal x:  [1. 1.]
+optimal y:  0.13946938577493503
+Optimization Runtime:  1.650860071182251

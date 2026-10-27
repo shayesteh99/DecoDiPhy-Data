@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [383   7 600]
+opt_x:  [1.         0.51373677 1.        ]
+opt_p:  [ 5.01110983e-01 -6.65365683e-21  4.98889017e-01]
+opt_y:  0.16158391499762734
+optimal anchors:  ['I3', 'Acipenseriformes_Polyodontidae_Polyodon_spathula', 'I19']
+optimal p:  [5.27954663e-01 1.63702923e-22 4.72045337e-01]
+optimal x:  [7.38019183e-01 3.78027713e-01 2.36333375e-22]
+optimal y:  0.2815791516479551
+Optimization Runtime:  0.5544147491455078

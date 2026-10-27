@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [249 268 245 153 278 235 151]
+opt_x:  [0.4850666  0.4765471  0.48217619 0.99999926 0.47371525 0.4721705
+ 0.18683733]
+opt_p:  [-5.78325360e-06 -5.47236006e-06 -5.90182930e-06  1.00002948e+00
+ -6.21811519e-06 -6.52681308e-06  4.03008004e-07]
+opt_y:  0.15636402311912942
+optimal anchors:  ['Teleost_Euteleost_Carangaria_Toxotidae_Toxotes_jaculatrix', 'Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'Teleost_Euteleost_Eupercaria_Ephippiformes_Drepaneidae_Drepane_punctata', 'Teleost_Euteleost_Eupercaria_Centrarchiformes_Percichthyidae_Siniperca_scherzeri', 'Teleost_Euteleost_Eupercaria_Centrarchiformes_Oplegnathidae_Oplegnathus_punctatus', 'Teleost_Euteleost_Eupercaria_Pempheriformes_Epigonidae_Epigonus_sp', 'Teleost_Euteleost_Eupercaria_Perciformes_Scorpaenidae_Dendrochirus_zebra']
+optimal p:  [ 4.03008004e-07  1.00002948e+00 -6.52681308e-06 -5.90182930e-06
+ -5.78325360e-06 -5.47236006e-06 -6.21811519e-06]
+optimal x:  [0.18683733 0.99999926 0.4721705  0.48217619 0.4850666  0.4765471
+ 0.47371525]
+optimal y:  0.15636402311912942
+Optimization Runtime:  0.511772871017456

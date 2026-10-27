@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [259 258 219 281 213]
+opt_x:  [1.         1.         1.         0.67394037 0.38134975]
+opt_p:  [ 5.10021649e-01 -1.48507051e-09  2.46172267e-01  2.43806068e-01
+  1.67089572e-08]
+opt_y:  0.15477069135181093
+optimal anchors:  ['Zootermopsis_nevadensis', 'Galloisiana_yuasai', 'I126', 'I127', 'Aaroniella_sp']
+optimal p:  [5.05811816e-21 2.80754322e-01 5.01798233e-01 5.02015844e-02
+ 1.67245860e-01]
+optimal x:  [3.33651586e-01 1.00000000e+00 1.00000000e+00 9.62296931e-20
+ 8.36033531e-01]
+optimal y:  0.1756324952551942
+Optimization Runtime:  0.3999145030975342

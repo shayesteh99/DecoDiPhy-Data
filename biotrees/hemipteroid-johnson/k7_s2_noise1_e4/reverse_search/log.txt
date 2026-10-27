@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  9  38  76  92 181 335 368]
+opt_x:  [0.93139937 1.         1.         1.         1.         1.
+ 1.        ]
+opt_p:  [0.12706721 0.10652106 0.21896862 0.05375956 0.23030268 0.08181105
+ 0.18156982]
+opt_y:  0.14070829840598906
+optimal anchors:  ['I2', 'Scutelleridae_sp', 'I21', 'Saldula_saltatoria', 'Gelastocoris_oculatus', 'I98', 'Chrysomphalus_aonidum']
+optimal p:  [0.24960569 0.11445342 0.13110083 0.15122276 0.04656969 0.22657067
+ 0.08047694]
+optimal x:  [2.66920380e-23 8.35031487e-01 7.65393528e-01 1.00000000e+00
+ 1.00000000e+00 1.00000000e+00 1.00000000e+00]
+optimal y:  0.14754927162970446
+Optimization Runtime:  0.8708412647247314

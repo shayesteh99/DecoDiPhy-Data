@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [41 99 57 46 36]
+opt_x:  [0.49973308 1.         0.99998402 0.99964518 0.3882328 ]
+opt_p:  [8.42664654e-07 5.43216163e-01 2.71647794e-01 1.10307399e-02
+ 1.74104460e-01]
+opt_y:  0.01551888173047849
+optimal anchors:  ['Oamphimelas__LakeManyara__P3H2', 'Otanganicae__Katanga__42', 'Okaromo__LakeNyamagoma__206', 'Orukwaensis__LakeRukwa__T10D02', 'I57']
+optimal p:  [0.19552786 0.04454486 0.22103794 0.18717346 0.35171589]
+optimal x:  [0.75044497 1.         1.         1.         0.15764226]
+optimal y:  0.014893707535078786
+Optimization Runtime:  0.2175145149230957

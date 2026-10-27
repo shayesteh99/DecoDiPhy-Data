@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 67 263]
+opt_x:  [1.        0.6866922]
+opt_p:  [0.40996275 0.59003725]
+opt_y:  0.17973035363045284
+optimal anchors:  ['Corythucha_ciliata', 'I136']
+optimal p:  [0.40996275 0.59003725]
+optimal x:  [1.        0.6866922]
+optimal y:  0.17973035363045284
+Optimization Runtime:  0.5560410022735596

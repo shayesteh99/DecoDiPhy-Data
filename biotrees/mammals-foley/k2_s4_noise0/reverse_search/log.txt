@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 34 151]
+opt_x:  [0.10361578 0.58563997]
+opt_p:  [0.63861457 0.36138543]
+opt_y:  0.02555176649865989
+optimal anchors:  ['Tupaia_tana', 'I81']
+optimal p:  [0.63861457 0.36138543]
+optimal x:  [0.10361578 0.58563997]
+optimal y:  0.02555176649865989
+Optimization Runtime:  5.561903476715088

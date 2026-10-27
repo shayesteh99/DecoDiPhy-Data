@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [199  19 194]
+opt_x:  [0.38404321 0.99998419 0.62844128]
+opt_p:  [-8.70753584e-07  6.25727773e-01  3.74273114e-01]
+opt_y:  0.4043826857937768
+optimal anchors:  ['I12', 'Pagurus_longicarpus', 'Cherax_destructor']
+optimal p:  [0.40516291 0.51791482 0.07692227]
+optimal x:  [0.15006565 0.98696162 1.        ]
+optimal y:  0.39877263266220203
+Optimization Runtime:  0.11220169067382812

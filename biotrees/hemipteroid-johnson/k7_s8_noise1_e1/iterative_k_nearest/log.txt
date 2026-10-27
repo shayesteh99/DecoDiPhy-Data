@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [178 112  80 139 209  70  32]
+opt_x:  [1.00000000e+00 5.36075394e-01 4.86608513e-01 1.00000000e+00
+ 1.00000000e+00 3.14704494e-20 6.40147473e-01]
+opt_p:  [ 3.17041589e-01 -1.77154426e-21 -3.57941941e-20  2.14046753e-01
+  2.43654702e-01  8.61939758e-02  1.39062980e-01]
+opt_y:  0.1016275117071955
+optimal anchors:  ['Lygaeus_turcicus', 'Lygus_lineolaris', 'Trichocorixa_calva', 'Tibicen_dorsata', 'I64', 'Cycadothrips_chadwicki', 'Galloisiana_yuasai']
+optimal p:  [ 1.11238238e-01  1.17199980e-01  7.78845529e-02 -8.49926520e-23
+  2.54171504e-01  2.61878797e-01  1.77626928e-01]
+optimal x:  [1.         1.         0.96765062 0.50078659 0.53452369 1.
+ 1.        ]
+optimal y:  0.1252213610178432
+Optimization Runtime:  0.3379993438720703

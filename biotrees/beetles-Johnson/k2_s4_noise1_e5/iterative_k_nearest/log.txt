@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 70 221]
+opt_x:  [1. 1.]
+opt_p:  [0.57173718 0.42826282]
+opt_y:  0.06518177184552895
+optimal anchors:  ['Hypocryphalus_ovalicollis_I13632', 'Hylesinus_sp_I02536']
+optimal p:  [0.57173718 0.42826282]
+optimal x:  [1. 1.]
+optimal y:  0.06518177184552895
+Optimization Runtime:  0.16592669486999512

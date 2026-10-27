@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [154 171 103 146 117]
+opt_x:  [1.         0.47103029 1.         1.         1.        ]
+opt_p:  [ 1.60175424e-01 -3.90972720e-21  2.70616747e-01  4.78627343e-01
+  9.05804862e-02]
+opt_y:  0.39442243354268025
+optimal anchors:  ['Gondogeneia_antarctica', 'Grandidierella_japonica', 'Sphaeroma_terebrans', 'Lysiosquillina_maculata', 'Penaeus_penicilliatus']
+optimal p:  [ 2.70616747e-01  9.05804862e-02  4.78627343e-01  1.60175424e-01
+ -3.90972720e-21]
+optimal x:  [1.         1.         1.         1.         0.47103029]
+optimal y:  0.39442243354268025
+Optimization Runtime:  0.2454545497894287

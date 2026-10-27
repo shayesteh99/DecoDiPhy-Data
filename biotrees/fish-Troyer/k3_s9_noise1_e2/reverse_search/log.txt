@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 40 185 228]
+opt_x:  [1.         0.17789785 0.23632191]
+opt_p:  [0.44918345 0.27132781 0.27948874]
+opt_y:  0.06664198061146334
+optimal anchors:  ['Teleost_Euteleost_Eupercaria_Tetraodontiformes_Molidae_Mola_mola', 'I95', 'I118']
+optimal p:  [0.44918345 0.27132781 0.27948874]
+optimal x:  [1.         0.17789785 0.23632191]
+optimal y:  0.06664198061146334
+Optimization Runtime:  0.4569437503814697

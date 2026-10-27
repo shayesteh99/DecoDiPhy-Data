@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [135 182 190 353 354]
+opt_x:  [1.00000000e+00 1.27304094e-21 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00]
+opt_p:  [0.33996242 0.03611637 0.44370177 0.09028367 0.08993577]
+opt_y:  0.1105879396592702
+optimal anchors:  ['Centrotus_cornutus', 'I93', 'Orothrips_kelloggi', 'Trioza_urticae', 'Diaphorina_citri']
+optimal p:  [0.33539351 0.28287148 0.20479546 0.08867207 0.08826748]
+optimal x:  [1.         0.62397102 1.         1.         1.        ]
+optimal y:  0.10848446728600673
+Optimization Runtime:  4.503870010375977

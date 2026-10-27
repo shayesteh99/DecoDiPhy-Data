@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [107 582]
+opt_x:  [1.         0.28454343]
+opt_p:  [0.27077566 0.72922434]
+opt_y:  0.06201212966878616
+optimal anchors:  ['I68', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Osteoglossum_bicirrhosum']
+optimal p:  [0.27103933 0.72896067]
+optimal x:  [0.68119832 0.28379598]
+optimal y:  0.06708497425209832
+Optimization Runtime:  5.730770826339722

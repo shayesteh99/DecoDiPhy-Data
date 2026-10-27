@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [80 68]
+opt_x:  [1.         0.60932069]
+opt_p:  [ 1.00000000e+00 -3.71840939e-20]
+opt_y:  -6.025377878663436e-17
+optimal anchors:  ['Tetraodontidae_Canthigaster_marquesensis_USNMAG7PY23', 'Tetraodontidae_Canthigaster_solandri_USNMAG9RM90']
+optimal p:  [-3.71840939e-20  1.00000000e+00]
+optimal x:  [0.60932069 1.        ]
+optimal y:  -6.025377878663436e-17
+Optimization Runtime:  0.1597280502319336

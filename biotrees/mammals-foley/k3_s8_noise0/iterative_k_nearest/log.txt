@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [116 188 219]
+opt_x:  [0.41975717 1.         1.        ]
+opt_p:  [2.23693033e-23 6.27420986e-01 3.72579014e-01]
+opt_y:  0.06532051955999058
+optimal anchors:  ['Eulemur_fulvus', 'I96', 'Heterocephalus_glaber']
+optimal p:  [0.32966267 0.39861005 0.27172728]
+optimal x:  [0.39107092 0.23036339 1.        ]
+optimal y:  0.028256514144887494
+Optimization Runtime:  0.34846019744873047

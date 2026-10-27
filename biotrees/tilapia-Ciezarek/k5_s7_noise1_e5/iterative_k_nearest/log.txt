@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 40 159  99  14  94]
+opt_x:  [1.         0.49920435 1.         1.         0.49816118]
+opt_p:  [ 8.97092315e-01 -4.68463269e-22  6.08634472e-02  4.20442373e-02
+ -6.43141267e-22]
+opt_y:  0.02608221943849073
+optimal anchors:  ['I9', 'I25', 'Omossambicus__SouthAfrica__RB09-059', 'I55', 'Okorogwe__MlinganoDam__P4B1']
+optimal p:  [0.28743299 0.32154928 0.02335784 0.2204273  0.14723258]
+optimal x:  [0.72979268 0.73768586 1.         0.63225068 1.        ]
+optimal y:  0.03253890222867474
+Optimization Runtime:  0.21308231353759766

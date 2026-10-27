@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [102 153 105]
+opt_x:  [1.        1.        0.4775589]
+opt_p:  [ 6.09890526e-01  3.90109474e-01 -3.41813073e-22]
+opt_y:  0.1666542419795051
+optimal anchors:  ['Ginkgo_biloba', 'Cycas_micholitzii', 'Hedwigia_ciliata']
+optimal p:  [ 6.09890526e-01 -3.41813073e-22  3.90109474e-01]
+optimal x:  [1.        0.4775589 1.       ]
+optimal y:  0.1666542419795051
+Optimization Runtime:  0.10582089424133301

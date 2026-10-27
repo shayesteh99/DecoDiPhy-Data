@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [265 596]
+opt_x:  [1. 1.]
+opt_p:  [0.50662306 0.49337694]
+opt_y:  0.28353639499296734
+optimal anchors:  ['I146', 'Amiiformes_Amiidae_Amia_calva_gill']
+optimal p:  [0.50662306 0.49337694]
+optimal x:  [1. 1.]
+optimal y:  0.28353639499296734
+Optimization Runtime:  1.8473668098449707

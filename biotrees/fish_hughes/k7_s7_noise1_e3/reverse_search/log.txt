@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 70  71  77  79  95 154 412]
+opt_x:  [0.07566065 0.79429325 1.         0.46801539 0.52715003 1.
+ 1.        ]
+opt_p:  [ 3.08200862e-22 -5.11425875e-22  1.45100186e-01 -1.79062887e-20
+ -2.26426963e-21  6.40309489e-01  2.14590325e-01]
+opt_y:  0.15213467023205607
+optimal anchors:  ['Teleost_Euteleost_Ovalentaria_Atheriniformes_Atherinopsidae_Basilichthys_microlepidotus', 'Teleost_Euteleost_Ovalentaria_Atheriniformes_Atherinopsidae_Odontesthes_bonariensis', 'I52', 'I53', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Oreochromis_niloticus', 'I98', 'I222']
+optimal p:  [ 3.08200862e-22 -5.11425875e-22  1.45100186e-01 -1.79062887e-20
+ -2.26426963e-21  6.40309489e-01  2.14590325e-01]
+optimal x:  [0.07566065 0.79429325 1.         0.46801539 0.52715003 1.
+ 1.        ]
+optimal y:  0.15213467023205607
+Optimization Runtime:  1.8063395023345947

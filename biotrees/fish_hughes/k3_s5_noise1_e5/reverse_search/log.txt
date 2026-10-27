@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 21 378 382]
+opt_x:  [1.        0.4697019 1.       ]
+opt_p:  [5.12020802e-01 1.78052468e-22 4.87979198e-01]
+opt_y:  0.2091559166442386
+optimal anchors:  ['I18', 'I19', 'Teleost_Euteleost_Holocentriformes_Holocentridae_Myripristis_jacobus']
+optimal p:  [4.14825080e-01 5.85174920e-01 3.88677612e-22]
+optimal x:  [1.00000000e+00 2.63998208e-22 5.42115253e-01]
+optimal y:  0.20821647377653385
+Optimization Runtime:  1.8715617656707764

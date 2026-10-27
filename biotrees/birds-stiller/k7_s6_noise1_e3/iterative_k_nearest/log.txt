@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [189 433 488 247 593 149 571]
+opt_x:  [1.00000000e+00 5.27196676e-01 5.78270675e-01 1.00000000e+00
+ 5.31472996e-20 1.00000000e+00 1.00000000e+00]
+opt_p:  [ 4.13004369e-02 -8.69231317e-22 -8.45736267e-22  4.68245381e-01
+  2.78837730e-02  9.87929861e-02  3.63777424e-01]
+opt_y:  0.07139754850011584
+optimal anchors:  ['Alca_torda', 'Aptenodytes_forsteri', 'Cathartes_aura', 'Corvus_moneduloides', 'Pseudopodoces_humilis', 'I293', 'Promerops_cafer']
+optimal p:  [0.09486837 0.13978217 0.28450287 0.01757703 0.0604022  0.20157076
+ 0.20129661]
+optimal x:  [1.         1.         1.         1.         1.         0.56286927
+ 1.        ]
+optimal y:  0.06996322061215582
+Optimization Runtime:  1.0031476020812988

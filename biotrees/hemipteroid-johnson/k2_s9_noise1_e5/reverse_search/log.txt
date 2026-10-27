@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [242 250]
+opt_x:  [1.00000000e+00 4.73783828e-21]
+opt_p:  [0.90475413 0.09524587]
+opt_y:  0.19673200124254403
+optimal anchors:  ['I125', 'Pediculus_humanus']
+optimal p:  [0.90475413 0.09524587]
+optimal x:  [1.00000000e+00 4.73783828e-21]
+optimal y:  0.19673200124254403
+Optimization Runtime:  0.6022577285766602

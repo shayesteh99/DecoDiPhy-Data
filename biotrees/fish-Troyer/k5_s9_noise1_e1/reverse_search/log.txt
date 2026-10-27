@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 97 134 135 178 184]
+opt_x:  [1.         0.33850302 0.47153691 1.         0.11811373]
+opt_p:  [0.22750178 0.21919131 0.1493186  0.27625153 0.12773678]
+opt_y:  0.03354622509839017
+optimal anchors:  ['I52', 'I71', 'Lophiidae_Lophius_litulon_CSIROGT6889', 'I85', 'Balistidae_Balistes_capriscus_USNMAD9NF67']
+optimal p:  [0.23612421 0.20769822 0.14365724 0.1675479  0.24497244]
+optimal x:  [0.65747824 0.25592157 0.4507108  0.37431241 1.        ]
+optimal y:  0.03753529201837536
+Optimization Runtime:  0.44929003715515137

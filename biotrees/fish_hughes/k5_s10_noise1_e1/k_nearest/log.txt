@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [575 487 552 460 384]
+opt_x:  [1.         0.42994078 1.         1.         1.        ]
+opt_p:  [3.60072302e-01 6.44408948e-22 4.50828881e-01 8.27098005e-02
+ 1.06389016e-01]
+opt_y:  0.2854490288281506
+optimal anchors:  ['Teleost_Euteleost_Trachichthyformes_Monocentridae_Monocentris_japonica', 'Teleost_Euteleost_Aulopiformes_Chlorophthalmidae_Parasudis_fraserbrunneri', 'Teleost_Euteleost_Argentiniformes_Argentinidae_Argentina_sp', 'I252', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides']
+optimal p:  [9.49118076e-02 1.23179187e-01 4.77486661e-22 3.71151532e-01
+ 4.10757473e-01]
+optimal x:  [1.00000000e+00 1.00000000e+00 5.03669820e-01 5.27160982e-22
+ 1.00000000e+00]
+optimal y:  0.273073120472417
+Optimization Runtime:  0.6459188461303711

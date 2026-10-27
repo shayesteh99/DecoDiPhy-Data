@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [136 138 148 147 146 139 145 141  11  49]
+opt_x:  [1.         0.49934185 0.49960906 0.49980186 0.49996524 0.49921738
+ 0.49994167 0.49791705 0.50000052 1.        ]
+opt_p:  [ 7.77789193e-01 -1.81201648e-05 -1.80988362e-05 -1.81076325e-05
+ -1.81130425e-05 -1.81216674e-05 -1.81133316e-05 -1.80577791e-05
+ -1.49026721e-05  2.22352472e-01]
+opt_y:  0.06680838392149765
+optimal anchors:  ['Aracanidae_Anoplocapros_amygdaloides_EPLATE_53_C05', 'Diodontidae_Diodon_holocanthus_UPRFL0286', 'Triacanthodidae_Hollardia_hollardia_Vims40109', 'Triacanthodidae_Parahollardia_lineata_Vims40107', 'Triacanthodidae_Hollardia_meadi_USNMAG9RL06', 'Triacanthodidae_Triacanthodes_sp1_EPLATE_53_C04', 'Triacanthodidae_Halimochirurgus_centriscoides_53A04', 'Triacanthodidae_Halimochirurgus_centriscoides_EPLATE_53_A04', 'Triacanthodidae_Macrorhamphosodes_platycheilus_EPLATE_53_H03', 'Triacanthodidae_Atrophacanthus_sp_EPLATE_33_F09']
+optimal p:  [-1.49026721e-05  2.22352472e-01  7.77789193e-01 -1.81201648e-05
+ -1.81216674e-05 -1.80577791e-05 -1.81133316e-05 -1.81130425e-05
+ -1.81076325e-05 -1.80988362e-05]
+optimal x:  [0.50000052 1.         1.         0.49934185 0.49921738 0.49791705
+ 0.49994167 0.49996524 0.49980186 0.49960906]
+optimal y:  0.06680838392149765
+Optimization Runtime:  0.3466215133666992

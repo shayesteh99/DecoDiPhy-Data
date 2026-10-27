@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [128 131 177 398 399]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.13578583 0.1355696  0.39447391 0.16644634 0.16772432]
+opt_y:  0.1218525496068836
+optimal anchors:  ['I68', 'Castor_canadensis', 'I95', 'Cryptoprocta_ferox', 'I207']
+optimal p:  [0.13578583 0.1355696  0.39447391 0.16644634 0.16772432]
+optimal x:  [1. 1. 1. 1. 1.]
+optimal y:  0.1218525496068836
+Optimization Runtime:  0.8530881404876709

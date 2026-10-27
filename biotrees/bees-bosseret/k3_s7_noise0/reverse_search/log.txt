@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 8 14 37]
+opt_x:  [0.50777576 0.70869635 0.19530673]
+opt_p:  [0.41725203 0.24411292 0.33863505]
+opt_y:  0.009431308876115952
+optimal anchors:  ['I9', 'I12', 'Lipotriches_justiciae']
+optimal p:  [0.41725203 0.24411292 0.33863505]
+optimal x:  [0.50777576 0.70869635 0.19530673]
+optimal y:  0.009431308876115952
+Optimization Runtime:  0.2313060760498047

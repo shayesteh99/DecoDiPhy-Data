@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [50 37]
+opt_x:  [1.00000000e+00 1.04572507e-20]
+opt_p:  [0.99430753 0.00569247]
+opt_y:  0.024457511837083598
+optimal anchors:  ['Pachynomia_flavicarpa', 'I27']
+optimal p:  [0.2758791 0.7241209]
+optimal x:  [1.         0.28082295]
+optimal y:  0.023218677729722605
+Optimization Runtime:  0.06784486770629883

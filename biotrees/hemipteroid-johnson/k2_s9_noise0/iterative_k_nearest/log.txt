@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [253 251]
+opt_x:  [1. 1.]
+opt_p:  [ 1.00000000e+00 -2.64856323e-22]
+opt_y:  0.13355577015224313
+optimal anchors:  ['Pediculus_humanus', 'Columbicola_columbae']
+optimal p:  [-1.03873859e-21  1.00000000e+00]
+optimal x:  [0.45113721 1.        ]
+optimal y:  0.13355577015224315
+Optimization Runtime:  0.2324540615081787

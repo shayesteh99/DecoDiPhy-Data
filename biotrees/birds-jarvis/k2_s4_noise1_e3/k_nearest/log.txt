@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [45 40]
+opt_x:  [1. 1.]
+opt_p:  [0.19803538 0.80196462]
+opt_y:  0.07404345258769426
+optimal anchors:  ['CATAU', 'I29']
+optimal p:  [0.63165015 0.36834985]
+optimal x:  [1.         0.77304171]
+optimal y:  0.07632517058309007
+Optimization Runtime:  0.09702634811401367

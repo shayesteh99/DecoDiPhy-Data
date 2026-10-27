@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [115 143  60 260 159]
+opt_x:  [0.49979381 1.         1.         1.         1.        ]
+opt_p:  [-1.21346886e-21  9.81098269e-02  3.93891564e-01  4.69545897e-01
+  3.84527116e-02]
+opt_y:  0.1451345524540647
+optimal anchors:  ['I34', 'Okanagana_villosa', 'I63', 'Ladella_sp', 'Galloisiana_yuasai']
+optimal p:  [ 2.57650395e-01 -2.66286148e-22  4.18955183e-01  8.04823125e-02
+  2.42912110e-01]
+optimal x:  [0.99208402 0.47389998 0.62936746 1.         1.        ]
+optimal y:  0.17467451174054252
+Optimization Runtime:  0.43944811820983887

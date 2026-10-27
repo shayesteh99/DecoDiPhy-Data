@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [107  94  72 144  63 143 140  78  62 122]
+opt_x:  [1.         0.158305   0.09943722 1.         1.         1.
+ 0.86298675 0.59481332 1.         1.        ]
+opt_p:  [ 1.93150295e-01 -7.18004369e-23  2.54490236e-22  3.92719677e-01
+  1.74292104e-01 -2.57084303e-23 -5.28295198e-23  5.75995427e-23
+  1.11166425e-01  1.28671499e-01]
+opt_y:  0.15713039674695675
+optimal anchors:  ['I36', 'Sarcandra_glabra', 'Amborella_trichopoda', 'Cedrus_libani', 'Ginkgo_biloba', 'Angiopteris_evecta', 'Sphaerocarpos_texanus', 'I77', 'Hedwigia_ciliata', 'Sphagnum_lescurii']
+optimal p:  [ 1.60983151e-02  1.71479628e-01  1.76875274e-01  3.36112614e-22
+  8.86268162e-03  2.08473856e-01  4.01537997e-02 -7.96419147e-23
+  4.68874729e-24  3.78056446e-01]
+optimal x:  [0.73222466 1.         1.         0.48382795 1.         1.
+ 1.         0.4451412  0.22659967 1.        ]
+optimal y:  0.20425363314259348
+Optimization Runtime:  0.4133174419403076

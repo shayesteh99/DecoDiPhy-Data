@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 81 196 199]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.60464131 0.19435596 0.20100273]
+opt_y:  0.05137162665381316
+optimal anchors:  ['I43', 'Dinomys_branickii', 'I104']
+optimal p:  [ 6.10765194e-01 -1.86216912e-09  3.89234808e-01]
+optimal x:  [0.42530636 0.4481397  0.60948104]
+optimal y:  0.06569958542258844
+Optimization Runtime:  4.136529922485352

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 67  51 282]
+opt_x:  [1.         0.51496137 1.        ]
+opt_p:  [ 5.74071567e-01 -3.24807321e-22  4.25928433e-01]
+opt_y:  0.07863639141681909
+optimal anchors:  ['Corimelaena_lateralis', 'I38', 'Heterocaecilius_solocipennis']
+optimal p:  [0.16039651 0.57860293 0.26100056]
+optimal x:  [1.         0.73364586 1.        ]
+optimal y:  0.12224231915558836
+Optimization Runtime:  0.25788402557373047

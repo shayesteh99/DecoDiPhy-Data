@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [210 282 259]
+opt_x:  [1.         0.8201025  0.50717418]
+opt_p:  [8.12137380e-01 1.87862620e-01 2.62665236e-21]
+opt_y:  0.14235100712810383
+optimal anchors:  ['Blaberus_atropos', 'Badonnelia_titei', 'Aaroniella_sp']
+optimal p:  [8.12137380e-01 2.62665236e-21 1.87862620e-01]
+optimal x:  [1.         0.50717418 0.8201025 ]
+optimal y:  0.14235100712810383
+Optimization Runtime:  0.2572286128997803

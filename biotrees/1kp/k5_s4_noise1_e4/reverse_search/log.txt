@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 49  71  97 176 177]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.19723557 0.27586121 0.30778758 0.11258879 0.10652685]
+opt_y:  0.18193847864705254
+optimal anchors:  ['I31', 'I44', 'I57', 'Coleochaete_scutata', 'Chaetosphaeridium_globosum']
+optimal p:  [0.19243905 0.2809284  0.30753422 0.11250757 0.10659077]
+optimal x:  [0.53667539 1.         1.         1.         1.        ]
+optimal y:  0.18145947441499255
+Optimization Runtime:  0.2713003158569336

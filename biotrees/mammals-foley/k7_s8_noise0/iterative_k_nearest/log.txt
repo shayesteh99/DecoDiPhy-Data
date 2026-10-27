@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 98 180  68 110 182 213 102]
+opt_x:  [1.         0.5475423  0.54032702 0.41438954 1.         1.
+ 0.55687783]
+opt_p:  [ 3.82803076e-01 -8.09446351e-23 -1.19046137e-22  1.93903737e-22
+  3.04282557e-01  3.12914367e-01 -7.36930704e-23]
+opt_y:  0.01170859346925578
+optimal anchors:  ['Rhinopithecus_roxellana', 'Daubentonia_madagascariensis', 'Propithecus_coquereli', 'Eulemur_fulvus', 'I96', 'Ictidomys_tridecemlineatus', 'Heterocephalus_glaber']
+optimal p:  [ 9.43979219e-02  4.46757285e-01 -9.54054254e-25 -9.94242313e-23
+  1.60356607e-01  1.24901175e-01  1.73587011e-01]
+optimal x:  [1.35135968e-23 1.00000000e+00 1.00000000e+00 4.63267052e-01
+ 9.16736594e-01 2.87122344e-01 1.00000000e+00]
+optimal y:  0.05613070082040772
+Optimization Runtime:  0.4750633239746094

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [28 51]
+opt_x:  [0.9860992  0.66695097]
+opt_p:  [0.4552293 0.5447707]
+opt_y:  0.07174908222757152
+optimal anchors:  ['APAVI', 'EGRGA']
+optimal p:  [0.4552293 0.5447707]
+optimal x:  [0.9860992  0.66695097]
+optimal y:  0.07174908222757152
+Optimization Runtime:  52.075233459472656

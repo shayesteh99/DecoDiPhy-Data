@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 30  41  45  87 124 125 138]
+opt_x:  [0.72232415 1.         0.43866811 1.         1.         1.
+ 1.        ]
+opt_p:  [-1.92522183e-23  9.69295622e-02  4.84417955e-23  1.52920920e-01
+  3.02487190e-02  3.02498412e-02  6.89650958e-01]
+opt_y:  0.04769662291807077
+optimal anchors:  ['Ostraciidae_Acanthostracion_quadricornis_UPRFL0075', 'Diodontidae_Chilomycterus_reticulatus_EPLATE_74_A07', 'Diodontidae_Chilomycterus_antennatus_USNMAC2WT95', 'Tetraodontidae_Chelonodon_patoca_EPLATE_51_A11', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Tetraodontidae_Takifugu_flavidus', 'Tetraodontidae_Takifugu_niphobles_EPLATE_67_F07', 'Triacanthodidae_Hollardia_hollardia_Vims40109']
+optimal p:  [-1.92522183e-23  9.69295622e-02  4.84417955e-23  1.52920920e-01
+  3.02487190e-02  3.02498412e-02  6.89650958e-01]
+optimal x:  [0.72232415 1.         0.43866811 1.         1.         1.
+ 1.        ]
+optimal y:  0.04769662291807077
+Optimization Runtime:  1.0442206859588623

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 46  47 154 658 659]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.25645602 0.25841143 0.11068145 0.18652983 0.18792128]
+opt_y:  0.048527804634210386
+optimal anchors:  ['Mesitornis_unicolor', 'I26', 'Uria_lomvia', 'Cardinalis_cardinalis', 'Pheucticus_melanocephalus']
+optimal p:  [0.25645602 0.25841143 0.11068145 0.18652983 0.18792128]
+optimal x:  [1. 1. 1. 1. 1.]
+optimal y:  0.048527804634210386
+Optimization Runtime:  2.887310028076172

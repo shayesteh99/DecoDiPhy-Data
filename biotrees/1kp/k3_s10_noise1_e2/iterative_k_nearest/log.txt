@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [148 115 154]
+opt_x:  [0.49998987 1.         1.        ]
+opt_p:  [-1.26734840e-21  9.75536404e-01  2.44635958e-02]
+opt_y:  0.17526840742250982
+optimal anchors:  ['Angiopteris_evecta', 'I77', 'Anomodon_attenuatus']
+optimal p:  [0.50627512 0.14668435 0.34704053]
+optimal x:  [1.         0.29125193 1.        ]
+optimal y:  0.1041022510578572
+Optimization Runtime:  0.17325472831726074

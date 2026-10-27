@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [390 241]
+opt_x:  [1. 1.]
+opt_p:  [0.09687804 0.90312196]
+opt_y:  0.015893189081919303
+optimal anchors:  ['Phalacrocorax_auritus', 'Manacus_manacus']
+optimal p:  [0.90312196 0.09687804]
+optimal x:  [1. 1.]
+optimal y:  0.015893189081919303
+Optimization Runtime:  0.8012032508850098

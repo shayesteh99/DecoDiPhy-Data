@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 77  80 114 141 152]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.36900086 0.13149532 0.20660377 0.14243182 0.15046824]
+opt_y:  0.20223755420803577
+optimal anchors:  ['I14', 'I58', 'Equisetum_diffusum', 'I76', 'Metzgeria_crassipilis']
+optimal p:  [ 3.13321438e-01  1.92490900e-01 -8.68684092e-23  4.94187662e-01
+ -4.15466468e-23]
+optimal x:  [2.29703877e-22 9.21206663e-01 7.92400707e-01 9.94905048e-01
+ 5.16805981e-01]
+optimal y:  0.23380130158250875
+Optimization Runtime:  0.30310726165771484

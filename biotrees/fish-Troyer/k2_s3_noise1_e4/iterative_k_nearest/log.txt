@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [146 297]
+opt_x:  [1. 1.]
+opt_p:  [0.63561158 0.36438842]
+opt_y:  0.07789662488799991
+optimal anchors:  ['Triacanthodidae_Hollardia_hollardia_Vims40109', 'I149']
+optimal p:  [0.65853619 0.34146381]
+optimal x:  [1.         0.48341538]
+optimal y:  0.08112454170649573
+Optimization Runtime:  0.18878436088562012

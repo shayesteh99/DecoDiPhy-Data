@@ -1,0 +1,17 @@
+created matrices
+opt_anchors:  [130 131 132 133 134 162 176 177 178 263]
+opt_x:  [0.99998389 0.40259577 0.41927004 0.48817503 0.48363513 0.44639369
+ 0.99999997 0.99999928 0.97347308 1.        ]
+opt_p:  [5.84000709e-01 6.69549742e-06 6.61682928e-06 7.02835438e-06
+ 7.04986215e-06 1.44466839e-08 1.28675671e-01 1.54583135e-02
+ 1.56660944e-02 2.56171808e-01]
+opt_y:  0.06366802608534933
+optimal anchors:  ['I22', 'Lophiidae_Lophius_litulon_CSIROGT6889', 'I73', 'Lophiidae_Lophiodes_spilurus_USNMAG7PF91', 'Lophiidae_Lophiodes_caulinaris_USNMAG7PC44', 'Balistidae_Odonus_niger_USNMAG7PW08', 'Balistidae_Balistes_polylepis_USNMAG7PC77', 'Balistidae_Balistes_capriscus_USNMAD9NF67', 'Balistidae_Pseudobalistes_fuscus_USNMAG9RP93', 'Monocanthidae_Acanthaluteres_vittiger_EPLATE_53_C02']
+optimal p:  [ 5.70175952e-01 -1.76288682e-05 -1.74448997e-05 -1.84683200e-05
+ -1.85219081e-05  5.86315632e-07  4.60230292e-02  4.05155309e-02
+  8.10074267e-02  2.62349533e-01]
+optimal x:  [2.56365485e-06 4.08988370e-01 4.23845820e-01 4.88810412e-01
+ 4.84504458e-01 4.38790044e-01 3.14923436e-01 4.98499504e-01
+ 5.43476228e-01 1.00000000e+00]
+optimal y:  0.060071077094180116
+Optimization Runtime:  0.3880045413970947

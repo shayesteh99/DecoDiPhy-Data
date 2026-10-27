@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [440 452]
+opt_x:  [1. 1.]
+opt_p:  [0.33106279 0.66893721]
+opt_y:  0.015985615705756198
+optimal anchors:  ['Enhydra_lutris', 'Neomonachus_schauinslandi']
+optimal p:  [0.33106279 0.66893721]
+optimal x:  [1. 1.]
+optimal y:  0.015985615705756198
+Optimization Runtime:  0.3740382194519043

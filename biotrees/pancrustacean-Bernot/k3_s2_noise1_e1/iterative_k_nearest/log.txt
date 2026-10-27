@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [26 92 91]
+opt_x:  [1.         0.99998262 0.14292532]
+opt_p:  [ 7.71996132e-01  2.28006843e-01 -2.94892332e-06]
+opt_y:  0.5311813253725879
+optimal anchors:  ['I11', 'I49', 'Amphibalanus_amphitrite']
+optimal p:  [0.47334871 0.51168435 0.01496694]
+optimal x:  [0.78420865 0.96965759 1.        ]
+optimal y:  0.39195515765624434
+Optimization Runtime:  0.19046330451965332

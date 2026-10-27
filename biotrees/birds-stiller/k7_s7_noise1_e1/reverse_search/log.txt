@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 46  47  72 150 541 542 653]
+opt_x:  [1.         0.51904879 0.84134387 0.02150669 1.         1.
+ 1.        ]
+opt_p:  [0.15216643 0.20195115 0.08829535 0.17229904 0.09668009 0.09713017
+ 0.19147778]
+opt_y:  0.042289645350002396
+optimal anchors:  ['Mesitornis_unicolor', 'I26', 'Crotophaga_sulcirostris', 'I79', 'Leiothrix_lutea', 'Illadopsis_cleaveri', 'I331']
+optimal p:  [0.15195229 0.20187242 0.08836777 0.17237201 0.0947951  0.09500767
+ 0.19563274]
+optimal x:  [1.         0.51836303 0.84142848 0.02259891 1.         1.
+ 0.91820077]
+optimal y:  0.04307009733243901
+Optimization Runtime:  2.969003438949585

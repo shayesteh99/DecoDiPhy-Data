@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [16 37 76]
+opt_x:  [0.93174567 1.         1.        ]
+opt_p:  [0.19151593 0.18730964 0.62117443]
+opt_y:  0.1541889688316048
+optimal anchors:  ['Chalcocoris_rutilans', 'Lygaeus_turcicus', 'Saldula_saltatoria']
+optimal p:  [0.19151593 0.18730964 0.62117443]
+optimal x:  [0.93174567 1.         1.        ]
+optimal y:  0.1541889688316048
+Optimization Runtime:  0.7466063499450684

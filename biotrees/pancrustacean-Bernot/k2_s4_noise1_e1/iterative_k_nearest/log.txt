@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [58 77]
+opt_x:  [1.11833952e-22 6.75100683e-01]
+opt_p:  [0.43034583 0.56965417]
+opt_y:  0.229975393359456
+optimal anchors:  ['Tigriopus_californicus', 'Paranesidea_sp']
+optimal p:  [0.43034583 0.56965417]
+optimal x:  [1.11833952e-22 6.75100683e-01]
+optimal y:  0.229975393359456
+Optimization Runtime:  0.08325433731079102

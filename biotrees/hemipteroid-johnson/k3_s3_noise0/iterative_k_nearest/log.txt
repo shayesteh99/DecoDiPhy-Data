@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [145 301 302]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.09848801 0.45098173 0.45053026]
+opt_y:  0.11669813308388385
+optimal anchors:  ['I64', 'Euroleon_nostras', 'Corydalus_cornutus']
+optimal p:  [0.33095872 0.33456667 0.33447462]
+optimal x:  [4.40470492e-22 1.00000000e+00 1.00000000e+00]
+optimal y:  0.1293378181179912
+Optimization Runtime:  0.28856682777404785

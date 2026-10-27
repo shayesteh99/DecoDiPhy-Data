@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [200  50 167  92 139  19  18 219 249  94]
+opt_x:  [1.         1.         1.         1.         0.38538741 1.
+ 1.         1.         1.         0.50820994]
+opt_p:  [-7.70320923e-23  8.85217602e-02  9.21446477e-02  6.16259360e-02
+ -1.05842565e-21  1.02186823e-01  1.02266687e-01  2.44437674e-01
+  3.08816472e-01  7.46616967e-22]
+opt_y:  0.15539165185776926
+optimal anchors:  ['Anasa_tristis', 'Alydus_pilosus', 'Corimelaena_lateralis', 'Gelastocoris_oculatus', 'Corixa_punctata', 'Mapuchea_sp', 'Peloridium_hammoniorum', 'Zootermopsis_nevadensis', 'Perla_marginata', 'Badonnelia_titei']
+optimal p:  [8.86167087e-02 9.36684368e-02 1.19993835e-01 1.32947343e-01
+ 1.08715491e-03 3.44038127e-02 1.42719265e-01 1.39961558e-06
+ 2.39457851e-01 1.47104188e-01]
+optimal x:  [0.99999991 1.         1.         1.         1.         1.
+ 1.         0.45272688 1.         1.        ]
+optimal y:  0.15866323030366097
+Optimization Runtime:  0.5993077754974365

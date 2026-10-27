@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [285 146 116]
+opt_x:  [1.00000000e+00 4.84411168e-01 2.14979366e-24]
+opt_p:  [6.07803651e-01 8.57160143e-23 3.92196349e-01]
+opt_y:  0.028698017576157805
+optimal anchors:  ['Tetraodontidae_Sphoeroides_maculatus_USNMAE2QZ45', 'Triacanthodidae_Hollardia_hollardia_Vims40109', 'Monocanthidae_Eubalichthys_gunnii_EPLATE_53_A03']
+optimal p:  [3.92196349e-01 8.57160143e-23 6.07803651e-01]
+optimal x:  [2.14979366e-24 4.84411168e-01 1.00000000e+00]
+optimal y:  0.028698017576157805
+Optimization Runtime:  0.17103052139282227

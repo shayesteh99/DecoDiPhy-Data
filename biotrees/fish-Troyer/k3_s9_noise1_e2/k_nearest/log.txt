@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [171 172 191]
+opt_x:  [1.         1.         0.50006013]
+opt_p:  [5.0126502e-01 4.9873498e-01 5.6887731e-22]
+opt_y:  0.06471285116392422
+optimal anchors:  ['Balistidae_Melichthys_vidua_STRIBFT11786', 'Balistidae_Melichthys_niger_UPRFL0061', 'Balistidae_Pseudobalistes_fuscus_USNMAG9RP93']
+optimal p:  [5.0126502e-01 4.9873498e-01 5.6887731e-22]
+optimal x:  [1.         1.         0.50006013]
+optimal y:  0.06471285116392422
+Optimization Runtime:  0.14351153373718262

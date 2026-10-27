@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 76  86 156 200 201]
+opt_x:  [0.29475297 0.67534399 0.89614951 0.84092102 1.        ]
+opt_p:  [0.31138251 0.370332   0.11066482 0.10769704 0.09992363]
+opt_y:  0.047395544444594886
+optimal anchors:  ['Cryphalus_massonianus_I13631', 'Strombophorus_movoliae_I13654', 'I85', 'Chramesus_chapuisii_I13688', 'I109']
+optimal p:  [0.31138251 0.370332   0.11066482 0.10769704 0.09992363]
+optimal x:  [0.29475297 0.67534399 0.89614951 0.84092102 1.        ]
+optimal y:  0.047395544444594886
+Optimization Runtime:  0.3601210117340088

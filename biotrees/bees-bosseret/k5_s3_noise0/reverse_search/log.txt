@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 0 10 11 18 31]
+opt_x:  [0.12864724 0.84616062 0.41155511 0.25273914 0.40205294]
+opt_p:  [0.30317507 0.17289757 0.14134572 0.13944277 0.24313889]
+opt_y:  0.005845242582824
+optimal anchors:  ['Dieunomia_triangulifera', 'I10', 'Pseudapis_riftensis', 'Pseudapis_flavolobata', 'Pachynomia_tshibindica']
+optimal p:  [0.30317507 0.17289757 0.14134572 0.13944277 0.24313889]
+optimal x:  [0.12864724 0.84616062 0.41155511 0.25273914 0.40205294]
+optimal y:  0.005845242582824
+Optimization Runtime:  0.09188055992126465

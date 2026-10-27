@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [283 268 217 144 232]
+opt_x:  [0.99971321 0.49858355 1.         0.99999845 1.        ]
+opt_p:  [5.38420421e-04 2.02861432e-07 3.59846579e-01 5.29166623e-01
+ 1.10448174e-01]
+opt_y:  0.035826644876140075
+optimal anchors:  ['Triacanthodidae_Hollardia_hollardia_Vims40109', 'I111', 'Monacanthidae_Paramonacanthus_choirocephalus_EPLATE_53_D01', 'Monacanthidae_Eubalichthys_bucephalus_EPLATE_74_D04', 'Monocanthidae_Thamnaconus_striatus_EPLATE_51_G11']
+optimal p:  [2.71918491e-01 4.22354187e-01 1.30620806e-17 4.95218553e-03
+ 3.00775136e-01]
+optimal x:  [1.         0.97700752 0.4606083  1.         1.        ]
+optimal y:  0.03874233235907812
+Optimization Runtime:  0.28569936752319336

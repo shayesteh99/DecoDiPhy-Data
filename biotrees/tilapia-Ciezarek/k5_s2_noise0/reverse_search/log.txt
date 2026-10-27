@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 14  15  43  88 164]
+opt_x:  [0.81342491 1.         0.08431685 0.19256926 0.20157583]
+opt_p:  [0.12489123 0.11326296 0.2343511  0.29750687 0.22998785]
+opt_y:  0.0017668384092950147
+optimal anchors:  ['I9', 'Oleucostictus__LakeAlbert__U3L3', 'Okaromo__LakeNyamagoma__207', 'Ojipe__NyumbayaMunga__P2G3', 'Sgalilaeus__LakeAlbert__U1B1']
+optimal p:  [0.13997633 0.1290934  0.22986698 0.28847299 0.21259029]
+optimal x:  [3.05857583e-01 8.71835357e-02 4.52973531e-02 8.15293524e-02
+ 4.38275992e-19]
+optimal y:  0.002255188983758672
+Optimization Runtime:  0.710205078125

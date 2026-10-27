@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 83 101 110 180 376]
+opt_x:  [0.25565658 0.26890242 1.         0.97887216 0.9999997 ]
+opt_p:  [0.20035445 0.20837078 0.14211565 0.23458084 0.21457828]
+opt_y:  0.10204116194726082
+optimal anchors:  ['I20', 'I56', 'I65', 'Teleost_Euteleost_Ovalentaria_Grammatidae_Lipogramma_evides', 'Teleost_Euteleost_Eupercaria_Lophiiformes_Chaunacidae_Chaunax_pictus']
+optimal p:  [0.24965675 0.20336124 0.20695776 0.11950143 0.22052283]
+optimal x:  [0.8377763  0.36085626 0.06580046 0.99999851 0.95891352]
+optimal y:  0.10202722340028557
+Optimization Runtime:  12.881181001663208

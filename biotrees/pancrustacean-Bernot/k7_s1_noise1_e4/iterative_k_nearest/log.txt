@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 16 173  35 155 185  14 172]
+opt_x:  [0.65262839 0.26824792 1.         1.         1.         0.99999994
+ 0.46456795]
+opt_p:  [-6.26459891e-07 -6.99082514e-08  3.79912671e-03  1.06393503e-01
+  1.49659317e-01  7.40148824e-01 -7.36094150e-08]
+opt_y:  0.3951886534803523
+optimal anchors:  ['Meinertellus_cundinamarcensis', 'Tricholepidion_gertschi', 'Godzilliognomus_frondosus', 'Lysiosquillina_maculata', 'Penaeus_penicilliatus', 'Sergestes_similis', 'Enoplometopus_cf_daumi']
+optimal p:  [ 7.40148824e-01 -6.26459891e-07  3.79912671e-03  1.06393503e-01
+ -7.36094150e-08 -6.99082514e-08  1.49659317e-01]
+optimal x:  [0.99999994 0.65262839 1.         1.         0.46456795 0.26824792
+ 1.        ]
+optimal y:  0.3951886534803523
+Optimization Runtime:  0.29584455490112305

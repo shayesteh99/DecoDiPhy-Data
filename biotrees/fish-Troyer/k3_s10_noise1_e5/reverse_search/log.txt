@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [213 219 244]
+opt_x:  [1.         0.49538032 1.        ]
+opt_p:  [6.33688766e-02 2.19705766e-21 9.36631123e-01]
+opt_y:  0.03558528821742336
+optimal anchors:  ['I109', 'Monacanthidae_Pervagor_melanocephalus_USNMAB6QU45', 'I125']
+optimal p:  [6.33688766e-02 2.19705766e-21 9.36631123e-01]
+optimal x:  [1.         0.49538032 1.        ]
+optimal y:  0.03558528821742336
+Optimization Runtime:  0.7301712036132812

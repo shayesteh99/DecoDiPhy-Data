@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [183 464 130 398 318]
+opt_x:  [1.         0.81085925 1.         1.         1.        ]
+opt_p:  [4.14727720e-01 1.38474796e-21 4.24589223e-01 7.88402430e-02
+ 8.18428148e-02]
+opt_y:  -6.390871084127137e-20
+optimal anchors:  ['I68', 'I95', 'Eubalaena_japonica', 'Mungos_mungo', 'Dicerorhinus_sumatrensis']
+optimal p:  [0.32146055 0.33410693 0.15568193 0.17723573 0.01151486]
+optimal x:  [0.32558151 0.41257036 1.         0.8537222  1.        ]
+optimal y:  0.07078913622291662
+Optimization Runtime:  0.5118587017059326

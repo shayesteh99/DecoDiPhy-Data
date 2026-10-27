@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [176 159  94]
+opt_x:  [0.63485669 1.         1.        ]
+opt_p:  [-1.15963670e-22  2.81175624e-01  7.18824376e-01]
+opt_y:  0.11908516393997119
+optimal anchors:  ['Lepas_anatifera', 'Lysiosquillina_maculata', 'Penaeus_penicilliatus']
+optimal p:  [ 7.18824376e-01  2.81175624e-01 -1.15963670e-22]
+optimal x:  [1.         1.         0.63485669]
+optimal y:  0.11908516393997119
+Optimization Runtime:  0.14751338958740234

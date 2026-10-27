@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 35 185 108 167  16 232  42]
+opt_x:  [1.         0.42852653 1.         0.4006576  0.48971816 0.68914307
+ 1.        ]
+opt_p:  [ 1.50582186e-01 -1.60740858e-20  2.52588923e-01  1.10896772e-01
+ -4.16622128e-23  3.72146126e-01  1.13785992e-01]
+opt_y:  0.038317207712900286
+optimal anchors:  ['I13', 'Hypothenemus_perhispidus_I13633', 'I27', 'Pityophthorus_liquidambarus_I10230', 'Xylosandrus_germanus_I13672', 'Coccotrypes_sp2035_Cangar_I13659', 'Carphoborus_bifurcus_I13691']
+optimal p:  [ 2.64568980e-01 -1.71917686e-22  1.11239169e-01  1.89566908e-01
+  2.42494924e-01  1.72048457e-24  1.92130019e-01]
+optimal x:  [2.32239208e-22 4.79719597e-01 2.44233458e-01 1.00000000e+00
+ 1.00000000e+00 1.00000000e+00 7.57908019e-01]
+optimal y:  0.03724975533730361
+Optimization Runtime:  0.2835397720336914

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [48 78]
+opt_x:  [1. 1.]
+opt_p:  [0.41737328 0.58262672]
+opt_y:  0.16003635190847473
+optimal anchors:  ['Chauliops_fallax', 'Saldula_saltatoria']
+optimal p:  [0.41737328 0.58262672]
+optimal x:  [1. 1.]
+optimal y:  0.16003635190847473
+Optimization Runtime:  0.7892358303070068

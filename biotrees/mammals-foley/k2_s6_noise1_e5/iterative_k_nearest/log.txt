@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [404 474]
+opt_x:  [1. 1.]
+opt_p:  [0.22298987 0.77701013]
+opt_y:  0.05759023902690316
+optimal anchors:  ['Cryptoprocta_ferox', 'Ceratotherium_simum']
+optimal p:  [0.22298987 0.77701013]
+optimal x:  [1. 1.]
+optimal y:  0.05759023902690316
+Optimization Runtime:  0.3801712989807129

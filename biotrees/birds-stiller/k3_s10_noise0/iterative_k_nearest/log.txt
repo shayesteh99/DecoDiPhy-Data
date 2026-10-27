@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [438 579 583]
+opt_x:  [1.        1.        0.5115175]
+opt_p:  [4.81925131e-01 5.18074869e-01 1.50156841e-22]
+opt_y:  0.008724930333378822
+optimal anchors:  ['I223', 'I294', 'Leucopsar_rothschildi']
+optimal p:  [0.4906172  0.40565979 0.10372321]
+optimal x:  [0.78761134 0.30619678 0.99999347]
+optimal y:  0.02223810567397682
+Optimization Runtime:  0.7922029495239258

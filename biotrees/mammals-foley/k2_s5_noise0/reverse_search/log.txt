@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [127 129]
+opt_x:  [1.         0.80553112]
+opt_p:  [0.51039084 0.48960916]
+opt_y:  0.09391734983931994
+optimal anchors:  ['I66', 'Dipodomys_ordii']
+optimal p:  [0.51039084 0.48960916]
+optimal x:  [1.         0.80553112]
+optimal y:  0.09391734983931994
+Optimization Runtime:  1.0620651245117188

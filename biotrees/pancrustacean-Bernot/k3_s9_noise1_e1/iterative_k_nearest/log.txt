@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [176  94 121]
+opt_x:  [0.48640729 1.         1.        ]
+opt_p:  [-1.05750899e-21  6.59633484e-01  3.40366516e-01]
+opt_y:  0.03473652490160301
+optimal anchors:  ['I48', 'Gammarus_chevreuxi', 'Penaeus_penicilliatus']
+optimal p:  [0.46342146 0.31367208 0.22290645]
+optimal x:  [0.35906088 1.         1.        ]
+optimal y:  0.14474585177380694
+Optimization Runtime:  0.16116786003112793

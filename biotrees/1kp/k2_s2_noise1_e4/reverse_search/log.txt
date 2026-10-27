@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [21 32]
+opt_x:  [1. 1.]
+opt_p:  [0.18254421 0.81745579]
+opt_y:  0.17672055179587878
+optimal anchors:  ['Sabal_bermudana', 'I25']
+optimal p:  [0.18254421 0.81745579]
+optimal x:  [1. 1.]
+optimal y:  0.17672055179587878
+Optimization Runtime:  0.31414127349853516

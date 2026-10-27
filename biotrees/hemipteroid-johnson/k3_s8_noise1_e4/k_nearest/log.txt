@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [145 208 117]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.32864335 0.48724729 0.18410936]
+opt_y:  0.15808154330329421
+optimal anchors:  ['Okanagana_villosa', 'Mapuchea_sp', 'Cryptocercus_wrighti']
+optimal p:  [0.18410936 0.32864335 0.48724729]
+optimal x:  [1. 1. 1.]
+optimal y:  0.15808154330329421
+Optimization Runtime:  0.2778160572052002

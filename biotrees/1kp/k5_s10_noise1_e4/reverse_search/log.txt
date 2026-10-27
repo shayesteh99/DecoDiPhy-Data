@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 19 106 119 144 152]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.19221959 0.43751747 0.13286674 0.14430997 0.09308622]
+opt_y:  0.17161599876535802
+optimal anchors:  ['I10', 'Zea_mays', 'I67', 'I82', 'Sphagnum_lescurii']
+optimal p:  [0.33834112 0.17438458 0.21186218 0.12453283 0.15087929]
+optimal x:  [0.69234823 1.         1.         0.0947185  1.        ]
+optimal y:  0.17291825375023165
+Optimization Runtime:  0.3403761386871338

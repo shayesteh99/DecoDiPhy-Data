@@ -1,0 +1,18 @@
+created matrices
+opt_anchors:  [  0  14  22  23 404 405 476 477 586 587]
+opt_x:  [4.75876666e-01 3.30258410e-01 4.62542169e-01 4.48238961e-01
+ 9.99994627e-01 5.26649205e-01 9.99998658e-01 2.85816033e-01
+ 1.22232428e-04 6.09844766e-06]
+opt_p:  [-1.95274612e-07 -1.47891632e-06 -1.86534767e-06 -1.87039191e-06
+  1.70502399e-01  6.12758051e-07  7.93660311e-01 -1.14568037e-06
+  4.29938605e-03  3.15438465e-02]
+opt_y:  0.22335362345012139
+optimal anchors:  ['I2', 'Teleost_Euteleost_Esociformes_Esocidae_Esox_lucius', 'Teleost_Euteleost_Salmoniformes_Salmonidae_Coregonus_clupeaformis', 'Teleost_Euteleost_Salmoniformes_Salmonidae_Thymallus_thymallus', 'I216', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Arctogadus_glacialis', 'Teleost_Euteleost_Stomiatiformes_Stomiidae_Borostomias_antarcticus', 'Teleost_Euteleost_Lepidogalaxiiformes_Lepidogalaxiidae_Lepidogalaxias_salamandroides', 'Coelacanthiformes_Coelacanthiformes_Latimeriidae_Latimeria_chalumnae', 'Xenopus_tropicalis']
+optimal p:  [-1.95274612e-07 -1.47891632e-06 -1.86534767e-06 -1.87039191e-06
+  1.70502399e-01  6.12758051e-07  7.93660311e-01 -1.14568037e-06
+  4.29938605e-03  3.15438465e-02]
+optimal x:  [4.75876666e-01 3.30258410e-01 4.62542169e-01 4.48238961e-01
+ 9.99994627e-01 5.26649205e-01 9.99998658e-01 2.85816033e-01
+ 1.22232428e-04 6.09844766e-06]
+optimal y:  0.22335362345012139
+Optimization Runtime:  1.8758842945098877

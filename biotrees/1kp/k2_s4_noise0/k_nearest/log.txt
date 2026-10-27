@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [77 76]
+opt_x:  [1. 1.]
+opt_p:  [0.50230646 0.49769354]
+opt_y:  0.06867926467772105
+optimal anchors:  ['Persea_americana', 'Liriodendron_tulipifera']
+optimal p:  [0.49769354 0.50230646]
+optimal x:  [1. 1.]
+optimal y:  0.06867926467772105
+Optimization Runtime:  0.0813908576965332

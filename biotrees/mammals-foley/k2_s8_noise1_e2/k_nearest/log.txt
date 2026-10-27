@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [116 117]
+opt_x:  [1. 1.]
+opt_p:  [0.50047661 0.49952339]
+opt_y:  0.06541726030914133
+optimal anchors:  ['Eulemur_fulvus', 'Lemur_catta']
+optimal p:  [0.50047661 0.49952339]
+optimal x:  [1. 1.]
+optimal y:  0.06541726030914133
+Optimization Runtime:  0.3502621650695801

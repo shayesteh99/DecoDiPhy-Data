@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [582 112]
+opt_x:  [7.60764623e-23 9.75624757e-01]
+opt_p:  [0.93359138 0.06640862]
+opt_y:  0.1588013951967434
+optimal anchors:  ['Teleost_Euteleost_Ovalentaria_Grammatidae_Lipogramma_evides', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Osteoglossum_bicirrhosum']
+optimal p:  [0.06640862 0.93359138]
+optimal x:  [9.75624757e-01 7.60764623e-23]
+optimal y:  0.1588013951967434
+Optimization Runtime:  0.46704602241516113

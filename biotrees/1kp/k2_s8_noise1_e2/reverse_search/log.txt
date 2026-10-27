@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [80 83]
+opt_x:  [1. 1.]
+opt_p:  [0.66723392 0.33276608]
+opt_y:  0.15562432155422723
+optimal anchors:  ['I11', 'Zamia_vazquezii']
+optimal p:  [0.98077285 0.01922715]
+optimal x:  [3.71363467e-01 3.15517196e-21]
+optimal y:  0.1762195722511457
+Optimization Runtime:  0.6128325462341309

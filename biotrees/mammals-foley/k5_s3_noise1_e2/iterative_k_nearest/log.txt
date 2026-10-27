@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 47 461 186 103 295]
+opt_x:  [0.53291896 0.07442968 1.         0.48766763 1.        ]
+opt_p:  [-3.14561498e-22  2.96518739e-23  5.31342782e-01  3.26591552e-22
+  4.68657218e-01]
+opt_y:  0.05932985645799796
+optimal anchors:  ['Gorilla_gorilla', 'Daubentonia_madagascariensis', 'I95', 'Rhinolophus_sinicus', 'Tapirus_indicus']
+optimal p:  [0.19285013 0.05431724 0.3613194  0.35897077 0.03254247]
+optimal x:  [1.         1.         0.95702191 1.         1.        ]
+optimal y:  0.07774304883449001
+Optimization Runtime:  0.40061235427856445

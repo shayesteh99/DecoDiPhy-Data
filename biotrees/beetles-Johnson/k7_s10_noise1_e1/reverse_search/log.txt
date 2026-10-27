@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 14  91 109 120 121 140 141]
+opt_x:  [1.00000000e+00 1.00000000e+00 1.48841111e-22 1.11476884e-22
+ 4.33339772e-01 1.61833115e-23 2.42868212e-01]
+opt_p:  [0.16759035 0.23249959 0.13910342 0.1397069  0.09745108 0.12374509
+ 0.09990356]
+opt_y:  0.04729289426572281
+optimal anchors:  ['I15', 'Stegomerus_vulgaris_I13647', 'Pityophthorus_liquidambarus_I10230', 'Scolytogenes_sp_PNG_I13701', 'Scolytogenes_sp2021_nr_concentralis_I10236', 'Ptilopodius_sp2027_Cangar_I13666', 'Ernoporicus_fagi_I10218']
+optimal p:  [0.16736278 0.23635287 0.1378272  0.13454776 0.10906058 0.11607711
+ 0.09877171]
+optimal x:  [1.         1.         0.97448915 0.60637267 0.97985549 0.2754889
+ 0.50365564]
+optimal y:  0.045517508132960544
+Optimization Runtime:  0.65535569190979

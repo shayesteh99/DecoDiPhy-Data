@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [266 265 263 261 255]
+opt_x:  [0.50116542 0.50105922 0.43362655 0.42035351 1.        ]
+opt_p:  [1.75481929e-21 1.37010657e-21 1.08301162e-21 1.29458509e-21
+ 1.00000000e+00]
+opt_y:  0.13349213617898453
+optimal anchors:  ['Cathartes_aura', 'Circaetus_pectoralis', 'Aquila_chrysaetos', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla']
+optimal p:  [1.00000000e+00 1.29458509e-21 1.08301162e-21 1.37010657e-21
+ 1.75481929e-21]
+optimal x:  [1.         0.42035351 0.43362655 0.50105922 0.50116542]
+optimal y:  0.13349213617898453
+Optimization Runtime:  0.7248649597167969

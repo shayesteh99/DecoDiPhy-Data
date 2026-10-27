@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [468 182 307  46 176]
+opt_x:  [0.49249819 1.         1.         1.         1.        ]
+opt_p:  [4.23053933e-22 1.12865111e-01 2.87049315e-01 3.40993738e-02
+ 5.65986201e-01]
+opt_y:  0.04198221299179967
+optimal anchors:  ['Gorilla_gorilla', 'Glis_glis', 'Marmota_marmota', 'I157', 'Ceratotherium_simum']
+optimal p:  [0.11927255 0.28077759 0.19784922 0.34566548 0.05643516]
+optimal x:  [1.         1.         1.         0.56343108 1.        ]
+optimal y:  0.06906717017260999
+Optimization Runtime:  0.47391581535339355

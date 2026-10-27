@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [33 44]
+opt_x:  [0.21811977 0.8719312 ]
+opt_p:  [0.20315548 0.79684452]
+opt_y:  0.0421273389061784
+optimal anchors:  ['MUS', 'I26']
+optimal p:  [0.20315548 0.79684452]
+optimal x:  [0.21811977 0.8719312 ]
+optimal y:  0.0421273389061784
+Optimization Runtime:  27.05311369895935

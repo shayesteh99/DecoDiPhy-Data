@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 3 25 32]
+opt_x:  [0.73254997 1.         0.3443769 ]
+opt_p:  [0.04059865 0.41839737 0.54100398]
+opt_y:  0.018258608162167293
+optimal anchors:  ['I4', 'Steganomus_junodi', 'Pachynomia_tshibindica']
+optimal p:  [0.4278183  0.0284053  0.54377662]
+optimal x:  [0.97027504 0.61798495 0.38118486]
+optimal y:  0.01831790464954352
+Optimization Runtime:  284.7268617153168

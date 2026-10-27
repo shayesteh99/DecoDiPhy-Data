@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [107 280 291]
+opt_x:  [1.         0.47940888 1.        ]
+opt_p:  [4.17848287e-01 8.72424209e-23 5.82151713e-01]
+opt_y:  0.03383192037593366
+optimal anchors:  ['I56', 'Monacanthidae_Thamnaconus_degeni_EPLATE_53_B02', 'I148']
+optimal p:  [4.22477406e-01 7.27772447e-23 5.77522594e-01]
+optimal x:  [0.51856329 0.53932434 1.        ]
+optimal y:  0.03999120794585321
+Optimization Runtime:  0.7105474472045898

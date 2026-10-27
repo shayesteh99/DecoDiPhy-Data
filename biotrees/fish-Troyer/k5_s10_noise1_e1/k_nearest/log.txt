@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [281 283 280 279 284]
+opt_x:  [0.48141904 1.         0.49653232 0.50189095 1.        ]
+opt_p:  [ 3.36397974e-22  5.01064588e-01  6.00081493e-22 -2.72317214e-21
+  4.98935412e-01]
+opt_y:  0.02223564993963927
+optimal anchors:  ['Monacanthidae_Eubalichthys_mosaicus_EPLATE_53_B03', 'Monacanthidae_Eubalichthys_caeruleoguttatus_EPLATE_51_G09', 'Monocanthidae_Eubalichthys_gunnii_EPLATE_53_A03', 'Monocanthidae_Thamnaconus_striatus_EPLATE_51_G11', 'Monocanthidae_Cantheschenia_grandisquamis_EPLATE_53_C03']
+optimal p:  [-2.72317214e-21  6.00081493e-22  3.36397974e-22  5.01064588e-01
+  4.98935412e-01]
+optimal x:  [0.50189095 0.49653232 0.48141904 1.         1.        ]
+optimal y:  0.02223564993963927
+Optimization Runtime:  0.14243412017822266

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [575 509 579 600 597]
+opt_x:  [0.46777299 0.39508489 0.30899077 0.44926505 1.        ]
+opt_p:  [2.49453053e-21 8.92560346e-22 7.10810623e-22 1.82963116e-21
+ 1.00000000e+00]
+opt_y:  0.05930558601720673
+optimal anchors:  ['Acrocephalus_arundinaceus', 'Buphagus_erythrorhynchus', 'Leucopsar_rothschildi', 'Promerops_cafer', 'Leptocoma_aspasia']
+optimal p:  [8.92560346e-22 2.49453053e-21 7.10810623e-22 1.00000000e+00
+ 1.82963116e-21]
+optimal x:  [0.39508489 0.46777299 0.30899077 1.         0.44926505]
+optimal y:  0.05930558601720673
+Optimization Runtime:  0.7826747894287109

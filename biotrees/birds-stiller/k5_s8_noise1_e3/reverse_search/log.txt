@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [130 226 370 374 383]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [ 1.78946135e-01  3.08140855e-01  2.56910456e-01 -1.54963644e-24
+  2.56002553e-01]
+opt_y:  0.04738041751928703
+optimal anchors:  ['Nycticryphes_semicollaris', 'Sula_dactylatra', 'I192', 'I193', 'I190']
+optimal p:  [1.78946135e-01 3.08140855e-01 2.56914769e-01 4.76824700e-25
+ 2.55998240e-01]
+optimal x:  [1.         1.         1.         0.12150613 1.        ]
+optimal y:  0.04738041751928704
+Optimization Runtime:  3.265462875366211

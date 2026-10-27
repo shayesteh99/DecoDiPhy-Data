@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 32  55  56 377 473]
+opt_x:  [9.15771495e-01 4.09428978e-21 3.78043024e-01 5.45667791e-02
+ 1.00000000e+00]
+opt_p:  [0.21557425 0.11732468 0.08324021 0.26948709 0.31437376]
+opt_y:  0.10550577348495473
+optimal anchors:  ['I30', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Rivulidae_Austrofundulus_limnaeus', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Aplocheilidae_Aplocheilus_lineatus', 'I199', 'I245']
+optimal p:  [0.22724492 0.10128956 0.08760466 0.26948709 0.31437376]
+optimal x:  [0.86541801 0.44839605 0.89280434 0.05456678 1.        ]
+optimal y:  0.10477310019309566
+Optimization Runtime:  6.0328686237335205

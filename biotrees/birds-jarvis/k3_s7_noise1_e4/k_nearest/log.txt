@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [40 51 50]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.64676596 0.17646815 0.17676589]
+opt_y:  0.07912637149294485
+optimal anchors:  ['CATAU', 'PYGAD', 'FULGL']
+optimal p:  [0.64676596 0.17676589 0.17646815]
+optimal x:  [1. 1. 1.]
+optimal y:  0.07912637149294485
+Optimization Runtime:  0.09392833709716797

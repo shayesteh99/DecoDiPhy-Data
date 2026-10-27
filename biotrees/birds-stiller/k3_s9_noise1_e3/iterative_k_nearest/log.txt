@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [443 380 620]
+opt_x:  [0.50126366 1.         1.        ]
+opt_p:  [3.93309612e-22 8.19194702e-01 1.80805298e-01]
+opt_y:  0.04316581550434942
+optimal anchors:  ['Cephalopterus_ornatus', 'Corvus_cornix', 'Ploceus_nigricollis']
+optimal p:  [8.19194702e-01 3.93309612e-22 1.80805298e-01]
+optimal x:  [1.         0.50126366 1.        ]
+optimal y:  0.04316581550434942
+Optimization Runtime:  0.8325319290161133

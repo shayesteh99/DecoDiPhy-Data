@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [201 202]
+opt_x:  [1. 1.]
+opt_p:  [0.50354979 0.49645021]
+opt_y:  0.19474776654063855
+optimal anchors:  ['Cherax_destructor', 'Enoplometopus_cf_daumi']
+optimal p:  [0.50354979 0.49645021]
+optimal x:  [1. 1.]
+optimal y:  0.19474776654063855
+Optimization Runtime:  0.09772825241088867

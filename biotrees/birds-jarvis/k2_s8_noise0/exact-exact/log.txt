@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [27 51]
+opt_x:  [0.47375754 0.97685939]
+opt_p:  [0.47418219 0.52581781]
+opt_y:  0.05365098555850723
+optimal anchors:  ['I20', 'EGRGA']
+optimal p:  [0.47418219 0.52581781]
+optimal x:  [0.47375754 0.97685939]
+optimal y:  0.05365098555850723
+Optimization Runtime:  51.60192799568176

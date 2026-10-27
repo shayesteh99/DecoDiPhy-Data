@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [245 289]
+opt_x:  [1.         0.12906932]
+opt_p:  [0.59718324 0.40281676]
+opt_y:  0.020790174888331642
+optimal anchors:  ['I124', 'Monocanthidae_Thamnaconus_striatus_EPLATE_51_G11']
+optimal p:  [0.59718324 0.40281676]
+optimal x:  [1.         0.12906932]
+optimal y:  0.020790174888331642
+Optimization Runtime:  0.3468444347381592

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 87  89  92 126 138]
+opt_x:  [0.94444869 0.19336256 0.75400914 1.         0.9499638 ]
+opt_p:  [0.45755212 0.04721558 0.09873783 0.18842241 0.20807206]
+opt_y:  0.41113512745319963
+optimal anchors:  ['I47', 'I48', 'Amphibalanus_amphitrite', 'Stygiomysis_cokei', 'Idotea_baltica']
+optimal p:  [0.45755212 0.04721558 0.09873783 0.18842241 0.20807206]
+optimal x:  [0.94444869 0.19336256 0.75400914 1.         0.9499638 ]
+optimal y:  0.41113512745319963
+Optimization Runtime:  0.3000791072845459

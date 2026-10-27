@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 2  7 75]
+opt_x:  [0.96559605 0.9492371  0.38895511]
+opt_p:  [0.17480468 0.16710325 0.65809207]
+opt_y:  0.21103938775763947
+optimal anchors:  ['Entransia_fimbriata', 'Nothoceros_aenigmaticus', 'I44']
+optimal p:  [0.17480468 0.16710325 0.65809207]
+optimal x:  [0.96559605 0.9492371  0.38895511]
+optimal y:  0.21103938775763947
+Optimization Runtime:  17089.14119386673

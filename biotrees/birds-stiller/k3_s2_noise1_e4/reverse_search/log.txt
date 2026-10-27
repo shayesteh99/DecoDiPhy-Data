@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [52 55 56]
+opt_x:  [1.         0.60438505 0.49625375]
+opt_p:  [ 1.00000000e+00  4.00859733e-22 -3.34092589e-22]
+opt_y:  0.08680154824486931
+optimal anchors:  ['I28', 'Alopecoenas_beccarii', 'I30']
+optimal p:  [ 1.00000000e+00  4.00859733e-22 -3.34092589e-22]
+optimal x:  [1.         0.60438505 0.49625375]
+optimal y:  0.08680154824486931
+Optimization Runtime:  2.8286564350128174

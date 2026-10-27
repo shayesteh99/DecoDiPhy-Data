@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 45  87 240]
+opt_x:  [0.2092951  0.7852026  0.90173536]
+opt_p:  [0.33863505 0.05894187 0.60242308]
+opt_y:  0.05320052828585507
+optimal anchors:  ['Trypophloeus_salicis_I10239', 'Scolytomimus_phillippinensis_I13639', 'Carphoborus_bifurcus_I13691']
+optimal p:  [0.33863505 0.05894187 0.60242308]
+optimal x:  [0.2092951  0.7852026  0.90173536]
+optimal y:  0.05320052828585507
+Optimization Runtime:  31817.018469572067

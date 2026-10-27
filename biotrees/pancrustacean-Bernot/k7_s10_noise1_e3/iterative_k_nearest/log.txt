@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [150 110 142 168 113  10 108]
+opt_x:  [4.24340246e-01 6.17443926e-21 7.35369788e-02 6.19254854e-01
+ 4.82741607e-01 1.00000000e+00 3.80055408e-22]
+opt_p:  [-1.00626537e-22  5.32120191e-02  1.92686154e-01  5.80809306e-22
+  1.16280129e-21  5.49714798e-01  2.04387029e-01]
+opt_y:  0.3163758365682361
+optimal anchors:  ['Tricholepidion_gertschi', 'Gammarus_fossarum', 'Hirondellea_gigas', 'Grandidierella_japonica', 'Sphaeroma_terebrans', 'Lysiosquillina_maculata', 'Sergestes_similis']
+optimal p:  [ 5.49714798e-01  2.04387029e-01  5.32120191e-02  1.16280129e-21
+  1.92686154e-01 -1.00626537e-22  5.80809306e-22]
+optimal x:  [1.00000000e+00 3.80055408e-22 6.17443926e-21 4.82741607e-01
+ 7.35369788e-02 4.24340246e-01 6.19254854e-01]
+optimal y:  0.3163758365682361
+Optimization Runtime:  0.18443036079406738

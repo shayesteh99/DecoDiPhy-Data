@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 10  69  99 121 142]
+opt_x:  [0.99874722 1.         1.         1.         0.550558  ]
+opt_p:  [0.1950965  0.17999669 0.28241198 0.14924122 0.19325361]
+opt_y:  0.051476912988589876
+optimal anchors:  ['Cosmoderes_cf_consobrinus_I13663', 'I40', 'Cryptocarenus_seriatus_I10214', 'I67', 'I79']
+optimal p:  [0.18757799 0.17809349 0.27741392 0.20257984 0.15433476]
+optimal x:  [0.98202132 0.8413174  1.         0.33431364 0.32090619]
+optimal y:  0.051857068015955084
+Optimization Runtime:  0.3583207130432129

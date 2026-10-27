@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 45 184 195]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.41689655 0.40203731 0.18106613]
+opt_y:  0.328145975075829
+optimal anchors:  ['I4', 'Rosmarinus_officinalis', 'I101']
+optimal p:  [0.36395201 0.41449287 0.22155512]
+optimal x:  [5.43851835e-25 1.00000000e+00 3.23925931e-01]
+optimal y:  0.32956493809724446
+Optimization Runtime:  0.7947521209716797

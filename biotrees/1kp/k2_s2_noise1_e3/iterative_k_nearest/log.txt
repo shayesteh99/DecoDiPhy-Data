@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [17 75]
+opt_x:  [1. 1.]
+opt_p:  [0.22056733 0.77943267]
+opt_y:  0.1532615391894284
+optimal anchors:  ['Colchicum_autumnale', 'Liriodendron_tulipifera']
+optimal p:  [0.22056733 0.77943267]
+optimal x:  [1. 1.]
+optimal y:  0.1532615391894284
+Optimization Runtime:  0.14475679397583008

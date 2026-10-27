@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [135 145 300]
+opt_x:  [7.91854029e-24 1.00000000e+00 1.00000000e+00]
+opt_p:  [0.13144579 0.70735613 0.16119808]
+opt_y:  0.16414996876582202
+optimal anchors:  ['Centrotus_cornutus', 'Mapuchea_sp', 'I153']
+optimal p:  [0.14409419 0.68360943 0.17229639]
+optimal x:  [7.42726464e-22 1.00000000e+00 8.90216848e-01]
+optimal y:  0.16758762423504397
+Optimization Runtime:  0.6794984340667725

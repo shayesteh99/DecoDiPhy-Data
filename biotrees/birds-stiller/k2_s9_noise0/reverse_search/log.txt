@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [473 474]
+opt_x:  [1.0000000e+00 7.0654527e-18]
+opt_p:  [0.85672875 0.14327125]
+opt_y:  0.04331190586430891
+optimal anchors:  ['I238', 'Erpornis_zantholeuca']
+optimal p:  [0.86800145 0.13199855]
+optimal x:  [1.         0.92573054]
+optimal y:  0.04314358271323079
+Optimization Runtime:  3.7223973274230957

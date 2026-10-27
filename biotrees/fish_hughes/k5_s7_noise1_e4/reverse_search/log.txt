@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 77  79  95 156 414]
+opt_x:  [1.00000000e+00 1.59170513e-19 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00]
+opt_p:  [0.32970548 0.00745141 0.00463959 0.46640324 0.19180028]
+opt_y:  0.1340134704096026
+optimal anchors:  ['I27', 'I53', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Neolamprologus_brichardi', 'I98', 'I222']
+optimal p:  [3.48042607e-01 4.98178426e-08 1.39838393e-02 4.46320378e-01
+ 1.91653127e-01]
+optimal x:  [0.45916322 1.         0.97112194 0.99999904 0.99999979]
+optimal y:  0.1343029757856729
+Optimization Runtime:  1.9528319835662842

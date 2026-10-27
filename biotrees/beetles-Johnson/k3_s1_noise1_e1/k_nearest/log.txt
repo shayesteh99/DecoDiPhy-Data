@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [10 40 17]
+opt_x:  [1.         0.67122956 0.53295328]
+opt_p:  [1.00000000e+00 9.62516947e-23 9.49990006e-23]
+opt_y:  0.081266207202421
+optimal anchors:  ['Cosmoderes_monilicollis_I13692', 'Hypothenemus_perhispidus_I13633', 'Hypothenemus_piaparolinae_I10225']
+optimal p:  [1.00000000e+00 9.49990006e-23 9.62516947e-23]
+optimal x:  [1.         0.53295328 0.67122956]
+optimal y:  0.081266207202421
+Optimization Runtime:  0.1226508617401123

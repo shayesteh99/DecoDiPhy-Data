@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [145 304 261]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.41109147 0.29563098 0.29327755]
+opt_y:  0.10892653573087419
+optimal anchors:  ['I63', 'Badonnelia_titei', 'Xanthostigma_xanthostigma']
+optimal p:  [0.47595027 0.23185044 0.2921993 ]
+optimal x:  [0.56879084 1.         1.        ]
+optimal y:  0.15854234342503265
+Optimization Runtime:  0.28681182861328125

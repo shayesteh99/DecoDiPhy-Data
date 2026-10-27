@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [211 239 242 285 286]
+opt_x:  [1.         1.         1.         0.96906861 0.78490699]
+opt_p:  [0.22419718 0.21170798 0.24802869 0.2606558  0.05541039]
+opt_y:  0.11596888400627917
+optimal anchors:  ['I109', 'I124', 'Solenodon_paradoxus', 'I147', 'Rousettus_aegyptiacus']
+optimal p:  [0.22419718 0.21170798 0.24802869 0.2606558  0.05541039]
+optimal x:  [1.         1.         1.         0.96906861 0.78490699]
+optimal y:  0.11596888400627917
+Optimization Runtime:  0.8589506149291992

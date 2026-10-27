@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 44 284]
+opt_x:  [0.87334329 0.72904043]
+opt_p:  [0.27103933 0.72896067]
+opt_y:  0.09372257770731884
+optimal anchors:  ['Chinavia_hilaris', 'Aaroniella_sp']
+optimal p:  [0.27103933 0.72896067]
+optimal x:  [0.87334329 0.72904043]
+optimal y:  0.09372257770731884
+Optimization Runtime:  3.8144049644470215

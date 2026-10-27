@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [52 57]
+opt_x:  [0.67334825 0.75834085]
+opt_p:  [0.47810946 0.52189061]
+opt_y:  0.05104377612229219
+optimal anchors:  ['I28', 'Columba_livia']
+optimal p:  [0.47810946 0.52189061]
+optimal x:  [0.67334825 0.75834085]
+optimal y:  0.05104377612229219
+Optimization Runtime:  3.6140575408935547

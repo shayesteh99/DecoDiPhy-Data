@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [171 173]
+opt_x:  [0.49866669 1.        ]
+opt_p:  [-2.31050157e-22  1.00000000e+00]
+opt_y:  0.03079632413110592
+optimal anchors:  ['Balistidae_Xanthichthys_caeruleolineatus_USNMAG7PV58', 'Balistidae_Xanthichthys_lineopunctatus_EPLATE_51_A12']
+optimal p:  [-2.31050157e-22  1.00000000e+00]
+optimal x:  [0.49866669 1.        ]
+optimal y:  0.03079632413110592
+Optimization Runtime:  0.15145349502563477

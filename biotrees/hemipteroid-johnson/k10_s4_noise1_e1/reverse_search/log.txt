@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 13  23  24  48  53  72 116 151 245 246]
+opt_x:  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.03301988 0.0227276  0.02314831 0.09432844 0.19126582 0.07656562
+ 0.18905125 0.13380655 0.11768035 0.11840619]
+opt_y:  0.11339426307638359
+optimal anchors:  ['Piezosternum_callidum', 'Anasa_tristis', 'Alydus_pilosus', 'Aradus_betulae', 'I34', 'I42', 'Hespenedra_chilensis', 'Ladella_sp', 'Cryptocercus_wrighti', 'Zootermopsis_nevadensis']
+optimal p:  [ 3.44000441e-02  2.42013882e-02  2.42013312e-02  6.55249326e-02
+  2.99401074e-01 -1.56701635e-05  1.87388948e-01  1.31357762e-01
+  1.08496755e-01  1.25043450e-01]
+optimal x:  [1.         1.         1.         1.         0.92502364 0.36738002
+ 0.99997012 0.99999937 0.99999843 1.        ]
+optimal y:  0.1266278353947836
+Optimization Runtime:  5.362919569015503

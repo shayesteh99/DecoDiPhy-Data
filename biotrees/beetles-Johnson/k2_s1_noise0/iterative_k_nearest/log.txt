@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [152  10]
+opt_x:  [1.         0.55181169]
+opt_p:  [0.55379462 0.44620538]
+opt_y:  0.05318562249333475
+optimal anchors:  ['Cosmoderes_monilicollis_I13692', 'Ptilopodius_sp2026_PNG2_I13653']
+optimal p:  [0.36666223 0.63333777]
+optimal x:  [0.8701082  0.71173341]
+optimal y:  0.053791057551623445
+Optimization Runtime:  0.11102843284606934

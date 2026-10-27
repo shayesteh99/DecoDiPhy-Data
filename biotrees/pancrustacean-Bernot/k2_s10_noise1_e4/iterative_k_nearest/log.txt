@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [147 178]
+opt_x:  [1.        0.5030027]
+opt_p:  [1.00000000e+00 2.43755029e-20]
+opt_y:  0.11365269095434187
+optimal anchors:  ['Armadillo_officinalis', 'Penaeus_penicilliatus']
+optimal p:  [1.00000000e+00 2.43755029e-20]
+optimal x:  [1.        0.5030027]
+optimal y:  0.11365269095434187
+Optimization Runtime:  0.10801577568054199

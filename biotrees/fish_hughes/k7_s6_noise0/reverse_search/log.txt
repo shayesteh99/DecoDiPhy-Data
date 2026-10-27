@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  5   6 108 157 497 498 572]
+opt_x:  [0.40367497 1.         1.         0.9558232  0.54869399 0.99537638
+ 0.27993845]
+opt_p:  [0.10127782 0.07808258 0.17048697 0.13457007 0.13156009 0.11575237
+ 0.2682701 ]
+opt_y:  0.06825822469912672
+optimal anchors:  ['I5', 'Acipenseriformes_Acipenseridae_Acipenser_naccarii', 'I65', 'Teleost_Euteleost_Anabantaria_Anabantiformes_Helostomatidae_Helostoma_temminckii', 'Teleost_Otophysa_Siluriformes_Sisoridae_Glyptothorax_sinensis', 'Teleost_Otophysa_Siluriformes_Bagridae_Hemibagrus_guttatus', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Osteoglossum_bicirrhosum']
+optimal p:  [0.07918437 0.10016908 0.16578206 0.13925967 0.13160249 0.1157082
+ 0.26829417]
+optimal x:  [6.81665662e-05 3.96935238e-01 6.47525869e-01 9.83816684e-01
+ 5.48887495e-01 9.95505719e-01 2.80095306e-01]
+optimal y:  0.06754621881814621
+Optimization Runtime:  10.843133211135864

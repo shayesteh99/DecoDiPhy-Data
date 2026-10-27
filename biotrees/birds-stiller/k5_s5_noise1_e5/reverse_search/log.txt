@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [259 260 261 266 660]
+opt_x:  [1.         1.         0.51539908 0.50128557 1.        ]
+opt_p:  [3.39472957e-01 3.44288928e-01 1.61122798e-22 1.68530585e-22
+ 3.16238115e-01]
+opt_y:  0.06719928599928161
+optimal anchors:  ['Pandion_haliaetus', 'I132', 'Circaetus_pectoralis', 'Haliaeetus_albicilla', 'Cardinalis_cardinalis']
+optimal p:  [3.39472957e-01 3.44288928e-01 1.61122798e-22 1.68530585e-22
+ 3.16238115e-01]
+optimal x:  [1.         1.         0.51539908 0.50128557 1.        ]
+optimal y:  0.06719928599928161
+Optimization Runtime:  3.4329731464385986

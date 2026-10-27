@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [249 204 248 205 247 202 137 250 167 211]
+opt_x:  [0.8027593  0.42870107 0.43922702 0.45407102 0.45963397 0.41945849
+ 0.57416563 1.         1.         1.        ]
+opt_p:  [-5.15767831e-22  1.22181458e-21 -9.84048368e-22  1.67770153e-21
+ -1.89848146e-21  2.06635774e-21 -2.06646319e-21  4.37782936e-01
+  5.37949764e-01  2.42673002e-02]
+opt_y:  0.18835435353444013
+optimal anchors:  ['Mapuchea_sp', 'Peloridium_hammoniorum', 'Blaberus_atropos', 'Cryptocercus_wrighti', 'Zootermopsis_nevadensis', 'Galloisiana_yuasai', 'Embidopsocus_sp', 'Liposcelis_bostrychophila', 'Badonnelia_titei', 'Stimulopalpus_japonicus']
+optimal p:  [-2.06646319e-21  5.37949764e-01  2.06635774e-21  1.22181458e-21
+  1.67770153e-21  2.42673002e-02 -1.89848146e-21 -9.84048368e-22
+ -5.15767831e-22  4.37782936e-01]
+optimal x:  [0.57416563 1.         0.41945849 0.42870107 0.45407102 1.
+ 0.45963397 0.43922702 0.8027593  1.        ]
+optimal y:  0.18835435353444013
+Optimization Runtime:  0.28966331481933594

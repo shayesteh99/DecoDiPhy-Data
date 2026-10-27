@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  7  96 133 163 164 179 180]
+opt_x:  [1.00000000e+00 1.00000000e+00 9.65195201e-01 8.29641478e-01
+ 1.00000000e+00 9.34937536e-18 2.45101309e-17]
+opt_p:  [0.10837507 0.14328657 0.26336718 0.16516824 0.15140894 0.09454887
+ 0.07384513]
+opt_y:  0.009541991533723523
+optimal anchors:  ['Aracanidae_Anoplocapros_amygdaloides_EPLATE_53_C05', 'Tetraodontidae_Lagocephalus_cheesemanii_EPLATE_52_D10', 'Lophiidae_Lophius_litulon_CSIROGT6889', 'Balistidae_Melichthys_vidua_STRIBFT11786', 'Balistidae_Odonus_niger_USNMAG7PW08', 'Balistidae_Balistes_polylepis_USNMAG7PC77', 'Balistidae_Balistes_capriscus_USNMAD9NF67']
+optimal p:  [0.10837486 0.14328659 0.26336733 0.16517198 0.15140535 0.09454874
+ 0.07384516]
+optimal x:  [1.79614802e-01 1.00000000e+00 9.65196264e-01 8.29646798e-01
+ 1.00000000e+00 1.64224981e-17 1.53580426e-17]
+optimal y:  0.009541819001275133
+Optimization Runtime:  1.6152338981628418

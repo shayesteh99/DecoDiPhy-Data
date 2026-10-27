@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 27  44  49 434 435]
+opt_x:  [0.41115306 1.         0.90871307 1.         1.        ]
+opt_p:  [0.29664762 0.21542509 0.24166037 0.12280164 0.12346528]
+opt_y:  0.027655013826518235
+optimal anchors:  ['Microgale_talazaci', 'I24', 'Mandrillus_leucophaeus', 'I224', 'Enhydra_lutris']
+optimal p:  [0.2943663  0.22512381 0.2331326  0.1637906  0.08358669]
+optimal x:  [0.40319386 0.21952843 0.82994078 0.24540543 0.95610084]
+optimal y:  0.029281267145192094
+Optimization Runtime:  7.522131443023682

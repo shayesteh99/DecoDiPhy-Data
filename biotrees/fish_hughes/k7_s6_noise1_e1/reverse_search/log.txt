@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  5   6 108 157 499 572 578]
+opt_x:  [1.         1.         1.         1.         1.         0.68117497
+ 1.        ]
+opt_p:  [0.07566371 0.07732198 0.18109576 0.12483223 0.24673383 0.09265048
+ 0.20170201]
+opt_y:  0.1606308512301303
+optimal anchors:  ['I5', 'Acipenseriformes_Acipenseridae_Acipenser_naccarii', 'I65', 'I96', 'I256', 'I295', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Osteoglossum_bicirrhosum']
+optimal p:  [0.10206257 0.06548564 0.16972462 0.13729917 0.25028778 0.17652223
+ 0.098618  ]
+optimal x:  [0.82666415 0.61708496 0.70721443 0.8803297  0.10850651 0.68721557
+ 0.70046754]
+optimal y:  0.167923364378409
+Optimization Runtime:  7.254032611846924

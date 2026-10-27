@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [193 249  57]
+opt_x:  [1. 1. 1.]
+opt_p:  [1.29702220e-22 7.60610577e-01 2.39389423e-01]
+opt_y:  0.07650060517383706
+optimal anchors:  ['Columba_livia', 'Thalassarche_chlororhynchos', 'Cathartes_aura']
+optimal p:  [2.39389423e-01 1.29702220e-22 7.60610577e-01]
+optimal x:  [1. 1. 1.]
+optimal y:  0.07650060517383706
+Optimization Runtime:  0.8511850833892822

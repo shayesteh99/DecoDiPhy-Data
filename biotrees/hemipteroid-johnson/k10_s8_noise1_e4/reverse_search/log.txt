@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [ 32  65  73  76 123 133 168 169 178 182]
+opt_x:  [1.         1.         1.         1.         0.62266702 1.
+ 1.         0.23260687 1.         1.        ]
+opt_p:  [ 1.34562140e-01  5.34688630e-02  1.16013903e-01  8.28138160e-02
+  3.48528500e-02  2.18566669e-01  3.69957490e-23 -3.96005424e-23
+  1.56922203e-01  2.02799556e-01]
+opt_y:  0.15251033383207563
+optimal anchors:  ['Lygaeus_turcicus', 'Lopidea_amorphae', 'Aphelonotus_fraterculus', 'Trichocorixa_calva', 'I63', 'Stictocephala_bisonia', 'Frankliniella_occidentalis', 'I95', 'Gynaikothrips_ficorum', 'I102']
+optimal p:  [1.35326070e-01 5.41038823e-02 1.15784900e-01 7.82148069e-02
+ 1.63029891e-01 9.14697167e-02 9.89120924e-23 1.80674459e-23
+ 1.33770386e-01 2.28300346e-01]
+optimal x:  [1.         1.         1.         1.         0.819158   1.
+ 0.48344754 0.15410591 1.         0.96574089]
+optimal y:  0.16148383494043686
+Optimization Runtime:  0.716482400894165

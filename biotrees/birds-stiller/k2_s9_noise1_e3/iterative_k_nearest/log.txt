@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [446 472]
+opt_x:  [0.49853979 1.        ]
+opt_p:  [-4.64384348e-22  1.00000000e+00]
+opt_y:  0.04448721012232808
+optimal anchors:  ['Corvus_brachyrhynchos', 'Pachycephala_philippinensis']
+optimal p:  [-4.64384348e-22  1.00000000e+00]
+optimal x:  [0.49853979 1.        ]
+optimal y:  0.04448721012232808
+Optimization Runtime:  0.7673437595367432

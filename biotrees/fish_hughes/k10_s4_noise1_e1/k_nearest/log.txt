@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [243 260 239 229 319 149 318 114 211 322]
+opt_x:  [0.48989349 0.48418077 0.48804569 0.47997996 0.08910262 0.48790773
+ 0.11871541 0.48796855 0.47648902 0.9999993 ]
+opt_p:  [-7.12705151e-06 -6.83030103e-06 -7.20828273e-06 -7.84266858e-06
+  3.54061218e-07 -4.28478759e-06  3.60870110e-07 -5.11007505e-06
+ -8.11581289e-06  1.00004575e+00]
+opt_y:  0.17585732906973306
+optimal anchors:  ['Teleost_Euteleost_Ovalentaria_Pomacentridae_Chromis_chromis', 'Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'Teleost_Euteleost_Eupercaria_Pomacanthidae_Pomacanthus_paru', 'Teleost_Euteleost_Eupercaria_Ephippiformes_Drepaneidae_Drepane_punctata', 'Teleost_Euteleost_Eupercaria_Centrarchiformes_Percichthyidae_Siniperca_scherzeri', 'Teleost_Euteleost_Eupercaria_Centrarchiformes_Oplegnathidae_Oplegnathus_punctatus', 'Teleost_Euteleost_Eupercaria_Pempheriformes_Epigonidae_Epigonus_sp', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Thunnus_orientalis', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Scomberomorus_regalis', 'Teleost_Euteleost_Pelagiaria_Scombrifomres_Nomeidae_Nomeus_gronovii']
+optimal p:  [-5.11007505e-06 -4.28478759e-06 -8.11581289e-06 -7.84266858e-06
+ -7.20828273e-06 -7.12705151e-06 -6.83030103e-06  3.60870110e-07
+  3.54061218e-07  1.00004575e+00]
+optimal x:  [0.48796855 0.48790773 0.47648902 0.47997996 0.48804569 0.48989349
+ 0.48418077 0.11871541 0.08910262 0.9999993 ]
+optimal y:  0.17585732906973306
+Optimization Runtime:  0.8546438217163086

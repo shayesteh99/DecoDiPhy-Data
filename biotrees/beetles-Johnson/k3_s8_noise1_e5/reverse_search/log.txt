@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 66 100 242]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.28298593 0.31765474 0.39935934]
+opt_y:  0.07047576575031717
+optimal anchors:  ['I2', 'I38', 'I53']
+optimal p:  [0.22380728 0.26257661 0.51361611]
+optimal x:  [3.44232861e-19 7.26819437e-01 7.46221837e-01]
+optimal y:  0.07755306127536309
+Optimization Runtime:  0.3034787178039551

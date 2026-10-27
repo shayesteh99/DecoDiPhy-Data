@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [67 69 70]
+opt_x:  [1.         0.41403328 0.42015673]
+opt_p:  [ 1.00001838e+00 -9.15115688e-06 -9.11211097e-06]
+opt_y:  0.07270960677975255
+optimal anchors:  ['Notostira_elongata', 'Lopidea_amorphae', 'Reuteroscopus_ornatus']
+optimal p:  [ 1.00001838e+00 -9.15115688e-06 -9.11211097e-06]
+optimal x:  [1.         0.41403328 0.42015673]
+optimal y:  0.07270960677975255
+Optimization Runtime:  0.2110755443572998

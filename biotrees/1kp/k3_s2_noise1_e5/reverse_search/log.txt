@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [77 80 97]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.42773537 0.2857034  0.28656123]
+opt_y:  0.2069920983912539
+optimal anchors:  ['Nuphar_advena', 'I48', 'I57']
+optimal p:  [0.42773537 0.2857034  0.28656123]
+optimal x:  [1. 1. 1.]
+optimal y:  0.2069920983912539
+Optimization Runtime:  0.22619891166687012

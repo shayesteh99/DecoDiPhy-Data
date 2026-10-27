@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 14  20  32  57 147 181 185]
+opt_x:  [0.98634413 1.         0.64049321 0.94593665 1.         0.87053013
+ 1.        ]
+opt_p:  [0.3853972  0.07392548 0.05464781 0.09529972 0.11652083 0.10657031
+ 0.16763866]
+opt_y:  0.3677484630537248
+optimal anchors:  ['Meinertellus_cundinamarcensis', 'Thrips_palmi', 'I21', 'Hutchinsoniella_macracantha', 'Sphaeroma_terebrans', 'Halocaridina_rubra', 'I99']
+optimal p:  [0.39037007 0.07225987 0.05536038 0.08877994 0.11123572 0.05347011
+ 0.22852391]
+optimal x:  [0.98822858 1.         0.66211918 0.93784697 1.         0.70388929
+ 0.83001628]
+optimal y:  0.37220272132530985
+Optimization Runtime:  0.49139928817749023

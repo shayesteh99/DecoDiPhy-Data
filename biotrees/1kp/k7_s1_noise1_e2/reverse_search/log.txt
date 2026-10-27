@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 35  42  44  71 150 183 188]
+opt_x:  [1.         0.47290492 1.         1.         1.         1.
+ 1.        ]
+opt_p:  [0.24115136 0.17900625 0.10967177 0.07418366 0.11138221 0.0613946
+ 0.22321015]
+opt_y:  0.23009069784384625
+optimal anchors:  ['I17', 'I31', 'Inula_helenium', 'Sarcandra_glabra', 'I83', 'Chara_vulgaris', 'Chlorokybus_atmophyticus']
+optimal p:  [0.2318301  0.17857631 0.10878706 0.08469705 0.11142939 0.06154136
+ 0.22313873]
+optimal x:  [0.96808655 0.80695785 0.76546988 1.         1.         1.
+ 1.        ]
+optimal y:  0.22753024591536983
+Optimization Runtime:  0.4816462993621826

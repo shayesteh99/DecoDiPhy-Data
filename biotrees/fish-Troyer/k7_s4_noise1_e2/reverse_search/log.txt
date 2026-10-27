@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 42  51  53 112 188 230 231]
+opt_x:  [1.         0.88249595 0.76850495 1.         0.73840041 0.74969291
+ 0.94668143]
+opt_p:  [0.29732346 0.14536143 0.08620691 0.20455673 0.13056905 0.08974893
+ 0.04623348]
+opt_y:  0.03496169686468777
+optimal anchors:  ['Diodontidae_Tragulichthys_jaculiferus_EPLATE_52_G11', 'Diodontidae_Diodon_holocanthus_UPRFL0286', 'I32', 'I60', 'I104', 'I122', 'Monocanthidae_Brachaluteres_taylori_EPLATE_52_G12']
+optimal p:  [0.15955928 0.08280198 0.32736795 0.15758941 0.13663992 0.08981639
+ 0.04622506]
+optimal x:  [9.02125780e-01 7.58985581e-01 7.87832064e-01 8.84476700e-20
+ 9.26764024e-01 7.60464488e-01 9.46671722e-01]
+optimal y:  0.03665388772601699
+Optimization Runtime:  0.49160051345825195

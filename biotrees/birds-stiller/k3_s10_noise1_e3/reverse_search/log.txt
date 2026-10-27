@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [427 428 578]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.28958532 0.29103961 0.41937507]
+opt_y:  0.03969772125868874
+optimal anchors:  ['Dicrurus_megarhynchus', 'I217', 'I292']
+optimal p:  [0.27858205 0.27959843 0.44181952]
+optimal x:  [1.         1.         0.59953696]
+optimal y:  0.041977896262593545
+Optimization Runtime:  2.93387508392334

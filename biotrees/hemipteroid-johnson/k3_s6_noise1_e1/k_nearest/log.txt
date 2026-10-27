@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [259 245 254]
+opt_x:  [1.         0.51339669 0.47040533]
+opt_p:  [ 1.00000000e+00 -3.20786092e-21 -5.27913313e-22]
+opt_y:  0.17023317475610322
+optimal anchors:  ['Craspedorrhynchus_sp', 'Columbicola_columbae', 'Badonnelia_titei']
+optimal p:  [-3.20786092e-21 -5.27913313e-22  1.00000000e+00]
+optimal x:  [0.51339669 0.47040533 1.        ]
+optimal y:  0.17023317475610322
+Optimization Runtime:  0.21092462539672852

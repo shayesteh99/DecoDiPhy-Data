@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 22 150]
+opt_x:  [0.41707101 0.76263442]
+opt_p:  [0.02619955 0.97380045]
+opt_y:  0.017609729141885126
+optimal anchors:  ['Zea_mays', 'Anomodon_attenuatus']
+optimal p:  [0.02619955 0.97380045]
+optimal x:  [0.41707101 0.76263442]
+optimal y:  0.017609729141885126
+Optimization Runtime:  265.61068534851074

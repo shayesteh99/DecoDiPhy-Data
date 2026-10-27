@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [84 86]
+opt_x:  [0.49668375 1.        ]
+opt_p:  [1.36507606e-21 1.00000000e+00]
+opt_y:  0.04282207555337881
+optimal anchors:  ['Cycas_micholitzii', 'Zamia_vazquezii']
+optimal p:  [1.36507606e-21 1.00000000e+00]
+optimal x:  [0.49668375 1.        ]
+optimal y:  0.04282207555337881
+Optimization Runtime:  0.08115816116333008

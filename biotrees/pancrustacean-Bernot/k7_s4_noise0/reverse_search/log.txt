@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 27  28  35  54  55  93 175]
+opt_x:  [0.85900388 1.         1.         0.89259778 1.         0.94040819
+ 0.12065496]
+opt_p:  [0.09807787 0.10432986 0.22122881 0.10552594 0.09491105 0.30793946
+ 0.06798702]
+opt_y:  0.36134007025422094
+optimal anchors:  ['I15', 'Spodoptera_litura', 'Morlockia_williamsi', 'I30', 'Tigriopus_californicus', 'Nebalia_bipes', 'Palaemon_sp']
+optimal p:  [0.13986662 0.06453608 0.21697556 0.13524436 0.06860487 0.30562893
+ 0.06914358]
+optimal x:  [0.55916743 0.66353941 1.         0.46901044 0.66339857 0.93868683
+ 0.15954246]
+optimal y:  0.3624648952874627
+Optimization Runtime:  0.7354671955108643

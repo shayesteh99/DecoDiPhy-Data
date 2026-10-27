@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [452 450]
+opt_x:  [0.99999158 0.49986273]
+opt_p:  [9.99991565e-01 8.42227613e-06]
+opt_y:  0.03493969026547668
+optimal anchors:  ['Leptonychotes_weddellii', 'Neomonachus_schauinslandi']
+optimal p:  [8.42227613e-06 9.99991565e-01]
+optimal x:  [0.49986273 0.99999158]
+optimal y:  0.03493969026547668
+Optimization Runtime:  0.32973241806030273

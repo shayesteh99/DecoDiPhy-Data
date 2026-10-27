@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [73 71 74 75 61]
+opt_x:  [0.50000835 0.49986786 0.5000104  1.         0.50008737]
+opt_p:  [-9.14220795e-06 -9.14355584e-06 -9.14219898e-06  1.00003653e+00
+ -9.08739722e-06]
+opt_y:  0.04838305252441815
+optimal anchors:  ['Macaca_fascicularis', 'Nasalis_larvatus', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti', 'Semnopithecus_entellus']
+optimal p:  [-9.08739722e-06 -9.14355584e-06 -9.14220795e-06 -9.14219898e-06
+  1.00003653e+00]
+optimal x:  [0.50008737 0.49986786 0.50000835 0.5000104  1.        ]
+optimal y:  0.04838305252441815
+Optimization Runtime:  0.33197736740112305

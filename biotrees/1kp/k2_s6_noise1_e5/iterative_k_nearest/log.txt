@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [160 188]
+opt_x:  [0.52753547 1.        ]
+opt_p:  [-2.11118583e-21  1.00000000e+00]
+opt_y:  0.3381702499887848
+optimal anchors:  ['Sphagnum_lescurii', 'Klebsormidium_subtile']
+optimal p:  [-2.11118583e-21  1.00000000e+00]
+optimal x:  [0.52753547 1.        ]
+optimal y:  0.3381702499887848
+Optimization Runtime:  0.10506057739257812

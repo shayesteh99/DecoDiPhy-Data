@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [187 186 116]
+opt_x:  [1.         1.         0.92656191]
+opt_p:  [0.32444147 0.32708236 0.34847617]
+opt_y:  0.02334504193283212
+optimal anchors:  ['Eulemur_fulvus', 'Ictidomys_tridecemlineatus', 'Marmota_marmota']
+optimal p:  [0.34847617 0.32708236 0.32444147]
+optimal x:  [0.92656191 1.         1.        ]
+optimal y:  0.02334504193283212
+Optimization Runtime:  0.29955196380615234

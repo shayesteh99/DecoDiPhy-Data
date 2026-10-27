@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [185 236 310]
+opt_x:  [0.59058731 0.78571088 0.61549058]
+opt_p:  [0.44188936 0.27175805 0.28635258]
+opt_y:  0.03957398210394416
+optimal anchors:  ['I96', 'Condylura_cristata', 'Camelus_bactrianus']
+optimal p:  [0.44188936 0.27175805 0.28635258]
+optimal x:  [0.59058731 0.78571088 0.61549058]
+optimal y:  0.03957398210394416
+Optimization Runtime:  9.706997394561768

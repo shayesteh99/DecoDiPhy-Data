@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [489 582]
+opt_x:  [1. 1.]
+opt_p:  [0.34881266 0.65118734]
+opt_y:  0.28022427670377476
+optimal anchors:  ['Teleost_Euteleost_Argentiniformes_Argentinidae_Argentina_sp', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Scleropages_formosus']
+optimal p:  [0.34881266 0.65118734]
+optimal x:  [1. 1.]
+optimal y:  0.28022427670377476
+Optimization Runtime:  0.5198197364807129

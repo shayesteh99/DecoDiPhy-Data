@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 0 38 77]
+opt_x:  [0.43097925 0.85587196 0.86594072]
+opt_p:  [0.17842178 0.64089173 0.18068648]
+opt_y:  0.0674492758732189
+optimal anchors:  ['I2', 'HALAL', 'MESUN']
+optimal p:  [0.17842178 0.64089173 0.18068648]
+optimal x:  [0.43097925 0.85587196 0.86594072]
+optimal y:  0.0674492758732189
+Optimization Runtime:  1448.8398959636688

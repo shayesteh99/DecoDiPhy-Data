@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [ 16  51  52  74  99 138 159]
+opt_x:  [1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.17783535 0.0884651  0.08733858 0.14992045 0.15404871 0.13009356
+ 0.21229825]
+opt_y:  0.17357763763111653
+optimal anchors:  ['I18', 'Boehmeria_nivea', 'Larrea_tridentata', 'Kadsura_heteroclita', 'Ginkgo_biloba', 'Bryum_argenteum', 'Mesotaenium_endlicherianum']
+optimal p:  [0.16846023 0.08916863 0.08801545 0.15840497 0.15361431 0.13006796
+ 0.21226844]
+optimal x:  [1.30549603e-22 1.00000000e+00 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00 1.00000000e+00 1.00000000e+00]
+optimal y:  0.17323365894672269
+Optimization Runtime:  0.34346652030944824

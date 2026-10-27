@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 86  90 119]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.13804572 0.20119779 0.66075649]
+opt_y:  0.21323201159865546
+optimal anchors:  ['I8', 'Cycas_micholitzii', 'I49']
+optimal p:  [0.63283637 0.14725272 0.2199109 ]
+optimal x:  [0.3221888 1.        1.       ]
+optimal y:  0.21067208934065493
+Optimization Runtime:  0.4369072914123535

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [61 62]
+opt_x:  [1. 1.]
+opt_p:  [0.49868387 0.50131613]
+opt_y:  0.00625327633379599
+optimal anchors:  ['Omalagarasi__Uvinza__130', 'Omalagarasi__Uvinza__131']
+optimal p:  [0.49868387 0.50131613]
+optimal x:  [1. 1.]
+optimal y:  0.00625327633379599
+Optimization Runtime:  0.08271622657775879

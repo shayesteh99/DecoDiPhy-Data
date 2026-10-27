@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [26 87 88]
+opt_x:  [0.99009654 0.90506028 0.10009322]
+opt_p:  [0.23843195 0.6173786  0.1441895 ]
+opt_y:  0.5130471564100825
+optimal anchors:  ['Tricholepidion_gertschi', 'I47', 'I49']
+optimal p:  [0.23843195 0.6173786  0.1441895 ]
+optimal x:  [0.99009654 0.90506028 0.10009322]
+optimal y:  0.5130471564100825
+Optimization Runtime:  0.47350382804870605

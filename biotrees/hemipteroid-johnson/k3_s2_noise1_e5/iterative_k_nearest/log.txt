@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 9 38 94]
+opt_x:  [0.34588118 0.47491841 1.        ]
+opt_p:  [-1.52167831e-21 -4.09918568e-21  1.00000000e+00]
+opt_y:  0.18790037520971437
+optimal anchors:  ['Scutelleridae_sp', 'Oncopeltus_fasciatus', 'Gelastocoris_oculatus']
+optimal p:  [-1.52167831e-21 -4.09918568e-21  1.00000000e+00]
+optimal x:  [0.34588118 0.47491841 1.        ]
+optimal y:  0.18790037520971437
+Optimization Runtime:  0.2306966781616211

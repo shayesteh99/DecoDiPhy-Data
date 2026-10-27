@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [189 176  37  15 159]
+opt_x:  [1.         0.51029625 0.06305837 1.         1.        ]
+opt_p:  [ 2.78528081e-01  6.74628292e-22 -2.02701192e-22  5.72021469e-01
+  1.49450450e-01]
+opt_y:  0.32715342510806605
+optimal anchors:  ['I9', 'Godzilliognomus_frondosus', 'Lysiosquillina_maculata', 'Penaeus_penicilliatus', 'Enoplometopus_cf_daumi']
+optimal p:  [0.38902999 0.03160702 0.13035912 0.01955763 0.42944623]
+optimal x:  [0.90423582 1.         1.         1.         1.        ]
+optimal y:  0.3484917712805744
+Optimization Runtime:  0.20966696739196777

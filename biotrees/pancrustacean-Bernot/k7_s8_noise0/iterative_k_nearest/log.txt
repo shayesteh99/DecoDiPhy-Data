@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  9  84  32  28  47  83 165]
+opt_x:  [0.22833218 1.         0.53781634 0.49185935 0.83846059 0.15946794
+ 1.        ]
+opt_p:  [ 4.21846199e-01  6.64395771e-02  7.55459918e-22 -6.99841264e-22
+  4.17157722e-01  9.21692527e-02  2.38724892e-03]
+opt_y:  9.412583355449953e-23
+optimal anchors:  ['Machilis_hrabei', 'Lasionectes_entrichoma', 'Godzilliognomus_frondosus', 'Eucyclops_serrulatus', 'I49', 'Amphibalanus_amphitrite', 'I92']
+optimal p:  [ 4.57258105e-01 -6.36781213e-22 -5.79096440e-22  2.34816271e-01
+  1.48529018e-01  1.00785265e-01  5.86113418e-02]
+optimal x:  [0.83144432 0.47591867 0.50803136 0.9219509  0.32605301 0.53675911
+ 0.07511159]
+optimal y:  0.2976873882638058
+Optimization Runtime:  0.2035207748413086

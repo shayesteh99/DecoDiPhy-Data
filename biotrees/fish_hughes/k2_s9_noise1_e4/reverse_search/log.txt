@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [474 476]
+opt_x:  [1.         0.45418382]
+opt_p:  [1.00000000e+00 4.28381677e-21]
+opt_y:  0.2274399023402341
+optimal anchors:  ['Teleost_Euteleost_Stomiatiformes_Stomiidae_Borostomias_antarcticus', 'I244']
+optimal p:  [1.00000000e+00 4.28381677e-21]
+optimal x:  [1.         0.45418382]
+optimal y:  0.2274399023402341
+Optimization Runtime:  1.8809726238250732

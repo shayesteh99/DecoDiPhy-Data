@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 42  96 101]
+opt_x:  [1.0000000e+00 7.2503465e-01 1.9962643e-23]
+opt_p:  [8.48929270e-01 4.46433646e-24 1.51070730e-01]
+opt_y:  0.03989164094502333
+optimal anchors:  ['I25', 'Omossambicus__SouthAfrica__RB09-059', 'Oplacidus__Mozambique__AC13-A158']
+optimal p:  [0.63995682 0.06506059 0.2949826 ]
+optimal x:  [0.74315209 1.         1.        ]
+optimal y:  0.03114249582098982
+Optimization Runtime:  0.1126413345336914

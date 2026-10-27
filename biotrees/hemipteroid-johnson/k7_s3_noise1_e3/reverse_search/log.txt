@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [ 69  70 124 188 293 296 307]
+opt_x:  [1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.06532394 0.06518097 0.11560423 0.28267293 0.21285096 0.2115624
+ 0.04680456]
+opt_y:  0.1741590938173131
+optimal anchors:  ['Lygus_lineolaris', 'I39', 'Hespenedra_chilensis', 'I93', 'I160', 'I155', 'Tenthredo_koehleri']
+optimal p:  [0.05529988 0.05496886 0.0766322  0.49227198 0.15824241 0.15706873
+ 0.00551595]
+optimal x:  [1.         1.         0.33937402 0.85457922 1.         1.
+ 1.        ]
+optimal y:  0.22116468045870472
+Optimization Runtime:  0.7820320129394531

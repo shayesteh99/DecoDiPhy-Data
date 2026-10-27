@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [145 130 127 117 115]
+opt_x:  [1.         0.47352592 0.46892361 1.         0.50145528]
+opt_p:  [ 3.55084072e-01 -1.04447418e-07 -1.03403520e-07  6.44916128e-01
+  7.53963704e-09]
+opt_y:  0.1680758936175205
+optimal anchors:  ['Aphrophora_alni', 'Okanagana_villosa', 'Hespenedra_chilensis', 'Vidanoana_flavomaculata', 'Mapuchea_sp']
+optimal p:  [ 7.53963704e-09  6.44916128e-01 -1.03403520e-07 -1.04447418e-07
+  3.55084072e-01]
+optimal x:  [0.50145528 1.         0.46892361 0.47352592 1.        ]
+optimal y:  0.1680758936175205
+Optimization Runtime:  0.24878501892089844

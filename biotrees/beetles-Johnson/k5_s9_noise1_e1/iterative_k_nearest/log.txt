@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [113 102 156 153 155]
+opt_x:  [5.14549500e-01 1.00000000e+00 9.99998501e-01 1.28350514e-08
+ 8.66034891e-01]
+opt_p:  [-4.95829958e-08  2.38151659e-01  6.18850971e-01  1.42997409e-01
+  9.87561294e-09]
+opt_y:  0.07006365995423355
+optimal anchors:  ['I57', 'Pityophthorus_liquidambarus_I10230', 'Ernoporus_tiliae_I10221', 'Procryphalus_mucronatus_I10231', 'Styracoptinus_murex_I13684']
+optimal p:  [ 2.95228284e-01  1.23408986e-01  1.97732346e-01 -1.94441651e-07
+  3.83630588e-01]
+optimal x:  [0.41947225 1.         0.22931008 0.02211036 1.        ]
+optimal y:  0.05519160583838498
+Optimization Runtime:  0.18234491348266602

@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [165 166 177 164 176 179 167 173 174 149]
+opt_x:  [0.49430682 0.48379361 0.30446742 0.46777722 0.22158856 1.
+ 1.         0.22054753 0.18465377 1.        ]
+opt_p:  [-2.14785746e-07 -2.12753222e-07  2.20639307e-07 -2.13269390e-07
+  2.25216370e-07 -3.75672125e-08  4.23840067e-01  2.53035778e-07
+  2.55153461e-07  5.76159659e-01]
+opt_y:  0.27257507902230144
+optimal anchors:  ['Lysiosquillina_maculata', 'Penaeus_duorarum', 'Litopenaeus_vannamei', 'Penaeus_penicilliatus', 'Sergestes_similis', 'Palaemon_sp', 'Metabetaeus_lohena', 'Halocaridina_rubra', 'Neocaridina_denticulata', 'I100']
+optimal p:  [ 5.76153403e-01  1.04368259e-05  1.05441180e-05  1.04626987e-05
+  4.23920468e-01 -2.66627011e-05 -2.67057578e-05 -2.47765990e-05
+ -2.44916867e-05 -2.91397177e-06]
+optimal x:  [1.         0.47330916 0.49344579 0.47946598 0.99996354 0.27369784
+ 0.2503168  0.27176123 0.33827484 0.01474534]
+optimal y:  0.27258329617541865
+Optimization Runtime:  0.14694452285766602

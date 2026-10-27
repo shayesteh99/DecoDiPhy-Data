@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [582 586]
+opt_x:  [0.30707817 0.46603045]
+opt_p:  [ 1.0000000e+00 -3.6304759e-21]
+opt_y:  1.03974005963045e-20
+optimal anchors:  ['Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Scleropages_formosus', 'Teleost_Osteoglossiformes_Osteoglossiformes_Morymridae_Gnathonemus_petersii']
+optimal p:  [ 1.0000000e+00 -3.6304759e-21]
+optimal x:  [0.30707817 0.46603045]
+optimal y:  1.03974005963045e-20
+Optimization Runtime:  0.4662742614746094

@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [454 390 403 451 310  42  96 431  66 400]
+opt_x:  [0.4783928  1.         0.49922036 1.         1.         0.49066788
+ 1.         0.49663309 0.49840026 0.50040887]
+opt_p:  [ 3.04838681e-22  1.25776482e-01 -2.02096233e-21  1.39550070e-01
+  2.10492253e-01 -7.81563787e-22  5.24181195e-01 -1.81405420e-21
+ -1.04238799e-21 -1.80496712e-21]
+opt_y:  0.08963754289402974
+optimal anchors:  ['Nomascus_leucogenys', 'Rhinopithecus_roxellana', 'Daubentonia_madagascariensis', 'Eubalaena_japonica', 'Cryptoprocta_ferox', 'Panthera_pardus', 'Felis_catus', 'Odobenus_rosmarus', 'Tapirus_indicus', 'Dicerorhinus_sumatrensis']
+optimal p:  [-7.81563787e-22 -1.04238799e-21  5.24181195e-01  2.10492253e-01
+  1.25776482e-01 -1.80496712e-21 -2.02096233e-21 -1.81405420e-21
+  1.39550070e-01  3.04838681e-22]
+optimal x:  [0.49066788 0.49840026 1.         1.         1.         0.50040887
+ 0.49922036 0.49663309 1.         0.4783928 ]
+optimal y:  0.08963754289402974
+Optimization Runtime:  0.6031591892242432

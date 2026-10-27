@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 28  31  77 412 444 480 542]
+opt_x:  [1.00000000e+00 4.78500446e-23 8.45942572e-22 1.00000000e+00
+ 1.00000000e+00 1.00000000e+00 1.00000000e+00]
+opt_p:  [0.41411939 0.15400064 0.09084617 0.09811809 0.04136349 0.13395487
+ 0.06759735]
+opt_y:  0.14785899860643134
+optimal anchors:  ['I26', 'I30', 'I53', 'I209', 'I234', 'Teleost_Euteleost_Lepidogalaxiiformes_Lepidogalaxiidae_Lepidogalaxias_salamandroides', 'Teleost_Otophysa_Cypriniformes_Danionidae_Danio_rerio']
+optimal p:  [0.45089464 0.13678382 0.07230882 0.09309247 0.04476686 0.13462379
+ 0.06752961]
+optimal x:  [0.9322645  0.68861475 0.50982219 0.34231256 0.92813684 1.
+ 1.        ]
+optimal y:  0.1459108890036315
+Optimization Runtime:  147.60106468200684

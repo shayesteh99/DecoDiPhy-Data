@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [102  78 156 114 180]
+opt_x:  [1.         1.         0.82466429 0.12106121 1.        ]
+opt_p:  [-2.90979325e-23  3.75824807e-01  5.76577557e-22 -4.83748385e-22
+  6.24175193e-01]
+opt_y:  0.26087193461766656
+optimal anchors:  ['I14', 'I58', 'Angiopteris_evecta', 'Sphagnum_lescurii', 'Coleochaete_scutata']
+optimal p:  [ 4.27415977e-01 -2.20505450e-23 -9.59855240e-23  2.17607504e-01
+  3.54976519e-01]
+optimal x:  [9.08150854e-24 2.42192787e-01 7.07723266e-01 1.00000000e+00
+ 1.00000000e+00]
+optimal y:  0.3059313150651301
+Optimization Runtime:  0.23758506774902344

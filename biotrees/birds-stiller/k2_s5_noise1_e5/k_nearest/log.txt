@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [266 265]
+opt_x:  [1. 1.]
+opt_p:  [0.50074752 0.49925248]
+opt_y:  0.034493404520712964
+optimal anchors:  ['Haliaeetus_leucocephalus', 'Haliaeetus_albicilla']
+optimal p:  [0.49925248 0.50074752]
+optimal x:  [1. 1.]
+optimal y:  0.034493404520712964
+Optimization Runtime:  0.8174917697906494

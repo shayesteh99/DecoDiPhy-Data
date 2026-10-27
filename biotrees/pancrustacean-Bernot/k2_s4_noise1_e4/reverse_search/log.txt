@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [51 78]
+opt_x:  [0.45891801 1.        ]
+opt_p:  [0.57745779 0.42254221]
+opt_y:  0.5473550113546868
+optimal anchors:  ['I27', 'Argulus_siamensis']
+optimal p:  [0.57745779 0.42254221]
+optimal x:  [0.45891801 1.        ]
+optimal y:  0.5473550113546868
+Optimization Runtime:  0.2893531322479248

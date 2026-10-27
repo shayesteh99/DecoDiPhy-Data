@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 34  50  69 115 120 121 122 123 179 234]
+opt_x:  [1.         1.         0.76124041 1.         1.         0.78874149
+ 0.53865697 0.57082787 0.89505398 0.99999995]
+opt_p:  [0.05666677 0.04804438 0.07112387 0.15231067 0.06171609 0.03127347
+ 0.01565517 0.01533455 0.13617929 0.41169574]
+opt_y:  0.031153507850753465
+optimal anchors:  ['Ostraciidae_Lactophrys_triqueter_UPRFL0225', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Diodontidae_Diodon_holocanthus', 'I32', 'Tetraodontidae_Canthigaster_axiologus_USNMAG9RT89', 'I67', 'I70', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Tetraodontidae_Takifugu_flavidus', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Tetraodontidae_Takifugu_rubripes', 'I97', 'I127']
+optimal p:  [0.04319462 0.03221504 0.18681139 0.07211678 0.03294532 0.04001705
+ 0.02469525 0.02393714 0.13269817 0.41136924]
+optimal x:  [0.99999859 1.         0.23643003 0.77664986 0.54645911 1.
+ 0.52498376 0.5732814  0.81568414 1.        ]
+optimal y:  0.032825588810857814
+Optimization Runtime:  0.4907984733581543

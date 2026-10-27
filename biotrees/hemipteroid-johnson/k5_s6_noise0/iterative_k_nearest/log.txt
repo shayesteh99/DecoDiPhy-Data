@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [255 278 241 265  49]
+opt_x:  [5.41492507e-01 4.33741520e-22 9.15313836e-01 1.00000000e+00
+ 1.00000000e+00]
+opt_p:  [1.32240253e-22 2.65572415e-01 3.61258349e-01 1.07090511e-23
+ 3.73169236e-01]
+opt_y:  1.971987025165834e-22
+optimal anchors:  ['I23', 'Craspedorrhynchus_sp', 'Badonnelia_titei', 'Elipsocus_kuriliensis', 'Aaroniella_sp']
+optimal p:  [ 2.10695948e-01  3.36382900e-01  5.86011985e-02 -1.84649201e-22
+  3.94319954e-01]
+optimal x:  [0.35264701 0.63269411 1.         0.3993306  0.72390419]
+optimal y:  0.09254822835008737
+Optimization Runtime:  0.293241024017334

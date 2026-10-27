@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [86 59 95]
+opt_x:  [1.00000000e+00 9.26204437e-22 5.03153633e-01]
+opt_p:  [0.31082252 0.28689307 0.40228441]
+opt_y:  0.018411392234091765
+optimal anchors:  ['Orukwaensis__LakeRukwa__24-2012', 'I49', 'Omossambicus__Mozambique__C13']
+optimal p:  [0.32281865 0.36017921 0.31700214]
+optimal x:  [0.86107835 0.12779316 0.82161296]
+optimal y:  0.014120563493682695
+Optimization Runtime:  0.13301944732666016

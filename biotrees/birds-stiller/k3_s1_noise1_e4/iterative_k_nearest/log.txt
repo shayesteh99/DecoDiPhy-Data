@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [193 153 584]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.09435454 0.28213109 0.62351437]
+opt_y:  0.04224687362517101
+optimal anchors:  ['Alca_torda', 'Aptenodytes_forsteri', 'Buphagus_erythrorhynchus']
+optimal p:  [0.28213109 0.09435454 0.62351437]
+optimal x:  [1. 1. 1.]
+optimal y:  0.04224687362517101
+Optimization Runtime:  0.8959898948669434

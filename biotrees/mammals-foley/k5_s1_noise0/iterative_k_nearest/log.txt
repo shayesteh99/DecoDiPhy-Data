@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [421 354 417 320 389]
+opt_x:  [1.         0.50708859 1.         1.         1.        ]
+opt_p:  [ 4.79886854e-01 -1.86991260e-21  2.38338500e-01  3.91773855e-02
+  2.42597260e-01]
+opt_y:  0.014415404309505624
+optimal anchors:  ['Eubalaena_japonica', 'Okapia_johnstoni', 'Rangifer_tarandus', 'Puma_concolor', 'I217']
+optimal p:  [0.07277506 0.05226137 0.27036334 0.07336012 0.53124012]
+optimal x:  [1.         1.         0.60991371 1.         0.96636773]
+optimal y:  0.04665909683710313
+Optimization Runtime:  0.4736475944519043

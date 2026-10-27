@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [432 578 581]
+opt_x:  [1.         1.         0.49630175]
+opt_p:  [6.51968565e-01 3.48031435e-01 8.00449977e-22]
+opt_y:  0.04052816599671515
+optimal anchors:  ['Struthidea_cinerea', 'I293', 'I296']
+optimal p:  [6.51968565e-01 3.48031435e-01 8.00449977e-22]
+optimal x:  [1.         1.         0.49630175]
+optimal y:  0.04052816599671515
+Optimization Runtime:  3.0247483253479004

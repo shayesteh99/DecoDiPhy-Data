@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [457 103 295  47 460 186 453]
+opt_x:  [0.70550155 0.51207065 1.         1.         0.47195645 1.
+ 0.5125687 ]
+opt_p:  [-2.78396488e-23 -1.81944025e-22  4.47564126e-01  6.88810905e-02
+ -6.88607724e-23  4.83554784e-01  1.19535788e-22]
+opt_y:  0.06169022018337702
+optimal anchors:  ['Gorilla_gorilla', 'Daubentonia_madagascariensis', 'Xerus_inauris', 'Hipposideros_armiger', 'Equus_caballus', 'Tapirus_indicus', 'Dicerorhinus_sumatrensis']
+optimal p:  [ 6.88810905e-02 -1.81944025e-22  4.83554784e-01  4.47564126e-01
+  1.19535788e-22 -2.78396488e-23 -6.88607724e-23]
+optimal x:  [1.         0.51207065 1.         1.         0.5125687  0.70550155
+ 0.47195645]
+optimal y:  0.06169022018337702
+Optimization Runtime:  0.4934053421020508

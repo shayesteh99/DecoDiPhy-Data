@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [228 229]
+opt_x:  [1. 1.]
+opt_p:  [0.49895342 0.50104658]
+opt_y:  0.06825969854088
+optimal anchors:  ['Fregata_magnificens', 'I116']
+optimal p:  [0.49895342 0.50104658]
+optimal x:  [1. 1.]
+optimal y:  0.06825969854088
+Optimization Runtime:  2.854990005493164

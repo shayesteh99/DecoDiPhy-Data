@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [113 149 100 121 148]
+opt_x:  [1.         0.35338582 1.         0.8052588  1.        ]
+opt_p:  [ 1.68860271e-01 -2.39042583e-22  5.10698859e-01  2.12187057e-01
+  1.08253812e-01]
+opt_y:  0.18227916148063786
+optimal anchors:  ['Ginkgo_biloba', 'Angiopteris_evecta', 'Huperzia_squarrosa', 'I81', 'Ceratodon_purpureus']
+optimal p:  [ 2.93690275e-01  2.59409164e-01  1.80743376e-01  2.66157186e-01
+ -7.18462593e-22]
+optimal x:  [1.         1.         1.         0.92348916 0.36718257]
+optimal y:  0.13480555076833753
+Optimization Runtime:  0.2472858428955078

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [56 87 91]
+opt_x:  [1.00000000e+00 9.87704613e-01 5.68661573e-23]
+opt_p:  [0.24627872 0.5897537  0.16396757]
+opt_y:  0.46973324288749435
+optimal anchors:  ['Eucyclops_serrulatus', 'I47', 'Amphibalanus_amphitrite']
+optimal p:  [0.24627872 0.59760238 0.1561189 ]
+optimal x:  [1.         0.97408492 0.83674894]
+optimal y:  0.467822491017626
+Optimization Runtime:  0.40271949768066406

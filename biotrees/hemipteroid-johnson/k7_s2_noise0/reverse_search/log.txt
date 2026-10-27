@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  9  38  88  90 182 335 364]
+opt_x:  [0.46461103 1.         1.         1.         0.43774134 0.44521074
+ 1.        ]
+opt_p:  [0.25338971 0.1679276  0.09344939 0.08504855 0.18259659 0.08576404
+ 0.13182412]
+opt_y:  0.03875132783378219
+optimal anchors:  ['Scutelleridae_sp', 'I21', 'I51', 'Aphelocheirus_aestivalis', 'Frankliniella_cephalica', 'Chrysomphalus_aonidum', 'I189']
+optimal p:  [ 2.38854885e-01  1.82084770e-01  1.75077579e-01 -4.37663028e-21
+  1.81210898e-01  8.51889950e-02  1.37582873e-01]
+optimal x:  [0.37050788 0.36366972 0.53851145 0.37177013 0.40641888 0.41188054
+ 0.16240865]
+optimal y:  0.04370788283607224
+Optimization Runtime:  5.686758518218994

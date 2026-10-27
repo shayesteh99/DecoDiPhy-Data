@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [  5 210 215 218 238]
+opt_x:  [0.9999984  1.         0.65010902 0.65902947 0.96717963]
+opt_p:  [0.28448807 0.54462087 0.05259196 0.05441206 0.06388703]
+opt_y:  0.04290199917428568
+optimal anchors:  ['I7', 'I107', 'Monacanthidae_Pervagor_marginalis_USNMAG7PU39', 'I114', 'Monacanthidae_Rudarius_minutus_EPLATE_53_F05']
+optimal p:  [0.27614312 0.54013323 0.05170908 0.06593889 0.06607568]
+optimal x:  [0.99999844 0.42922528 0.63290957 0.73259199 0.96824086]
+optimal y:  0.04327066183185858
+Optimization Runtime:  0.3732132911682129

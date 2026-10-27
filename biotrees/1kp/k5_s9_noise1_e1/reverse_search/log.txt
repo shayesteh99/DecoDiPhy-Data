@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 78  81  84 141 152]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.32539062 0.15201521 0.14868962 0.23092764 0.14297692]
+opt_y:  0.13300118298378955
+optimal anchors:  ['I11', 'I59', 'Zamia_vazquezii', 'I76', 'Bazzania_trilobata']
+optimal p:  [0.42883441 0.09641744 0.094338   0.36004047 0.02036968]
+optimal x:  [0.31008304 1.         1.         0.51884097 1.        ]
+optimal y:  0.16159751251960008
+Optimization Runtime:  0.8125190734863281

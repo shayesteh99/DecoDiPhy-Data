@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [142 156]
+opt_x:  [1.         0.37640919]
+opt_p:  [0.61142607 0.38857393]
+opt_y:  0.01766767659738096
+optimal anchors:  ['I70', 'Uria_lomvia']
+optimal p:  [0.39106995 0.60893005]
+optimal x:  [0.68111589 1.        ]
+optimal y:  0.01667282119705614
+Optimization Runtime:  3.290497064590454

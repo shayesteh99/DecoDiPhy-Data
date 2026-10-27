@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [461 552 452 575 384]
+opt_x:  [0.61948988 1.         1.         1.         1.        ]
+opt_p:  [ 5.81162665e-22  6.47835991e-01 -1.40565749e-22  2.72795420e-01
+  7.93685886e-02]
+opt_y:  0.24231566141786012
+optimal anchors:  ['I19', 'I203', 'Teleost_Euteleost_Aulopiformes_Chlorophthalmidae_Chlorophthalmus_agassizi', 'I253', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides']
+optimal p:  [2.73459349e-01 1.54259366e-01 5.07937333e-23 2.80839330e-01
+ 2.91441956e-01]
+optimal x:  [2.79343604e-22 3.16180562e-22 8.21819066e-01 1.86032785e-01
+ 1.00000000e+00]
+optimal y:  0.252352322788395
+Optimization Runtime:  0.7025623321533203

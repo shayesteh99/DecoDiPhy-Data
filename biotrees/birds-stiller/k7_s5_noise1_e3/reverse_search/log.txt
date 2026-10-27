@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 33 259 260 261 262 264 656]
+opt_x:  [1.         0.99999893 0.99999792 0.74287616 0.68348753 0.50992868
+ 1.        ]
+opt_p:  [2.65189894e-01 1.98992151e-01 1.98992252e-01 4.02019110e-07
+ 4.16189826e-07 3.62916594e-07 3.36824519e-01]
+opt_y:  0.041313382555444256
+optimal anchors:  ['Anser_cygnoid', 'Circaetus_pectoralis', 'I133', 'Aquila_chrysaetos', 'I135', 'Haliaeetus_albicilla', 'Cardinalis_cardinalis']
+optimal p:  [2.65189894e-01 1.98992151e-01 1.98992252e-01 4.02019110e-07
+ 4.16189826e-07 3.62916594e-07 3.36824519e-01]
+optimal x:  [1.         0.99999893 0.99999792 0.74287616 0.68348753 0.50992868
+ 1.        ]
+optimal y:  0.041313382555444256
+Optimization Runtime:  2.8212404251098633

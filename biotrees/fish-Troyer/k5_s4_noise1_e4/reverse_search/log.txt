@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 43 116 156 194 234]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.1775194  0.28116853 0.19635687 0.16046741 0.18448778]
+opt_y:  0.0272933017136803
+optimal anchors:  ['I24', 'I62', 'I81', 'Balistidae_Rhinecanthus_aculeatus_USNMAG9RU13', 'I108']
+optimal p:  [ 4.48139698e-01  2.11791501e-01 -6.51873239e-23  1.49740649e-01
+  1.90328152e-01]
+optimal x:  [0.93547725 1.         0.49486102 1.         0.43439726]
+optimal y:  0.04729962655386869
+Optimization Runtime:  0.414182186126709

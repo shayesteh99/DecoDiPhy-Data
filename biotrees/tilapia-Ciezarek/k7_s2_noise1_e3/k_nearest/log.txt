@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [40 39 78 60 43 47 46]
+opt_x:  [1.         1.         0.74210593 1.         1.         0.44144579
+ 0.43698416]
+opt_p:  [ 2.50514548e-01  2.50514549e-01  2.32613471e-01  2.66357275e-01
+ -1.29895539e-08  8.83097516e-08  8.85828042e-08]
+opt_y:  0.036631031209090836
+optimal anchors:  ['Otanganicae__Katanga__42', 'Otanganicae__Katanga__41', 'I28', 'Omtera__MteraReservoir__14_1G1', 'Omtera__MteraDam__T9I4', 'I37', 'Ohunteri__LakeChala__G1-K2G2']
+optimal p:  [2.53953041e-01 2.53953035e-01 4.87001161e-06 6.80178446e-06
+ 6.79258442e-06 2.58878448e-01 2.33197023e-01]
+optimal x:  [1.         1.         0.24409782 0.47323538 0.47523165 0.90787396
+ 0.73169145]
+optimal y:  0.03627080780502215
+Optimization Runtime:  0.11437368392944336

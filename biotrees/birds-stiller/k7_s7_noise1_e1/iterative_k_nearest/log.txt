@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [249 370 193 154 507 612  48]
+opt_x:  [0.45517259 0.478996   0.45741862 1.         0.31461889 1.
+ 0.05329901]
+opt_p:  [1.14992396e-21 6.77641631e-22 1.22457668e-21 2.68361325e-01
+ 1.34318658e-22 5.17709672e-01 2.13929003e-01]
+opt_y:  0.03277209636532959
+optimal anchors:  ['Syrrhaptes_paradoxus', 'I79', 'Thalassarche_chlororhynchos', 'Cathartes_aura', 'Lepidothrix_coronata', 'Acrocephalus_arundinaceus', 'Ploceus_nigricollis']
+optimal p:  [0.19521707 0.19848501 0.06657156 0.13972712 0.03028312 0.09863221
+ 0.27108412]
+optimal x:  [0.99994984 0.95293468 0.99991271 0.99995151 1.         1.
+ 0.99999916]
+optimal y:  0.04562363917475727
+Optimization Runtime:  0.8964979648590088

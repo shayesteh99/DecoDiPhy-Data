@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 62  63 118 134 255 443 576]
+opt_x:  [0.96019584 0.74449809 0.03309819 0.93458751 1.         1.
+ 1.        ]
+opt_p:  [0.12393212 0.07138633 0.17399195 0.09974377 0.10475751 0.26168689
+ 0.16450142]
+opt_y:  0.03855756802960274
+optimal anchors:  ['I33', 'Corythaixoides_concolor', 'I63', 'Glareola_pratincola', 'I133', 'Eulacestoma_nigropectus', 'Buphagus_erythrorhynchus']
+optimal p:  [0.12276847 0.0724455  0.17440744 0.09948724 0.10470034 0.26169014
+ 0.1645008 ]
+optimal x:  [0.9683913  0.74821363 0.08289651 0.93386669 0.98659566 1.
+ 1.        ]
+optimal y:  0.03858523764027386
+Optimization Runtime:  2.8718514442443848

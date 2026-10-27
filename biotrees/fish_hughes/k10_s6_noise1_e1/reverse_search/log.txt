@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  4 103 157 391 467 487 492 568 574 582]
+opt_x:  [0.54305175 1.         1.         1.         1.         1.
+ 0.27898844 0.75806669 1.         0.5032509 ]
+opt_p:  [0.12156208 0.09669243 0.12114358 0.1313639  0.07099919 0.0723311
+ 0.10257105 0.08756465 0.11290437 0.08286763]
+opt_y:  0.14871495404127585
+optimal anchors:  ['I5', 'Teleost_Euteleost_Ovalentaria_Blenniiformes_Blenniidae_Parablennius_parvicornis', 'Teleost_Euteleost_Anabantaria_Anabantiformes_Helostomatidae_Helostoma_temminckii', 'I214', 'I244', 'I258', 'I260', 'I295', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Osteoglossum_bicirrhosum', 'I302']
+optimal p:  [0.11903401 0.0970014  0.11705369 0.13035803 0.08312041 0.06817866
+ 0.10520863 0.12400788 0.0703839  0.08565337]
+optimal x:  [0.52785958 1.         1.         0.24041657 0.47663062 1.
+ 0.14192354 0.71708617 0.69901064 0.5194069 ]
+optimal y:  0.1521002063914087
+Optimization Runtime:  4.831701993942261

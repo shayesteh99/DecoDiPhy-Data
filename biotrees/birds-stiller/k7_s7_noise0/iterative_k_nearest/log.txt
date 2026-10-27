@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [249 190 507  49 154 641 152]
+opt_x:  [4.54728242e-01 4.79051014e-01 1.00000000e+00 1.07656389e-07
+ 4.12968833e-01 1.00000000e+00 8.51186239e-07]
+opt_p:  [ 2.10937336e-07  2.39872116e-07  2.33210482e-01  2.91851455e-01
+ -7.47015185e-08  3.87273004e-01  8.76646827e-02]
+opt_y:  0.02125849681840488
+optimal anchors:  ['Pterocles_burchelli', 'Uria_lomvia', 'Cepphus_grylle', 'Pygoscelis_adeliae', 'Cathartes_aura', 'Acrocephalus_arundinaceus', 'I328']
+optimal p:  [0.27170615 0.04384749 0.14916401 0.01735055 0.13454949 0.18673881
+ 0.19664352]
+optimal x:  [1.         0.99999991 1.         1.         1.         1.
+ 0.97119084]
+optimal y:  0.03744866541021669
+Optimization Runtime:  0.8834495544433594

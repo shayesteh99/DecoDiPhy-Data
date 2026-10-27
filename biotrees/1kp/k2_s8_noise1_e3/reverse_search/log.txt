@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 9 65]
+opt_x:  [0.17986814 1.        ]
+opt_p:  [0.66675765 0.33324235]
+opt_y:  0.18530845160339646
+optimal anchors:  ['I10', 'Vitis_vinifera']
+optimal p:  [0.66675765 0.33324235]
+optimal x:  [0.17986814 1.        ]
+optimal y:  0.18530845160339646
+Optimization Runtime:  0.3434932231903076

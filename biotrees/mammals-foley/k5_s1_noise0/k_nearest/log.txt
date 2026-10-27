@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [388 423 424 421 389]
+opt_x:  [1.         0.50004899 0.50142513 1.         1.        ]
+opt_p:  [ 2.01964320e-01 -7.28521106e-22  1.48491999e-22  5.94471713e-01
+  2.03563967e-01]
+opt_y:  0.009092501789179393
+optimal anchors:  ['Rangifer_tarandus', 'Elaphurus_davidianus', 'Lycaon_pictus', 'Canis_lupus', 'Canis_lupus_familiaris']
+optimal p:  [ 2.01964320e-01  2.03563967e-01  5.94471713e-01 -7.28521106e-22
+  1.48491999e-22]
+optimal x:  [1.         1.         1.         0.50004899 0.50142513]
+optimal y:  0.009092501789179393
+Optimization Runtime:  0.32598352432250977

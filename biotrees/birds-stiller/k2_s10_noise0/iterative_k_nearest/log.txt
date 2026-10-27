@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [584 581]
+opt_x:  [0.50095802 1.        ]
+opt_p:  [1.48508535e-21 1.00000000e+00]
+opt_y:  0.029655002716020437
+optimal anchors:  ['I293', 'Sturnus_vulgaris']
+optimal p:  [0.83487543 0.16512457]
+optimal x:  [0.22502347 1.        ]
+optimal y:  0.028647102754006337
+Optimization Runtime:  0.7936375141143799

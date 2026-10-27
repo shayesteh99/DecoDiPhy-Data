@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [200 199 247 246 190 244 189 240 243 377]
+opt_x:  [1.         1.         0.49550249 0.4952025  1.         0.43123183
+ 1.         1.         0.42694126 1.        ]
+opt_p:  [2.03929843e-01 2.04048711e-01 3.34338114e-22 3.57513344e-22
+ 3.49713310e-02 3.13726838e-22 3.50512602e-02 1.46403907e-01
+ 3.34308692e-22 3.75594947e-01]
+opt_y:  0.050335402119635234
+optimal anchors:  ['Oceanites_oceanicus', 'Fregetta_grallaria', 'Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Circaetus_pectoralis', 'Spizaetus_tyrannus', 'Aquila_chrysaetos', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla', 'Lepidothrix_coronata']
+optimal p:  [3.50512602e-02 3.49713310e-02 2.04048711e-01 2.03929843e-01
+ 1.46403907e-01 3.34308692e-22 3.13726838e-22 3.57513344e-22
+ 3.34338114e-22 3.75594947e-01]
+optimal x:  [1.         1.         1.         1.         1.         0.42694126
+ 0.43123183 0.4952025  0.49550249 1.        ]
+optimal y:  0.050335402119635234
+Optimization Runtime:  1.0240254402160645

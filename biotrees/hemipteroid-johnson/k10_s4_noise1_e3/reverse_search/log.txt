@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [ 52  53  54  56  58 116 118 147 245 246]
+opt_x:  [1.         0.05937    0.31448155 0.36026905 0.4117587  1.
+ 1.         1.         1.         1.        ]
+opt_p:  [ 4.42102926e-01 -4.91744180e-06 -3.96307760e-06 -4.90459308e-06
+ -7.06965791e-06  1.70247930e-01 -2.20650202e-07  1.25447884e-01
+  1.20098340e-01  1.42124006e-01]
+opt_y:  0.14236886700566287
+optimal anchors:  ['I34', 'Pagasa_sp', 'I36', 'Orius_insidiosus', 'Corythucha_ciliata', 'Hespenedra_chilensis', 'Graphocephala_fennahi', 'Bruchomorpha_oculata', 'Cryptocercus_wrighti', 'Zootermopsis_nevadensis']
+optimal p:  [ 4.42104802e-01 -5.37404462e-06 -4.26298821e-06 -5.22889199e-06
+ -7.82405853e-06  1.70253249e-01 -5.35671529e-06  1.25447747e-01
+  1.20104513e-01  1.42117737e-01]
+optimal x:  [1.         0.04143722 0.31286462 0.37367132 0.36633394 1.
+ 0.22871421 1.         1.         1.        ]
+optimal y:  0.14236969371436303
+Optimization Runtime:  0.898237943649292

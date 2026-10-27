@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [ 47  81  82  92  94  96  97 146 149 205]
+opt_x:  [1.        1.        1.        1.        1.        0.4773178 1.
+ 1.        1.        1.       ]
+opt_p:  [ 1.70179945e-01  1.26480556e-01  1.27077199e-01  7.83853332e-02
+ -3.13891858e-24  4.33466093e-23  7.84308448e-02  1.13026513e-01
+  1.13316294e-01  1.93103314e-01]
+opt_y:  0.061815769702156714
+optimal anchors:  ['Indocryphalus_intermedius_I13649', 'Xyloctonus_maculatus_I10240', 'Scolytomimus_phillippinensis_I13639', 'I56', 'Cryptocarenus_pubescens_I13696', 'Araptus_sp2356_Vismia_I13685', 'Araptus_nr_laudatus_I13651', 'I84', 'Procryphalus_mucronatus_I10231', 'Hylesinus_sp_I02536']
+optimal p:  [ 1.70179945e-01  1.26488658e-01  1.27069097e-01  7.83944066e-02
+  4.25823541e-24 -5.85267951e-24  7.84217714e-02  1.13030243e-01
+  1.13312564e-01  1.93103314e-01]
+optimal x:  [1.         1.         1.         1.         0.38517461 0.75430689
+ 1.         1.         1.         1.        ]
+optimal y:  0.06181576970215671
+Optimization Runtime:  0.40537452697753906

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 80  81 491 494 574]
+opt_x:  [1.         1.         1.         1.         0.69386089]
+opt_p:  [0.12112528 0.11832474 0.24118854 0.24006602 0.27929543]
+opt_y:  0.04042265764846753
+optimal anchors:  ['Ceuthmochares_aereus', 'Cuculus_canorus', 'I252', 'Anthoscopus_minutus', 'I293']
+optimal p:  [0.12112528 0.11832474 0.24118854 0.24006602 0.27929543]
+optimal x:  [1.         1.         1.         1.         0.69386089]
+optimal y:  0.04042265764846753
+Optimization Runtime:  4.463741064071655

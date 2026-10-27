@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [120 121]
+opt_x:  [1. 1.]
+opt_p:  [0.57560439 0.42439561]
+opt_y:  0.27186790734813004
+optimal anchors:  ['I10', 'Equisetum_diffusum']
+optimal p:  [ 1.00000428e+00 -4.26688119e-06]
+optimal x:  [0.88636023 0.84729112]
+optimal y:  0.2934055217836642
+Optimization Runtime:  0.1992936134338379

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 51 114 155]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.08383422 0.57509141 0.34107437]
+opt_y:  -6.135757647117936e-18
+optimal anchors:  ['Diodontidae_Tragulichthys_jaculiferus_EPLATE_52_G11', 'Tetraodontidae_Sphoeroides_maculatus_USNMAE2QZ45', 'Triacanthodidae_Macrorhamphosodes_platycheilus_EPLATE_53_H03']
+optimal p:  [0.37813346 0.39635763 0.22550891]
+optimal x:  [0.79718043 1.         1.        ]
+optimal y:  0.012357933057940886
+Optimization Runtime:  0.2765679359436035

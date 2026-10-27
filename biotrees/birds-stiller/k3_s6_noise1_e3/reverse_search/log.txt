@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [495 498 578]
+opt_x:  [1.         1.         0.51206592]
+opt_p:  [5.01521858e-01 4.98478142e-01 1.29513342e-21]
+opt_y:  0.05177175644780284
+optimal anchors:  ['I252', 'Anthoscopus_minutus', 'I293']
+optimal p:  [5.01521858e-01 4.98478142e-01 1.29513342e-21]
+optimal x:  [1.         1.         0.51206592]
+optimal y:  0.05177175644780284
+Optimization Runtime:  2.9336764812469482

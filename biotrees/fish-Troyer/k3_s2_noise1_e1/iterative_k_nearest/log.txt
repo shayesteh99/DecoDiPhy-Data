@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [51 30 44]
+opt_x:  [0.58949196 1.         0.99996828]
+opt_p:  [8.41616659e-06 7.04030287e-01 2.95961279e-01]
+opt_y:  0.017718337625478413
+optimal anchors:  ['I17', 'I26', 'Diodontidae_Diodon_nicthemerus_EPLATE_52_A12']
+optimal p:  [ 4.30722932e-01  5.69277068e-01 -5.79250988e-19]
+optimal x:  [0.32678356 0.66535536 0.43583517]
+optimal y:  0.01625413531206742
+Optimization Runtime:  0.2659034729003906

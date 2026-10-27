@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [473 472 468]
+opt_x:  [0.50084708 0.49961451 1.        ]
+opt_p:  [-2.04390968e-21 -1.98080997e-21  1.00000000e+00]
+opt_y:  0.11616342736067907
+optimal anchors:  ['Dicerorhinus_sumatrensis', 'Ceratotherium_simum', 'Ceratotherium_simum_cottoni']
+optimal p:  [ 1.00000000e+00 -1.98080997e-21 -2.04390968e-21]
+optimal x:  [1.         0.49961451 0.50084708]
+optimal y:  0.11616342736067907
+Optimization Runtime:  0.327040433883667

@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [575 439 492 597 251]
+opt_x:  [1.         0.49980013 0.49498214 0.94895559 1.        ]
+opt_p:  [ 2.22994262e-01 -4.52061446e-21 -3.39370625e-21  2.76757805e-01
+  5.00247933e-01]
+opt_y:  0.05702433046134624
+optimal anchors:  ['Cathartes_aura', 'Corvus_cornix', 'Pseudopodoces_humilis', 'I293', 'Promerops_cafer']
+optimal p:  [0.25932728 0.04003631 0.09251705 0.30605169 0.30206768]
+optimal x:  [1.         1.         1.         0.58992338 1.        ]
+optimal y:  0.05418241767581308
+Optimization Runtime:  0.9091613292694092

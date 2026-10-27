@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [384 583]
+opt_x:  [1. 1.]
+opt_p:  [0.40945887 0.59054113]
+opt_y:  -1.5154310666597042e-16
+optimal anchors:  ['I19', 'Teleost_Osteoglossiformes_Osteoglossiformes_Mormyridae_Mormyrus_tapirus']
+optimal p:  [0.50540977 0.49459023]
+optimal x:  [2.29452649e-22 1.00000000e+00]
+optimal y:  0.12517687726958815
+Optimization Runtime:  0.5710058212280273

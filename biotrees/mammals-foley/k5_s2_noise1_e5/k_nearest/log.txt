@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [54 55 53 40 42]
+opt_x:  [0.50133403 0.5056941  0.50301516 0.50417927 1.        ]
+opt_p:  [-1.61660747e-21 -1.44289112e-21 -1.21315079e-21 -1.23727964e-21
+  1.00000000e+00]
+opt_y:  0.05926297977922855
+optimal anchors:  ['Pan_troglodytes', 'Homo_sapiens', 'Macaca_mulatta', 'Macaca_fascicularis', 'Macaca_nemestrina']
+optimal p:  [-1.23727964e-21  1.00000000e+00 -1.21315079e-21 -1.61660747e-21
+ -1.44289112e-21]
+optimal x:  [0.50417927 1.         0.50301516 0.50133403 0.5056941 ]
+optimal y:  0.05926297977922855
+Optimization Runtime:  0.32283997535705566

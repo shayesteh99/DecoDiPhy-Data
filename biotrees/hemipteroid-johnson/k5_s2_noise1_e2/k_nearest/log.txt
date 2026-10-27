@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 9 12 17 16 30]
+opt_x:  [1.         0.4935841  0.54017267 0.54170083 0.99999038]
+opt_p:  [ 6.30056005e-01 -1.11997920e-05 -1.05738335e-05 -1.05633597e-05
+  3.69976468e-01]
+opt_y:  0.05661603262310428
+optimal anchors:  ['Scutelleridae_sp', 'Sehirus_cincutus', 'Chalcocoris_rutilans', 'Piezosternum_callidum', 'Anasa_tristis']
+optimal p:  [ 6.30056005e-01 -1.11997920e-05 -1.05633597e-05 -1.05738335e-05
+  3.69976468e-01]
+optimal x:  [1.         0.4935841  0.54170083 0.54017267 0.99999038]
+optimal y:  0.05661603262310428
+Optimization Runtime:  0.2455747127532959

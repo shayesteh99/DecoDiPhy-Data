@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [139 209 111 109  51 169  94]
+opt_x:  [1.         1.         0.47008447 0.02275408 1.         1.
+ 1.        ]
+opt_p:  [ 1.34292837e-01  3.82289766e-01 -1.05062891e-21 -6.27963928e-23
+  2.32920300e-01  7.64154874e-02  1.74081609e-01]
+opt_y:  0.15514323081355705
+optimal anchors:  ['Corimelaena_lateralis', 'Gelastocoris_oculatus', 'Aphrophora_alni', 'Okanagana_villosa', 'Mapuchea_sp', 'Peloridium_hammoniorum', 'Cryptocercus_wrighti']
+optimal p:  [ 2.32920300e-01  1.74081609e-01 -6.27963928e-23 -1.05062891e-21
+  1.34292837e-01  7.64154874e-02  3.82289766e-01]
+optimal x:  [1.         1.         0.02275408 0.47008447 1.         1.
+ 1.        ]
+optimal y:  0.15514323081355705
+Optimization Runtime:  0.37883782386779785

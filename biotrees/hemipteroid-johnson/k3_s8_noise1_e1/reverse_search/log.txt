@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [121 184 194]
+opt_x:  [0.83622732 1.         0.8274424 ]
+opt_p:  [0.31624299 0.32582056 0.35793645]
+opt_y:  0.13427480962309626
+optimal anchors:  ['Dalbulus_maidis', 'Cycadothrips_chadwicki', 'Baetis_sp']
+optimal p:  [0.31624299 0.32582056 0.35793645]
+optimal x:  [0.83622732 1.         0.8274424 ]
+optimal y:  0.13427480962309626
+Optimization Runtime:  1.9319887161254883

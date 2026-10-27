@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [129 577 586]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.71232914 0.03473474 0.25293613]
+opt_y:  0.15638390551089482
+optimal anchors:  ['Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides', 'Teleost_Osteoglossiformes_Osteoglossiformes_Pantodontidae_Pantodon_buchholzi']
+optimal p:  [0.71232914 0.03473474 0.25293613]
+optimal x:  [1. 1. 1.]
+optimal y:  0.15638390551089482
+Optimization Runtime:  1.8394815921783447

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 45  96 169 236 237]
+opt_x:  [0.45074413 0.80425704 0.17829294 0.83667194 1.        ]
+opt_p:  [0.15805728 0.24420112 0.32641723 0.14165342 0.12967094]
+opt_y:  0.03548661300811218
+optimal anchors:  ['Trypophloeus_salicis_I10239', 'I56', 'Xylosandrus_crassiusculus_genome_I16394', 'I123', 'Carphoborus_bifurcus_I13691']
+optimal p:  [0.1578352  0.24405189 0.32631536 0.17268334 0.09911421]
+optimal x:  [0.44617997 0.80346489 0.1772108  0.16591228 0.74191918]
+optimal y:  0.035495286314687874
+Optimization Runtime:  0.3545963764190674

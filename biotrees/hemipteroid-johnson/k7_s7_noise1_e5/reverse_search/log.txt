@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 30  32  42  58 270 327 328]
+opt_x:  [1.         0.46399187 1.         1.         1.         1.
+ 1.        ]
+opt_p:  [ 1.66152315e-01 -3.08455072e-22  9.17785150e-02  3.30301222e-01
+  2.07394712e-01  1.02542427e-01  1.01830809e-01]
+opt_y:  0.053606000118382624
+optimal anchors:  ['I20', 'Lygaeus_equestris', 'Chalcocoris_rutilans', 'Phymata_pennsylvanica', 'Graphopsocus_cruciatus', 'Ceroplastes_cirripediformis', 'Coccus_sp']
+optimal p:  [ 1.66152315e-01 -3.08455072e-22  9.17785150e-02  3.30301222e-01
+  2.07394712e-01  1.02542427e-01  1.01830809e-01]
+optimal x:  [1.         0.46399187 1.         1.         1.         1.
+ 1.        ]
+optimal y:  0.053606000118382624
+Optimization Runtime:  0.6227169036865234

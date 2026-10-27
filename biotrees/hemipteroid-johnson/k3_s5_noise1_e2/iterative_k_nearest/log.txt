@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [135 130 117]
+opt_x:  [0.47801897 0.03350975 1.        ]
+opt_p:  [1.84572729e-21 1.28241025e-22 1.00000000e+00]
+opt_y:  0.1085337487976275
+optimal anchors:  ['Okanagana_villosa', 'Vidanoana_flavomaculata', 'Centrotus_cornutus']
+optimal p:  [1.00000000e+00 1.28241025e-22 1.84572729e-21]
+optimal x:  [1.         0.03350975 0.47801897]
+optimal y:  0.1085337487976275
+Optimization Runtime:  0.22397804260253906

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 23 131 178 180 242 262 325 326 343 344]
+opt_x:  [0.8695861  0.70415799 1.         1.         1.         0.42374843
+ 1.         1.         0.8208653  1.        ]
+opt_p:  [0.16097877 0.18125366 0.0227456  0.1949509  0.06491734 0.15346825
+ 0.06045375 0.06036568 0.05267798 0.04818808]
+opt_y:  0.06214580486709577
+optimal anchors:  ['Metatropis_rufescens', 'Centrotus_cornutus', 'I97', 'Cycadothrips_chadwicki', 'Echinophthirius_horridus', 'Lachesilla_abiesicola', 'I174', 'Coccus_sp', 'Trioza_urticae', 'Diaphorina_citri']
+optimal p:  [0.16068766 0.18056008 0.11494194 0.10132136 0.06481554 0.15344817
+ 0.08311775 0.04176755 0.05292624 0.0464137 ]
+optimal x:  [0.86596832 0.6898779  0.75968825 1.         1.         0.42270038
+ 0.45104524 1.         0.74340392 1.        ]
+optimal y:  0.06538774058923995
+Optimization Runtime:  2.6820642948150635

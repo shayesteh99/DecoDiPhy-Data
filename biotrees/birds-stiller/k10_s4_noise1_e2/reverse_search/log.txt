@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [ 89  90 101 102 226 229 231 392 393 472]
+opt_x:  [1.         1.         1.         1.         1.         1.
+ 0.52725731 1.         1.         1.        ]
+opt_p:  [9.98437502e-02 9.73626538e-02 1.61441161e-01 1.63461437e-01
+ 8.03818476e-02 8.01199365e-02 3.51661248e-23 1.04015450e-01
+ 1.03302483e-01 1.10071280e-01]
+opt_y:  0.052595623845065165
+optimal anchors:  ['Zapornia_atra', 'Heliornis_fulica', 'Chionis_minor', 'Burhinus_bistriatus', 'I120', 'I121', 'Phalacrocorax_harrisi', 'Dasyornis_broadbenti', 'I206', 'Chaetops_frenatus']
+optimal p:  [9.98437502e-02 9.73626538e-02 1.61441161e-01 1.63461437e-01
+ 8.03818476e-02 8.01199365e-02 3.51661248e-23 1.04015450e-01
+ 1.03302483e-01 1.10071280e-01]
+optimal x:  [1.         1.         1.         1.         1.         1.
+ 0.52725731 1.         1.         1.        ]
+optimal y:  0.052595623845065165
+Optimization Runtime:  3.6735968589782715

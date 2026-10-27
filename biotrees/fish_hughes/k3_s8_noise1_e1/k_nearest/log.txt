@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [404 406 402]
+opt_x:  [0.25943732 1.         0.28244097]
+opt_p:  [-1.92244216e-16  1.00000000e+00 -1.72433557e-16]
+opt_y:  -2.0200375196003505e-14
+optimal anchors:  ['Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Arctogadus_glacialis', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Theragra_chalcogramma', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Pollachius_virens']
+optimal p:  [-1.72433557e-16 -1.92244216e-16  1.00000000e+00]
+optimal x:  [0.28244097 0.25943732 1.        ]
+optimal y:  -2.0200375196003505e-14
+Optimization Runtime:  0.49020981788635254

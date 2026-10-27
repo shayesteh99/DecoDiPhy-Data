@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [ 46  47  49  72 149 150 151 580 648 649]
+opt_x:  [1.         1.         0.3961504  0.94636343 1.         0.52504046
+ 1.         1.         1.         1.        ]
+opt_p:  [ 2.01982347e-01  2.03796915e-01 -5.21377980e-22  3.56062952e-02
+  1.08291681e-01  7.94417012e-23  1.44260609e-24  2.99659619e-01
+  7.50340629e-02  7.56290809e-02]
+opt_y:  0.04908095725122616
+optimal anchors:  ['Mesitornis_unicolor', 'I26', 'Pterocles_burchelli', 'Crotophaga_sulcirostris', 'I81', 'Uria_lomvia', 'Uria_aalge', 'Copsychus_sechellarum', 'Cardinalis_cardinalis', 'Pheucticus_melanocephalus']
+optimal p:  [ 2.01982347e-01  2.03796915e-01 -5.21377980e-22  3.56062952e-02
+  1.08291681e-01  7.94417012e-23  1.44260609e-24  2.99659619e-01
+  7.50340629e-02  7.56290809e-02]
+optimal x:  [1.         1.         0.3961504  0.94636343 1.         0.52504046
+ 1.         1.         1.         1.        ]
+optimal y:  0.04908095725122616
+Optimization Runtime:  2.8297383785247803

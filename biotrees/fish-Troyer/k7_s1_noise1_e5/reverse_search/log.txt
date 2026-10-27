@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 33  34  35  63  70 225 226]
+opt_x:  [1.         0.76692101 0.47265564 1.         1.         1.
+ 1.        ]
+opt_p:  [ 2.71815965e-01  1.17594463e-24 -1.92170969e-23  1.74922815e-01
+  1.74791489e-01  1.89220701e-01  1.89249031e-01]
+opt_y:  0.009996160263730378
+optimal anchors:  ['I19', 'Ostraciidae_Lactophrys_triqueter_UPRFL0225', 'Ostraciidae_Lactophrys_trigonus_USNMAC2WQ88', 'I36', 'I37', 'Monacanthidae_Paramonacanthus_japonicus_EPLATE_51_B11', 'I120']
+optimal p:  [2.36555774e-01 4.23063204e-23 4.20567810e-23 3.57489802e-01
+ 2.66051743e-02 1.89594718e-01 1.89754532e-01]
+optimal x:  [1.00000000e+00 4.97766640e-01 4.77058809e-01 1.00000000e+00
+ 2.95689271e-22 1.00000000e+00 1.00000000e+00]
+optimal y:  0.020995900294439828
+Optimization Runtime:  0.5997602939605713

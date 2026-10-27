@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 92 110 266]
+opt_x:  [0.49070559 1.         0.91343244]
+opt_p:  [-8.82833065e-22  1.00000000e+00  6.37954126e-22]
+opt_y:  0.13603103805100417
+optimal anchors:  ['Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Haplochromis_burtoni', 'I64', 'Teleost_Euteleost_Eupercaria_Pempheriformes_Epigonidae_Epigonus_sp']
+optimal p:  [0.26993262 0.67325773 0.05681343]
+optimal x:  [0.99025059 0.95255432 0.99994043]
+optimal y:  0.11359344377892203
+Optimization Runtime:  0.5066170692443848

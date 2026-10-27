@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 14  27 435]
+opt_x:  [1.         0.53196671 1.        ]
+opt_p:  [0.5667049  0.06660564 0.36668946]
+opt_y:  0.1257363335559946
+optimal anchors:  ['I8', 'Microgale_talazaci', 'I221']
+optimal p:  [0.5667049  0.06660564 0.36668946]
+optimal x:  [1.         0.53196671 1.        ]
+optimal y:  0.1257363335559946
+Optimization Runtime:  0.9157505035400391

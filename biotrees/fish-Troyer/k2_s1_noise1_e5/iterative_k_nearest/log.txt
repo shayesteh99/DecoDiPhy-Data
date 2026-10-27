@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [290  92]
+opt_x:  [1. 1.]
+opt_p:  [0.24472845 0.75527155]
+opt_y:  0.010264371902429254
+optimal anchors:  ['Tetraodontidae_Arothron_reticularis_EPLATE_51_C07', 'Monocanthidae_Eubalichthys_gunnii_EPLATE_53_A03']
+optimal p:  [0.75527155 0.24472845]
+optimal x:  [1. 1.]
+optimal y:  0.010264371902429254
+Optimization Runtime:  0.1848752498626709

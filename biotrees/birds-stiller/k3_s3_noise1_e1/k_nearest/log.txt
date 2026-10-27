@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [515 559 514]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.07960265 0.84145832 0.07893903]
+opt_y:  0.03410905497269639
+optimal anchors:  ['Hippolais_icterina', 'Acrocephalus_arundinaceus', 'Leptocoma_aspasia']
+optimal p:  [0.07893903 0.07960265 0.84145832]
+optimal x:  [1. 1. 1.]
+optimal y:  0.03410905497269639
+Optimization Runtime:  0.7664616107940674

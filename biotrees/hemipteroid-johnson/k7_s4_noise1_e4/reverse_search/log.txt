@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 58  60  64 122 153 251 252]
+opt_x:  [1.         0.65007307 0.40359206 1.         1.         1.
+ 1.        ]
+opt_p:  [ 3.42873429e-01 -2.06961650e-22  3.15693618e-22  1.87680409e-01
+  1.43041183e-01  1.62995678e-01  1.63409302e-01]
+opt_y:  0.14238257288731607
+optimal anchors:  ['I34', 'I36', 'Corythucha_ciliata', 'Hespenedra_chilensis', 'Bruchomorpha_oculata', 'Cryptocercus_wrighti', 'Zootermopsis_nevadensis']
+optimal p:  [ 3.42873429e-01 -2.06961650e-22  3.15693618e-22  1.87680409e-01
+  1.43041183e-01  1.62995678e-01  1.63409302e-01]
+optimal x:  [1.         0.65007307 0.40359206 1.         1.         1.
+ 1.        ]
+optimal y:  0.14238257288731607
+Optimization Runtime:  0.5999772548675537

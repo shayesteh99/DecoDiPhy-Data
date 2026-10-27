@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [16 37 39]
+opt_x:  [1.         0.44751352 1.        ]
+opt_p:  [4.70130934e-01 2.25651531e-21 5.29869066e-01]
+opt_y:  0.5175614952034667
+optimal anchors:  ['Tricholepidion_gertschi', 'Morlockia_williamsi', 'Godzilliognomus_frondosus']
+optimal p:  [4.70130934e-01 2.25651531e-21 5.29869066e-01]
+optimal x:  [1.         0.44751352 1.        ]
+optimal y:  0.5175614952034667
+Optimization Runtime:  0.12439084053039551

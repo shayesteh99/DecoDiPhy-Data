@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [193 249  38]
+opt_x:  [1.        1.        0.4527173]
+opt_p:  [-1.98570093e-22  1.00000000e+00 -2.00387845e-22]
+opt_y:  0.09772747639732374
+optimal anchors:  ['Phoenicopterus_ruber', 'I102', 'Cathartes_aura']
+optimal p:  [5.81885920e-02 3.14390284e-21 9.41811408e-01]
+optimal x:  [1.         0.49264534 1.        ]
+optimal y:  0.08921972417913288
+Optimization Runtime:  0.8011832237243652

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 13 129 150 270 388 398 404 419 514 581]
+opt_x:  [1.         1.         1.         1.         1.         1.
+ 0.48979094 1.         1.         1.        ]
+opt_p:  [0.25842403 0.11897165 0.04537982 0.15901354 0.04768508 0.05182221
+ 0.06897624 0.05030066 0.08513895 0.11428782]
+opt_y:  0.19524850732201784
+optimal anchors:  ['I3', 'I11', 'I19', 'Teleost_Euteleost_Ovalentaria_Pseudochromidae_Pseudochromis_fuscus', 'Teleost_Euteleost_Carangaria_Polynemidae_Polynemus_dubius', 'I146', 'I209', 'I210', 'I216', 'I270']
+optimal p:  [0.08928837 0.29156206 0.078317   0.11804725 0.04288445 0.15634764
+ 0.06004774 0.03852888 0.07431071 0.05066596]
+optimal x:  [0.1948161  0.75011611 0.62455337 1.         1.         1.
+ 0.96909922 0.33872916 0.6803247  0.99999471]
+optimal y:  0.2029067564066267
+Optimization Runtime:  153.31696105003357

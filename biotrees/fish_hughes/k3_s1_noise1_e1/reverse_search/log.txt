@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [128 129 579]
+opt_x:  [9.78591972e-01 6.75737505e-02 4.60853081e-11]
+opt_p:  [0.6344344  0.09986536 0.26570025]
+opt_y:  0.13418288257109803
+optimal anchors:  ['I77', 'Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'I297']
+optimal p:  [0.63110986 0.10417208 0.26471823]
+optimal x:  [0.9944471  0.10615071 0.83449201]
+optimal y:  0.1260542310568655
+Optimization Runtime:  2.219583034515381

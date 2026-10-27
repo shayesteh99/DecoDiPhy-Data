@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [103 461  75 186 295]
+opt_x:  [0.45547689 0.4792438  0.5306948  1.         1.        ]
+opt_p:  [-2.90745750e-22 -8.68770386e-23 -5.00905069e-23  5.00877032e-01
+  4.99122968e-01]
+opt_y:  0.0646048943872617
+optimal anchors:  ['Semnopithecus_entellus', 'Daubentonia_madagascariensis', 'Xerus_inauris', 'Rhinolophus_sinicus', 'Tapirus_indicus']
+optimal p:  [-5.00905069e-23 -2.90745750e-22  5.00877032e-01  4.99122968e-01
+ -8.68770386e-23]
+optimal x:  [0.5306948  0.45547689 1.         1.         0.4792438 ]
+optimal y:  0.0646048943872617
+Optimization Runtime:  0.4003462791442871

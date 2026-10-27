@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [123 121]
+opt_x:  [0.99998903 0.49490109]
+opt_p:  [9.99992048e-01 7.94342371e-06]
+opt_y:  0.030905914096155368
+optimal anchors:  ['Gammarus_fossarum', 'Gammarus_chevreuxi']
+optimal p:  [7.94342371e-06 9.99992048e-01]
+optimal x:  [0.49490109 0.99998903]
+optimal y:  0.030905914096155368
+Optimization Runtime:  0.0937948226928711

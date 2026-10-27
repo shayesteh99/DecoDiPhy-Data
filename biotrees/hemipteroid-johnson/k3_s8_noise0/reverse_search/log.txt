@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [121 182 194]
+opt_x:  [0.92201197 1.         0.62910815]
+opt_p:  [0.32489111 0.33034017 0.34476872]
+opt_y:  0.08102653776142454
+optimal anchors:  ['Dalbulus_maidis', 'I99', 'Baetis_sp']
+optimal p:  [0.32216023 0.35724156 0.32059822]
+optimal x:  [0.9099021  0.3530597  0.58751375]
+optimal y:  0.08768045664792107
+Optimization Runtime:  3.212877035140991

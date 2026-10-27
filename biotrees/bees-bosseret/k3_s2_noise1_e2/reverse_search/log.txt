@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 5  7 46]
+opt_x:  [2.14479927e-01 1.00000000e+00 1.27784313e-21]
+opt_p:  [0.37709669 0.18838561 0.4345177 ]
+opt_y:  0.025306688262475244
+optimal anchors:  ['I6', 'Nomiapis_diversipes', 'Hoplonomia_elliotii']
+optimal p:  [0.37640615 0.20404053 0.41955332]
+optimal x:  [0.30472044 0.84400662 0.83071221]
+optimal y:  0.02272188666724407
+Optimization Runtime:  0.3479323387145996

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [142  10 144]
+opt_x:  [0.99998627 0.50512953 0.50524324]
+opt_p:  [8.37911375e-01 1.62078023e-01 1.05618832e-05]
+opt_y:  0.07326269210111142
+optimal anchors:  ['Aracanidae_Anoplocapros_amygdaloides_EPLATE_53_C05', 'Triacanthodidae_Hollardia_hollardia_Vims40109', 'Triacanthodidae_Parahollardia_lineata_Vims40107']
+optimal p:  [1.62078023e-01 8.37911375e-01 1.05618832e-05]
+optimal x:  [0.50512953 0.99998627 0.50524324]
+optimal y:  0.07326269210111142
+Optimization Runtime:  0.13977479934692383

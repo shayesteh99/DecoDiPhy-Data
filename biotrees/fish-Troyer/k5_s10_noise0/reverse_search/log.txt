@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [  5 214 237 282 283]
+opt_x:  [0.49237664 0.53713772 0.24392597 0.05328825 0.14946625]
+opt_p:  [0.19441431 0.23693115 0.28007462 0.10714266 0.18143725]
+opt_y:  0.006277154748790209
+optimal anchors:  ['I7', 'I113', 'Monocanthidae_Brachaluteres_jacksonianus_EPLATE_52_F12', 'I146', 'Monocanthidae_Thamnaconus_striatus_EPLATE_51_G11']
+optimal p:  [0.19441431 0.23693115 0.28007462 0.10714266 0.18143725]
+optimal x:  [0.49237664 0.53713772 0.24392597 0.05328825 0.14946625]
+optimal y:  0.006277154748790209
+Optimization Runtime:  0.44655799865722656

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [142 144 146]
+opt_x:  [1.         0.64469199 0.25644359]
+opt_p:  [ 1.00000000e+00 -1.76326497e-23  7.83144328e-22]
+opt_y:  0.04465947350731333
+optimal anchors:  ['I73', 'I75', 'Phaetusa_simplex']
+optimal p:  [ 1.00000000e+00 -1.76326497e-23  7.83144328e-22]
+optimal x:  [1.         0.64469199 0.25644359]
+optimal y:  0.04465947350731333
+Optimization Runtime:  3.035278797149658

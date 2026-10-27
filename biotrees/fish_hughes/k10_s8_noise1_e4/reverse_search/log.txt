@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [235 244 386 387 388 389 390 392 393 394]
+opt_x:  [0.34741897 1.         1.         0.54450809 0.53107866 0.54768271
+ 0.56611673 0.52275122 0.49035678 0.49975203]
+opt_p:  [-1.99342371e-22  6.08541352e-01  3.91458648e-01  1.17950557e-21
+  1.47696278e-21  1.78214433e-21 -1.02219603e-22 -3.37446849e-22
+  2.26917946e-21  3.52709188e-21]
+opt_y:  0.10799729393905241
+optimal anchors:  ['Teleost_Euteleost_Eupercaria_Centrarchiformes_Oplegnathidae_Oplegnathus_punctatus', 'Teleost_Euteleost_Eupercaria_Pempheriformes_Epigonidae_Epigonus_sp', 'I214', 'I215', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Melanogrammus_aeglefinus', 'I216', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Arctogadus_glacialis', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Theragra_chalcogramma', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Gadus_morhua', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Pollachius_virens']
+optimal p:  [-1.99342371e-22  6.08541352e-01  3.91458648e-01  1.17950557e-21
+  1.47696278e-21  1.78214433e-21 -1.02219603e-22 -3.37446849e-22
+  2.26917946e-21  3.52709188e-21]
+optimal x:  [0.34741897 1.         1.         0.54450809 0.53107866 0.54768271
+ 0.56611673 0.52275122 0.49035678 0.49975203]
+optimal y:  0.10799729393905241
+Optimization Runtime:  1.733928918838501

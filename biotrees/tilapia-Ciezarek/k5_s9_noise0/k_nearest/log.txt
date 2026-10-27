@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [ 84  91  90 153 143]
+opt_x:  [1.         0.4902683  0.48496483 1.         0.49827347]
+opt_p:  [ 6.70863040e-01 -5.39145942e-23 -6.06782249e-23  3.29136960e-01
+  6.35370938e-23]
+opt_y:  0.020593889960259616
+optimal anchors:  ['Ohunteri__LakeChala__G1-K2G2', 'Ojipe__NyumbayaMunga__P2G6', 'Ohunteri__LakeChala__G2-K2G3', 'Ourolepis__Kilombero__F4', 'Ourolepis__ZanzibarSite4__Z1D7']
+optimal p:  [6.82417640e-01 1.99376973e-16 1.77399166e-16 5.20292973e-02
+ 2.65553062e-01]
+optimal x:  [1.00000000e+00 3.07802539e-01 4.69878301e-01 3.70850501e-15
+ 9.10024154e-01]
+optimal y:  0.016648637395692285
+Optimization Runtime:  0.1179664134979248

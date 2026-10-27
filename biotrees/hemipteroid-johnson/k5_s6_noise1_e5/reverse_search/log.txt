@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 42 238 255 256 277]
+opt_x:  [1.         0.41259531 0.45489255 1.         1.        ]
+opt_p:  [ 2.45084560e-01 -1.25883955e-22 -6.25390782e-22  6.90179350e-01
+  6.47360900e-02]
+opt_y:  0.16538718005711703
+optimal anchors:  ['Chinavia_hilaris', 'I127', 'Badonnelia_titei', 'Stimulopalpus_japonicus', 'I146']
+optimal p:  [ 2.45084560e-01 -1.25883955e-22 -6.25390782e-22  6.90179350e-01
+  6.47360900e-02]
+optimal x:  [1.         0.41259531 0.45489255 1.         1.        ]
+optimal y:  0.16538718005711703
+Optimization Runtime:  0.8377132415771484

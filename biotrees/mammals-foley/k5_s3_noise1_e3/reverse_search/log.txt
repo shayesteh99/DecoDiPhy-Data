@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 34  75 180 293 296]
+opt_x:  [0.98617605 1.         0.2643276  1.         1.        ]
+opt_p:  [0.21222248 0.14391541 0.29361783 0.17542283 0.17482144]
+opt_y:  0.10500709310140818
+optimal anchors:  ['Tupaia_tana', 'Semnopithecus_entellus', 'I94', 'I152', 'I154']
+optimal p:  [0.21222248 0.14391541 0.29361783 0.17542283 0.17482144]
+optimal x:  [0.98617605 1.         0.2643276  1.         1.        ]
+optimal y:  0.10500709310140818
+Optimization Runtime:  0.8758604526519775

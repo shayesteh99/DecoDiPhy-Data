@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  0   1  25 168 275 409 483]
+opt_x:  [0.55535715 0.1059063  1.         1.         1.         0.9679014
+ 1.        ]
+opt_p:  [0.08249956 0.09779565 0.07739098 0.11764909 0.15106452 0.22383378
+ 0.24976642]
+opt_y:  0.23955566619550836
+optimal anchors:  ['I2', 'I3', 'I11', 'Teleost_Euteleost_Esociformes_Esocidae_Esox_lucius', 'Teleost_Euteleost_Carangaria_Centropomidae_Centropomus_undecimalis', 'I143', 'I215']
+optimal p:  [0.08259162 0.09791203 0.25816181 0.071237   0.12753916 0.13948229
+ 0.22307608]
+optimal x:  [0.55473815 0.10299519 0.9370876  1.         1.         0.60843195
+ 0.86727967]
+optimal y:  0.23846712625611188
+Optimization Runtime:  3.5738606452941895

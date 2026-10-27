@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [222 282 270]
+opt_x:  [1.         0.28513683 0.49674751]
+opt_p:  [ 6.76220193e-01  3.23779807e-01 -1.39909958e-21]
+opt_y:  0.07472872154647663
+optimal anchors:  ['Timema_cristinae', 'Elipsocus_kuriliensis', 'Aaroniella_sp']
+optimal p:  [ 6.76220193e-01 -1.39909958e-21  3.23779807e-01]
+optimal x:  [1.         0.49674751 0.28513683]
+optimal y:  0.07472872154647663
+Optimization Runtime:  0.23409581184387207

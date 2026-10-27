@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [554 515 555]
+opt_x:  [0.88451445 1.         0.44661749]
+opt_p:  [-1.10006989e-21  1.00000000e+00  4.66105737e-21]
+opt_y:  0.01629536272620696
+optimal anchors:  ['Acrocephalus_arundinaceus', 'Zosterops_hypoxanthus', 'Sterrhoptilus_dennistouni']
+optimal p:  [ 1.00000000e+00 -1.10006989e-21  4.66105737e-21]
+optimal x:  [1.         0.88451445 0.44661749]
+optimal y:  0.01629536272620696
+Optimization Runtime:  0.7983253002166748

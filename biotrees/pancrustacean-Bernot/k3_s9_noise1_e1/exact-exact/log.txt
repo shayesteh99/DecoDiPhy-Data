@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 93 117 142]
+opt_x:  [0.07770349 0.63415421 0.81680097]
+opt_p:  [0.43858362 0.27335113 0.28806525]
+opt_y:  0.15072368229703695
+optimal anchors:  ['I48', 'I63', 'Idotea_baltica']
+optimal p:  [0.43858362 0.27335113 0.28806525]
+optimal x:  [0.07770349 0.63415421 0.81680097]
+optimal y:  0.15072368229703695
+Optimization Runtime:  17730.965782642365

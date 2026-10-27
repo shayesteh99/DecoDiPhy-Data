@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [20 37 23]
+opt_x:  [1.         0.36470124 1.        ]
+opt_p:  [0.24795634 0.45078789 0.30125577]
+opt_y:  5.311661182843559e-21
+optimal anchors:  ['Pseudapis_oxybeloides', 'Nomiapis_diversipes', 'Lipotriches_justiciae']
+optimal p:  [0.24795634 0.30125577 0.45078789]
+optimal x:  [1.         1.         0.36470124]
+optimal y:  5.311661182843559e-21
+Optimization Runtime:  0.12318110466003418

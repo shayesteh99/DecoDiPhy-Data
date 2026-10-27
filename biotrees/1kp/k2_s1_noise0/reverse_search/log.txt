@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 50 150]
+opt_x:  [1.         0.87022056]
+opt_p:  [0.36442044 0.63557956]
+opt_y:  0.05984471594901075
+optimal anchors:  ['I30', 'Leucodon_brachypus']
+optimal p:  [0.36666223 0.63333777]
+optimal x:  [0.62291801 0.82510236]
+optimal y:  0.06324461932691275
+Optimization Runtime:  0.6843216419219971

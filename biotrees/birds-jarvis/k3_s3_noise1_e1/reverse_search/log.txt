@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [25 69 70]
+opt_x:  [1.74642941e-20 1.00616256e-21 5.26482606e-01]
+opt_p:  [0.22449644 0.4685544  0.30694915]
+opt_y:  0.08604145374174074
+optimal anchors:  ['I19', 'CHLUN', 'CUCCA']
+optimal p:  [0.23384804 0.41652093 0.34963103]
+optimal x:  [0.55361316 0.64780722 0.96293997]
+optimal y:  0.08445774191535617
+Optimization Runtime:  0.620126485824585

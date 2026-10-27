@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [156 157 148]
+opt_x:  [1.         1.         0.46456946]
+opt_p:  [5.00006064e-01 4.99993936e-01 6.97224886e-23]
+opt_y:  0.021690168409380282
+optimal anchors:  ['Rissa_tridactyla', 'Uria_lomvia', 'Uria_aalge']
+optimal p:  [6.97224886e-23 5.00006064e-01 4.99993936e-01]
+optimal x:  [0.46456946 1.         1.        ]
+optimal y:  0.021690168409380282
+Optimization Runtime:  0.7819793224334717

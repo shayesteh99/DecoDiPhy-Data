@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [  9  87  30 182  46]
+opt_x:  [1.07469928e-22 1.00000000e+00 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00]
+opt_p:  [1.54425562e-01 2.13208885e-01 5.23955446e-24 4.03084394e-01
+ 2.29281159e-01]
+opt_y:  0.056941498275355454
+optimal anchors:  ['Scutelleridae_sp', 'Anasa_tristis', 'Chauliops_fallax', 'Notonecta_glauca', 'I98']
+optimal p:  [0.27069785 0.04170414 0.22131685 0.22929357 0.23698759]
+optimal x:  [0.82672722 1.         1.         1.         0.35619892]
+optimal y:  0.06397352285186046
+Optimization Runtime:  0.38652896881103516

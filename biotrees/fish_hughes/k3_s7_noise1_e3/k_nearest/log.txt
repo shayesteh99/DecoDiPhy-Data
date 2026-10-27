@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [251 270 247]
+opt_x:  [1. 1. 1.]
+opt_p:  [-2.59443855e-22  1.00000000e+00  5.20033779e-22]
+opt_y:  0.1786059457526391
+optimal anchors:  ['Teleost_Euteleost_Eupercaria_Centrarchiformes_Percichthyidae_Coreoperca_whiteheadi', 'I138', 'Teleost_Euteleost_Eupercaria_Pempheriformes_Epigonidae_Epigonus_sp']
+optimal p:  [6.07420735e-07 2.71876150e-07 9.99999120e-01]
+optimal x:  [0.11834983 0.17762066 0.99999988]
+optimal y:  0.17860591452511398
+Optimization Runtime:  0.5068612098693848

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [284  51]
+opt_x:  [0.11983047 1.        ]
+opt_p:  [0.90996898 0.09003102]
+opt_y:  0.009578821879113054
+optimal anchors:  ['I24', 'Aaroniella_sp']
+optimal p:  [0.27169523 0.72830477]
+optimal x:  [9.54782079e-24 7.27122830e-01]
+optimal y:  0.09753528856845256
+Optimization Runtime:  0.24259281158447266

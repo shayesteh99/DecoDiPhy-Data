@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [148 115 152]
+opt_x:  [2.88347156e-23 1.00000000e+00 5.21513518e-01]
+opt_p:  [ 1.42785079e-01  8.57214921e-01 -1.50333195e-22]
+opt_y:  0.13797927659390602
+optimal anchors:  ['Psilotum_nudum', 'Anomodon_attenuatus', 'Hedwigia_ciliata']
+optimal p:  [0.48053178 0.49009741 0.02937081]
+optimal x:  [9.34427642e-01 8.24583734e-01 1.51903769e-17]
+optimal y:  0.07266462709966451
+Optimization Runtime:  0.13299179077148438

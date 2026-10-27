@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 59  60  64 122 153 251 252]
+opt_x:  [1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.08527427 0.08397617 0.15339542 0.18203076 0.14399225 0.17522719
+ 0.17610394]
+opt_y:  0.12972656556241785
+optimal anchors:  ['Pagasa_sp', 'I36', 'Corythucha_ciliata', 'Hespenedra_chilensis', 'Bruchomorpha_oculata', 'Cryptocercus_wrighti', 'Zootermopsis_nevadensis']
+optimal p:  [0.08527427 0.08397617 0.15339542 0.18203076 0.14399225 0.17522719
+ 0.17610394]
+optimal x:  [1. 1. 1. 1. 1. 1. 1.]
+optimal y:  0.12972656556241785
+Optimization Runtime:  0.5363578796386719

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [160 161 418]
+opt_x:  [1.         0.52023104 1.        ]
+opt_p:  [6.65992470e-01 1.16740145e-21 3.34007530e-01]
+opt_y:  0.1269895834751759
+optimal anchors:  ['I98', 'Teleost_Euteleost_Anabantaria_Synbranchiformes_Mastacembelidae_Mastacembelus_armatus', 'I222']
+optimal p:  [6.65992470e-01 1.16740145e-21 3.34007530e-01]
+optimal x:  [1.         0.52023104 1.        ]
+optimal y:  0.1269895834751759
+Optimization Runtime:  1.7907872200012207

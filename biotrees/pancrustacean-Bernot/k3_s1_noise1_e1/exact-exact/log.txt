@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 35 145 193]
+opt_x:  [0.15503981 0.65795807 0.81948607]
+opt_p:  [0.55960892 0.26725378 0.17313731]
+opt_y:  0.19222420371630733
+optimal anchors:  ['I19', 'I77', 'Enoplometopus_cf_daumi']
+optimal p:  [0.55960892 0.26725378 0.17313731]
+optimal x:  [0.15503981 0.65795807 0.81948607]
+optimal y:  0.19222420371630733
+Optimization Runtime:  18129.087065458298

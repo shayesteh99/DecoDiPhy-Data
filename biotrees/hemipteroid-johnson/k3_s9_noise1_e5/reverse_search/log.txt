@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [260 308 364]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.35289077 0.25969462 0.38741461]
+opt_y:  0.22854104977457781
+optimal anchors:  ['I126', 'I159', 'Trialeurodes_vaporariorum']
+optimal p:  [0.34247694 0.26631633 0.39120672]
+optimal x:  [0.57566541 1.         1.        ]
+optimal y:  0.22452541576113952
+Optimization Runtime:  0.5852665901184082

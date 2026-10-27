@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 42  51 118]
+opt_x:  [1.         0.52442268 0.59291728]
+opt_p:  [0.64778476 0.05599481 0.29622043]
+opt_y:  0.05226951412015792
+optimal anchors:  ['I23', 'Diodontidae_Tragulichthys_jaculiferus_EPLATE_52_G11', 'I63']
+optimal p:  [0.62772249 0.06865602 0.3036215 ]
+optimal x:  [0.0558872  0.62625894 0.70997459]
+optimal y:  0.051354689934446494
+Optimization Runtime:  0.6985659599304199

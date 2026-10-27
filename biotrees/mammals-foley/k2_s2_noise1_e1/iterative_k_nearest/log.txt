@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [441 452]
+opt_x:  [1. 1.]
+opt_p:  [0.8205518 0.1794482]
+opt_y:  0.018436429703719375
+optimal anchors:  ['I224', 'Neomonachus_schauinslandi']
+optimal p:  [0.98108801 0.01891199]
+optimal x:  [0.71447068 1.        ]
+optimal y:  0.03993073156813324
+Optimization Runtime:  0.34641337394714355

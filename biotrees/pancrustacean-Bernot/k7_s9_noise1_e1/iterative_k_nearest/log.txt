@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [161 153  39  88 136  91 191]
+opt_x:  [4.88135792e-01 4.92623131e-01 9.99999578e-01 9.99999364e-01
+ 4.77669347e-06 2.25785775e-01 4.87482834e-01]
+opt_p:  [-8.76688251e-06 -8.40301396e-06  3.65606089e-01  3.11775128e-01
+  3.22646044e-01  7.71489983e-08 -1.01706058e-05]
+opt_y:  0.09786850200252015
+optimal anchors:  ['I19', 'I49', 'Pollicipes_pollicipes', 'Idotea_baltica', 'Lysiosquillina_maculata', 'Thysanoessa_inermis', 'Cherax_destructor']
+optimal p:  [0.2658975  0.15637083 0.09195727 0.26217199 0.01186759 0.19262373
+ 0.0191111 ]
+optimal x:  [0.89526537 0.65395382 1.         0.81636299 1.         1.
+ 1.        ]
+optimal y:  0.23838478846158026
+Optimization Runtime:  0.19709491729736328

@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [459 458 454 456 451 452 448 447 291 292]
+opt_x:  [0.49488051 0.50099545 0.50299201 0.49691482 1.         1.
+ 1.         1.         1.         1.        ]
+opt_p:  [ 3.29945123e-22  4.45960634e-22 -6.56081796e-22 -8.45966579e-22
+  1.79357501e-01  1.78322717e-01  7.00185795e-02  7.06708747e-02
+  2.49931593e-01  2.51698735e-01]
+opt_y:  0.07769530938343928
+optimal anchors:  ['Hipposideros_armiger', 'Rhinolophus_sinicus', 'Equus_caballus', 'Equus_przewalskii', 'Tapirus_indicus', 'Tapirus_terrestris', 'Dicerorhinus_sumatrensis', 'Diceros_bicornis', 'Ceratotherium_simum', 'Ceratotherium_simum_cottoni']
+optimal p:  [ 2.49931593e-01  2.51698735e-01  7.06708747e-02  7.00185795e-02
+  1.79357501e-01  1.78322717e-01 -6.56081796e-22 -8.45966579e-22
+  4.45960634e-22  3.29945123e-22]
+optimal x:  [1.         1.         1.         1.         1.         1.
+ 0.50299201 0.49691482 0.50099545 0.49488051]
+optimal y:  0.07769530938343928
+Optimization Runtime:  0.43501925468444824

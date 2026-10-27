@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 46  47  48 152 651]
+opt_x:  [1.         0.86349581 0.59681697 0.0665979  1.        ]
+opt_p:  [0.15344486 0.16613234 0.10360236 0.23110778 0.34571266]
+opt_y:  0.03936707146440924
+optimal anchors:  ['Mesitornis_unicolor', 'I26', 'Syrrhaptes_paradoxus', 'I79', 'I331']
+optimal p:  [0.15344486 0.16613234 0.10360236 0.23110778 0.34571266]
+optimal x:  [1.         0.86349581 0.59681697 0.0665979  1.        ]
+optimal y:  0.03936707146440924
+Optimization Runtime:  3.0705833435058594

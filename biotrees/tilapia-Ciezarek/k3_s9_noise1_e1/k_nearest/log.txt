@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 88  95 157]
+opt_x:  [0.65682419 0.75004279 0.99999798]
+opt_p:  [0.26901021 0.19440519 0.5365846 ]
+opt_y:  0.01606703542767434
+optimal anchors:  ['Ohunteri__LakeChala__G1-K2G2', 'Ohunteri__LakeChala__G2-K2G3', 'Ourolepis__LakeLugongwe__T2J5']
+optimal p:  [0.26901021 0.19440519 0.5365846 ]
+optimal x:  [0.65682419 0.75004279 0.99999798]
+optimal y:  0.01606703542767434
+Optimization Runtime:  0.08695602416992188

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [107 237 305]
+opt_x:  [2.51736602e-01 2.87318533e-23 1.00000000e+00]
+opt_p:  [0.3929481  0.39080606 0.21624584]
+opt_y:  0.02011762555328457
+optimal anchors:  ['Chionis_minor', 'I121', 'I158']
+optimal p:  [0.38992304 0.39035385 0.21972205]
+optimal x:  [0.24107561 0.10418459 0.14745558]
+optimal y:  0.020486409228114212
+Optimization Runtime:  5.952600002288818

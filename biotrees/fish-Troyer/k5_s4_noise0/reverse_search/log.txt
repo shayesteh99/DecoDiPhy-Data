@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 51 119 156 193 235]
+opt_x:  [0.91227206 0.41958112 0.80363681 0.93772094 0.28885203]
+opt_p:  [0.24934143 0.2479774  0.14065393 0.18301815 0.17900915]
+opt_y:  0.004532821255134852
+optimal anchors:  ['Diodontidae_Tragulichthys_jaculiferus_EPLATE_52_G11', 'Tetraodontidae_Sphoeroides_nephelus_USNMAC4YB58', 'Triacanthodidae_Atrophacanthus_sp_EPLATE_33_F09', 'Balistidae_Rhinecanthus_rectangulus_USNMAG9RQ72', 'Monocanthidae_Brachaluteres_taylori_EPLATE_52_G12']
+optimal p:  [0.24934143 0.2479774  0.14065393 0.18301815 0.17900915]
+optimal x:  [0.91227206 0.41958112 0.80363681 0.93772094 0.28885203]
+optimal y:  0.004532821255134852
+Optimization Runtime:  4.211690664291382

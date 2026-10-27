@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [62 80]
+opt_x:  [0.91637488 1.        ]
+opt_p:  [0.63816029 0.36183971]
+opt_y:  0.14236947810187262
+optimal anchors:  ['Phymata_pennsylvanica', 'Saldula_saltatoria']
+optimal p:  [0.63816029 0.36183971]
+optimal x:  [0.91637488 1.        ]
+optimal y:  0.14236947810187262
+Optimization Runtime:  4.709879159927368

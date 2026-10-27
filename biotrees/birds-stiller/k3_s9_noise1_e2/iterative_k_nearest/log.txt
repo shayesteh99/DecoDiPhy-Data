@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [443 377 620]
+opt_x:  [0.49985217 1.         0.96253495]
+opt_p:  [-1.00385616e-20  7.33294104e-01  2.66705896e-01]
+opt_y:  0.03528801012566342
+optimal anchors:  ['Manacus_manacus', 'Corvus_cornix', 'Ploceus_nigricollis']
+optimal p:  [ 7.33294104e-01 -1.00385616e-20  2.66705896e-01]
+optimal x:  [1.         0.49985217 0.96253495]
+optimal y:  0.03528801012566342
+Optimization Runtime:  0.8111891746520996

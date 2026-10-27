@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [177 178]
+opt_x:  [0.50674505 1.        ]
+opt_p:  [2.08693252e-20 1.00000000e+00]
+opt_y:  0.4243343318015195
+optimal anchors:  ['Litopenaeus_vannamei', 'Penaeus_penicilliatus']
+optimal p:  [2.08693252e-20 1.00000000e+00]
+optimal x:  [0.50674505 1.        ]
+optimal y:  0.4243343318015195
+Optimization Runtime:  0.09197878837585449

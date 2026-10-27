@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [125 258 326 416 495]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.20518523 0.16271161 0.27277007 0.17264725 0.18668584]
+opt_y:  0.08940930535668352
+optimal anchors:  ['Teleost_Euteleost_Ovalentaria_Mugiliformes_Mugilidae_Mugil_cephalus', 'Teleost_Euteleost_Eupercaria_Labriformes_Scaridae_Scarus_ghobban', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Thunnus_orientalis', 'I222', 'Teleost_Otophysa_Siluriformes_Pangasiidae_Pangasianodon_hypophthalamus']
+optimal p:  [0.20518523 0.16271161 0.27277007 0.17264725 0.18668584]
+optimal x:  [1. 1. 1. 1. 1.]
+optimal y:  0.08940930535668352
+Optimization Runtime:  2.235013961791992

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 44  87 240]
+opt_x:  [0.27450987 0.5937232  0.76435349]
+opt_p:  [0.35775005 0.0413917  0.60085825]
+opt_y:  0.060480990251599406
+optimal anchors:  ['I27', 'Scolytomimus_phillippinensis_I13639', 'Carphoborus_bifurcus_I13691']
+optimal p:  [0.35775005 0.0413917  0.60085825]
+optimal x:  [0.27450987 0.5937232  0.76435349]
+optimal y:  0.060480990251599406
+Optimization Runtime:  34416.61342716217

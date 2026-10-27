@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [120 127]
+opt_x:  [1.00000000e+00 6.26329576e-23]
+opt_p:  [0.41504565 0.58495435]
+opt_y:  0.18128282964440853
+optimal anchors:  ['Galeopterus_variegatus', 'I68']
+optimal p:  [0.43079479 0.56920521]
+optimal x:  [1.         0.90762232]
+optimal y:  0.1716287453879437
+Optimization Runtime:  0.873523473739624

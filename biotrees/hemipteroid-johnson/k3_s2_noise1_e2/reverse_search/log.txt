@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 8  9 37]
+opt_x:  [1.00000000e+00 1.37956566e-22 7.23495722e-23]
+opt_p:  [0.8803466  0.06173041 0.05792299]
+opt_y:  0.10994223488526973
+optimal anchors:  ['I8', 'Scutelleridae_sp', 'Lygaeus_turcicus']
+optimal p:  [0.58522454 0.2298323  0.18494316]
+optimal x:  [0.47936004 0.71542153 1.        ]
+optimal y:  0.09424830941982772
+Optimization Runtime:  2.648512840270996

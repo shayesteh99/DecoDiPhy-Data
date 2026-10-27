@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 39 193 150]
+opt_x:  [1.         0.47314686 0.6178861 ]
+opt_p:  [ 7.23365529e-01 -1.57385154e-21  2.76634471e-01]
+opt_y:  0.1570215479261472
+optimal anchors:  ['I19', 'Ligia_exotica', 'Enoplometopus_cf_daumi']
+optimal p:  [0.55883399 0.2725497  0.16861631]
+optimal x:  [0.15334237 1.         0.79164646]
+optimal y:  0.19901618646350894
+Optimization Runtime:  0.12050724029541016

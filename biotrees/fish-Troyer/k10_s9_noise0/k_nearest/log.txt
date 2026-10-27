@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [161 177 162 167 169 174 178 181 170 166]
+opt_x:  [1.         0.49815224 1.         0.50103451 0.50078029 0.47507421
+ 0.47568796 0.49857775 0.49325778 0.49441052]
+opt_p:  [ 5.00145230e-01 -5.75320272e-22  4.99854770e-01  5.40336348e-22
+ -1.67065765e-21 -6.14616198e-22 -1.73827482e-22 -1.37535902e-21
+ -9.07018082e-22 -3.30918289e-22]
+opt_y:  0.050426183837295344
+optimal anchors:  ['Balistidae_Melichthys_vidua_STRIBFT11786', 'Balistidae_Odonus_niger_USNMAG7PW08', 'Balistidae_Xenobalistes_tumidipectoris_EPLATE_53_F03', 'Balistidae_Xanthichthys_caeruleolineatus_USNMAG7PV58', 'Balistidae_Xanthichthys_lineopunctatus_EPLATE_51_A12', 'Balistidae_Xanthichthys_auromarginatus_USNMAG7PY24', 'Balistidae_Canthidermis_sufflamen_USNMAC7BZ85', 'Balistidae_Balistes_polylepis_USNMAG7PC77', 'Balistidae_Balistes_capriscus_USNMAD9NF67', 'Balistidae_Pseudobalistes_fuscus_USNMAG9RP93']
+optimal p:  [ 5.00145230e-01  4.99854770e-01 -3.30918289e-22  5.40336348e-22
+ -1.67065765e-21 -9.07018082e-22 -6.14616198e-22 -5.75320272e-22
+ -1.73827482e-22 -1.37535902e-21]
+optimal x:  [1.         1.         0.49441052 0.50103451 0.50078029 0.49325778
+ 0.47507421 0.49815224 0.47568796 0.49857775]
+optimal y:  0.050426183837295344
+Optimization Runtime:  0.14448332786560059

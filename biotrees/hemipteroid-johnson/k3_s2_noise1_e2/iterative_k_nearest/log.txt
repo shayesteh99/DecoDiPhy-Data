@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 9 38 31]
+opt_x:  [1.         0.45220814 1.        ]
+opt_p:  [6.29432910e-01 6.29103287e-23 3.70567090e-01]
+opt_y:  0.06443685204867536
+optimal anchors:  ['I24', 'Anasa_tristis', 'Oncopeltus_fasciatus']
+optimal p:  [ 9.41886706e-01 -1.48725721e-22  5.81132938e-02]
+optimal x:  [9.27301600e-01 4.68675608e-01 2.14408520e-22]
+optimal y:  0.11244881014125477
+Optimization Runtime:  0.24951553344726562

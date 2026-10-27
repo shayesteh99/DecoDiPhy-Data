@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 24  49  50 429 430 432 433]
+opt_x:  [1.         1.         1.         0.41863915 0.37635267 0.05467672
+ 0.99999905]
+opt_p:  [3.83980552e-01 1.59570281e-01 1.59570281e-01 1.94254398e-07
+ 3.41358960e-07 1.07073730e-07 2.96878243e-01]
+opt_y:  0.07044048951104934
+optimal anchors:  ['Orycteropus_afer', 'Mandrillus_leucophaeus', 'Papio_anubis', 'I224', 'Enhydra_lutris', 'Ailurus_fulgens', 'Spilogale_gracilis']
+optimal p:  [3.83980552e-01 1.59570281e-01 1.59570281e-01 1.94254398e-07
+ 3.41358960e-07 1.07073730e-07 2.96878243e-01]
+optimal x:  [1.         1.         1.         0.41863915 0.37635267 0.05467672
+ 0.99999905]
+optimal y:  0.07044048951104934
+Optimization Runtime:  1.6505718231201172

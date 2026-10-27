@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [15 32 39 40 41]
+opt_x:  [0.62553097 0.50707312 0.50202515 0.69967766 0.69575778]
+opt_p:  [0.39747504 0.12509028 0.2191275  0.12897607 0.12933111]
+opt_y:  0.012521874704049646
+optimal anchors:  ['Pseudapis_oxybeloides', 'Pachynomia_tshibindica', 'I26', 'Hoplonomia_elliotii', 'Curvinomia_chalybeata']
+optimal p:  [0.39747504 0.12509028 0.2191275  0.12897607 0.12933111]
+optimal x:  [0.62553097 0.50707312 0.50202515 0.69967766 0.69575778]
+optimal y:  0.012521874704049646
+Optimization Runtime:  0.23498988151550293

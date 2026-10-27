@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [325 326 327]
+opt_x:  [0.99998282 0.37315243 0.38181489]
+opt_p:  [9.99967764e-01 1.61291792e-05 1.60820489e-05]
+opt_y:  0.13909848585404713
+optimal anchors:  ['I176', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Thunnus_orientalis', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Scomberomorus_regalis']
+optimal p:  [9.99967764e-01 1.61291792e-05 1.60820489e-05]
+optimal x:  [0.99998282 0.37315243 0.38181489]
+optimal y:  0.13909848585404713
+Optimization Runtime:  2.0173468589782715

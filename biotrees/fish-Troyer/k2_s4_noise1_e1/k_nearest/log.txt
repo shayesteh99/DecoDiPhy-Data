@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [121 122]
+opt_x:  [1. 1.]
+opt_p:  [0.49945916 0.50054084]
+opt_y:  -4.82413108405672e-16
+optimal anchors:  ['Tetraodontidae_Sphoeroides_nephelus_USNMAC4YB58', 'Tetraodontidae_Sphoeroides_marmoratus_USNMAD9NE03']
+optimal p:  [0.49945916 0.50054084]
+optimal x:  [1. 1.]
+optimal y:  -4.82413108405672e-16
+Optimization Runtime:  0.15669512748718262

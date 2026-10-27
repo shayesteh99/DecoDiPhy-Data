@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [104 186]
+opt_x:  [1. 1.]
+opt_p:  [0.51927346 0.48072654]
+opt_y:  0.05615504650181225
+optimal anchors:  ['Daubentonia_madagascariensis', 'Ictidomys_tridecemlineatus']
+optimal p:  [0.51927346 0.48072654]
+optimal x:  [1. 1.]
+optimal y:  0.05615504650181225
+Optimization Runtime:  0.34202075004577637

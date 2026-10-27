@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [182 307  70 306 186]
+opt_x:  [4.98430479e-01 4.95037667e-01 4.99775562e-01 8.82093350e-26
+ 1.00000000e+00]
+opt_p:  [ 3.48253742e-22 -4.28239636e-22  2.34897739e-22  3.78013849e-01
+  6.21986151e-01]
+opt_y:  0.048223351316947084
+optimal anchors:  ['Rhinopithecus_roxellana', 'I96', 'Marmota_marmota', 'Camelus_bactrianus', 'Vicugna_pacos']
+optimal p:  [0.09924712 0.50071417 0.02088093 0.37351639 0.00564135]
+optimal x:  [0.91083455 0.9962159  1.         0.26208973 0.00254998]
+optimal y:  0.05199277901474321
+Optimization Runtime:  0.35517072677612305

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [34 31]
+opt_x:  [1.         0.34365465]
+opt_p:  [9.99999210e-01 7.90166354e-07]
+opt_y:  0.013314540830457699
+optimal anchors:  ['Stictonomia_aliceae', 'I19']
+optimal p:  [-1.67143941e-20  1.00000000e+00]
+optimal x:  [0.49596413 0.41694328]
+optimal y:  0.016204839204024095
+Optimization Runtime:  0.07457423210144043

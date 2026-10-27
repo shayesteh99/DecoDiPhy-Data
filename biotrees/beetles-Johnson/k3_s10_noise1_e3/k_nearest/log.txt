@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [151 150 152]
+opt_x:  [0.59195342 0.61392094 0.99999399]
+opt_p:  [1.28385050e-05 1.24016714e-05 9.99974710e-01]
+opt_y:  0.03982385802731445
+optimal anchors:  ['Ernoporicus_fagi_I10218', 'Ernoporicus_sp1928_large_I10219', 'Ernoporicus_sp1929_small_I13664']
+optimal p:  [1.24016714e-05 1.28385050e-05 9.99974710e-01]
+optimal x:  [0.61392094 0.59195342 0.99999399]
+optimal y:  0.03982385802731445
+Optimization Runtime:  0.13460469245910645

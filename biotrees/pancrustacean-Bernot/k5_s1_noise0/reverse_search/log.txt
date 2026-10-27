@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 15  19 144 186 189]
+opt_x:  [1.         1.         1.         0.58408382 0.79645035]
+opt_p:  [0.28111425 0.1239666  0.11679655 0.25246738 0.22565522]
+opt_y:  0.14541710254724627
+optimal anchors:  ['I9', 'Thrips_palmi', 'I77', 'Halocaridina_rubra', 'Enoplometopus_cf_daumi']
+optimal p:  [0.21668654 0.18907674 0.1189915  0.25426112 0.2209841 ]
+optimal x:  [0.53562758 1.         0.17924262 0.57907414 0.77379562]
+optimal y:  0.14580192104351994
+Optimization Runtime:  0.8734512329101562

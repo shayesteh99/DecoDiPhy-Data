@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 24  37 122 217 290 383 391 507 541 552]
+opt_x:  [1.         0.41255255 1.         1.         1.         0.66078942
+ 1.         1.         1.         1.        ]
+opt_p:  [0.27008047 0.06297139 0.06768879 0.07388338 0.10304802 0.09669756
+ 0.08286195 0.05778645 0.07303821 0.11194379]
+opt_y:  0.13671922757152566
+optimal anchors:  ['I21', 'I32', 'Teleost_Euteleost_Ovalentaria_Pseudochromidae_Pseudochromis_fuscus', 'Teleost_Euteleost_Eupercaria_Acanthuriformes_Acanthuridae_Acanthurus_tractus', 'Teleost_Euteleost_Eupercaria_Perciformes_Gasterosteidae_Gasterosteus_aculeatus', 'I209', 'I215', 'I251', 'I263', 'I288']
+optimal p:  [0.25923539 0.06246825 0.07550738 0.07963417 0.10538035 0.09304095
+ 0.08506796 0.05001806 0.06594879 0.12369869]
+optimal x:  [0.32182647 0.40298908 1.         1.         1.         0.64632787
+ 0.57023828 0.59600321 0.85257389 0.37853674]
+optimal y:  0.1388046379934598
+Optimization Runtime:  143.37886476516724

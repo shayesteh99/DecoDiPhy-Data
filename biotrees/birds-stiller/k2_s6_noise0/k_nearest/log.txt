@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [585 586]
+opt_x:  [1. 1.]
+opt_p:  [0.4983956 0.5016044]
+opt_y:  0.04008511572362874
+optimal anchors:  ['Leucopsar_rothschildi', 'Rhabdornis_inornatus']
+optimal p:  [0.4983956 0.5016044]
+optimal x:  [1. 1.]
+optimal y:  0.04008511572362874
+Optimization Runtime:  0.786339282989502

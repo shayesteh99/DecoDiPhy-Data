@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 91 109 142]
+opt_x:  [0.28406155 1.         1.        ]
+opt_p:  [0.45246634 0.27464234 0.27289132]
+opt_y:  0.2824115895775019
+optimal anchors:  ['I47', 'Paraceradocus_miersii', 'Idotea_baltica']
+optimal p:  [0.45246634 0.27464234 0.27289132]
+optimal x:  [0.28406155 1.         1.        ]
+optimal y:  0.2824115895775019
+Optimization Runtime:  0.3513669967651367

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [107 108 238 239 482]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.20375008 0.20619202 0.10565477 0.10659105 0.37781207]
+opt_y:  0.055257923572405616
+optimal anchors:  ['Chionis_minor', 'Burhinus_bistriatus', 'Phalacrocorax_auritus', 'Phalacrocorax_harrisi', 'Chaetops_frenatus']
+optimal p:  [0.20375008 0.20619202 0.10565477 0.10659105 0.37781207]
+optimal x:  [1. 1. 1. 1. 1.]
+optimal y:  0.055257923572405616
+Optimization Runtime:  4.341820001602173

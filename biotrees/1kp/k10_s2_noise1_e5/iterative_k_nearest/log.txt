@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [ 91  73  85  67  71  63 103  61 147 116]
+opt_x:  [0.47089945 0.43268638 0.48300038 0.49204684 0.45198666 0.63048895
+ 0.99992368 0.99999958 1.         0.99999981]
+opt_p:  [-3.97422446e-06 -1.41636277e-06 -4.51054737e-06 -6.86004161e-07
+ -1.04012710e-06 -2.63028026e-07  5.21588863e-03  3.12495864e-01
+  5.34932200e-01  1.47367935e-01]
+opt_y:  0.1632821924545354
+optimal anchors:  ['I36', 'Podophyllum_peltatum', 'Liriodendron_tulipifera', 'Kadsura_heteroclita', 'Amborella_trichopoda', 'Pinus_taeda', 'Ginkgo_biloba', 'Angiopteris_evecta', 'Dendrolycopodium_obscurum', 'Sphagnum_lescurii']
+optimal p:  [1.38272723e-01 6.24411733e-08 2.02549788e-01 8.76758825e-03
+ 1.43373389e-01 1.30574212e-07 7.92079733e-02 1.21812158e-01
+ 8.87988282e-02 2.17217358e-01]
+optimal x:  [0.70925234 1.         0.9999927  1.         0.99995757 0.43273296
+ 1.         1.         1.         1.        ]
+optimal y:  0.22124825461092096
+Optimization Runtime:  0.3544888496398926

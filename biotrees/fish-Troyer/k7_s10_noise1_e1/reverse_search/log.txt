@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  4 215 226 233 261 279 280]
+opt_x:  [1.00000000e+00 9.99995804e-01 6.47981981e-01 8.41129051e-01
+ 9.77174794e-05 1.00417262e-01 4.95479712e-01]
+opt_p:  [0.26311826 0.17141685 0.09145362 0.22796319 0.08079024 0.09520399
+ 0.07005385]
+opt_y:  0.028424762470719754
+optimal anchors:  ['I5', 'I113', 'I119', 'Monocanthidae_Brachaluteres_jacksonianus_EPLATE_52_F12', 'I138', 'Monocanthidae_Thamnaconus_striatus_EPLATE_51_G11', 'Monocanthidae_Cantheschenia_grandisquamis_EPLATE_53_C03']
+optimal p:  [0.26311432 0.16834411 0.09341791 0.22884822 0.07456149 0.09753637
+ 0.07417758]
+optimal x:  [1.         0.69413624 0.67002885 0.84335167 0.18183263 0.18206009
+ 0.55429503]
+optimal y:  0.028391616219663303
+Optimization Runtime:  0.4910593032836914

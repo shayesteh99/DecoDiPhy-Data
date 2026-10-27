@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [452 578 580]
+opt_x:  [1.         1.         0.90309181]
+opt_p:  [0.49314084 0.28678088 0.22007828]
+opt_y:  0.25536391657797747
+optimal anchors:  ['I234', 'I294', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Scleropages_formosus']
+optimal p:  [0.48953408 0.2950392  0.21542672]
+optimal x:  [0.83282914 1.         0.90040695]
+optimal y:  0.2416409329445651
+Optimization Runtime:  1.7574470043182373

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [215 192 231 161 202]
+opt_x:  [0.99999874 0.48594304 1.         0.99999943 1.        ]
+opt_p:  [ 5.07547986e-01 -1.02148925e-05 -1.65080138e-08  3.76600883e-01
+  1.15861362e-01]
+opt_y:  0.07434362628878907
+optimal anchors:  ['Procryphalus_mucronatus_I10231', 'Coccotrypes_sp2035_Cangar_I13659', 'I109', 'I112', 'Sphaerotrypes_sp_I13694']
+optimal p:  [2.09309854e-01 1.42330506e-01 2.68837512e-07 6.48359296e-01
+ 7.51920493e-08]
+optimal x:  [1.         1.         0.3659562  0.98240718 0.05795515]
+optimal y:  0.08109477602879464
+Optimization Runtime:  0.2358112335205078

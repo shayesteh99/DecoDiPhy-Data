@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [43 45 46]
+opt_x:  [0.49980132 0.49951358 0.99998976]
+opt_p:  [1.15674535e-05 1.15568708e-05 9.99976859e-01]
+opt_y:  0.08101275919930159
+optimal anchors:  ['Pan_troglodytes', 'Homo_sapiens', 'Gorilla_gorilla']
+optimal p:  [1.15674535e-05 1.15568708e-05 9.99976859e-01]
+optimal x:  [0.49980132 0.49951358 0.99998976]
+optimal y:  0.08101275919930159
+Optimization Runtime:  0.3325839042663574

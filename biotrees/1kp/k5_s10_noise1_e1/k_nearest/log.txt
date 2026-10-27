@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [113 144 146 148 147]
+opt_x:  [1.00000000e+00 1.90735196e-20 4.84542269e-19 3.92037686e-01
+ 3.08186595e-19]
+opt_p:  [8.06666817e-01 4.62082759e-02 4.50519732e-02 5.47997853e-21
+ 1.02072934e-01]
+opt_y:  0.14717803924396897
+optimal anchors:  ['Angiopteris_evecta', 'Anomodon_attenuatus', 'Rhynchostegium_serrulatum', 'Thuidium_delicatulum', 'Hedwigia_ciliata']
+optimal p:  [8.06666817e-01 4.62082759e-02 4.50519732e-02 1.02072934e-01
+ 5.47997853e-21]
+optimal x:  [1.00000000e+00 1.90735196e-20 4.84542269e-19 3.08186595e-19
+ 3.92037686e-01]
+optimal y:  0.14717803924396897
+Optimization Runtime:  0.09389233589172363

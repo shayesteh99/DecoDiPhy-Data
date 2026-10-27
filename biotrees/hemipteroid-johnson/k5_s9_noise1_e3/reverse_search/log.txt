@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 79 132 178 294 360]
+opt_x:  [1.         1.         1.         0.82552396 1.        ]
+opt_p:  [0.1474335  0.0935589  0.11252404 0.56929091 0.07719265]
+opt_y:  0.20954181208086944
+optimal anchors:  ['I41', 'I71', 'Cycadothrips_chadwicki', 'I154', 'Trialeurodes_vaporariorum']
+optimal p:  [0.15048206 0.09753867 0.11240783 0.56916166 0.07040979]
+optimal x:  [0.91634183 0.94143797 1.         0.82372246 1.        ]
+optimal y:  0.21856883058810564
+Optimization Runtime:  0.5748167037963867

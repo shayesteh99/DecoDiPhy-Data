@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [149 167 159 179  35 141  16 138  33 166]
+opt_x:  [0.47423282 0.27864471 0.4416667  1.         0.99999996 0.99999987
+ 0.99999997 1.         0.51329716 0.48051071]
+opt_p:  [9.68203972e-08 8.24171146e-08 1.25079785e-07 1.14495236e-01
+ 1.88301181e-01 3.68414687e-01 3.28788477e-01 2.84239658e-09
+ 5.94069455e-09 1.06387673e-07]
+opt_y:  0.24024853326212417
+optimal anchors:  ['Tricholepidion_gertschi', 'Morlockia_williamsi', 'Godzilliognomus_frondosus', 'Helleria_brevicornis', 'Sphaeroma_terebrans', 'Lysiosquillina_maculata', 'Thysanoessa_inermis', 'Penaeus_penicilliatus', 'Sergestes_similis', 'Enoplometopus_cf_daumi']
+optimal p:  [ 1.62982801e-01 -4.50341126e-08  1.80387297e-01  1.41293794e-09
+  2.40140559e-01  9.06354979e-02  5.00047361e-02 -1.24833242e-08
+  1.05369625e-01  1.70479540e-01]
+optimal x:  [1.         0.46062322 1.         0.4005339  0.99999999 0.99999997
+ 0.99999998 0.46975683 1.         1.        ]
+optimal y:  0.3017271390010432
+Optimization Runtime:  0.3431079387664795

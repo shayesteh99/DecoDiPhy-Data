@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [138 145 300]
+opt_x:  [1.71996437e-22 1.00000000e+00 1.00000000e+00]
+opt_p:  [0.03487225 0.78488429 0.18024346]
+opt_y:  0.1798914776422534
+optimal anchors:  ['Stictocephala_bisonia', 'Mapuchea_sp', 'I162']
+optimal p:  [0.03487225 0.78488429 0.18024346]
+optimal x:  [1.71996437e-22 1.00000000e+00 1.00000000e+00]
+optimal y:  0.1798914776422534
+Optimization Runtime:  0.6420395374298096

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [258 257 256 253 244]
+opt_x:  [1.         1.         0.59574123 0.49976239 0.23818891]
+opt_p:  [ 1.00000000e+00  4.45277845e-23 -7.69111591e-22 -9.34675393e-22
+  2.21849070e-22]
+opt_y:  0.15145150261320875
+optimal anchors:  ['Campanulotes_compar', 'Columbicola_columbae', 'I135', 'Embidopsocus_sp', 'Badonnelia_titei']
+optimal p:  [5.60623902e-22 4.55374136e-22 1.26491979e-21 9.51292017e-22
+ 1.00000000e+00]
+optimal x:  [0.62109653 0.37683081 0.50859213 0.52357109 1.        ]
+optimal y:  0.15145150261320875
+Optimization Runtime:  0.22867369651794434

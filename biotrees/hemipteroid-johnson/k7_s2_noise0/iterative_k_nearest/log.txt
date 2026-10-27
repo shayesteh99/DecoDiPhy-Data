@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  9  92  30  37  90 175 364]
+opt_x:  [3.44653598e-22 1.00000000e+00 5.69015098e-01 6.06708500e-20
+ 3.41146626e-02 1.00000000e+00 1.00000000e+00]
+opt_p:  [ 1.99090576e-01  7.77961911e-02 -7.65114872e-22  5.67001556e-05
+  3.90325542e-22  5.04885240e-01  2.18171293e-01]
+opt_y:  0.06760577363578214
+optimal anchors:  ['Scutelleridae_sp', 'Anasa_tristis', 'Lygaeus_turcicus', 'Ilyocoris_cimicoides', 'Gelastocoris_oculatus', 'Cycadothrips_chadwicki', 'I189']
+optimal p:  [0.23055342 0.01551182 0.14715113 0.041083   0.15457946 0.22899335
+ 0.18212781]
+optimal x:  [0.32530653 1.         1.         1.         1.         1.
+ 0.85795305]
+optimal y:  0.09636787902175256
+Optimization Runtime:  0.3549673557281494

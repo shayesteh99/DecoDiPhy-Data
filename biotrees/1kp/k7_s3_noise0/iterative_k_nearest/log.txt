@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 82 147 138  76  75 148 142]
+opt_x:  [9.99999955e-01 5.01710426e-08 6.20454412e-07 6.06279485e-01
+ 9.99999887e-01 9.99994896e-01 4.20112850e-01]
+opt_p:  [ 1.03148987e-01  1.05317604e-01  2.34418959e-02 -2.16450067e-07
+  4.29758277e-01  3.38333467e-01 -1.13304822e-08]
+opt_y:  0.09042676396718252
+optimal anchors:  ['Liriodendron_tulipifera', 'Kadsura_heteroclita', 'Cycas_micholitzii', 'I77', 'Rosulabryum_cf_capillare', 'Thuidium_delicatulum', 'Physcomitrella_patens']
+optimal p:  [ 2.77706251e-01  2.69707173e-02  1.84710182e-01  2.44658799e-01
+  1.32940666e-01 -2.17925606e-21  1.33013385e-01]
+optimal x:  [1.         1.         1.         0.67538275 0.59747646 0.4157766
+ 1.        ]
+optimal y:  0.06586342506780352
+Optimization Runtime:  0.22697710990905762

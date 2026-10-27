@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [205 180 107 174 179 176 163 160 184 211]
+opt_x:  [1.         1.         1.         0.42677568 0.48302078 0.49953409
+ 0.42607977 0.49961884 1.         1.        ]
+opt_p:  [3.75610301e-01 8.00929179e-02 2.80459619e-01 6.38193474e-23
+ 8.46921202e-23 3.57459502e-22 8.39700135e-23 3.01353720e-22
+ 2.01408213e-01 6.24289488e-02]
+opt_y:  0.061698241306980796
+optimal anchors:  ['Pityophthorus_liquidambarus_I10230', 'Xylosandrus_crassiusculus_genome_I16394', 'Xylosandrus_germanus_I13672', 'Xyleborus_affinis_I13682', 'Euwallacea_spPSHB_SRX698946', 'Coccotrypes_sp2035_Cangar_I13659', 'Dryocoetes_confusus_I14142', 'Ips_pini_EST', 'Hylesinus_sp_I02536', 'Hylocurus_flaglerensis_H04562']
+optimal p:  [2.80459619e-01 3.01353720e-22 8.39700135e-23 6.38193474e-23
+ 3.57459502e-22 8.46921202e-23 8.00929179e-02 2.01408213e-01
+ 3.75610301e-01 6.24289488e-02]
+optimal x:  [1.         0.49961884 0.42607977 0.42677568 0.49953409 0.48302078
+ 1.         1.         1.         1.        ]
+optimal y:  0.061698241306980796
+Optimization Runtime:  0.25301408767700195

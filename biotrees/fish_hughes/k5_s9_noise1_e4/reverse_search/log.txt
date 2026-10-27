@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [286 293 394 409 410]
+opt_x:  [1.         1.         0.76357067 0.48209127 0.99999942]
+opt_p:  [3.04553729e-01 3.02916678e-01 1.07266009e-07 1.86550024e-07
+ 3.92529298e-01]
+opt_y:  0.09405469672918279
+optimal anchors:  ['I157', 'Teleost_Euteleost_Eupercaria_Perciformes_Peristediidae_Peristedion_sp', 'I214', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Lotidae_Molva_molva', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Lotidae_Lota_lota']
+optimal p:  [3.04553729e-01 3.02916678e-01 1.07266009e-07 1.86550024e-07
+ 3.92529298e-01]
+optimal x:  [1.         1.         0.76357067 0.48209127 0.99999942]
+optimal y:  0.09405469672918279
+Optimization Runtime:  2.0819437503814697

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [464 104 318 185 183]
+opt_x:  [1.        0.8485111 1.        1.        1.       ]
+opt_p:  [6.70293643e-02 9.63062245e-23 1.41309148e-01 4.69363577e-01
+ 3.22297910e-01]
+opt_y:  0.08551031952818994
+optimal anchors:  ['Daubentonia_madagascariensis', 'Xerus_inauris', 'Glis_glis', 'Eubalaena_japonica', 'Dicerorhinus_sumatrensis']
+optimal p:  [9.63062245e-23 3.22297910e-01 4.69363577e-01 1.41309148e-01
+ 6.70293643e-02]
+optimal x:  [0.8485111 1.        1.        1.        1.       ]
+optimal y:  0.08551031952818994
+Optimization Runtime:  0.46666979789733887

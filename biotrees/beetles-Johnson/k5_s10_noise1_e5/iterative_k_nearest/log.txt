@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [155 147  35 215 136]
+opt_x:  [1.         0.44081838 1.         1.         1.        ]
+opt_p:  [ 3.62491171e-01 -2.89980105e-22  2.69472077e-01  3.15504371e-01
+  5.25323805e-02]
+opt_y:  0.06597944986949736
+optimal anchors:  ['Hypothenemus_piaparolinae_I10225', 'Ernoporicus_spessivtzevi_I10220', 'Ernoporicus_sp1928_large_I10219', 'Procryphalus_mucronatus_I10231', 'Hylesinus_sp_I02536']
+optimal p:  [ 2.69472077e-01  5.25323805e-02 -2.89980105e-22  3.62491171e-01
+  3.15504371e-01]
+optimal x:  [1.         1.         0.44081838 1.         1.        ]
+optimal y:  0.06597944986949736
+Optimization Runtime:  0.25723981857299805

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [  2 166]
+opt_x:  [0.03381709 1.        ]
+opt_p:  [0.89852703 0.10147297]
+opt_y:  0.1058250316077372
+optimal anchors:  ['I3', 'Styracoptinus_murex_I13684']
+optimal p:  [0.89852703 0.10147297]
+optimal x:  [0.03381709 1.        ]
+optimal y:  0.1058250316077372
+Optimization Runtime:  0.2118055820465088

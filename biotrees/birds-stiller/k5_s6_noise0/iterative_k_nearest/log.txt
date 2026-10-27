@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [492 575 493 588 259]
+opt_x:  [0.49835146 0.96279471 0.49799292 0.49534383 1.        ]
+opt_p:  [-3.69439741e-20  5.50484895e-01 -3.67425977e-20 -2.73379792e-20
+  4.49515105e-01]
+opt_y:  0.035433215169110875
+optimal anchors:  ['Haliaeetus_leucocephalus', 'Pseudopodoces_humilis', 'Parus_major', 'Buphagus_erythrorhynchus', 'Cercotrichas_coryphaeus']
+optimal p:  [ 4.49515105e-01 -3.69439741e-20 -3.67425977e-20  5.50484895e-01
+ -2.73379792e-20]
+optimal x:  [1.         0.49835146 0.49799292 0.96279471 0.49534383]
+optimal y:  0.035433215169110875
+Optimization Runtime:  0.8247165679931641

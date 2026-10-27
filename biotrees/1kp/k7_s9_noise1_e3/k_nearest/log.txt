@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 80  82  86  87 100  98  81]
+opt_x:  [0.51903946 1.         0.44656247 0.44634613 0.43014239 0.47736546
+ 0.61254121]
+opt_p:  [-2.72267517e-07  1.00000476e+00 -9.91285016e-07 -9.91296366e-07
+ -1.05868739e-06 -1.20247048e-06 -2.50150104e-07]
+opt_y:  0.2332582387836445
+optimal anchors:  ['Cycas_micholitzii', 'Cycas_rumphii', 'Zamia_vazquezii', 'Pinus_taeda', 'Cedrus_libani', 'Cunninghamia_lanceolata', 'Sciadopitys_verticillata']
+optimal p:  [-2.72267517e-07 -2.50150104e-07  1.00000476e+00 -9.91285016e-07
+ -9.91296366e-07 -1.20247048e-06 -1.05868739e-06]
+optimal x:  [0.51903946 0.61254121 1.         0.44656247 0.44634613 0.47736546
+ 0.43014239]
+optimal y:  0.2332582387836445
+Optimization Runtime:  0.08847880363464355

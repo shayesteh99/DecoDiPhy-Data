@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [443 444 378]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.24177258 0.24219633 0.51603109]
+opt_y:  0.03713316841310849
+optimal anchors:  ['Lepidothrix_coronata', 'Corvus_cornix', 'Corvus_brachyrhynchos']
+optimal p:  [0.51603109 0.24177258 0.24219633]
+optimal x:  [1. 1. 1.]
+optimal y:  0.03713316841310849
+Optimization Runtime:  0.8265566825866699

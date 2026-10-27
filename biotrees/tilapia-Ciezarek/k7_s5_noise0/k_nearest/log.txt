@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 42  41  95  84  94  64 163]
+opt_x:  [7.62989973e-01 1.00000000e+00 1.00000000e+00 4.74045329e-01
+ 1.00000000e+00 5.26256432e-25 1.00000000e+00]
+opt_p:  [ 4.27386969e-25  6.51114219e-26  2.39485068e-01 -4.54121426e-24
+  2.39933783e-01  1.26024551e-01  3.94556599e-01]
+opt_y:  0.041910364119490756
+optimal anchors:  ['I24', 'Otanganicae__Katanga__41', 'Omacrochir__Angola__RB12-A050', 'Ohunteri__LakeChala__G1-K2G2', 'Omossambicus__SouthAfrica__RB09-059', 'Omossambicus__Mozambique__C13', 'Sgalilaeus__LakeAlbert__U1B1']
+optimal p:  [-5.01203959e-24 -4.52497217e-24  1.26024551e-01 -5.19447100e-24
+  2.39954606e-01  2.39464244e-01  3.94556599e-01]
+optimal x:  [6.88623034e-01 4.76505972e-01 8.49377078e-24 4.78238641e-01
+ 1.00000000e+00 1.00000000e+00 1.00000000e+00]
+optimal y:  0.04191036411949076
+Optimization Runtime:  0.13701844215393066

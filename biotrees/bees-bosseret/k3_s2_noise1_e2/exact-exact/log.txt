@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 5 36 47]
+opt_x:  [0.13961462 0.23458692 0.76908794]
+opt_p:  [0.56366943 0.06098617 0.3753444 ]
+opt_y:  0.023026107992819216
+optimal anchors:  ['I6', 'I21', 'Hoplonomia_elliotii']
+optimal p:  [0.56366943 0.06098617 0.3753444 ]
+optimal x:  [0.13961462 0.23458692 0.76908794]
+optimal y:  0.023026107992819216
+Optimization Runtime:  278.20466566085815

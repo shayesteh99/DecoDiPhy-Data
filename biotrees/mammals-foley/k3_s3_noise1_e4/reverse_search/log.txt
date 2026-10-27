@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 34 280 286]
+opt_x:  [0.99907251 0.37777107 1.        ]
+opt_p:  [0.35534712 0.04751848 0.5971344 ]
+opt_y:  0.13053592837310807
+optimal anchors:  ['Tupaia_tana', 'I126', 'Carollia_perspicillata']
+optimal p:  [0.34631395 0.58491682 0.06876923]
+optimal x:  [0.9970729  0.13636215 0.8802298 ]
+optimal y:  0.13053592837310812
+Optimization Runtime:  0.9775800704956055

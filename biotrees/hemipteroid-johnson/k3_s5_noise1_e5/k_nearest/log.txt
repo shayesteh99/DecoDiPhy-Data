@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [140 141 130]
+opt_x:  [0.54432116 0.48130703 1.        ]
+opt_p:  [-5.29621869e-22  4.50289525e-22  1.00000000e+00]
+opt_y:  0.10360036923313473
+optimal anchors:  ['Vidanoana_flavomaculata', 'Holdgatiella_chepuensis', 'Llanquihuea_pilosa']
+optimal p:  [ 1.00000000e+00 -5.29621869e-22  4.50289525e-22]
+optimal x:  [1.         0.54432116 0.48130703]
+optimal y:  0.10360036923313473
+Optimization Runtime:  0.20956826210021973

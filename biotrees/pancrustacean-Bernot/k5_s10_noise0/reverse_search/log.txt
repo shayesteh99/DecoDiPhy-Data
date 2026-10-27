@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [  2 103 113 139 140]
+opt_x:  [1.         1.         0.57644969 0.49678776 1.        ]
+opt_p:  [0.19554069 0.24750089 0.26413574 0.16154965 0.13127303]
+opt_y:  0.12189248712563287
+optimal anchors:  ['I4', 'I58', 'Gammarus_fossarum', 'Trachelipus_rathkei', 'Armadillo_officinalis']
+optimal p:  [0.19471194 0.23672433 0.28013281 0.1621836  0.12624732]
+optimal x:  [1.         0.39506764 0.63990189 0.39325928 0.98885182]
+optimal y:  0.12262852004657378
+Optimization Runtime:  1.634751796722412

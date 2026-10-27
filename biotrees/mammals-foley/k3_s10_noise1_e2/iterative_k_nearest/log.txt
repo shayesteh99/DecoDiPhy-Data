@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [288 208 212]
+opt_x:  [1.         1.         0.43011122]
+opt_p:  [7.27344572e-01 2.72655428e-01 5.69211243e-22]
+opt_y:  0.07124677465245562
+optimal anchors:  ['Cuniculus_paca', 'Hydrochoerus_hydrochaeris', 'I147']
+optimal p:  [0.28825144 0.14929477 0.5624538 ]
+optimal x:  [1.         1.         0.60016382]
+optimal y:  0.0789031686509233
+Optimization Runtime:  0.35973238945007324

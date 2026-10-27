@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [176 144 177 169 171]
+opt_x:  [1.         1.         1.         0.50121404 0.48366793]
+opt_p:  [ 3.07956456e-01  3.85324874e-01  3.06718670e-01  1.75606143e-22
+ -5.23850089e-23]
+opt_y:  0.05515338416804804
+optimal anchors:  ['Triacanthodidae_Hollardia_hollardia_Vims40109', 'Balistidae_Xanthichthys_caeruleolineatus_USNMAG7PV58', 'Balistidae_Xanthichthys_lineopunctatus_EPLATE_51_A12', 'Balistidae_Melichthys_vidua_STRIBFT11786', 'Balistidae_Melichthys_niger_UPRFL0061']
+optimal p:  [ 3.85324874e-01  1.75606143e-22 -5.23850089e-23  3.07956456e-01
+  3.06718670e-01]
+optimal x:  [1.         0.50121404 0.48366793 1.         1.        ]
+optimal y:  0.05515338416804804
+Optimization Runtime:  0.18071222305297852

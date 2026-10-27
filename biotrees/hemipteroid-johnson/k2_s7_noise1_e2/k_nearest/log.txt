@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [60 61]
+opt_x:  [1. 1.]
+opt_p:  [0.50024593 0.49975407]
+opt_y:  0.07600628273427047
+optimal anchors:  ['Arilus_cristatus', 'Rhodnius_prolixus']
+optimal p:  [0.50024593 0.49975407]
+optimal x:  [1. 1.]
+optimal y:  0.07600628273427047
+Optimization Runtime:  0.21413016319274902

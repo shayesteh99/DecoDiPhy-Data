@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [259 182 309]
+opt_x:  [0.49814357 1.         1.        ]
+opt_p:  [-6.98337094e-22  2.77435940e-01  7.22564060e-01]
+opt_y:  0.156792459449155
+optimal anchors:  ['Cycadothrips_chadwicki', 'Badonnelia_titei', 'I159']
+optimal p:  [0.29169866 0.31362505 0.39467629]
+optimal x:  [1.         1.         0.99127416]
+optimal y:  0.17891184837366553
+Optimization Runtime:  0.27382707595825195

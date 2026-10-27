@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [452 441]
+opt_x:  [1. 1.]
+opt_p:  [0.10018576 0.89981424]
+opt_y:  0.01655111779688264
+optimal anchors:  ['Mustela_putorius', 'Neomonachus_schauinslandi']
+optimal p:  [0.89981424 0.10018576]
+optimal x:  [1. 1.]
+optimal y:  0.01655111779688264
+Optimization Runtime:  0.35147786140441895

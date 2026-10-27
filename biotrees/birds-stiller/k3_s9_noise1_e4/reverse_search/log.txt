@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [380 622 623]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.60603794 0.19795716 0.1960049 ]
+opt_y:  0.04362632296632685
+optimal anchors:  ['Cephalopterus_ornatus', 'Taeniopygia_guttata', 'I316']
+optimal p:  [0.60603794 0.19795716 0.1960049 ]
+optimal x:  [1. 1. 1.]
+optimal y:  0.04362632296632685
+Optimization Runtime:  2.789102792739868

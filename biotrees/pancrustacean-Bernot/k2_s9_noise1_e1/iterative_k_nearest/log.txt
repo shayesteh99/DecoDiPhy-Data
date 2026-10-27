@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [123 111]
+opt_x:  [0.21856085 1.        ]
+opt_p:  [-5.37762413e-22  1.00000000e+00]
+opt_y:  0.17761902599865953
+optimal anchors:  ['Paraceradocus_miersii', 'Gammarus_chevreuxi']
+optimal p:  [ 1.00000000e+00 -5.37762413e-22]
+optimal x:  [1.         0.21856085]
+optimal y:  0.17761902599865953
+Optimization Runtime:  0.10534191131591797

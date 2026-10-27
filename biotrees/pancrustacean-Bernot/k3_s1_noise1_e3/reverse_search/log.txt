@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 35 153 193]
+opt_x:  [0.63929764 1.         1.        ]
+opt_p:  [0.54765298 0.25371719 0.19862983]
+opt_y:  0.34510927226654275
+optimal anchors:  ['I19', 'Sphaeroma_terebrans', 'Enoplometopus_cf_daumi']
+optimal p:  [0.54765298 0.25371719 0.19862983]
+optimal x:  [0.63929764 1.         1.        ]
+optimal y:  0.34510927226654275
+Optimization Runtime:  0.2713174819946289

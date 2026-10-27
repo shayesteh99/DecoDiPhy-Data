@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [18 72]
+opt_x:  [0.6825485  0.65268152]
+opt_p:  [0.26030964 0.73969036]
+opt_y:  0.05093170384646007
+optimal anchors:  ['GEOFO', 'TAUER']
+optimal p:  [0.26030964 0.73969036]
+optimal x:  [0.6825485  0.65268152]
+optimal y:  0.05093170384646007
+Optimization Runtime:  52.25286626815796

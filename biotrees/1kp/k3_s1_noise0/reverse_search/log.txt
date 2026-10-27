@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 55  69 155]
+opt_x:  [0.51800358 1.         1.        ]
+opt_p:  [7.46192512e-22 5.72894685e-01 4.27105315e-01]
+opt_y:  0.22477383400503487
+optimal anchors:  ['I27', 'Diospyros_malabarica', 'Leucodon_brachypus']
+optimal p:  [0.33913368 0.23853524 0.42233108]
+optimal x:  [0.84593342 1.         1.        ]
+optimal y:  0.2261568603007661
+Optimization Runtime:  1.075406551361084

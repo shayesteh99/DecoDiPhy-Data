@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 34  72  90 150 153]
+opt_x:  [0.08878275 0.47218232 0.13147011 0.17165202 1.        ]
+opt_p:  [0.10958506 0.10320339 0.38838533 0.25149386 0.14733236]
+opt_y:  0.0027792498218113656
+optimal anchors:  ['Oamphimelas__LakeManyara__P3H1', 'Osquamipinnis__LakeKingiri__94A', 'Ojipe__NyumbayaMunga__P2G6', 'I81', 'I83']
+optimal p:  [0.10969928 0.10317225 0.38801905 0.16930276 0.22980666]
+optimal x:  [0.25583568 0.47153258 0.12755695 0.60185394 0.04370928]
+optimal y:  0.0028329776657915196
+Optimization Runtime:  0.45159173011779785

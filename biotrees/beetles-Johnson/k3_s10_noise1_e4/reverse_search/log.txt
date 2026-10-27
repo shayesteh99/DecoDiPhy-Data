@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 96 115 148]
+opt_x:  [0.73106783 1.         1.        ]
+opt_p:  [0.3097752  0.268436   0.42178879]
+opt_y:  0.067035126034407
+optimal anchors:  ['I53', 'Dendroterus_defectus_I13656', 'I81']
+optimal p:  [0.3097752  0.268436   0.42178879]
+optimal x:  [0.73106783 1.         1.        ]
+optimal y:  0.067035126034407
+Optimization Runtime:  0.4114835262298584

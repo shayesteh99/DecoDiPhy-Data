@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [180 249 309]
+opt_x:  [0.87545889 1.         0.91587473]
+opt_p:  [0.60023704 0.24649234 0.15327062]
+opt_y:  0.20713428567167894
+optimal anchors:  ['I94', 'Echinophthirius_horridus', 'Tribolium_castaneum']
+optimal p:  [0.60023704 0.24649234 0.15327062]
+optimal x:  [0.87545889 1.         0.91587473]
+optimal y:  0.20713428567167894
+Optimization Runtime:  0.6874425411224365

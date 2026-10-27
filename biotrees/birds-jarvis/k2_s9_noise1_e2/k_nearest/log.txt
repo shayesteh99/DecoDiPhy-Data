@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [42 63]
+opt_x:  [0.49282546 0.83395844]
+opt_p:  [-6.46625867e-22  1.00000000e+00]
+opt_y:  0.0662369362202979
+optimal anchors:  ['CATAU', 'CHAVO']
+optimal p:  [-6.46625867e-22  1.00000000e+00]
+optimal x:  [0.49282546 0.83395844]
+optimal y:  0.0662369362202979
+Optimization Runtime:  0.03959941864013672

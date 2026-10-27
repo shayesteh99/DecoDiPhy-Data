@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [417 404 407]
+opt_x:  [0.46336398 1.         0.66472813]
+opt_p:  [ 3.01979837e-22  1.00000000e+00 -2.60147119e-22]
+opt_y:  0.014535304919441609
+optimal anchors:  ['Cryptoprocta_ferox', 'Suricata_suricatta', 'Felis_catus']
+optimal p:  [ 1.00000000e+00 -2.60147119e-22  3.01979837e-22]
+optimal x:  [1.         0.66472813 0.46336398]
+optimal y:  0.014535304919441609
+Optimization Runtime:  0.3300192356109619

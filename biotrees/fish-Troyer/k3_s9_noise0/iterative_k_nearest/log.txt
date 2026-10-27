@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [171 139 229]
+opt_x:  [0.52028214 0.85139607 1.        ]
+opt_p:  [4.25215692e-22 6.47980359e-01 3.52019641e-01]
+opt_y:  -5.711193175841622e-21
+optimal anchors:  ['Lophiidae_Lophius_litulon_CSIROGT6889', 'Balistidae_Melichthys_vidua_STRIBFT11786', 'Monacanthidae_Paramonacanthus_japonicus_EPLATE_51_B11']
+optimal p:  [0.43771919 0.29445333 0.26782748]
+optimal x:  [0.84403115 1.         0.90640636]
+optimal y:  0.012862002781814777
+Optimization Runtime:  0.16753530502319336

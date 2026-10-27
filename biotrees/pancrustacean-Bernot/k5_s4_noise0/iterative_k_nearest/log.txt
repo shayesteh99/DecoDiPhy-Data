@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 15 195  39 182  56]
+opt_x:  [1.         1.         0.69913375 1.         0.78468118]
+opt_p:  [ 3.54998886e-01  4.58088225e-03 -2.76051902e-22  1.72045942e-01
+  4.68374290e-01]
+opt_y:  0.319047076898335
+optimal anchors:  ['I10', 'Godzilliognomus_frondosus', 'Tigriopus_californicus', 'Neocaridina_denticulata', 'Cherax_destructor']
+optimal p:  [0.39000464 0.02370917 0.25941141 0.15625153 0.17062326]
+optimal x:  [0.64603152 1.         0.95724049 1.         1.        ]
+optimal y:  0.4509725224946881
+Optimization Runtime:  0.21387839317321777

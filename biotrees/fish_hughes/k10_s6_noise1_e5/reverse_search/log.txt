@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [117 167 260 376 386 478 486 518 568 582]
+opt_x:  [1.00000000e+00 1.00000000e+00 1.00000000e+00 1.00000000e+00
+ 7.07395576e-23 1.00000000e+00 7.13192458e-23 1.00000000e+00
+ 1.00000000e+00 9.99198138e-01]
+opt_p:  [0.11942756 0.06378145 0.06886944 0.0846002  0.11860875 0.19676863
+ 0.06435265 0.09448547 0.07827462 0.11083123]
+opt_y:  0.20194398127402963
+optimal anchors:  ['I4', 'I19', 'Teleost_Euteleost_Ovalentaria_Pseudochromidae_Pseudochromis_fuscus', 'Teleost_Euteleost_Anabantaria_Synbranchiformes_Synbranchidae_Monopterus_albus', 'I146', 'I210', 'Teleost_Euteleost_Lepidogalaxiiformes_Lepidogalaxiidae_Lepidogalaxias_salamandroides', 'I260', 'Teleost_Otophysa_Characiformes_Distichodontidae_Distichodus_sexfasciatus', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Osteoglossum_bicirrhosum']
+optimal p:  [0.11545581 0.08550119 0.11940775 0.06364138 0.06878643 0.11857329
+ 0.19403552 0.06269947 0.09647648 0.07542268]
+optimal x:  [4.66204115e-01 1.00000000e+00 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00 4.71923778e-22 1.00000000e+00 1.56764821e-01
+ 1.00000000e+00 1.00000000e+00]
+optimal y:  0.20240770894117152
+Optimization Runtime:  152.6840569972992

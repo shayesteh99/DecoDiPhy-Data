@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [142 148]
+opt_x:  [1.0000000e+00 1.4080228e-21]
+opt_p:  [0.8208549 0.1791451]
+opt_y:  0.033639613882646954
+optimal anchors:  ['I74', 'Ourolepis__Kilombero__F3']
+optimal p:  [0.82357857 0.17642143]
+optimal x:  [1.         0.00670405]
+optimal y:  0.03308798456774565
+Optimization Runtime:  0.516819953918457

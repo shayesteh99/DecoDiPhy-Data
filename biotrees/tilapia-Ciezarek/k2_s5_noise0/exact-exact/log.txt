@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 66 158]
+opt_x:  [0.33357328 0.27807775]
+opt_p:  [0.79684452 0.20315548]
+opt_y:  0.0024771874464820896
+optimal anchors:  ['Omacrochir__Angola__RB12-A050', 'Ourolepis__ZanzibarSite4__Z1D7']
+optimal p:  [0.79684452 0.20315548]
+optimal x:  [0.33357328 0.27807775]
+optimal y:  0.0024771874464820896
+Optimization Runtime:  214.3866469860077

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [53 61 76]
+opt_x:  [0.85750251 0.40613184 0.93931691]
+opt_p:  [0.4229919  0.06952589 0.50748221]
+opt_y:  0.061979273295853336
+optimal anchors:  ['EGRGA', 'CHAVO', 'MESUN']
+optimal p:  [0.4229919  0.06952589 0.50748221]
+optimal x:  [0.85750251 0.40613184 0.93931691]
+optimal y:  0.061979273295853336
+Optimization Runtime:  1434.9818150997162

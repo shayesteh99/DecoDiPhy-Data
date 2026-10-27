@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [128 131 183 329 398 399 416]
+opt_x:  [1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.18786357 0.18768662 0.05156503 0.29978115 0.0280754  0.02878452
+ 0.21624372]
+opt_y:  0.09536688247101231
+optimal anchors:  ['I68', 'Castor_canadensis', 'Xerus_inauris', 'Ziphius_cavirostris', 'Mungos_mungo', 'Suricata_suricatta', 'I216']
+optimal p:  [0.18786357 0.18768662 0.05156503 0.29978115 0.0280754  0.02878452
+ 0.21624372]
+optimal x:  [1. 1. 1. 1. 1. 1. 1.]
+optimal y:  0.09536688247101231
+Optimization Runtime:  1.0070786476135254

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [106 228 229]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.56534552 0.21733935 0.21731514]
+opt_y:  0.05912007752455291
+optimal anchors:  ['I56', 'Sula_dactylatra', 'I117']
+optimal p:  [0.56534552 0.21733935 0.21731514]
+optimal x:  [1. 1. 1.]
+optimal y:  0.05912007752455291
+Optimization Runtime:  2.832239866256714

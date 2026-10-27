@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 30  32  78 207 330]
+opt_x:  [1.       0.751891 1.       1.       1.      ]
+opt_p:  [0.18719562 0.09533625 0.338159   0.18554988 0.19375925]
+opt_y:  0.14005548875045581
+optimal anchors:  ['I6', 'I15', 'Lygaeus_equestris', 'Zootermopsis_nevadensis', 'I174']
+optimal p:  [0.35212067 0.11970815 0.13943607 0.19208905 0.19664606]
+optimal x:  [0.40777138 0.34079968 0.9874788  1.         1.        ]
+optimal y:  0.13823660869785095
+Optimization Runtime:  0.5834009647369385

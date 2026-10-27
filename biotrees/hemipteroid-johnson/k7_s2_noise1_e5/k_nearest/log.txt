@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [92 87 83 95 94 12  9]
+opt_x:  [1.         0.57575412 0.73040532 0.30963464 0.30074837 0.44712434
+ 1.        ]
+opt_p:  [ 9.68817651e-01 -1.06999765e-05 -5.00060138e-06  5.39475146e-06
+  5.43162249e-06 -6.28147914e-06  3.11936224e-02]
+opt_y:  0.19376595934951055
+optimal anchors:  ['Scutelleridae_sp', 'Sehirus_cincutus', 'Belostoma_flumineum', 'Notonecta_glauca', 'Gelastocoris_oculatus', 'Corixa_punctata', 'Trichocorixa_calva']
+optimal p:  [ 3.11936224e-02 -6.28147914e-06 -5.00060138e-06 -1.06999765e-05
+  9.68817651e-01  5.43162249e-06  5.39475146e-06]
+optimal x:  [1.         0.44712434 0.73040532 0.57575412 1.         0.30074837
+ 0.30963464]
+optimal y:  0.19376595934951055
+Optimization Runtime:  0.24976730346679688

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 11 587]
+opt_x:  [8.96705014e-22 4.65442087e-01]
+opt_p:  [1.00000000e+00 7.53871124e-21]
+opt_y:  0.29605683406732974
+optimal anchors:  ['I9', 'Teleost_Osteoglossiformes_Osteoglossiformes_Notopteridae_Papyrocranus_afer']
+optimal p:  [1.00000000e+00 7.53871124e-21]
+optimal x:  [8.96705014e-22 4.65442087e-01]
+optimal y:  0.29605683406732974
+Optimization Runtime:  1.9726264476776123

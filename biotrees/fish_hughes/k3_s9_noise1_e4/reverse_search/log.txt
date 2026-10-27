@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [290 399 485]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.43742722 0.22725369 0.33531908]
+opt_y:  0.12835233838678636
+optimal anchors:  ['I157', 'I215', 'Teleost_Euteleost_Argentiniformes_Argentinidae_Argentina_sp']
+optimal p:  [0.43742722 0.22725369 0.33531908]
+optimal x:  [1. 1. 1.]
+optimal y:  0.12835233838678636
+Optimization Runtime:  1.8047540187835693

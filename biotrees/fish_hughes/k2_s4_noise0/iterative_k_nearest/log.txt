@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [260 328]
+opt_x:  [0.43911985 0.04707652]
+opt_p:  [0.5544583 0.4455417]
+opt_y:  -2.5859799603917305e-20
+optimal anchors:  ['Teleost_Euteleost_Eupercaria_Labriformes_Scaridae_Scarus_ghobban', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Thunnus_orientalis']
+optimal p:  [0.5544583 0.4455417]
+optimal x:  [0.43911985 0.04707652]
+optimal y:  -2.5859799603917305e-20
+Optimization Runtime:  0.4728701114654541

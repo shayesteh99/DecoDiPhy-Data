@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [57 62]
+opt_x:  [0.80464967 0.69354973]
+opt_p:  [ 1.00000002e+00 -1.60325213e-08]
+opt_y:  0.04791898675685441
+optimal anchors:  ['DAS', 'LOX']
+optimal p:  [ 1.00000002e+00 -1.60325213e-08]
+optimal x:  [0.80464967 0.69354973]
+optimal y:  0.04791898675685441
+Optimization Runtime:  0.04059958457946777

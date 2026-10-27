@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [171 146 232]
+opt_x:  [0.49056289 1.         1.        ]
+opt_p:  [-1.50083631e-21  7.09466141e-01  2.90533859e-01]
+opt_y:  0.049762012588336894
+optimal anchors:  ['Triacanthodidae_Hollardia_hollardia_Vims40109', 'Balistidae_Melichthys_vidua_STRIBFT11786', 'Monacanthidae_Paramonacanthus_japonicus_EPLATE_51_B11']
+optimal p:  [ 7.09466141e-01 -1.50083631e-21  2.90533859e-01]
+optimal x:  [1.         0.49056289 1.        ]
+optimal y:  0.049762012588336894
+Optimization Runtime:  0.19613361358642578

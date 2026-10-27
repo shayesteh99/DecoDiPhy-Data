@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [20 29]
+opt_x:  [1. 1.]
+opt_p:  [0.633135 0.366865]
+opt_y:  0.014298657204471519
+optimal anchors:  ['I12', 'Stictonomia_sangaensis']
+optimal p:  [0.68302437 0.31697563]
+optimal x:  [0.81849657 1.        ]
+optimal y:  0.01555067676137924
+Optimization Runtime:  0.1073007583618164

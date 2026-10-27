@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [27 55 84]
+opt_x:  [0.94163592 0.33204882 0.83676301]
+opt_p:  [0.3105397  0.25280871 0.43665159]
+opt_y:  0.5000206408203753
+optimal anchors:  ['Spodoptera_litura', 'I30', 'I46']
+optimal p:  [0.3105397  0.25280871 0.43665159]
+optimal x:  [0.94163592 0.33204882 0.83676301]
+optimal y:  0.5000206408203753
+Optimization Runtime:  18329.509632349014

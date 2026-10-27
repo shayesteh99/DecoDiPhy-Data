@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [35 25]
+opt_x:  [1. 1.]
+opt_p:  [0.41379539 0.58620461]
+opt_y:  0.012768179665075794
+optimal anchors:  ['Nomiapis_diversipes', 'I19']
+optimal p:  [0.35552061 0.64447939]
+optimal x:  [1.         0.39035345]
+optimal y:  0.014681111588481606
+Optimization Runtime:  0.11731767654418945

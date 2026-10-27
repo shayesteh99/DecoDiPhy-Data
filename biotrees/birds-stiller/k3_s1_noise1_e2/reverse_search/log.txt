@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 62 135 584]
+opt_x:  [0.90689603 0.59250005 1.        ]
+opt_p:  [0.30023959 0.42202195 0.27773845]
+opt_y:  0.04959603461731998
+optimal anchors:  ['I33', 'I71', 'Buphagus_erythrorhynchus']
+optimal p:  [0.30023959 0.42202195 0.27773845]
+optimal x:  [0.90689603 0.59250005 1.        ]
+optimal y:  0.04959603461731998
+Optimization Runtime:  3.0934455394744873

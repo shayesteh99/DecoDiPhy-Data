@@ -1,0 +1,15 @@
+created matrices
+opt_anchors:  [ 58 128 133 190 236 239 240 241 248 270]
+opt_x:  [1.00000000e+00 1.00000000e+00 1.00000000e+00 1.00000000e+00
+ 4.24627822e-22 3.75297671e-01 6.92583913e-01 7.73990727e-01
+ 1.00000000e+00 9.41272093e-01]
+opt_p:  [0.16897979 0.1005562  0.099674   0.21041966 0.04729323 0.02338762
+ 0.01862341 0.01976062 0.20786761 0.10343787]
+opt_y:  0.13014730769745633
+optimal anchors:  ['Notostira_elongata', 'I72', 'I75', 'Eurylophella_sp', 'Pediculus_humanus', 'Haematomyzus_elephantis', 'Geomydoecus_ewingi', 'Columbicola_columbae', 'Stimulopalpus_japonicus', 'Heterocaecilius_solocipennis']
+optimal p:  [0.1689793  0.10056354 0.09966584 0.21039756 0.02759158 0.02281407
+ 0.02499707 0.03346824 0.20811743 0.10340537]
+optimal x:  [1.         1.         1.         1.         0.59084835 0.89641902
+ 0.93336732 0.97250609 1.         0.94123225]
+optimal y:  0.13063321000057507
+Optimization Runtime:  0.5736391544342041

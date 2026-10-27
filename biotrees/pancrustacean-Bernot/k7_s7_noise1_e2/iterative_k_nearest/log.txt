@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 35 192  17 162 160  15  28]
+opt_x:  [0.99999998 1.         1.         0.99999991 0.49433918 0.99999999
+ 1.        ]
+opt_p:  [ 3.45838282e-01  1.79068744e-01 -4.39659232e-09  4.69626869e-02
+  3.64731097e-09  4.17136412e-01  1.09938748e-02]
+opt_y:  0.3649471201667607
+optimal anchors:  ['I11', 'Acyrthosiphon_pisum', 'Meinertellus_cundinamarcensis', 'I19', 'Litopenaeus_vannamei', 'Sergestes_similis', 'Lysiosquillina_maculata']
+optimal p:  [1.52450106e-03 1.87405902e-01 1.15694955e-02 4.52271998e-01
+ 1.30000410e-21 1.80930805e-01 1.66297298e-01]
+optimal x:  [1.         0.90165629 0.3816277  0.75741689 0.48371498 1.
+ 1.        ]
+optimal y:  0.39166566312112616
+Optimization Runtime:  0.32383179664611816

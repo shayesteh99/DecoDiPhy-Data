@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [132 146]
+opt_x:  [1. 1.]
+opt_p:  [0.59940841 0.40059159]
+opt_y:  0.2968701426480185
+optimal anchors:  ['Stygiomysis_cokei', 'I76']
+optimal p:  [0.56981663 0.43018337]
+optimal x:  [1.         0.46139621]
+optimal y:  0.3090113892857213
+Optimization Runtime:  0.2974252700805664

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [580 452 450]
+opt_x:  [8.36714423e-01 1.00000000e+00 1.50800319e-22]
+opt_p:  [ 6.74996358e-01 -2.47741049e-23  3.25003642e-01]
+opt_y:  -1.4158718539175544e-21
+optimal anchors:  ['Teleost_Euteleost_Percopsaria_Percopsiformes_Percopsidae_Percopsis_transmontana', 'Teleost_Euteleost_Polymixiiformes_Polymixiidae_Polymixia_japonica', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Scleropages_formosus']
+optimal p:  [ 3.25003642e-01 -2.47741049e-23  6.74996358e-01]
+optimal x:  [1.50800319e-22 1.00000000e+00 8.36714423e-01]
+optimal y:  -1.4158718539175544e-21
+Optimization Runtime:  0.5462982654571533

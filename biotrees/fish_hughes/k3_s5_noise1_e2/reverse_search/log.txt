@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 20 280 284]
+opt_x:  [1.         0.29679571 1.        ]
+opt_p:  [0.8572552  0.01661729 0.12612751]
+opt_y:  0.16645449079952968
+optimal anchors:  ['I18', 'I154', 'Teleost_Euteleost_Eupercaria_Perciformes_Sebastidae_Sebastes_nigrocinctus']
+optimal p:  [0.85725469 0.13448633 0.00825896]
+optimal x:  [1.         0.9363953  0.45110278]
+optimal y:  0.16645569043888753
+Optimization Runtime:  1.7831494808197021

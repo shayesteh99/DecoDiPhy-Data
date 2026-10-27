@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [153  71]
+opt_x:  [1. 1.]
+opt_p:  [0.16524863 0.83475137]
+opt_y:  0.036728473815393285
+optimal anchors:  ['Hypocryphalus_ovalicollis_I13632', 'Ernoporicus_fagi_I10218']
+optimal p:  [0.83475137 0.16524863]
+optimal x:  [1. 1.]
+optimal y:  0.036728473815393285
+Optimization Runtime:  0.15620708465576172

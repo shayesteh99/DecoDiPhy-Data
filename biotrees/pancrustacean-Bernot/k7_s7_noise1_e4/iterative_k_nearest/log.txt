@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 35 192  28 162  17 184   9]
+opt_x:  [1.         1.         0.19392678 1.         1.         0.14466326
+ 1.        ]
+opt_p:  [ 3.15052266e-01  1.85875493e-01  1.79449342e-07  1.00545995e-01
+  3.79236623e-01 -3.96290262e-10  1.92894437e-02]
+opt_y:  0.3408831438870699
+optimal anchors:  ['Megajapyx_major', 'I14', 'Machilis_hrabei', 'I19', 'Sergestes_similis', 'Cherax_destructor', 'Lysiosquillina_maculata']
+optimal p:  [-6.16516058e-07  1.27986868e-01  1.69363129e-07  5.26707382e-01
+  1.79376000e-01 -1.02837829e-09  1.65930197e-01]
+optimal x:  [0.31962843 0.78184206 0.21144857 0.94703583 1.         0.2598238
+ 1.        ]
+optimal y:  0.4562328796290917
+Optimization Runtime:  0.2919044494628906

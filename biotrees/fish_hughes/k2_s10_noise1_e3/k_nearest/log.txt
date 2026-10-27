@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [579 574]
+opt_x:  [1.         0.50136402]
+opt_p:  [ 1.00000000e+00 -6.71811469e-21]
+opt_y:  0.2247781026737509
+optimal anchors:  ['Teleost_Anguilliformes_Anguillidae_Anguilla_japonica', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides']
+optimal p:  [-6.71811469e-21  1.00000000e+00]
+optimal x:  [0.50136402 1.        ]
+optimal y:  0.2247781026737509
+Optimization Runtime:  0.5223801136016846

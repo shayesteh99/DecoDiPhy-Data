@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [ 63  69 110 120 171 173 174 175 177 178]
+opt_x:  [0.49057766 0.9999998  1.         1.         1.         0.53515539
+ 0.53877256 0.59400139 0.53629453 1.        ]
+opt_p:  [ 3.07236768e-08  1.46956385e-01  1.40736203e-01  1.73674000e-01
+  2.69318834e-01 -1.15080762e-06 -1.09553845e-06 -1.05758422e-06
+ -9.67891894e-07  2.69318821e-01]
+opt_y:  0.02577558315610242
+optimal anchors:  ['Tetraodontidae_Canthigaster_punctatissima_UPRFL0354', 'Tetraodontidae_Canthigaster_cyanospilota_EPLATE_51_B07', 'Tetraodontidae_Sphoeroides_nephelus_USNMAC4YB58', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Tetraodontidae_Takifugu_rubripes', 'I94', 'I95', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Balistidae_Pseudobalistes_fuscus', 'I97', 'Balistidae_Balistes_vetula_UPRFL0353', 'I99']
+optimal p:  [ 3.07236768e-08  1.46956385e-01  1.40736203e-01  1.73674000e-01
+  2.69318834e-01 -1.15080762e-06 -1.09553845e-06 -1.05758422e-06
+ -9.67891894e-07  2.69318821e-01]
+optimal x:  [0.49057766 0.9999998  1.         1.         1.         0.53515539
+ 0.53877256 0.59400139 0.53629453 1.        ]
+optimal y:  0.02577558315610242
+Optimization Runtime:  0.39575719833374023

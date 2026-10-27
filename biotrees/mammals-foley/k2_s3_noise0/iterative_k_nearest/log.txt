@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [300  34]
+opt_x:  [2.42320719e-01 4.78794425e-23]
+opt_p:  [0.24100613 0.75899387]
+opt_y:  0.01587897257852021
+optimal anchors:  ['Tupaia_tana', 'Hipposideros_armiger']
+optimal p:  [0.75899387 0.24100613]
+optimal x:  [4.78794425e-23 2.42320719e-01]
+optimal y:  0.01587897257852021
+Optimization Runtime:  0.296161413192749

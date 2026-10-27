@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 87  89 117]
+opt_x:  [3.20203132e-20 1.48282965e-20 1.00000000e+00]
+opt_p:  [0.04859424 0.03868772 0.91271804]
+opt_y:  0.14070237736852004
+optimal anchors:  ['Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Melanochromis_auratus', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Labeotropheus_fuelleborni', 'Teleost_Euteleost_Ovalentaria_Pseudochromidae_Pseudochromis_fuscus']
+optimal p:  [0.04859424 0.03868772 0.91271804]
+optimal x:  [3.20203132e-20 1.48282965e-20 1.00000000e+00]
+optimal y:  0.14070237736852004
+Optimization Runtime:  1.854623794555664

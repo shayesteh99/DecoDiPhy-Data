@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [290 303]
+opt_x:  [0.8355608 1.       ]
+opt_p:  [0.74296356 0.25703644]
+opt_y:  0.046545273422074124
+optimal anchors:  ['Rousettus_aegyptiacus', 'Craseonycteris_thonglongyai']
+optimal p:  [0.74296356 0.25703644]
+optimal x:  [0.8355608 1.       ]
+optimal y:  0.046545273422074124
+Optimization Runtime:  6.224982023239136

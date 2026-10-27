@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [161 157]
+opt_x:  [0.48863832 1.        ]
+opt_p:  [5.10916701e-22 1.00000000e+00]
+opt_y:  0.10509648679518202
+optimal anchors:  ['Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'Teleost_Euteleost_Anabantaria_Synbranchiformes_Mastacembelidae_Mastacembelus_armatus']
+optimal p:  [1.00000000e+00 5.10916701e-22]
+optimal x:  [1.         0.48863832]
+optimal y:  0.10509648679518202
+Optimization Runtime:  0.4822819232940674

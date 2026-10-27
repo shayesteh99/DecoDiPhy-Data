@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [263 325]
+opt_x:  [1.72713147e-20 1.00000000e+00]
+opt_p:  [0.00765324 0.99234676]
+opt_y:  0.1425261286781689
+optimal anchors:  ['Teleost_Euteleost_Eupercaria_Labriformes_Labridae_Symphodus_melops', 'I174']
+optimal p:  [0.00765324 0.99234676]
+optimal x:  [1.72713147e-20 1.00000000e+00]
+optimal y:  0.1425261286781689
+Optimization Runtime:  2.2399539947509766

@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [578 575 487 552 460]
+opt_x:  [0.59487116 1.         0.22239398 1.         1.        ]
+opt_p:  [3.40387494e-01 3.70040866e-02 4.27605597e-22 4.24740192e-01
+ 1.97868227e-01]
+opt_y:  0.22085990616376883
+optimal anchors:  ['Teleost_Euteleost_Aulopiformes_Chlorophthalmidae_Parasudis_fraserbrunneri', 'Teleost_Euteleost_Argentiniformes_Argentinidae_Argentina_sp', 'I252', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Scleropages_formosus']
+optimal p:  [ 2.22989405e-01 -1.46074947e-22  3.51826007e-01  6.45582335e-02
+  3.60626355e-01]
+optimal x:  [1.00000000e+00 3.57790049e-01 1.36613687e-22 1.00000000e+00
+ 6.38238304e-01]
+optimal y:  0.2105876942030253
+Optimization Runtime:  0.5969643592834473

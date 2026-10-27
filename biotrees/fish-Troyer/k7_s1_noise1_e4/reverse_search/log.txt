@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 33  63  65  67  70 225 226]
+opt_x:  [1.         1.         0.51379871 0.49419738 1.         1.
+ 1.        ]
+opt_p:  [ 2.56756280e-01  1.78691286e-01  3.12449585e-23 -1.73127929e-23
+  1.78248850e-01  1.93040813e-01  1.93262771e-01]
+opt_y:  0.01010098901579291
+optimal anchors:  ['I19', 'I36', 'I37', 'Tetraodontidae_Canthigaster_marquesensis_USNMAG7PY23', 'Tetraodontidae_Canthigaster_punctatissima_UPRFL0354', 'Monacanthidae_Paramonacanthus_japonicus_EPLATE_51_B11', 'I120']
+optimal p:  [0.22355745 0.34160248 0.0054403  0.02098426 0.02128418 0.19356568
+ 0.19356566]
+optimal x:  [1.         0.99368873 1.         0.2653674  0.5003463  1.
+ 1.        ]
+optimal y:  0.020117009306346363
+Optimization Runtime:  0.4691939353942871

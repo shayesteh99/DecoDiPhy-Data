@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 51 145]
+opt_x:  [0.60475686 1.        ]
+opt_p:  [0.47895995 0.52104005]
+opt_y:  0.37273101845743556
+optimal anchors:  ['I27', 'Ligia_exotica']
+optimal p:  [0.47895995 0.52104005]
+optimal x:  [0.60475686 1.        ]
+optimal y:  0.37273101845743556
+Optimization Runtime:  0.2849552631378174

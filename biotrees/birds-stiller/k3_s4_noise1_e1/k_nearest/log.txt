@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [238 239 235]
+opt_x:  [0.5017841  0.50225163 0.99999693]
+opt_p:  [3.46993551e-06 3.46885624e-06 9.99993055e-01]
+opt_y:  0.030813494209015704
+optimal anchors:  ['Phalacrocorax_pelagicus', 'Phalacrocorax_auritus', 'Phalacrocorax_harrisi']
+optimal p:  [9.99993055e-01 3.46993551e-06 3.46885624e-06]
+optimal x:  [0.99999693 0.5017841  0.50225163]
+optimal y:  0.030813494209015704
+Optimization Runtime:  0.7708911895751953

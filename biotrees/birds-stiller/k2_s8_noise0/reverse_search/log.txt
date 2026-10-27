@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [232 374]
+opt_x:  [0.58315354 0.4629535 ]
+opt_p:  [0.47418219 0.52581781]
+opt_y:  0.029200931712161565
+optimal anchors:  ['Anhinga_rufa', 'I192']
+optimal p:  [0.47418219 0.52581781]
+optimal x:  [0.58315354 0.4629535 ]
+optimal y:  0.029200931712161565
+Optimization Runtime:  3.7743725776672363

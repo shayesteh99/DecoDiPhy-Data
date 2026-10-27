@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 34 105]
+opt_x:  [0.48333218 0.22127589]
+opt_p:  [ 1.00000000e+00 -3.01836821e-22]
+opt_y:  0.1334408950858292
+optimal anchors:  ['Tupaia_tana', 'Daubentonia_madagascariensis']
+optimal p:  [ 1.00000000e+00 -3.01836821e-22]
+optimal x:  [0.48333218 0.22127589]
+optimal y:  0.1334408950858292
+Optimization Runtime:  0.35908007621765137

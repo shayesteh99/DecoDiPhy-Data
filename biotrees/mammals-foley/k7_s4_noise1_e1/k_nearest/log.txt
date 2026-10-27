@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [59 60 57 55 56 65 63]
+opt_x:  [0.50301262 0.50177428 0.51351269 0.50371966 0.51417565 1.
+ 0.51407756]
+opt_p:  [-1.63178884e-21 -9.50460838e-22 -4.44922628e-22 -1.82978550e-21
+ -1.44939472e-21  1.00000000e+00  1.48545078e-21]
+opt_y:  0.07331360611115166
+optimal anchors:  ['Mandrillus_leucophaeus', 'Cercocebus_atys', 'Papio_anubis', 'Macaca_mulatta', 'Macaca_nemestrina', 'Erythrocebus_patas', 'Cercopithecus_neglectus']
+optimal p:  [-1.82978550e-21 -1.44939472e-21 -4.44922628e-22 -1.63178884e-21
+ -9.50460838e-22  1.48545078e-21  1.00000000e+00]
+optimal x:  [0.50371966 0.51417565 0.51351269 0.50301262 0.50177428 0.51407756
+ 1.        ]
+optimal y:  0.07331360611115166
+Optimization Runtime:  0.3542494773864746

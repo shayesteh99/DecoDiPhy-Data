@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [381 375]
+opt_x:  [1.         0.51438001]
+opt_p:  [1.00000000e+00 2.54926811e-22]
+opt_y:  0.10919878182522016
+optimal anchors:  ['Teleost_Euteleost_Holocentriformes_Holocentridae_Sargocentron_rubrum', 'Teleost_Euteleost_Beryciformes_Berycidae_Beryx_splendens']
+optimal p:  [2.54926811e-22 1.00000000e+00]
+optimal x:  [0.51438001 1.        ]
+optimal y:  0.10919878182522016
+Optimization Runtime:  0.506474494934082

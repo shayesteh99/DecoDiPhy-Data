@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 44 283]
+opt_x:  [1. 1.]
+opt_p:  [0.29446035 0.70553965]
+opt_y:  0.1265070635357188
+optimal anchors:  ['Chinavia_hilaris', 'I136']
+optimal p:  [0.27684385 0.72315615]
+optimal x:  [1.         0.21514945]
+optimal y:  0.14122277380082132
+Optimization Runtime:  0.9388689994812012

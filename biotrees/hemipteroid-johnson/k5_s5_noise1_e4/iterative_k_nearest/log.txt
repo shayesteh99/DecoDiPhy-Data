@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [145 184 140 175 361]
+opt_x:  [0.5496729  1.         0.50433346 1.         1.        ]
+opt_p:  [-1.31366642e-21  4.66644696e-01 -1.63137419e-21  2.26512237e-01
+  3.06843067e-01]
+opt_y:  0.06331870356708205
+optimal anchors:  ['Holdgatiella_chepuensis', 'Mapuchea_sp', 'Peloridium_hammoniorum', 'Cycadothrips_chadwicki', 'I179']
+optimal p:  [0.03346325 0.30751245 0.08638689 0.26283937 0.30979804]
+optimal x:  [3.12290280e-22 1.00000000e+00 1.00000000e+00 1.00000000e+00
+ 6.95907181e-01]
+optimal y:  0.174561982258455
+Optimization Runtime:  0.39743566513061523

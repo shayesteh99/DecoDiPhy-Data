@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 52  55  57  58 357]
+opt_x:  [0.998302   0.47088532 0.11314816 0.10955199 1.        ]
+opt_p:  [0.64468485 0.00127027 0.01557866 0.00554971 0.33291655]
+opt_y:  0.0736690436887085
+optimal anchors:  ['I28', 'Alopecoenas_beccarii', 'Columba_livia', 'Columbina_picui', 'Scytalopus_superciliaris']
+optimal p:  [0.64468485 0.00127027 0.01557866 0.00554971 0.33291655]
+optimal x:  [0.998302   0.47088532 0.11314816 0.10955199 1.        ]
+optimal y:  0.0736690436887085
+Optimization Runtime:  2.885077476501465

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [105 196]
+opt_x:  [0.70587024 0.87920176]
+opt_p:  [0.64504009 0.35495991]
+opt_y:  0.2977679257546435
+optimal anchors:  ['I54', 'Pagurus_longicarpus']
+optimal p:  [0.64504009 0.35495991]
+optimal x:  [0.70587024 0.87920176]
+optimal y:  0.2977679257546435
+Optimization Runtime:  278.92771792411804

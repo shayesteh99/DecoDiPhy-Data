@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [19 41 76]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.22628463 0.27861099 0.49510438]
+opt_y:  0.14051577085758676
+optimal anchors:  ['I29', 'I18', 'Saldula_saltatoria']
+optimal p:  [0.22816753 0.27725858 0.49457389]
+optimal x:  [0.44079118 1.         1.        ]
+optimal y:  0.14110025291513598
+Optimization Runtime:  0.9807775020599365

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [299 298 121]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.20094709 0.19989009 0.59916282]
+opt_y:  0.13513020732252545
+optimal anchors:  ['I19', 'I152', 'Rhinolophus_sinicus']
+optimal p:  [0.31418511 0.64389479 0.04192013]
+optimal x:  [0.0829073  0.9402432  0.99968206]
+optimal y:  0.11329179527704117
+Optimization Runtime:  0.36246585845947266

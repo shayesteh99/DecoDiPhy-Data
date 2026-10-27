@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [440 441]
+opt_x:  [1. 1.]
+opt_p:  [0.49986177 0.50013823]
+opt_y:  0.015847492649008952
+optimal anchors:  ['I224', 'Enhydra_lutris']
+optimal p:  [0.66161324 0.33838676]
+optimal x:  [0.24558912 0.95616509]
+optimal y:  0.021355553170170512
+Optimization Runtime:  7.757192373275757

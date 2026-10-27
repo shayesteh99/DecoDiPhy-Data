@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [112 497 579]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.22449344 0.37229774 0.40320882]
+opt_y:  0.19432006906119412
+optimal anchors:  ['Teleost_Euteleost_Ovalentaria_Grammatidae_Lipogramma_evides', 'I255', 'I294']
+optimal p:  [0.21781048 0.36861868 0.41357084]
+optimal x:  [1.         0.18989639 0.82214053]
+optimal y:  0.21672830997890835
+Optimization Runtime:  1.8874869346618652

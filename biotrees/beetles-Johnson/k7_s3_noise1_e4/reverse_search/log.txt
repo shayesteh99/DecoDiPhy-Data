@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 10  97 102 140 143 148 225]
+opt_x:  [1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.26846826 0.1074828  0.10725217 0.10959993 0.04772208 0.04715323
+ 0.31232152]
+opt_y:  0.06975611450939474
+optimal anchors:  ['Cosmoderes_cf_consobrinus_I13663', 'I56', 'Araptus_nr_laudatus_I13651', 'Scolytogenes_coccotrypanoides_I13662', 'I81', 'Ernoporicus_sp1929_small_I13664', 'Phloeosinus_dentatus_H04536']
+optimal p:  [0.26846826 0.1074828  0.10725217 0.10959993 0.04772208 0.04715323
+ 0.31232152]
+optimal x:  [1. 1. 1. 1. 1. 1. 1.]
+optimal y:  0.06975611450939474
+Optimization Runtime:  0.38349246978759766

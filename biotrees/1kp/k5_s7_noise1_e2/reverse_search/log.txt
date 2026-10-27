@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 19  52  98 101 163]
+opt_x:  [1.         0.18043688 1.         1.         1.        ]
+opt_p:  [0.30350715 0.26406771 0.09615899 0.09675549 0.23951067]
+opt_y:  0.17051208294907325
+optimal anchors:  ['Yucca_filamentosa', 'I37', 'I59', 'Ginkgo_biloba', 'I87']
+optimal p:  [0.30379677 0.26445443 0.09506933 0.09521536 0.24146411]
+optimal x:  [1.         0.18030403 1.         1.         0.75026319]
+optimal y:  0.1738365709401546
+Optimization Runtime:  0.36136507987976074

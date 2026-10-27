@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [26 35]
+opt_x:  [0.16318739 0.96090292]
+opt_p:  [0.62757944 0.37242056]
+opt_y:  0.09111565510697588
+optimal anchors:  ['I19', 'TYTAL']
+optimal p:  [0.62757944 0.37242056]
+optimal x:  [0.16318739 0.96090292]
+optimal y:  0.09111565510697588
+Optimization Runtime:  0.5302021503448486

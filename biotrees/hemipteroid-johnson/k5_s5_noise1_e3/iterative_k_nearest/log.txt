@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [145 184 130 361 175]
+opt_x:  [1.         1.         0.48948459 1.         1.        ]
+opt_p:  [8.00403544e-02 4.93322028e-01 1.27241398e-21 2.71818022e-01
+ 1.54819596e-01]
+opt_y:  0.07815697931004316
+optimal anchors:  ['I64', 'Vidanoana_flavomaculata', 'Peloridium_hammoniorum', 'Cycadothrips_chadwicki', 'I179']
+optimal p:  [ 3.62835347e-01 -2.85234880e-07  6.44304372e-02  2.87520642e-01
+  2.85213852e-01]
+optimal x:  [0.7230845  0.0778472  1.         1.         0.54977098]
+optimal y:  0.16496115131232997
+Optimization Runtime:  0.36902403831481934

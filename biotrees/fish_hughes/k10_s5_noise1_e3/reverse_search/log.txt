@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [ 55  56  57  72  73  74 271 272 370 371]
+opt_x:  [0.99999946 1.         1.         0.98939902 0.13498975 0.38287204
+ 1.         0.41321105 1.         1.        ]
+opt_p:  [ 1.48273901e-01  7.27188350e-08 -6.04783941e-09  9.44685272e-02
+  5.57558577e-03  1.35765294e-03  1.49601559e-01 -5.91390053e-09
+  3.06055072e-01  2.94667641e-01]
+opt_y:  0.15569636079430052
+optimal anchors:  ['I42', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Rivulidae_Austrofundulus_limnaeus', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Aplocheilidae_Aplocheilus_lineatus', 'I50', 'Teleost_Euteleost_Ovalentaria_Atheriniformes_Melanotaeniidae_Melanotaenia_praecox', 'Teleost_Euteleost_Ovalentaria_Atheriniformes_Pseudomugilidae_Pseudomugil_paskai', 'I154', 'Teleost_Euteleost_Eupercaria_Perciformes_Sebastidae_Sebastes_nigrocinctus', 'Teleost_Euteleost_Beryciformes_Stephanoberycidae_Acanthochaenus_luetkenii', 'Teleost_Euteleost_Beryciformes_Berycidae_Beryx_splendens']
+optimal p:  [ 1.48273901e-01  7.27188350e-08 -6.04783941e-09  9.44685272e-02
+  5.57558577e-03  1.35765294e-03  1.49601559e-01 -5.91390053e-09
+  3.06055072e-01  2.94667641e-01]
+optimal x:  [0.99999946 1.         1.         0.98939902 0.13498975 0.38287204
+ 1.         0.41321105 1.         1.        ]
+optimal y:  0.15569636079430052
+Optimization Runtime:  2.8353312015533447

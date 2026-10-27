@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [443 472 479 496 497 565 568 574 578 579]
+opt_x:  [1.         0.43881595 1.         1.         1.         1.
+ 0.0769408  1.         0.51007467 0.99999999]
+opt_p:  [4.16345310e-01 2.68070149e-09 2.15013427e-01 8.32338342e-02
+ 8.01507822e-02 1.03152297e-02 2.73269720e-09 9.99641595e-02
+ 5.63133693e-10 9.49772511e-02]
+opt_y:  0.20624255537686703
+optimal anchors:  ['I234', 'Teleost_Euteleost_Salmoniformes_Salmonidae_Salmo_salar', 'Teleost_Euteleost_Argentiniformes_Argentinidae_Argentina_sp', 'Teleost_Otophysa_Siluriformes_Amblycipitidae_Liobagrus_styani', 'Teleost_Otophysa_Siluriformes_Bagridae_Hemibagrus_guttatus', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Scleropages_formosus', 'Teleost_Osteoglossiformes_Osteoglossiformes_Pantodontidae_Pantodon_buchholzi', 'Lepisosteiformes_Lepisosteiformes_Lepisosteidae_Atractosteus_spatula', 'Amiiformes_Amiidae_Amia_calva_gill']
+optimal p:  [4.16345310e-01 2.68070149e-09 2.15013427e-01 8.32338342e-02
+ 8.01507822e-02 1.03152297e-02 2.73269720e-09 9.99641595e-02
+ 5.63133693e-10 9.49772511e-02]
+optimal x:  [1.         0.43881595 1.         1.         1.         1.
+ 0.0769408  1.         0.51007467 0.99999999]
+optimal y:  0.20624255537686703
+Optimization Runtime:  1.444810390472412

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [284  51]
+opt_x:  [1. 1.]
+opt_p:  [0.68793233 0.31206767]
+opt_y:  0.11843325665330086
+optimal anchors:  ['Corimelaena_lateralis', 'Aaroniella_sp']
+optimal p:  [0.31206767 0.68793233]
+optimal x:  [1. 1.]
+optimal y:  0.11843325665330086
+Optimization Runtime:  0.24570512771606445

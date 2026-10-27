@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [ 75  86 176 177 198 225 226]
+opt_x:  [1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.18387875 0.31062164 0.09017964 0.09050449 0.09264017 0.11647309
+ 0.11570221]
+opt_y:  0.06699083532774396
+optimal anchors:  ['I43', 'I47', 'Eccoptopterus_spinosus_I13679', 'Anisandrus_dispar_I14141', 'Chramesus_chapuisii_I13688', 'Sueus_niisimai_I14148', 'I121']
+optimal p:  [0.18065511 0.33406047 0.0893914  0.08963681 0.09225107 0.10747223
+ 0.10653291]
+optimal x:  [0.21478711 0.86418598 1.         1.         1.         1.
+ 1.        ]
+optimal y:  0.07040541988673873
+Optimization Runtime:  0.44550442695617676

@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [448 493 498 571 580 582 585]
+opt_x:  [1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.48118796 0.10472684 0.10308249 0.01323713 0.16540291 0.06625657
+ 0.0661061 ]
+opt_y:  0.20941343556955064
+optimal anchors:  ['Teleost_Euteleost_Polymixiiformes_Polymixiidae_Polymixia_japonica', 'I258', 'I260', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides', 'I294', 'I300', 'Amiiformes_Amiidae_Amia_calva_gill']
+optimal p:  [4.76434852e-01 1.01970417e-01 1.00943344e-01 6.16916153e-22
+ 2.02476707e-01 5.97696494e-02 5.84050312e-02]
+optimal x:  [1.         1.         1.         0.58622091 0.60579073 1.
+ 1.        ]
+optimal y:  0.21695809715417488
+Optimization Runtime:  1.9027035236358643

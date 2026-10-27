@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [202 231 207 215 159]
+opt_x:  [7.78713885e-01 4.54878073e-01 2.02179332e-20 4.66198220e-01
+ 1.00000000e+00]
+opt_p:  [ 3.21783917e-01 -1.17621558e-21  8.26345698e-02 -1.12420807e-21
+  5.95581513e-01]
+opt_y:  0.07861660280306455
+optimal anchors:  ['Procryphalus_mucronatus_I10231', 'Chramesus_chapuisii_I13688', 'Chaetophloeus_insularis_I13671', 'Hylesinus_sp_I02536', 'Sueus_niisimai_I14148']
+optimal p:  [ 5.95581513e-01  3.21783917e-01  8.26345698e-02 -1.12420807e-21
+ -1.17621558e-21]
+optimal x:  [1.00000000e+00 7.78713885e-01 2.02179332e-20 4.66198220e-01
+ 4.54878073e-01]
+optimal y:  0.07861660280306455
+Optimization Runtime:  0.16986846923828125

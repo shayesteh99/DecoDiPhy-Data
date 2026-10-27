@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [110 500 501 502 576]
+opt_x:  [1.         0.19628979 0.21331048 0.87782713 0.27842517]
+opt_p:  [0.22056565 0.15945651 0.11985086 0.09466986 0.40545712]
+opt_y:  0.08741328342365849
+optimal anchors:  ['I65', 'I260', 'Teleost_Otophysa_Siluriformes_Sisoridae_Glyptothorax_sinensis', 'Teleost_Otophysa_Siluriformes_Bagridae_Hemibagrus_guttatus', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Osteoglossum_bicirrhosum']
+optimal p:  [0.22035571 0.15944261 0.11980757 0.0947289  0.40566522]
+optimal x:  [0.33432017 0.19676095 0.21390522 0.88056646 0.27938674]
+optimal y:  0.08532755620354163
+Optimization Runtime:  8.167958736419678

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [235 107 195]
+opt_x:  [1.        0.3177587 1.       ]
+opt_p:  [0.02245445 0.78699081 0.19055474]
+opt_y:  0.040510449539685446
+optimal anchors:  ['Chionis_minor', 'Aptenodytes_forsteri', 'I120']
+optimal p:  [0.45531816 0.20318359 0.34149844]
+optimal x:  [0.49077907 1.         0.7569632 ]
+optimal y:  0.04156931962306056
+Optimization Runtime:  0.8169209957122803

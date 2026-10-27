@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 71 144 151]
+opt_x:  [1.         0.70758671 1.        ]
+opt_p:  [0.35860856 0.20867183 0.43271961]
+opt_y:  0.0364609981308171
+optimal anchors:  ['I40', 'Scolytogenes_coccotrypanoides_I13662', 'I81']
+optimal p:  [0.35538777 0.18769858 0.45691364]
+optimal x:  [0.72645701 0.65745222 0.44673049]
+optimal y:  0.03641530123220095
+Optimization Runtime:  1.2653639316558838

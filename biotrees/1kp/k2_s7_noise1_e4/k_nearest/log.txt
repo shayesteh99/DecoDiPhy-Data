@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [64 63]
+opt_x:  [1.         0.86393596]
+opt_p:  [ 1.00000000e+00 -5.03102528e-22]
+opt_y:  0.13492230152698015
+optimal anchors:  ['Populus_trichocarpa', 'Vitis_vinifera']
+optimal p:  [-5.03102528e-22  1.00000000e+00]
+optimal x:  [0.86393596 1.        ]
+optimal y:  0.13492230152698015
+Optimization Runtime:  0.08869218826293945

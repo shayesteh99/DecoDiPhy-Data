@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [26 13 28 29  7]
+opt_x:  [1.         0.49941826 0.19895866 1.         0.49375122]
+opt_p:  [7.93059246e-01 9.55196408e-18 1.29396885e-01 7.75438691e-02
+ 7.98795817e-18]
+opt_y:  0.010421442549358005
+optimal anchors:  ['Nomiapis_diversipes', 'Pseudapis_kenyensis', 'I17', 'I19', 'Pachynomia_tshibindica']
+optimal p:  [0.00213253 0.19183489 0.33420399 0.2799051  0.19192334]
+optimal x:  [0.99549324 0.6348496  0.66902984 0.9928055  0.01605253]
+optimal y:  0.013237971141586645
+Optimization Runtime:  0.13004732131958008

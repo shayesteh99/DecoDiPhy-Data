@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [36 81]
+opt_x:  [0.88177913 0.83863718]
+opt_p:  [0.80119921 0.19880079]
+opt_y:  0.1109583218091528
+optimal anchors:  ['I21', 'Callicebus_donacophilus']
+optimal p:  [0.80119921 0.19880079]
+optimal x:  [0.88177913 0.83863718]
+optimal y:  0.1109583218091528
+Optimization Runtime:  1.071462869644165

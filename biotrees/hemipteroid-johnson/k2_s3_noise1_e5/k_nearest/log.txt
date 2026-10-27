@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [145 126]
+opt_x:  [1. 1.]
+opt_p:  [ 1.00000000e+00 -1.49937887e-22]
+opt_y:  0.20900134399273423
+optimal anchors:  ['I69', 'Mapuchea_sp']
+optimal p:  [1.59415461e-21 1.00000000e+00]
+optimal x:  [0.50566528 1.        ]
+optimal y:  0.20900134399273423
+Optimization Runtime:  0.23869752883911133

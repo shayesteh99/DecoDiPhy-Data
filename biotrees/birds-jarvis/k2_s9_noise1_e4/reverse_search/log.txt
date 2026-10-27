@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 2 63]
+opt_x:  [0.28715562 0.89545873]
+opt_p:  [0.1870164 0.8129836]
+opt_y:  0.07695893420569788
+optimal anchors:  ['I3', 'CHAVO']
+optimal p:  [0.1870164 0.8129836]
+optimal x:  [0.28715562 0.89545873]
+optimal y:  0.07695893420569788
+Optimization Runtime:  0.3030972480773926

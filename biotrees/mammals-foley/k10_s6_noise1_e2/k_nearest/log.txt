@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [398 403 401 400 405 406 390 459 458 454]
+opt_x:  [0.50658375 0.4869987  0.49515131 0.49659898 0.51384176 0.54561049
+ 1.         0.50166852 0.50075707 1.        ]
+opt_p:  [-4.41935851e-22 -2.84510461e-22  9.08042934e-22  5.18572811e-22
+ -7.34107810e-22 -4.05460943e-22  2.86845299e-01  4.85177353e-22
+  3.64102629e-22  7.13154701e-01]
+opt_y:  0.08216872396440543
+optimal anchors:  ['Cryptoprocta_ferox', 'Panthera_tigris', 'Panthera_pardus', 'Panthera_onca', 'Felis_catus', 'Puma_concolor', 'Acinonyx_jubatus', 'Dicerorhinus_sumatrensis', 'Ceratotherium_simum', 'Ceratotherium_simum_cottoni']
+optimal p:  [ 2.86845299e-01 -4.41935851e-22  5.18572811e-22  9.08042934e-22
+ -2.84510461e-22 -7.34107810e-22 -4.05460943e-22  7.13154701e-01
+  3.64102629e-22  4.85177353e-22]
+optimal x:  [1.         0.50658375 0.49659898 0.49515131 0.4869987  0.51384176
+ 0.54561049 1.         0.50075707 0.50166852]
+optimal y:  0.08216872396440543
+Optimization Runtime:  0.6066699028015137

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 64 184 195]
+opt_x:  [1.         1.         0.93528776]
+opt_p:  [0.44347368 0.48273824 0.07378808]
+opt_y:  0.31508361653478273
+optimal anchors:  ['I4', 'I27', 'Nephroselmis_pyriformis']
+optimal p:  [0.44349195 0.44705855 0.1094495 ]
+optimal x:  [7.04328006e-23 5.08795395e-01 1.00000000e+00]
+optimal y:  0.31809118054215363
+Optimization Runtime:  0.4499948024749756

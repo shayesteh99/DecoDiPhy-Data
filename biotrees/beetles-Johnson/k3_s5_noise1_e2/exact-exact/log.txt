@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 74 123 184]
+opt_x:  [0.15445844 0.31766703 0.92002498]
+opt_p:  [0.64110254 0.21726122 0.14163624]
+opt_y:  0.04133749484297995
+optimal anchors:  ['I43', 'I66', 'Euwallacea_spPSHB_SRX698946']
+optimal p:  [0.64110254 0.21726122 0.14163624]
+optimal x:  [0.15445844 0.31766703 0.92002498]
+optimal y:  0.04133749484297995
+Optimization Runtime:  34071.49422621727

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [213 188  83 187 225 219  81]
+opt_x:  [0.49318417 1.         1.         0.42426451 1.         0.49843523
+ 0.53794704]
+opt_p:  [-2.52307937e-22  5.32857329e-02  3.11509130e-01  1.12290326e-22
+  6.35205137e-01 -1.21949612e-22  2.19631379e-22]
+opt_y:  0.06996576809031081
+optimal anchors:  ['Cryphalus_bicolor_I10211', 'Hypocryphalus_robustus_I10223', 'Coccotrypes_sp2035_Cangar_I13659', 'Dryocoetes_confusus_I14142', 'Hylesinus_sp_I02536', 'Hylocurus_flaglerensis_H04562', 'Sueus_niisimai_I14148']
+optimal p:  [ 2.19631379e-22  3.11509130e-01  1.12290326e-22  5.32857329e-02
+ -2.52307937e-22 -1.21949612e-22  6.35205137e-01]
+optimal x:  [0.53794704 1.         0.42426451 1.         0.49318417 0.49843523
+ 1.        ]
+optimal y:  0.06996576809031081
+Optimization Runtime:  0.25563716888427734

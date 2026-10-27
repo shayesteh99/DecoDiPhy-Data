@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [296 297]
+opt_x:  [1. 1.]
+opt_p:  [0.49992149 0.50007851]
+opt_y:  0.03401382053673389
+optimal anchors:  ['Monacanthidae_Aluterus_scriptus_UPRFL0003', 'Monacanthidae_Aluterus_monoceros_UPRFL1497']
+optimal p:  [0.49992149 0.50007851]
+optimal x:  [1. 1.]
+optimal y:  0.03401382053673389
+Optimization Runtime:  0.15942668914794922

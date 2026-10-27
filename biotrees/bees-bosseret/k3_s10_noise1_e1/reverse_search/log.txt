@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 2 25 32]
+opt_x:  [0.33607009 0.99295253 0.55832414]
+opt_p:  [0.31394537 0.21046815 0.47558663]
+opt_y:  0.021543252302569496
+optimal anchors:  ['I4', 'I16', 'Pachynomia_tshibindica']
+optimal p:  [0.31394537 0.21046815 0.47558663]
+optimal x:  [0.33607009 0.99295253 0.55832414]
+optimal y:  0.021543252302569496
+Optimization Runtime:  0.23394274711608887

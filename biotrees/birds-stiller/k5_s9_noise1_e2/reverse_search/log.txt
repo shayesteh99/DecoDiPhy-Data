@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [144 375 614 615 618]
+opt_x:  [1.         1.         1.         1.         0.88641529]
+opt_p:  [0.20389899 0.40156652 0.14076653 0.14191616 0.11185179]
+opt_y:  0.044998166093888306
+optimal anchors:  ['Phaetusa_simplex', 'I191', 'Urocynchramus_pylzowi', 'I313', 'Taeniopygia_guttata']
+optimal p:  [0.20389899 0.40156652 0.14076653 0.14191616 0.11185179]
+optimal x:  [1.         1.         1.         1.         0.88641529]
+optimal y:  0.044998166093888306
+Optimization Runtime:  3.023388624191284

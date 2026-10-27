@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [320 131 130]
+opt_x:  [1.         1.         0.19923826]
+opt_p:  [ 1.43921046e-02  9.85607895e-01 -1.24545018e-23]
+opt_y:  0.134402262172815
+optimal anchors:  ['I68', 'Dipodomys_stephensi', 'Eubalaena_japonica']
+optimal p:  [0.6126909  0.05376363 0.33354547]
+optimal x:  [0.95299551 0.98143498 0.99999971]
+optimal y:  0.13320897191198022
+Optimization Runtime:  0.3467998504638672

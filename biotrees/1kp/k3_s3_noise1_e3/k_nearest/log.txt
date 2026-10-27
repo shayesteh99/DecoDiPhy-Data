@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [153 151 148]
+opt_x:  [1.        0.5017403 0.4813289]
+opt_p:  [ 1.00000000e+00 -4.78797793e-22  3.16837304e-21]
+opt_y:  0.044425842518896294
+optimal anchors:  ['Rhynchostegium_serrulatum', 'Anomodon_attenuatus', 'Hedwigia_ciliata']
+optimal p:  [ 3.16837304e-21 -4.78797793e-22  1.00000000e+00]
+optimal x:  [0.4813289 0.5017403 1.       ]
+optimal y:  0.044425842518896294
+Optimization Runtime:  0.07701897621154785

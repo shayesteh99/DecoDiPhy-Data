@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [39 40]
+opt_x:  [0.50719806 1.        ]
+opt_p:  [-6.24709451e-22  1.00000000e+00]
+opt_y:  0.00747683013942591
+optimal anchors:  ['I21', 'Lygaeus_turcicus']
+optimal p:  [9.99999991e-01 9.42351702e-09]
+optimal x:  [0.45701648 0.99999998]
+optimal y:  0.0326748015581018
+Optimization Runtime:  0.22848844528198242

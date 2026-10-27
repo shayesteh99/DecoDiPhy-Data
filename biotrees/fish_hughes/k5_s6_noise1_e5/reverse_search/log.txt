@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [494 503 579 581 582]
+opt_x:  [1.         1.         0.44622473 0.15556071 1.        ]
+opt_p:  [ 6.54763804e-02  5.99001508e-02 -6.90233434e-21 -1.37683767e-20
+  8.74623469e-01]
+opt_y:  0.1070401839250587
+optimal anchors:  ['I257', 'Teleost_Otophysa_Siluriformes_Plotosidae_Plotosus_lineatus', 'Teleost_Osteoglossiformes_Osteoglossiformes_Mormyridae_Mormyrus_tapirus', 'Teleost_Osteoglossiformes_Osteoglossiformes_Notopteridae_Papyrocranus_afer', 'Teleost_Osteoglossiformes_Osteoglossiformes_Pantodontidae_Pantodon_buchholzi']
+optimal p:  [ 6.54763804e-02  5.99001508e-02 -6.90233434e-21 -1.37683767e-20
+  8.74623469e-01]
+optimal x:  [1.         1.         0.44622473 0.15556071 1.        ]
+optimal y:  0.1070401839250587
+Optimization Runtime:  2.071843147277832

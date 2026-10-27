@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [308 313 311 312 459 458 454 456 451 452]
+opt_x:  [1.         0.50387174 0.50346365 0.50400232 0.4983752  0.49817343
+ 0.46868711 0.4841752  0.99999942 0.9999994 ]
+opt_p:  [ 3.75106536e-03 -6.51536937e-06 -6.43328138e-06 -6.43103906e-06
+ -2.27046545e-06 -2.27077541e-06 -2.05793121e-06 -2.21296828e-06
+  4.98138561e-01  4.98138566e-01]
+opt_y:  0.10188182539330479
+optimal anchors:  ['Eubalaena_japonica', 'Balaenoptera_bonaerensis', 'Balaenoptera_acutorostrata', 'Eschrichtius_robustus', 'Tapirus_indicus', 'Tapirus_terrestris', 'Dicerorhinus_sumatrensis', 'Diceros_bicornis', 'Ceratotherium_simum', 'Ceratotherium_simum_cottoni']
+optimal p:  [ 3.75106536e-03 -6.43328138e-06 -6.43103906e-06 -6.51536937e-06
+  4.98138561e-01  4.98138566e-01 -2.05793121e-06 -2.21296828e-06
+ -2.27077541e-06 -2.27046545e-06]
+optimal x:  [1.         0.50346365 0.50400232 0.50387174 0.99999942 0.9999994
+ 0.46868711 0.4841752  0.49817343 0.4983752 ]
+optimal y:  0.10188182539330479
+Optimization Runtime:  0.35422468185424805

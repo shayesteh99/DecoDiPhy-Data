@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [261  51]
+opt_x:  [1. 1.]
+opt_p:  [0.69484251 0.30515749]
+opt_y:  0.14844139339105944
+optimal anchors:  ['Corimelaena_lateralis', 'Badonnelia_titei']
+optimal p:  [0.30515749 0.69484251]
+optimal x:  [1. 1.]
+optimal y:  0.14844139339105944
+Optimization Runtime:  0.2527132034301758

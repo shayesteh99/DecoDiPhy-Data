@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 27  56  75  95 179]
+opt_x:  [0.77448205 0.80942512 0.81291044 0.76594316 1.        ]
+opt_p:  [0.25115379 0.23682787 0.16545635 0.1776062  0.16895579]
+opt_y:  0.31916843590431765
+optimal anchors:  ['Spodoptera_litura', 'Tigriopus_californicus', 'Paranesidea_sp', 'Nebalia_bipes', 'I96']
+optimal p:  [0.25129495 0.23691235 0.16653439 0.17073311 0.17452519]
+optimal x:  [0.77484009 0.80973322 0.81487882 0.75080936 0.68082708]
+optimal y:  0.3214247112285076
+Optimization Runtime:  0.4086730480194092

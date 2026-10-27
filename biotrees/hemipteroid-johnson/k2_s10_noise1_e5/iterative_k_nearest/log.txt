@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [284 213]
+opt_x:  [1. 1.]
+opt_p:  [0.43457411 0.56542589]
+opt_y:  0.17044343687737384
+optimal anchors:  ['Zootermopsis_nevadensis', 'Aaroniella_sp']
+optimal p:  [0.56542589 0.43457411]
+optimal x:  [1. 1.]
+optimal y:  0.17044343687737384
+Optimization Runtime:  0.24997878074645996

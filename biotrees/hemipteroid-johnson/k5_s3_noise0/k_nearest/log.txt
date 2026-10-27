@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [182 179 187 180 185]
+opt_x:  [1.         0.48320984 0.51012235 0.54516826 1.        ]
+opt_p:  [ 1.00000000e+00  1.59530078e-21  1.33973321e-21  1.78730229e-21
+ -3.09906590e-23]
+opt_y:  0.13269911056100447
+optimal anchors:  ['Frankliniella_occidentalis', 'Frankliniella_cephalica', 'Cycadothrips_chadwicki', 'Franklinothrips_vespiformis', 'Erythrothrips_arizonae']
+optimal p:  [ 1.43806507e-21 -5.28657970e-22  1.00000000e+00 -2.46224328e-21
+  3.92840382e-21]
+optimal x:  [0.4226902  0.85268496 1.         0.56496382 0.48183645]
+optimal y:  0.13269911056100447
+Optimization Runtime:  0.20666933059692383

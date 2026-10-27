@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [474 320]
+opt_x:  [1.         0.53081024]
+opt_p:  [ 1.00000000e+00 -5.35161968e-21]
+opt_y:  0.11257196469420198
+optimal anchors:  ['Eubalaena_japonica', 'Ceratotherium_simum']
+optimal p:  [-5.35161968e-21  1.00000000e+00]
+optimal x:  [0.53081024 1.        ]
+optimal y:  0.11257196469420198
+Optimization Runtime:  0.31828880310058594

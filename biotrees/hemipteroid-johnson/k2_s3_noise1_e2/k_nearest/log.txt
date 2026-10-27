@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [126 128]
+opt_x:  [0.99999957 0.48513132]
+opt_p:  [9.99999044e-01 9.54142440e-07]
+opt_y:  0.14387417653607404
+optimal anchors:  ['Hespenedra_chilensis', 'Vidanoana_flavomaculata']
+optimal p:  [9.99999044e-01 9.54142440e-07]
+optimal x:  [0.99999957 0.48513132]
+optimal y:  0.14387417653607404
+Optimization Runtime:  0.22434711456298828

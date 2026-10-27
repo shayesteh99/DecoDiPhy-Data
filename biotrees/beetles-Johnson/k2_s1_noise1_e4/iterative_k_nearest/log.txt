@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [153  40]
+opt_x:  [1. 1.]
+opt_p:  [0.7505278 0.2494722]
+opt_y:  0.035165845843945345
+optimal anchors:  ['Hypothenemus_piaparolinae_I10225', 'Ernoporicus_sp1928_large_I10219']
+optimal p:  [0.2494722 0.7505278]
+optimal x:  [1. 1.]
+optimal y:  0.035165845843945345
+Optimization Runtime:  0.152970552444458

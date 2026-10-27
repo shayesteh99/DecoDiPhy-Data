@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 39  14  88 195  54]
+opt_x:  [0.42875503 0.64967625 1.         1.         1.        ]
+opt_p:  [-5.59607957e-22  2.02911081e-01  3.08202217e-01  1.26716792e-02
+  4.76215023e-01]
+opt_y:  0.13733048552392965
+optimal anchors:  ['Machilis_hrabei', 'Godzilliognomus_frondosus', 'I30', 'I48', 'Cherax_destructor']
+optimal p:  [0.3150585  0.05705343 0.2640267  0.26369375 0.10016761]
+optimal x:  [0.99310505 1.         0.67465607 0.72690041 1.        ]
+optimal y:  0.3868633122490434
+Optimization Runtime:  0.2082045078277588

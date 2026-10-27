@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 6 40]
+opt_x:  [0.64548338 0.71851461]
+opt_p:  [0.89512762 0.10487238]
+opt_y:  0.03821761507499285
+optimal anchors:  ['OTO', 'MYO']
+optimal p:  [0.89512762 0.10487238]
+optimal x:  [0.64548338 0.71851461]
+optimal y:  0.03821761507499285
+Optimization Runtime:  27.264089345932007

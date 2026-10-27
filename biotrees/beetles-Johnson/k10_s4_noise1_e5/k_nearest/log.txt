@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [31 22 20 23 29 26 27 15 16 30]
+opt_x:  [1.         0.51441472 0.5374955  0.49814293 0.52067168 0.23848914
+ 0.60099074 0.48139314 0.491975   0.45404721]
+opt_p:  [ 1.00000000e+00 -2.49938153e-22 -6.32461392e-23 -2.46863228e-22
+ -1.39160171e-22  2.19729098e-23 -2.41764558e-23 -4.96981315e-23
+  2.52957076e-22  1.32439744e-22]
+opt_y:  0.03582499345732182
+optimal anchors:  ['Hypothenemus_eruditus_I10224', 'Hypothenemus_areccae_I13673', 'Hypothenemus_obscurus_I13670', 'Hypothenemus_perhispidus_I13633', 'Hypothenemus_hampei_cbb7rna', 'Hypothenemus_dolosus_I13628', 'Hypothenemus_dissimilis_I13625', 'Hypothenemus_sp1681_Spiny_I13655', 'Hypothenemus_birmanus_I13629', 'Hypothenemus_piaparolinae_I10225']
+optimal p:  [-4.96981315e-23  2.52957076e-22 -6.32461392e-23 -2.49938153e-22
+ -2.46863228e-22  2.19729098e-23 -2.41764558e-23 -1.39160171e-22
+  1.32439744e-22  1.00000000e+00]
+optimal x:  [0.48139314 0.491975   0.5374955  0.51441472 0.49814293 0.23848914
+ 0.60099074 0.52067168 0.45404721 1.        ]
+optimal y:  0.03582499345732182
+Optimization Runtime:  0.19982266426086426

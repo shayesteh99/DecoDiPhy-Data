@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [154 155 193 156 251]
+opt_x:  [0.4876723  0.50163013 0.2803977  0.37586996 1.        ]
+opt_p:  [1.28673616e-21 6.00123301e-22 4.50373005e-22 4.72425896e-22
+ 1.00000000e+00]
+opt_y:  0.07291905124742702
+optimal anchors:  ['Uria_lomvia', 'Uria_aalge', 'Cepphus_grylle', 'Aptenodytes_forsteri', 'Cathartes_aura']
+optimal p:  [1.28673616e-21 6.00123301e-22 4.72425896e-22 4.50373005e-22
+ 1.00000000e+00]
+optimal x:  [0.4876723  0.50163013 0.37586996 0.2803977  1.        ]
+optimal y:  0.07291905124742702
+Optimization Runtime:  0.7742741107940674

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 60  51 210]
+opt_x:  [1.         0.50051402 1.        ]
+opt_p:  [2.44789790e-01 5.22857388e-21 7.55210210e-01]
+opt_y:  0.18127392692838032
+optimal anchors:  ['Corimelaena_lateralis', 'Pagasa_sp', 'Cryptocercus_wrighti']
+optimal p:  [5.22857388e-21 2.44789790e-01 7.55210210e-01]
+optimal x:  [0.50051402 1.         1.        ]
+optimal y:  0.18127392692838032
+Optimization Runtime:  0.2610652446746826

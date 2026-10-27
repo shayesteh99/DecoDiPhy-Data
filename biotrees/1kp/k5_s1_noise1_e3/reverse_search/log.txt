@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 25  81 153 187 192]
+opt_x:  [0.92843141 1.         1.         1.         1.        ]
+opt_p:  [0.09289713 0.32166889 0.11807749 0.1717204  0.29563608]
+opt_y:  0.3022311568389262
+optimal anchors:  ['I4', 'I14', 'I20', 'Leucodon_brachypus', 'Chlorokybus_atmophyticus']
+optimal p:  [0.16389945 0.34207344 0.06785577 0.11830183 0.3078695 ]
+optimal x:  [0.22077654 0.67113653 0.7652188  1.         1.        ]
+optimal y:  0.3016763609357705
+Optimization Runtime:  0.38284754753112793

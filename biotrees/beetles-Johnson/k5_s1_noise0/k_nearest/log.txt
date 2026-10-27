@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [215 192 187 189 174]
+opt_x:  [1.         1.         0.50999853 0.50028818 0.48651766]
+opt_p:  [7.24221476e-01 2.75778524e-01 5.95238836e-23 6.39408492e-23
+ 9.66358958e-23]
+opt_y:  0.06380206454468058
+optimal anchors:  ['I88', 'Xylosandrus_germanus_I13672', 'Xyleborus_affinis_I13682', 'Euwallacea_spPSHB_SRX698946', 'I113']
+optimal p:  [6.02376582e-01 9.50774162e-11 1.15049187e-10 5.56699645e-18
+ 3.97623417e-01]
+optimal x:  [0.81198435 0.99999993 0.99999992 0.4966628  0.52286805]
+optimal y:  0.06262332058298394
+Optimization Runtime:  0.11521029472351074

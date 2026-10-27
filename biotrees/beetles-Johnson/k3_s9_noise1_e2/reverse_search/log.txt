@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 97 103 121]
+opt_x:  [9.21821499e-01 1.00000000e+00 8.59709752e-22]
+opt_p:  [0.31358673 0.38814683 0.29826644]
+opt_y:  0.06433497315532281
+optimal anchors:  ['Stegomerus_vulgaris_I13647', 'I56', 'I66']
+optimal p:  [0.29066928 0.40890565 0.30042507]
+optimal x:  [9.12874531e-01 2.55024235e-01 1.28855730e-21]
+optimal y:  0.06545282005216171
+Optimization Runtime:  0.5931532382965088

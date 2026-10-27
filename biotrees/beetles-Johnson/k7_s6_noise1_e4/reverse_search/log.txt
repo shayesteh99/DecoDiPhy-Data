@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 73  76 147 148 188 196 205]
+opt_x:  [1.         1.         1.         1.         1.         0.89431954
+ 1.        ]
+opt_p:  [0.08092093 0.08074948 0.06323642 0.06360245 0.08570054 0.32090368
+ 0.30488649]
+opt_y:  0.07234991412468975
+optimal anchors:  ['I44', 'Hypocryphalus_sp_I13677', 'Ptilopodius_sp2027_Cangar_I13666', 'Ernoporicus_fagi_I10218', 'Coccotrypes_sp2035_Cangar_I13659', 'I106', 'I112']
+optimal p:  [0.08092093 0.08074948 0.06323642 0.06360245 0.08570054 0.32090368
+ 0.30488649]
+optimal x:  [1.         1.         1.         1.         1.         0.89431954
+ 1.        ]
+optimal y:  0.07234991412468975
+Optimization Runtime:  0.27166032791137695

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [413 400 461 440 318]
+opt_x:  [0.49353835 1.         1.         0.55296812 0.53926276]
+opt_p:  [-9.81186510e-22  1.81782415e-01  8.18217585e-01  1.39615826e-22
+  9.67168431e-22]
+opt_y:  0.06440888788655579
+optimal anchors:  ['Eubalaena_japonica', 'Cryptoprocta_ferox', 'Felis_catus', 'Zalophus_californianus', 'Tapirus_indicus']
+optimal p:  [ 9.67168431e-22  1.81782415e-01 -9.81186510e-22  1.39615826e-22
+  8.18217585e-01]
+optimal x:  [0.53926276 1.         0.49353835 0.55296812 1.        ]
+optimal y:  0.06440888788655579
+Optimization Runtime:  0.39669203758239746

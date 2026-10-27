@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  4   7  73 240 241 278 279]
+opt_x:  [1.         0.47368095 1.         0.41893756 0.57667045 0.03386365
+ 0.46470523]
+opt_p:  [ 2.98358849e-01 -3.83544486e-20  1.89772298e-01  1.71254381e-01
+  1.08078260e-01  1.38420428e-01  9.41157835e-02]
+opt_y:  0.019256008394858457
+optimal anchors:  ['I4', 'Aracanidae_Anoplocapros_lenticularis_EPLATE_53_B05', 'I44', 'I127', 'Monacanthidae_Pseudomonacanthus_elongatus_EPLATE_52_C12', 'I146', 'Monocanthidae_Thamnaconus_striatus_EPLATE_51_G11']
+optimal p:  [0.21313481 0.10212287 0.18037045 0.10891239 0.13185765 0.1207106
+ 0.1428912 ]
+optimal x:  [7.49628010e-01 5.13048078e-01 9.99999638e-01 6.06653875e-05
+ 6.51766684e-01 1.37409810e-01 5.73298238e-01]
+optimal y:  0.021765782525346666
+Optimization Runtime:  0.832319974899292

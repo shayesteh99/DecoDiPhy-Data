@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [73 68 62 72 99 74 64]
+opt_x:  [1.         0.46020081 1.         0.35034025 1.         1.
+ 0.25931082]
+opt_p:  [ 9.08722135e-24 -2.64330865e-22  2.25099792e-01 -2.10055773e-22
+  5.37139216e-01  2.37760992e-01  3.61303632e-22]
+opt_y:  0.2004003466557086
+optimal anchors:  ['I28', 'Eschscholzia_californica', 'Sarcandra_glabra', 'I46', 'Persea_americana', 'Kadsura_heteroclita', 'Ginkgo_biloba']
+optimal p:  [ 2.12440943e-01  3.57516994e-22 -4.58285151e-23 -3.60611330e-22
+  8.45110356e-23  2.50699572e-01  5.36859485e-01]
+optimal x:  [2.48463516e-22 5.39829324e-01 9.69258396e-01 4.83427294e-01
+ 1.00000000e+00 1.00000000e+00 1.00000000e+00]
+optimal y:  0.19987004007475787
+Optimization Runtime:  0.2083451747894287

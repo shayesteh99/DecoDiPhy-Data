@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 16 173 185  14  35 155 183]
+opt_x:  [0.05263874 0.15171966 1.         1.         1.         1.
+ 0.34968517]
+opt_p:  [ 3.36755219e-07 -4.92605249e-09  7.93087438e-02  7.39605043e-01
+  6.02428884e-02  1.20843005e-01 -1.41096183e-08]
+opt_y:  0.3883124039456595
+optimal anchors:  ['I9', 'Tricholepidion_gertschi', 'I19', 'Lysiosquillina_maculata', 'Sergestes_similis', 'Neocaridina_denticulata', 'Enoplometopus_cf_daumi']
+optimal p:  [0.18398436 0.0873652  0.32493316 0.09665843 0.1138247  0.00434685
+ 0.18888729]
+optimal x:  [0.30869489 1.         0.97971835 1.         1.         1.
+ 1.        ]
+optimal y:  0.4162937789141683
+Optimization Runtime:  0.38286399841308594

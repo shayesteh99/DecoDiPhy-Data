@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [73 71 65 77 75 34 51]
+opt_x:  [0.52236445 1.         1.         1.         0.56341028 1.
+ 0.23671242]
+opt_p:  [-8.95856365e-22  1.49230311e-22 -4.11342283e-23  1.00000000e+00
+ -1.23597376e-21 -5.71246732e-23  1.21762557e-22]
+opt_y:  0.36769064314285915
+optimal anchors:  ['Colchicum_autumnale', 'I25', 'I28', 'Diospyros_malabarica', 'Liriodendron_tulipifera', 'Saruma_henryi', 'Kadsura_heteroclita']
+optimal p:  [-6.00616718e-22  9.72309232e-22 -3.71581827e-22 -1.30594489e-21
+  2.16049525e-24 -5.48452321e-22  1.00000000e+00]
+optimal x:  [0.0454357  0.59097669 0.3741361  0.44268818 1.         0.59377066
+ 1.        ]
+optimal y:  0.36769064314285904
+Optimization Runtime:  0.16444063186645508

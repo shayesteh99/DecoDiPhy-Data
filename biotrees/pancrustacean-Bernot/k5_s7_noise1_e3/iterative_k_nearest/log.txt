@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 37 166  30 196  17]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.47065402 0.09233587 0.05982979 0.1499124  0.22726793]
+opt_y:  0.3335284750760068
+optimal anchors:  ['I12', 'Meinertellus_cundinamarcensis', 'I19', 'Sergestes_similis', 'Lysiosquillina_maculata']
+optimal p:  [0.08672656 0.00397645 0.59957832 0.17843468 0.13128399]
+optimal x:  [2.24309366e-01 1.06018031e-18 8.38738911e-01 1.00000000e+00
+ 1.00000000e+00]
+optimal y:  0.4226952692661919
+Optimization Runtime:  0.23484086990356445

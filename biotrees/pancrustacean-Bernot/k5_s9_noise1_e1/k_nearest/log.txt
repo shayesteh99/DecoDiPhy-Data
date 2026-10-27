@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [138 171  93 172 147]
+opt_x:  [1.         0.49686883 1.         0.99984525 0.65051091]
+opt_p:  [ 4.12125230e-01  6.50556260e-06  5.38874270e-01  4.89947890e-02
+ -7.89639245e-07]
+opt_y:  0.1421321675546058
+optimal anchors:  ['Pollicipes_pollicipes', 'Idotea_baltica', 'Ligia_exotica', 'Litopenaeus_vannamei', 'Penaeus_penicilliatus']
+optimal p:  [ 5.38874270e-01  4.12125230e-01 -7.89639245e-07  6.50556260e-06
+  4.89947890e-02]
+optimal x:  [1.         1.         0.65051091 0.49686883 0.99984525]
+optimal y:  0.1421321675546058
+Optimization Runtime:  0.16569256782531738

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [168 197]
+opt_x:  [1.         0.27076729]
+opt_p:  [0.85974996 0.14025004]
+opt_y:  0.2652059477577147
+optimal anchors:  ['Anaspides_tasmaniae', 'I101']
+optimal p:  [0.85974996 0.14025004]
+optimal x:  [1.         0.27076729]
+optimal y:  0.2652059477577147
+Optimization Runtime:  0.6932098865509033

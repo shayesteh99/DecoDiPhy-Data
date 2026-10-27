@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [299 468 121]
+opt_x:  [1.         0.39087034 1.        ]
+opt_p:  [ 4.0668119e-01 -2.5821782e-22  5.9331881e-01]
+opt_y:  0.13805706233747636
+optimal anchors:  ['Galeopterus_variegatus', 'Rhinolophus_sinicus', 'Dicerorhinus_sumatrensis']
+optimal p:  [ 5.9331881e-01  4.0668119e-01 -2.5821782e-22]
+optimal x:  [1.         1.         0.39087034]
+optimal y:  0.13805706233747636
+Optimization Runtime:  0.3679778575897217

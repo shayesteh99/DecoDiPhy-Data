@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 63  95 166 167 172 181 188]
+opt_x:  [9.53755188e-01 1.00000000e+00 3.73839282e-19 6.07776131e-19
+ 9.97141541e-01 8.82510779e-01 1.00000000e+00]
+opt_p:  [0.31399086 0.06752738 0.03235414 0.02473675 0.04992577 0.0810576
+ 0.4304075 ]
+opt_y:  0.3711872023897198
+optimal anchors:  ['Hutchinsoniella_macracantha', 'I49', 'I80', 'Litopenaeus_vannamei', 'Penaeus_penicilliatus', 'Palaemon_sp', 'Pagurus_longicarpus']
+optimal p:  [0.31038777 0.06917292 0.390231   0.03598567 0.03604864 0.0585201
+ 0.0996539 ]
+optimal x:  [0.95291822 0.70381641 0.51119919 1.         1.         1.
+ 0.93488709]
+optimal y:  0.37023412570959885
+Optimization Runtime:  0.2474210262298584

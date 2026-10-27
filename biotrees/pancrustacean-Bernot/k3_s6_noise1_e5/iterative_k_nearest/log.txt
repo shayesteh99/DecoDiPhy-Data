@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [199  15 161]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.20907156 0.704684   0.08624445]
+opt_y:  0.35283293305620406
+optimal anchors:  ['I9', 'Lysiosquillina_maculata', 'Cherax_destructor']
+optimal p:  [0.4391018  0.16771395 0.39318425]
+optimal x:  [0.64299469 1.         1.        ]
+optimal y:  0.3465269543978112
+Optimization Runtime:  0.18961048126220703

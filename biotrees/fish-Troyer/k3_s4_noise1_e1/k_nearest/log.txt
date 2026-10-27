@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [51 55 56]
+opt_x:  [1.         0.50033974 0.5222595 ]
+opt_p:  [ 1.00000000e+00 -9.16306115e-22 -3.37438775e-22]
+opt_y:  0.02179521861971756
+optimal anchors:  ['Diodontidae_Tragulichthys_jaculiferus_EPLATE_52_G11', 'Diodontidae_Diodon_holocanthus_UPRFL0286', 'Diodontidae_Diodon_hystrix_STRIBFT11552']
+optimal p:  [ 1.00000000e+00 -9.16306115e-22 -3.37438775e-22]
+optimal x:  [1.         0.50033974 0.5222595 ]
+optimal y:  0.02179521861971756
+Optimization Runtime:  0.14164423942565918

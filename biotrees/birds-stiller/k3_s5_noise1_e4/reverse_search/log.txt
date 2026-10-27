@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [255 256 633]
+opt_x:  [1.         0.37689546 1.        ]
+opt_p:  [0.29259058 0.42147873 0.28593069]
+opt_y:  0.05712375389473848
+optimal anchors:  ['Cathartes_aura', 'I130', 'Passer_domesticus']
+optimal p:  [0.29259058 0.42147873 0.28593069]
+optimal x:  [1.         0.37689546 1.        ]
+optimal y:  0.05712375389473848
+Optimization Runtime:  3.068873643875122

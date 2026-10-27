@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [171 213 176  96 206 114 325]
+opt_x:  [0.43396844 1.         1.         1.         0.46605498 1.
+ 1.        ]
+opt_p:  [5.05954550e-22 2.08420786e-01 1.37833048e-01 3.89515635e-01
+ 1.31493730e-21 8.19636214e-24 2.64230531e-01]
+opt_y:  0.16721888305905186
+optimal anchors:  ['Gelastocoris_oculatus', 'Tibicen_dorsata', 'Peloridium_hammoniorum', 'Cycadothrips_chadwicki', 'Cryptocercus_wrighti', 'Galloisiana_yuasai', 'I171']
+optimal p:  [ 2.25690485e-01  6.81962591e-02  4.25244883e-02  1.40776315e-01
+ -3.84142983e-22  2.54279947e-01  2.68532505e-01]
+optimal x:  [1.         1.         1.         1.         0.47142615 1.
+ 0.89565152]
+optimal y:  0.20334648711582298
+Optimization Runtime:  0.42160797119140625

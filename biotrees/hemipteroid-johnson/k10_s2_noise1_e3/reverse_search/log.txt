@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [  9  87  88 127 148 150 153 177 299 300]
+opt_x:  [1.         1.         1.         0.99999999 1.         0.47995333
+ 1.         1.         1.         1.        ]
+opt_p:  [ 2.45851171e-01  9.69747299e-02  1.09364532e-01  9.91489719e-02
+  8.02241196e-02 -5.21839063e-09  1.02548077e-01  1.51003117e-01
+  5.74426431e-02  5.74426438e-02]
+opt_y:  0.11015900611188838
+optimal anchors:  ['Scutelleridae_sp', 'Notonecta_glauca', 'Buenoa_margaritacea', 'Campylenchia_latipes', 'I83', 'I84', 'Ladella_sp', 'I98', 'Aleochara_curtula', 'Gyrinus_marinus']
+optimal p:  [ 2.45851171e-01  9.69747299e-02  1.09364532e-01  9.91489719e-02
+  8.02241196e-02 -5.21839063e-09  1.02548077e-01  1.51003117e-01
+  5.74426431e-02  5.74426438e-02]
+optimal x:  [1.         1.         1.         0.99999999 1.         0.47995333
+ 1.         1.         1.         1.        ]
+optimal y:  0.11015900611188838
+Optimization Runtime:  0.8151028156280518

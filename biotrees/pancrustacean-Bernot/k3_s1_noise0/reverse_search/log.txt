@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 37  38 146]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.29671407 0.29058824 0.41269768]
+opt_y:  0.028488726178671674
+optimal anchors:  ['I21', 'Xibalbanus_tulumensis', 'Oniscus_asellus']
+optimal p:  [0.382334   0.20814139 0.40952461]
+optimal x:  [0.66953413 1.         1.        ]
+optimal y:  0.04586659864350365
+Optimization Runtime:  1.1533560752868652

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [211  72 188 217 192 183 185]
+opt_x:  [1.         1.         0.99996851 0.31942938 1.         0.5104749
+ 0.50142719]
+opt_p:  [ 4.87941482e-01  2.81352407e-01  6.51352794e-02 -1.44336407e-07
+  1.65566659e-01  2.28404109e-06  2.03338027e-06]
+opt_y:  0.05146783259357121
+optimal anchors:  ['Cryphalus_massonianus_I13631', 'Xyleborus_affinis_I13682', 'Euwallacea_spPSHB_SRX698946', 'Coccotrypes_sp2035_Cangar_I13659', 'Ips_pini_EST', 'I112', 'Hylocurus_flaglerensis_H04562']
+optimal p:  [ 2.74530786e-01  1.07396879e-21  1.29104812e-21  6.64284746e-02
+  1.30662139e-01  5.28378601e-01 -3.01678075e-20]
+optimal x:  [1.         0.38129042 0.49666503 1.         1.         0.95474263
+ 0.47007995]
+optimal y:  0.06060227581599341
+Optimization Runtime:  0.2500152587890625

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [247 382 204 383 235 194 122]
+opt_x:  [1.         1.         0.36558644 1.         0.46933182 0.4783507
+ 1.        ]
+opt_p:  [ 1.95587865e-01  3.36746309e-01 -8.12617041e-23  3.33009407e-01
+ -5.83687885e-23 -3.32824369e-22  1.34656418e-01]
+opt_y:  0.043858125607498494
+optimal anchors:  ['Arenaria_interpres', 'Fregetta_grallaria', 'Aptenodytes_forsteri', 'Phalacrocorax_auritus', 'Cathartes_aura', 'Manacus_manacus', 'Lepidothrix_coronata']
+optimal p:  [ 1.34656418e-01 -3.32824369e-22 -8.12617041e-23 -5.83687885e-23
+  1.95587865e-01  3.36746309e-01  3.33009407e-01]
+optimal x:  [1.         0.4783507  0.36558644 0.46933182 1.         1.
+ 1.        ]
+optimal y:  0.043858125607498494
+Optimization Runtime:  0.945953369140625

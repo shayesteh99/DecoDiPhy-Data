@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [493 494 499 502 582]
+opt_x:  [1.         0.50023909 0.51232213 0.5276086  1.        ]
+opt_p:  [ 1.81952642e-01 -2.01262015e-20 -1.06167159e-20 -1.26842449e-20
+  8.18047358e-01]
+opt_y:  0.12380964932214808
+optimal anchors:  ['I256', 'I257', 'Teleost_Otophysa_Siluriformes_Pangasiidae_Pangasianodon_hypophthalamus', 'Teleost_Otophysa_Siluriformes_Bagridae_Hemibagrus_guttatus', 'Teleost_Osteoglossiformes_Osteoglossiformes_Pantodontidae_Pantodon_buchholzi']
+optimal p:  [ 1.81952642e-01 -2.01262015e-20 -1.06167159e-20 -1.26842449e-20
+  8.18047358e-01]
+optimal x:  [1.         0.50023909 0.51232213 0.5276086  1.        ]
+optimal y:  0.12380964932214808
+Optimization Runtime:  2.5735669136047363

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 43 149 194]
+opt_x:  [0.81202587 0.44136626 0.69954841]
+opt_p:  [0.40207677 0.16428808 0.43363515]
+opt_y:  0.29534179609966615
+optimal anchors:  ['Catharanthus_roseus', 'I82', 'I101']
+optimal p:  [0.40207677 0.16428808 0.43363515]
+optimal x:  [0.81202587 0.44136626 0.69954841]
+optimal y:  0.29534179609966615
+Optimization Runtime:  17127.63243842125

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [452 577 460]
+opt_x:  [1.         1.         0.54480544]
+opt_p:  [2.79580465e-01 7.20419535e-01 1.81816520e-22]
+opt_y:  0.14388287376332407
+optimal anchors:  ['I203', 'Teleost_Euteleost_Aulopiformes_Chlorophthalmidae_Parasudis_fraserbrunneri', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides']
+optimal p:  [0.52255942 0.0242916  0.45314897]
+optimal x:  [0.32206738 1.         1.        ]
+optimal y:  0.2491376564900012
+Optimization Runtime:  0.5119502544403076

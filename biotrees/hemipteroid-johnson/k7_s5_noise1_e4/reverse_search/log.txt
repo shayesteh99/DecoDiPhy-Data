@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [134 180 268 331 332 349 350]
+opt_x:  [1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.26066664 0.30646924 0.17776403 0.06044325 0.05985703 0.06748231
+ 0.06731749]
+opt_y:  0.08703674405237666
+optimal anchors:  ['I72', 'I95', 'Lachesilla_abiesicola', 'Ceroplastes_cirripediformis', 'Coccus_sp', 'Trioza_urticae', 'Diaphorina_citri']
+optimal p:  [0.26066664 0.30646924 0.17776403 0.06044325 0.05985703 0.06748231
+ 0.06731749]
+optimal x:  [1. 1. 1. 1. 1. 1. 1.]
+optimal y:  0.08703674405237666
+Optimization Runtime:  0.5708303451538086

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [143  60 159]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.52333887 0.47571648 0.00094465]
+opt_y:  0.1225460348460777
+optimal anchors:  ['I34', 'I64', 'Ladella_sp']
+optimal p:  [0.37768241 0.4612584  0.16105919]
+optimal x:  [0.88910846 0.81955595 1.        ]
+optimal y:  0.1365388264819547
+Optimization Runtime:  0.27847838401794434

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [112 113 100 104 105]
+opt_x:  [0.50979724 0.48338306 1.         0.49377038 0.18807496]
+opt_p:  [-4.80211843e-22 -7.53055669e-22  1.00000000e+00  9.78185532e-22
+ -2.49644656e-23]
+opt_y:  0.09931985781790731
+optimal anchors:  ['Daubentonia_madagascariensis', 'Propithecus_coquereli', 'Indri_indri', 'Eulemur_fulvus', 'Lemur_catta']
+optimal p:  [ 1.00000000e+00  9.78185532e-22 -2.49644656e-23 -4.80211843e-22
+ -7.53055669e-22]
+optimal x:  [1.         0.49377038 0.18807496 0.50979724 0.48338306]
+optimal y:  0.09931985781790731
+Optimization Runtime:  0.3408069610595703

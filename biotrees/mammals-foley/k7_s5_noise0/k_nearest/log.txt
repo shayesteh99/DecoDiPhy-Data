@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [318 329 323 321 322 341 340]
+opt_x:  [1.         0.94336134 0.55377866 0.525199   0.5008193  0.50786232
+ 0.50150158]
+opt_p:  [ 1.00000000e+00  5.00910355e-23 -7.72674367e-22 -1.03387736e-21
+ -4.34603353e-22 -9.48033800e-22 -1.75846730e-21]
+opt_y:  0.09294158510703597
+optimal anchors:  ['Eubalaena_japonica', 'Balaenoptera_bonaerensis', 'Balaenoptera_acutorostrata', 'Eschrichtius_robustus', 'Ziphius_cavirostris', 'Delphinapterus_leucas', 'Monodon_monoceros']
+optimal p:  [ 1.00000000e+00 -1.03387736e-21 -4.34603353e-22 -7.72674367e-22
+  5.00910355e-23 -1.75846730e-21 -9.48033800e-22]
+optimal x:  [1.         0.525199   0.5008193  0.55377866 0.94336134 0.50150158
+ 0.50786232]
+optimal y:  0.09294158510703597
+Optimization Runtime:  0.3324558734893799

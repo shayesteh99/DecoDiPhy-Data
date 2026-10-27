@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [86 48 95]
+opt_x:  [0.48147372 1.         1.        ]
+opt_p:  [-1.16289179e-23  3.20083240e-01  6.79916760e-01]
+opt_y:  0.03327156699065585
+optimal anchors:  ['Okaromo__LakeNyamagoma__206', 'Ohunteri__LakeChala__G1-K2G2', 'I51']
+optimal p:  [0.29545337 0.20213708 0.50240956]
+optimal x:  [0.99994653 0.71447427 0.41862432]
+optimal y:  0.029385733267599058
+Optimization Runtime:  0.16589570045471191

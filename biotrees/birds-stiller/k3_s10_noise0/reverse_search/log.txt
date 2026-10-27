@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [429 580 581]
+opt_x:  [1.00000000e+00 1.05750593e-21 4.76812408e-01]
+opt_p:  [0.49831956 0.29947676 0.20220368]
+opt_y:  0.025207442862271726
+optimal anchors:  ['I218', 'I296', 'Toxostoma_redivivum']
+optimal p:  [0.49890081 0.27200063 0.22909852]
+optimal x:  [0.46901591 0.60523287 0.90583664]
+optimal y:  0.024536119025917704
+Optimization Runtime:  3.2974796295166016

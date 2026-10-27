@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 9 12 17]
+opt_x:  [0.99999963 0.486443   0.49808065]
+opt_p:  [9.99998986e-01 5.05279975e-07 5.04038457e-07]
+opt_y:  0.06690363892593948
+optimal anchors:  ['I24', 'Sehirus_cincutus', 'Piezosternum_callidum']
+optimal p:  [ 1.00000859e+00 -4.33621721e-06 -4.25398569e-06]
+optimal x:  [0.93590776 0.61550544 0.65121408]
+optimal y:  0.12011145302939315
+Optimization Runtime:  0.2139720916748047

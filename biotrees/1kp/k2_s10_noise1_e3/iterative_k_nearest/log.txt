@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [150 155]
+opt_x:  [0.48672385 1.        ]
+opt_p:  [4.06872279e-21 1.00000000e+00]
+opt_y:  0.0681414024310849
+optimal anchors:  ['Anomodon_attenuatus', 'Ceratodon_purpureus']
+optimal p:  [4.06872279e-21 1.00000000e+00]
+optimal x:  [0.48672385 1.        ]
+optimal y:  0.0681414024310849
+Optimization Runtime:  0.12201952934265137

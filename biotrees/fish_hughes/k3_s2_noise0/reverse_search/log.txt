@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 85  86 103]
+opt_x:  [3.63645803e-05 1.74491856e-01 2.29769441e-01]
+opt_p:  [0.17384506 0.25935891 0.56679602]
+opt_y:  0.04959665749039713
+optimal anchors:  ['I58', 'I59', 'Teleost_Euteleost_Ovalentaria_Gobiescociformes_Gobiesocidae_Acyrtus_sp']
+optimal p:  [0.17384506 0.25935891 0.56679602]
+optimal x:  [3.63645803e-05 1.74491856e-01 2.29769441e-01]
+optimal y:  0.04959665749039713
+Optimization Runtime:  11.8805992603302

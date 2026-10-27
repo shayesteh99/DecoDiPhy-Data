@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 20  26  74 191 192]
+opt_x:  [1.         0.47952276 1.         1.         1.        ]
+opt_p:  [3.67820220e-01 7.22530286e-24 3.37814148e-01 1.47547629e-01
+ 1.46818003e-01]
+opt_y:  0.03077948097891351
+optimal anchors:  ['I13', 'Ostraciidae_Ostracion_meleagris_USNMAG9RT93', 'I43', 'Balistidae_Rhinecanthus_rectangulus_USNMAG9RQ72', 'Balistidae_Rhinecanthus_aculeatus_USNMAG9RU13']
+optimal p:  [3.67820220e-01 7.22530286e-24 3.37814148e-01 1.47547629e-01
+ 1.46818003e-01]
+optimal x:  [1.         0.47952276 1.         1.         1.        ]
+optimal y:  0.03077948097891351
+Optimization Runtime:  0.49309682846069336

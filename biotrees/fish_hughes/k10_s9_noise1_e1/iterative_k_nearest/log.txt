@@ -1,0 +1,18 @@
+created matrices
+opt_anchors:  [374 326 371 156 267 280 442 244 404 450]
+opt_x:  [4.84057352e-01 4.98813023e-01 5.02340249e-01 4.93622973e-01
+ 4.98225636e-01 4.98993435e-01 4.85319753e-01 4.98977921e-01
+ 5.10902417e-22 1.00000000e+00]
+opt_p:  [-5.18534856e-20 -1.47686987e-19 -6.31676762e-20 -1.54379570e-19
+ -1.56143072e-19 -1.53716291e-19 -2.78483404e-20 -1.56242577e-19
+  8.41031968e-02  9.15896803e-01]
+opt_y:  0.138020115379719
+optimal anchors:  ['Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'Teleost_Euteleost_Eupercaria_Centrarchiformes_Percichthyidae_Siniperca_scherzeri', 'Teleost_Euteleost_Eupercaria_Pempheriformes_Epigonidae_Epigonus_sp', 'Teleost_Euteleost_Eupercaria_Perciformes_Scorpaenidae_Pontinus_castor', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Scomberomorus_regalis', 'Teleost_Euteleost_Beryciformes_Rondeletiidae_Rondeletia_loricata', 'Teleost_Euteleost_Trachichthyformes_Monocentridae_Monocentris_japonica', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Lotidae_Lota_lota', 'Teleost_Euteleost_Polymixiiformes_Polymixiidae_Polymixia_japonica', 'Teleost_Euteleost_Aulopiformes_Chlorophthalmidae_Parasudis_fraserbrunneri']
+optimal p:  [-1.54379570e-19 -1.56242577e-19 -1.56143072e-19 -1.53716291e-19
+ -1.47686987e-19 -6.31676762e-20 -5.18534856e-20  8.41031968e-02
+ -2.78483404e-20  9.15896803e-01]
+optimal x:  [4.93622973e-01 4.98977921e-01 4.98225636e-01 4.98993435e-01
+ 4.98813023e-01 5.02340249e-01 4.84057352e-01 5.10902417e-22
+ 4.85319753e-01 1.00000000e+00]
+optimal y:  0.138020115379719
+Optimization Runtime:  0.6808700561523438

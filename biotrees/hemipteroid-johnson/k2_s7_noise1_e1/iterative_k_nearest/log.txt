@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [60 67]
+opt_x:  [1. 1.]
+opt_p:  [0.84379383 0.15620617]
+opt_y:  0.07502485327671013
+optimal anchors:  ['Arilus_cristatus', 'Pagasa_sp']
+optimal p:  [0.84379383 0.15620617]
+optimal x:  [1. 1.]
+optimal y:  0.07502485327671013
+Optimization Runtime:  0.24907588958740234

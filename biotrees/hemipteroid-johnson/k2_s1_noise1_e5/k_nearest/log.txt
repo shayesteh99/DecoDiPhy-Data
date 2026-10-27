@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [261 212]
+opt_x:  [1. 1.]
+opt_p:  [0.38981047 0.61018953]
+opt_y:  0.17889175407047397
+optimal anchors:  ['Cryptocercus_wrighti', 'Badonnelia_titei']
+optimal p:  [0.61018953 0.38981047]
+optimal x:  [1. 1.]
+optimal y:  0.17889175407047397
+Optimization Runtime:  0.26741695404052734

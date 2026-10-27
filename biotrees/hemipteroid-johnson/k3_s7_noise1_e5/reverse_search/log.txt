@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 58  80 229]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.25085825 0.2928768  0.45626495]
+opt_y:  0.20786378801465585
+optimal anchors:  ['I6', 'I32', 'Zorotypus_caudelli']
+optimal p:  [0.34577722 0.18945272 0.46477006]
+optimal x:  [0.35819201 0.82563725 1.        ]
+optimal y:  0.21016077663881844
+Optimization Runtime:  0.5196528434753418

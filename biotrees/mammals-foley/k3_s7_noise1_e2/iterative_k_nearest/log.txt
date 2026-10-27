@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 81  46 197]
+opt_x:  [1.         0.56264996 1.        ]
+opt_p:  [ 1.11431829e-01 -3.37540110e-22  8.88568171e-01]
+opt_y:  0.023246643213902223
+optimal anchors:  ['Gorilla_gorilla', 'I43', 'Chinchilla_lanigera']
+optimal p:  [2.49599002e-23 6.14866076e-01 3.85133924e-01]
+optimal x:  [0.59578893 0.96790488 1.        ]
+optimal y:  0.07389366377075464
+Optimization Runtime:  0.37093448638916016

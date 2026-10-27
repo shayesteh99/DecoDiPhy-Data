@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [167  88 180 112 142]
+opt_x:  [0.65762153 1.         0.55587945 1.         0.55630192]
+opt_p:  [4.99679392e-22 1.61708008e-01 4.45991009e-01 3.92300983e-01
+ 3.53110530e-21]
+opt_y:  -8.464006920454473e-20
+optimal anchors:  ['Tetraodontidae_Arothron_meleagris_USNMAG5NP43', 'Tetraodontidae_Sphoeroides_maculatus_USNMAE2QZ45', 'Triacanthodidae_Hollardia_hollardia_Vims40109', 'Balistidae_Melichthys_vidua_STRIBFT11786', 'Balistidae_Canthidermis_sufflamen_USNMAC7BZ85']
+optimal p:  [1.61708008e-01 3.92300983e-01 3.53110530e-21 4.99679392e-22
+ 4.45991009e-01]
+optimal x:  [1.         1.         0.55630192 0.65762153 0.55587945]
+optimal y:  -8.464006920454473e-20
+Optimization Runtime:  0.2522246837615967

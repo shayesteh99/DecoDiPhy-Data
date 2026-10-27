@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [  1 264 556]
+opt_x:  [0.20799174 1.         1.        ]
+opt_p:  [0.22476095 0.44149482 0.33374423]
+opt_y:  0.27244820744257525
+optimal anchors:  ['I3', 'Teleost_Euteleost_Eupercaria_Uranoscopiformes_Pinguipedidae_Parapercis_xanthozona', 'I250']
+optimal p:  [0.17377195 0.40700999 0.41921806]
+optimal x:  [0.49733612 1.         0.87183252]
+optimal y:  0.28970600486420767
+Optimization Runtime:  1.8873741626739502

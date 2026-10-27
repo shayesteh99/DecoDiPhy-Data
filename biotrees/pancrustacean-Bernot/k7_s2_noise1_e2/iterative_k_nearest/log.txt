@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [173  26 185  37 170  90 165]
+opt_x:  [0.35156252 1.         1.         1.         0.43322485 1.
+ 1.        ]
+opt_p:  [-2.22253633e-22  5.10665549e-01  9.36825697e-02  5.15563792e-02
+ -1.53936930e-22  2.47017929e-01  9.70775738e-02]
+opt_y:  0.1734285947621404
+optimal anchors:  ['Tricholepidion_gertschi', 'Godzilliognomus_frondosus', 'Pollicipes_pollicipes', 'Thysanoessa_inermis', 'Penaeus_duorarum', 'Sergestes_similis', 'Cherax_destructor']
+optimal p:  [ 5.10665549e-01  5.15563792e-02  2.47017929e-01  9.70775738e-02
+ -1.53936930e-22 -2.22253633e-22  9.36825697e-02]
+optimal x:  [1.         1.         1.         1.         0.43322485 0.35156252
+ 1.        ]
+optimal y:  0.1734285947621404
+Optimization Runtime:  0.29979705810546875

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 32  40 142]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.62560811 0.00488161 0.36951028]
+opt_y:  0.012622113381542002
+optimal anchors:  ['I19', 'Otanganicae__Katanga__41', 'I75']
+optimal p:  [0.58226625 0.14368192 0.27405182]
+optimal x:  [0.84062359 1.         0.4544608 ]
+optimal y:  0.02375793265624518
+Optimization Runtime:  0.17193341255187988

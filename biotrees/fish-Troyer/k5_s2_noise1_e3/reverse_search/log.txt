@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 30  31  41  87 198]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.11416417 0.1135125  0.24221373 0.26199546 0.26811414]
+opt_y:  0.03041440015213678
+optimal anchors:  ['Ostraciidae_Acanthostracion_quadricornis_UPRFL0075', 'I19', 'I24', 'I47', 'Balistidae_Abalistes_filamentosus_EPLATE_51_B12']
+optimal p:  [0.06379151 0.06379184 0.43620391 0.1965557  0.23965733]
+optimal x:  [0.99990424 0.99989385 0.7402824  0.77797605 1.        ]
+optimal y:  0.046946622200819486
+Optimization Runtime:  0.3889613151550293

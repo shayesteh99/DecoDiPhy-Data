@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [  7  31  32  34  35  43  56 266 321 322]
+opt_x:  [1.         0.49715031 0.49161821 0.48677253 0.48566489 0.46843604
+ 1.         1.         1.         1.        ]
+opt_p:  [ 4.17407027e-01 -9.74910988e-22 -8.33477134e-22 -1.06962564e-21
+ -8.41496369e-22 -8.16492456e-22  1.54014527e-01  2.20891200e-01
+  1.04039309e-01  1.03647938e-01]
+opt_y:  0.08253494161045774
+optimal anchors:  ['Mezira_granulata', 'I20', 'I21', 'Oncopeltus_fasciatus', 'Arocatus_melanocephalus', 'Chalcocoris_rutilans', 'Phymata_pennsylvanica', 'Graphopsocus_cruciatus', 'Ceroplastes_cirripediformis', 'Coccus_sp']
+optimal p:  [ 4.17407027e-01 -9.74910988e-22 -8.33477134e-22 -1.06962564e-21
+ -8.41496369e-22 -8.16492456e-22  1.54014527e-01  2.20891200e-01
+  1.04039309e-01  1.03647938e-01]
+optimal x:  [1.         0.49715031 0.49161821 0.48677253 0.48566489 0.46843604
+ 1.         1.         1.         1.        ]
+optimal y:  0.08253494161045774
+Optimization Runtime:  0.6183512210845947

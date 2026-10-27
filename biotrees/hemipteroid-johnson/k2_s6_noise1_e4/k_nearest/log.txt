@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [261 271]
+opt_x:  [1. 1.]
+opt_p:  [0.98413831 0.01586169]
+opt_y:  0.15909914229417227
+optimal anchors:  ['Badonnelia_titei', 'Mesopsocus_unipunctatus']
+optimal p:  [0.98413831 0.01586169]
+optimal x:  [1. 1.]
+optimal y:  0.15909914229417227
+Optimization Runtime:  0.26398777961730957

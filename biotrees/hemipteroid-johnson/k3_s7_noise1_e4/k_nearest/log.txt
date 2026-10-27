@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [208 209 101]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.19506324 0.19646488 0.60847188]
+opt_y:  0.1014434933146323
+optimal anchors:  ['Trichocorixa_calva', 'Cryptocercus_wrighti', 'Zootermopsis_nevadensis']
+optimal p:  [0.60847188 0.19506324 0.19646488]
+optimal x:  [1. 1. 1.]
+optimal y:  0.1014434933146323
+Optimization Runtime:  0.2539708614349365

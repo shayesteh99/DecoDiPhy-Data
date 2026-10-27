@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 51  53 115 116 152 188 231]
+opt_x:  [1.00000000e+00 2.08451053e-17 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00 8.43363317e-02 2.82136763e-01]
+opt_p:  [0.31393036 0.07775727 0.11396277 0.1141107  0.10523804 0.13848039
+ 0.13652047]
+opt_y:  0.005727518973860165
+optimal anchors:  ['Diodontidae_Tragulichthys_jaculiferus_EPLATE_52_G11', 'Diodontidae_Diodon_holocanthus_UPRFL0286', 'Tetraodontidae_Sphoeroides_nephelus_USNMAC4YB58', 'Tetraodontidae_Sphoeroides_marmoratus_USNMAD9NE03', 'I79', 'I104', 'Monocanthidae_Brachaluteres_taylori_EPLATE_52_G12']
+optimal p:  [0.31121884 0.07999448 0.11391315 0.11406929 0.10613677 0.13818121
+ 0.13648627]
+optimal x:  [1.00000000e+00 2.01874796e-17 1.00000000e+00 1.00000000e+00
+ 3.85089506e-01 7.75431629e-02 2.81635569e-01]
+optimal y:  0.005950037107753663
+Optimization Runtime:  3.257305383682251

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [25 72]
+opt_x:  [0.50933855 0.98063342]
+opt_p:  [0.43750726 0.56249274]
+opt_y:  0.06936594615986628
+optimal anchors:  ['I18', 'CHLUN']
+optimal p:  [0.43750726 0.56249274]
+optimal x:  [0.50933855 0.98063342]
+optimal y:  0.06936594615986628
+Optimization Runtime:  51.92131805419922

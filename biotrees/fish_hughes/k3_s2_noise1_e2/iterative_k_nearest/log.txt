@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 92 110 114]
+opt_x:  [1.         1.         0.33830001]
+opt_p:  [ 7.74607654e-02  9.22539235e-01 -2.61333054e-22]
+opt_y:  0.10985843033174109
+optimal anchors:  ['I56', 'I65', 'Teleost_Euteleost_Ovalentaria_Pomacentridae_Chromis_chromis']
+optimal p:  [ 3.57796286e-01  6.42206572e-01 -2.74851534e-06]
+optimal x:  [0.22654126 0.65999557 0.2497571 ]
+optimal y:  0.09547366559542605
+Optimization Runtime:  0.5174376964569092

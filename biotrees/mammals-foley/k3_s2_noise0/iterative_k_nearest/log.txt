@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [450  27 439]
+opt_x:  [0.49921471 0.2343442  0.5274737 ]
+opt_p:  [-6.38989474e-22  1.00000000e+00 -6.11665006e-22]
+opt_y:  -2.841040375030216e-22
+optimal anchors:  ['Microgale_talazaci', 'Mustela_putorius', 'Neomonachus_schauinslandi']
+optimal p:  [ 1.00000000e+00 -6.11665006e-22 -6.38989474e-22]
+optimal x:  [0.2343442  0.5274737  0.49921471]
+optimal y:  -2.841040375030216e-22
+Optimization Runtime:  0.31620335578918457

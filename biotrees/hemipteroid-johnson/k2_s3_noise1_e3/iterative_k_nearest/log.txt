@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [145 303]
+opt_x:  [1. 1.]
+opt_p:  [0.03269607 0.96730393]
+opt_y:  0.08938281172750183
+optimal anchors:  ['I64', 'Euroleon_nostras']
+optimal p:  [0.50034038 0.49965962]
+optimal x:  [0.84638953 1.        ]
+optimal y:  0.14299617498225523
+Optimization Runtime:  0.22825360298156738

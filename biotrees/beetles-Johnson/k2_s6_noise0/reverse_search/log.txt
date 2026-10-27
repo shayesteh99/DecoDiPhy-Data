@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [205 206]
+opt_x:  [1.00000000e+00 6.17052412e-20]
+opt_p:  [0.93179893 0.06820107]
+opt_y:  0.07745630658217845
+optimal anchors:  ['I107', 'Chramesus_chapuisii_I13688']
+optimal p:  [0.93179893 0.06820107]
+optimal x:  [1.00000000e+00 6.17052412e-20]
+optimal y:  0.07745630658217845
+Optimization Runtime:  0.490647554397583

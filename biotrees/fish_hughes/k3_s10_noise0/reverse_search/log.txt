@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [450 451 580]
+opt_x:  [0.06354161 1.         0.23778018]
+opt_p:  [0.2915803  0.17194695 0.53647275]
+opt_y:  0.042039067546841974
+optimal anchors:  ['I234', 'Teleost_Euteleost_Percopsaria_Percopsiformes_Percopsidae_Percopsis_transmontana', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Scleropages_formosus']
+optimal p:  [0.04336598 0.42037459 0.53625946]
+optimal x:  [0.80568125 0.17260899 0.23692021]
+optimal y:  0.0420390872716759
+Optimization Runtime:  8.361700773239136

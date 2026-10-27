@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [72 40]
+opt_x:  [0.49559774 0.50835904]
+opt_p:  [ 1.00000000e+00 -1.95351262e-22]
+opt_y:  0.05197035044556567
+optimal anchors:  ['CATAU', 'TAUER']
+optimal p:  [-1.95351262e-22  1.00000000e+00]
+optimal x:  [0.50835904 0.49559774]
+optimal y:  0.05197035044556567
+Optimization Runtime:  0.054880619049072266

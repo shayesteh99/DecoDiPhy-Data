@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [155 156]
+opt_x:  [0.65561947 1.        ]
+opt_p:  [7.0399964e-22 1.0000000e+00]
+opt_y:  0.02401422427834829
+optimal anchors:  ['Hedwigia_ciliata', 'Physcomitrella_patens']
+optimal p:  [7.0399964e-22 1.0000000e+00]
+optimal x:  [0.65561947 1.        ]
+optimal y:  0.02401422427834829
+Optimization Runtime:  0.08118057250976562

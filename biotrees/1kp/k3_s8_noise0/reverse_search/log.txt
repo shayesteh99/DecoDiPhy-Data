@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [34 83 84]
+opt_x:  [0.8062071 1.        1.       ]
+opt_p:  [0.32526938 0.33498182 0.33974879]
+opt_y:  0.0412009278457473
+optimal anchors:  ['I26', 'I58', 'Cycas_rumphii']
+optimal p:  [0.32216023 0.40855385 0.26928592]
+optimal x:  [0.77509194 0.63577826 0.57156641]
+optimal y:  0.04254720807830062
+Optimization Runtime:  1.601980447769165

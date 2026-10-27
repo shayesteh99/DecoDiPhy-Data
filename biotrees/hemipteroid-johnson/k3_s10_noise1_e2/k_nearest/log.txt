@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [212 213 222]
+opt_x:  [0.50605595 0.49929026 1.        ]
+opt_p:  [1.18355255e-21 2.50790740e-21 1.00000000e+00]
+opt_y:  0.20227336648513855
+optimal anchors:  ['Cryptocercus_wrighti', 'Zootermopsis_nevadensis', 'Timema_cristinae']
+optimal p:  [1.18355255e-21 2.50790740e-21 1.00000000e+00]
+optimal x:  [0.50605595 0.49929026 1.        ]
+optimal y:  0.20227336648513855
+Optimization Runtime:  0.23353958129882812

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [62 77]
+opt_x:  [3.66376233e-19 3.78291532e-18]
+opt_p:  [0.73632185 0.26367815]
+opt_y:  0.0754480679646541
+optimal anchors:  ['OPHHO', 'COLLI']
+optimal p:  [0.6805911 0.3194089]
+optimal x:  [0.94277684 0.99292395]
+optimal y:  0.07230116284715579
+Optimization Runtime:  0.2919332981109619

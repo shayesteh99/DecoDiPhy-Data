@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [54 57]
+opt_x:  [0.49070211 1.        ]
+opt_p:  [-7.74474647e-07  1.00000078e+00]
+opt_y:  0.03415206775247674
+optimal anchors:  ['Caloenas_nicobarica', 'Columba_livia']
+optimal p:  [-7.74474647e-07  1.00000078e+00]
+optimal x:  [0.49070211 1.        ]
+optimal y:  0.03415206775247674
+Optimization Runtime:  0.8005251884460449

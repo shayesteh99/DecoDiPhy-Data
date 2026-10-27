@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [23 12 18 10 17 15 19 26 25  5]
+opt_x:  [0.52592233 0.51054945 0.52143452 0.51018874 0.51935676 0.51380478
+ 1.         0.52735887 0.50594153 0.58875321]
+opt_p:  [2.14967157e-23 2.30156205e-23 2.63092809e-23 2.25625632e-23
+ 2.46326366e-23 1.63437895e-23 1.00000000e+00 2.23225153e-23
+ 2.63117273e-23 2.34426942e-23]
+opt_y:  0.03429993808848244
+optimal anchors:  ['Steganomus_ennediensis', 'Pseudapis_kenyensis', 'Pseudapis_oxybeloides', 'Pseudapis_interstitinervis', 'Nomiapis_bispinosa', 'Nomiapis_diversipes', 'Ruginomia_rugiventris', 'Stictonomia_sangaensis', 'Pachynomia_tshibindica', 'Pachynomia_flavicarpa']
+optimal p:  [2.34426942e-23 2.25625632e-23 2.30156205e-23 1.63437895e-23
+ 2.46326366e-23 2.63092809e-23 1.00000000e+00 2.14967157e-23
+ 2.63117273e-23 2.23225153e-23]
+optimal x:  [0.58875321 0.51018874 0.51054945 0.51380478 0.51935676 0.52143452
+ 1.         0.52592233 0.50594153 0.52735887]
+optimal y:  0.03429993808848244
+Optimization Runtime:  0.19088530540466309

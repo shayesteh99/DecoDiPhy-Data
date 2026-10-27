@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 11  12  71  73 247 252 274]
+opt_x:  [1.         1.         0.84946974 1.         0.43872167 1.
+ 1.        ]
+opt_p:  [ 9.31313511e-02  9.28424356e-02 -3.13678359e-23  2.86942369e-01
+  4.20830156e-22  4.87526335e-01  3.95575093e-02]
+opt_y:  0.14494482093549396
+optimal anchors:  ['Largus_californicus_2', 'Largus_californicus_1', 'Arilus_cristatus', 'Aphelonotus_fraterculus', 'Menopon_gallinae', 'Stimulopalpus_japonicus', 'Aaroniella_sp']
+optimal p:  [ 9.31313511e-02  9.28424356e-02 -3.13678359e-23  2.86942369e-01
+  4.20830156e-22  4.87526335e-01  3.95575093e-02]
+optimal x:  [1.         1.         0.84946974 1.         0.43872167 1.
+ 1.        ]
+optimal y:  0.14494482093549396
+Optimization Runtime:  0.6032676696777344

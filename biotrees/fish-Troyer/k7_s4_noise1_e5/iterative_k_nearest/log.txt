@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [140 152  43 163 101  51 125]
+opt_x:  [0.5098001  0.48846739 0.5426515  1.         1.         0.5183527
+ 0.50096227]
+opt_p:  [-3.95341223e-22 -3.86574773e-22 -3.10843216e-22  6.45900432e-01
+  3.54099568e-01 -5.31772162e-22 -7.73525410e-22]
+opt_y:  0.046950554651967166
+optimal anchors:  ['Diodontidae_Chilomycterus_reticulatus_EPLATE_74_A07', 'Diodontidae_Tragulichthys_jaculiferus_EPLATE_52_G11', 'I56', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Tetraodontidae_Takifugu_flavidus', 'Triacanthodidae_Hollardia_hollardia_Vims40109', 'Triacanthodidae_Atrophacanthus_sp_EPLATE_33_F09', 'Balistidae_Melichthys_vidua_STRIBFT11786']
+optimal p:  [ 1.92872154e-01  1.00879384e-05  2.97868222e-01 -1.13710208e-05
+  1.33229947e-01  6.33856405e-07  3.76030337e-01]
+optimal x:  [0.99996129 0.54269206 0.56325908 0.49803553 1.         0.25107569
+ 1.        ]
+optimal y:  0.04763266939563707
+Optimization Runtime:  0.275219202041626

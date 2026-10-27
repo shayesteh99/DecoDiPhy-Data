@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [135 176 181 186 303]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.10040683 0.09671041 0.18056066 0.1775948  0.4447273 ]
+opt_y:  0.10233250035696892
+optimal anchors:  ['Zapus_hudsonius', 'Glis_glis', 'I96', 'Aplodontia_rufa', 'I156']
+optimal p:  [0.10660806 0.07820615 0.15826194 0.15597765 0.5009462 ]
+optimal x:  [1.        1.        1.        1.        0.5809853]
+optimal y:  0.11167989191572783
+Optimization Runtime:  0.8555357456207275

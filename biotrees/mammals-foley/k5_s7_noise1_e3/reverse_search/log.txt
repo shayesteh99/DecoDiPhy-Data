@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 14  79 197 325 326]
+opt_x:  [0.84497455 1.         1.         1.         1.        ]
+opt_p:  [0.45278173 0.19208259 0.13776354 0.10945168 0.10792046]
+opt_y:  0.09483552897324592
+optimal anchors:  ['I8', 'I43', 'Octodon_degus', 'Platanista_gangetica', 'I169']
+optimal p:  [0.43812886 0.20653329 0.13628847 0.1102903  0.10875908]
+optimal x:  [0.81789677 0.75494243 1.         1.         1.        ]
+optimal y:  0.09770493602436062
+Optimization Runtime:  1.2558784484863281

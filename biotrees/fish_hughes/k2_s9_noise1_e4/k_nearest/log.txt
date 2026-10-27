@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [482 386]
+opt_x:  [1. 1.]
+opt_p:  [0.67892338 0.32107662]
+opt_y:  0.19320498339839942
+optimal anchors:  ['Teleost_Euteleost_Trachichthyformes_Monocentridae_Monocentris_japonica', 'Teleost_Euteleost_Salmoniformes_Salmonidae_Coregonus_clupeaformis']
+optimal p:  [0.32107662 0.67892338]
+optimal x:  [1. 1.]
+optimal y:  0.19320498339839942
+Optimization Runtime:  0.5613844394683838

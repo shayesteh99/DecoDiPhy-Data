@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 10  97  99 117 152]
+opt_x:  [1.00000000e+00 1.00000000e+00 2.27313684e-22 5.15369031e-01
+ 2.15090347e-22]
+opt_p:  [0.18578242 0.14466376 0.23036355 0.22365506 0.21553521]
+opt_y:  0.06118102922455363
+optimal anchors:  ['Cosmoderes_monilicollis_I13692', 'I55', 'Cryptocarenus_seriatus_I10214', 'I66', 'Ernoporus_tiliae_I10221']
+optimal p:  [0.18572457 0.15872939 0.21657209 0.25471892 0.18425505]
+optimal x:  [1.         1.         0.75767849 0.44969602 0.76754293]
+optimal y:  0.059137265467583175
+Optimization Runtime:  0.6695325374603271

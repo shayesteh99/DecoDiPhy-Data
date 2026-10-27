@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [152  48  98]
+opt_x:  [0.49382991 1.         1.        ]
+opt_p:  [-5.49927603e-23  2.64263123e-01  7.35736877e-01]
+opt_y:  0.022300851492586243
+optimal anchors:  ['Okaromo__LakeNyamagoma__206', 'Omossambicus__SouthAfrica__RB09-059', 'Ourolepis__LakeLugongwe__T2J5']
+optimal p:  [ 2.64263123e-01  7.35736877e-01 -5.49927603e-23]
+optimal x:  [1.         1.         0.49382991]
+optimal y:  0.022300851492586243
+Optimization Runtime:  0.2383098602294922

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [81 45]
+opt_x:  [1.        0.4832616]
+opt_p:  [ 1.00000000e+00 -3.38187004e-21]
+opt_y:  0.05288418734833249
+optimal anchors:  ['Homo_sapiens', 'Callicebus_donacophilus']
+optimal p:  [-3.38187004e-21  1.00000000e+00]
+optimal x:  [0.4832616 1.       ]
+optimal y:  0.05288418734833249
+Optimization Runtime:  0.328033447265625

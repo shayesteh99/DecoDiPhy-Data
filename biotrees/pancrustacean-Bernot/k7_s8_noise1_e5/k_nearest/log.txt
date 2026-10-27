@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 11  30  32  31  28   9 165]
+opt_x:  [0.46960572 0.48387314 1.         0.44574366 0.49002013 1.
+ 1.        ]
+opt_p:  [5.82651692e-22 3.44978356e-21 1.55646496e-01 1.32541483e-21
+ 3.00759252e-21 6.18357614e-01 2.25995890e-01]
+opt_y:  0.5087601201167424
+optimal anchors:  ['Machilis_hrabei', 'Tricholepidion_gertschi', 'Lasionectes_entrichoma', 'Morlockia_williamsi', 'Xibalbanus_tulumensis', 'Godzilliognomus_frondosus', 'Litopenaeus_vannamei']
+optimal p:  [6.18357614e-01 5.82651692e-22 3.00759252e-21 3.44978356e-21
+ 1.32541483e-21 1.55646496e-01 2.25995890e-01]
+optimal x:  [1.         0.46960572 0.49002013 0.48387314 0.44574366 1.
+ 1.        ]
+optimal y:  0.5087601201167424
+Optimization Runtime:  0.16699934005737305

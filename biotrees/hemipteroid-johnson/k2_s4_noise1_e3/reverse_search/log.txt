@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [128 154]
+opt_x:  [1. 1.]
+opt_p:  [0.48963652 0.51036348]
+opt_y:  0.10364400466992608
+optimal anchors:  ['Vidanoana_flavomaculata', 'I77']
+optimal p:  [0.45070933 0.54929067]
+optimal x:  [1.       0.334398]
+optimal y:  0.11887549845522614
+Optimization Runtime:  0.6843962669372559

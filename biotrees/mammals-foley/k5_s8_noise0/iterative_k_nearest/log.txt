@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [100 184 112 182  77]
+opt_x:  [5.71380861e-01 1.00000000e+00 1.53856160e-18 3.68510758e-01
+ 5.04098800e-01]
+opt_p:  [-9.86615692e-20  8.30008169e-01  1.26057832e-02  2.75492457e-20
+  1.57386047e-01]
+opt_y:  0.03186743613434797
+optimal anchors:  ['Colobus_angolensis', 'Daubentonia_madagascariensis', 'Eulemur_fulvus', 'Ictidomys_tridecemlineatus', 'Xerus_inauris']
+optimal p:  [ 1.57386047e-01 -9.86615692e-20  1.26057832e-02  2.75492457e-20
+  8.30008169e-01]
+optimal x:  [5.04098800e-01 5.71380861e-01 1.53856160e-18 3.68510758e-01
+ 1.00000000e+00]
+optimal y:  0.03186743613434797
+Optimization Runtime:  0.37140727043151855

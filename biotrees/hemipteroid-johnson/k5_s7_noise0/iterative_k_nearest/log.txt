@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 18  58 206 331  29]
+opt_x:  [0.56418343 1.         1.         1.         1.        ]
+opt_p:  [9.79126574e-23 1.97161680e-01 1.12023833e-01 4.36319498e-01
+ 2.54494988e-01]
+opt_y:  0.035145490157543764
+optimal anchors:  ['Alydus_pilosus', 'Geocoris_sp', 'Arilus_cristatus', 'I112', 'I174']
+optimal p:  [8.78989853e-23 3.50847931e-01 2.36078974e-01 1.62933893e-01
+ 2.50139202e-01]
+optimal x:  [0.29113927 1.         1.         0.84460671 0.27908232]
+optimal y:  0.06357177855326032
+Optimization Runtime:  0.35417628288269043

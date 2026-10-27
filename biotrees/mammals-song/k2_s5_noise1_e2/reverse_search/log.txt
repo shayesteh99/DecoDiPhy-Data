@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [39 44]
+opt_x:  [1.00000000e+00 9.69040733e-19]
+opt_p:  [0.84666741 0.15333259]
+opt_y:  0.07340939315688315
+optimal anchors:  ['I22', 'FEL']
+optimal p:  [0.8642577 0.1357423]
+optimal x:  [1.         0.82001045]
+optimal y:  0.07292861850825201
+Optimization Runtime:  0.43497395515441895

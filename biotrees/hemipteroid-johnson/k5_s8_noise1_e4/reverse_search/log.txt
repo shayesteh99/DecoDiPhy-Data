@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 70  82 141 186 190]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.11853669 0.13602382 0.24168512 0.22944581 0.27430856]
+opt_y:  0.1826074761775588
+optimal anchors:  ['I40', 'Trichocorixa_calva', 'I64', 'I93', 'Calopteryx_splendens']
+optimal p:  [0.12056868 0.12399636 0.1811413  0.55522606 0.0190676 ]
+optimal x:  [1.         1.         0.40383323 0.76697507 0.11395948]
+optimal y:  0.20111476666444925
+Optimization Runtime:  0.5690066814422607

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 1 19 34]
+opt_x:  [0.52784807 0.59139983 0.58743663]
+opt_p:  [0.41628797 0.53348947 0.05022257]
+opt_y:  0.02221531132414675
+optimal anchors:  ['I2', 'I12', 'Pachynomia_amoenula']
+optimal p:  [0.41628797 0.53348947 0.05022257]
+optimal x:  [0.52784807 0.59139983 0.58743663]
+optimal y:  0.02221531132414675
+Optimization Runtime:  284.27728605270386

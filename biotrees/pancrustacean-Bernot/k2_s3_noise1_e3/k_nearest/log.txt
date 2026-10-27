@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [145 153]
+opt_x:  [1.         0.99998204]
+opt_p:  [6.75567824e-06 9.99993344e-01]
+opt_y:  0.35268536006847423
+optimal anchors:  ['I76', 'Sphaeroma_terebrans']
+optimal p:  [1.61826439e-09 9.99999998e-01]
+optimal x:  [0.98048069 1.        ]
+optimal y:  0.35268988812043883
+Optimization Runtime:  0.11137509346008301

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 33  35 160 161  34 159 184]
+opt_x:  [1.         1.         0.49450328 0.99999105 1.         0.49423186
+ 0.99999748]
+opt_p:  [-2.57978645e-09  6.41234610e-01  9.56050207e-07  1.22965648e-01
+ -8.49691793e-10  9.36936804e-07  2.35797853e-01]
+opt_y:  0.3794310520040567
+optimal anchors:  ['Morlockia_williamsi', 'Lasionectes_entrichoma', 'Godzilliognomus_frondosus', 'Penaeus_duorarum', 'Litopenaeus_vannamei', 'Penaeus_penicilliatus', 'Cherax_destructor']
+optimal p:  [-2.57978645e-09 -8.49691793e-10  6.41234610e-01  9.36936804e-07
+  9.56050207e-07  1.22965648e-01  2.35797853e-01]
+optimal x:  [1.         1.         1.         0.49423186 0.49450328 0.99999105
+ 0.99999748]
+optimal y:  0.3794310520040567
+Optimization Runtime:  0.20396113395690918

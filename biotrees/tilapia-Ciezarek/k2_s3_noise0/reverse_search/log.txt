@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 59 151]
+opt_x:  [0.34930689 0.69213426]
+opt_p:  [0.43750727 0.56249273]
+opt_y:  0.0021563187074549197
+optimal anchors:  ['Orukwaensis__LakeRukwa__T10D02', 'Ourolepis__Ifakara__T9J7']
+optimal p:  [0.43750727 0.56249273]
+optimal x:  [0.34930689 0.69213426]
+optimal y:  0.0021563187074549197
+Optimization Runtime:  0.6497795581817627

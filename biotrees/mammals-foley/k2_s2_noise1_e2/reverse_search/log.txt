@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [437 439]
+opt_x:  [1.00000000e+00 2.00819731e-20]
+opt_p:  [0.80131823 0.19868177]
+opt_y:  0.051482999470627386
+optimal anchors:  ['I221', 'Mustela_putorius']
+optimal p:  [0.8059443 0.1940557]
+optimal x:  [1.         0.88303083]
+optimal y:  0.051208502181978505
+Optimization Runtime:  1.566298007965088

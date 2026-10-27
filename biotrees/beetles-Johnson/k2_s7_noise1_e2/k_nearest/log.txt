@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [242 223]
+opt_x:  [0.95056377 0.48463611]
+opt_p:  [ 1.00000000e+00 -2.43715631e-22]
+opt_y:  0.09109941234864004
+optimal anchors:  ['Hylesinus_sp_I02536', 'Carphoborus_bifurcus_I13691']
+optimal p:  [-2.43715631e-22  1.00000000e+00]
+optimal x:  [0.48463611 0.95056377]
+optimal y:  0.09109941234864004
+Optimization Runtime:  0.13793253898620605

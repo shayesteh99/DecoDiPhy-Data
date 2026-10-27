@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [71 72]
+opt_x:  [1.67310692e-24 6.21812648e-01]
+opt_p:  [0.61856026 0.38143974]
+opt_y:  0.08065837362315272
+optimal anchors:  ['TAUER', 'CUCCA']
+optimal p:  [0.52619015 0.47380985]
+optimal x:  [0.72317911 0.91356547]
+optimal y:  0.07619391512850338
+Optimization Runtime:  0.45141029357910156

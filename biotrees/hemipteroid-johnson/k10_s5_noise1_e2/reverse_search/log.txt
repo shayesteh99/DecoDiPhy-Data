@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 23  24 130 135 176 242 262 324 342 354]
+opt_x:  [1.         1.         1.         1.         1.         1.
+ 0.97843574 1.         1.         1.        ]
+opt_p:  [0.06725726 0.06718688 0.08669057 0.08611241 0.2011295  0.07089292
+ 0.14843216 0.11231223 0.10172848 0.0582576 ]
+opt_y:  0.09924365691694018
+optimal anchors:  ['Metatropis_rufescens', 'Ischnodemus_falicus', 'I71', 'I73', 'I95', 'Echinophthirius_horridus', 'Lachesilla_abiesicola', 'I174', 'I184', 'Hydrometra_stagnorum']
+optimal p:  [0.06725531 0.06722051 0.13974074 0.03924847 0.19906705 0.07067171
+ 0.14836976 0.11155571 0.10109463 0.0557761 ]
+optimal x:  [1.         1.         1.         0.97957756 1.         1.
+ 0.97643998 1.         1.         1.        ]
+optimal y:  0.10301687513835024
+Optimization Runtime:  1.066162347793579

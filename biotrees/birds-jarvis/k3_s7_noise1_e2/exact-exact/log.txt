@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [34 35 44]
+opt_x:  [0.97797802 0.91210732 0.7414013 ]
+opt_p:  [0.43587657 0.16523005 0.39889337]
+opt_y:  0.07610324760763201
+optimal anchors:  ['LEPDI', 'TYTAL', 'I31']
+optimal p:  [0.43587657 0.16523005 0.39889337]
+optimal x:  [0.97797802 0.91210732 0.7414013 ]
+optimal y:  0.07610324760763201
+Optimization Runtime:  1452.6913964748383

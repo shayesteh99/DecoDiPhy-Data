@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 77  90 176 292 303 324 325]
+opt_x:  [0.92279973 1.         1.         1.         0.63622687 0.90900705
+ 0.6110844 ]
+opt_p:  [0.06792097 0.13941961 0.12969325 0.18883017 0.17320586 0.1858422
+ 0.11508795]
+opt_y:  0.1629659527345407
+optimal anchors:  ['Rhodnius_prolixus', 'Ilyocoris_cimicoides', 'Cycadothrips_chadwicki', 'I154', 'Tribolium_castaneum', 'I171', 'Trionymus_caricis']
+optimal p:  [0.06792097 0.13941961 0.12969325 0.18883017 0.17320586 0.1858422
+ 0.11508795]
+optimal x:  [0.92279973 1.         1.         1.         0.63622687 0.90900705
+ 0.6110844 ]
+optimal y:  0.1629659527345407
+Optimization Runtime:  0.688424825668335

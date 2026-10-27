@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 55  56 377 378 473]
+opt_x:  [1.00000000e+00 1.20543907e-19 7.53338608e-01 4.84043080e-01
+ 1.00000000e+00]
+opt_p:  [0.30784229 0.08701192 0.17260531 0.11899064 0.31354984]
+opt_y:  0.06493626800346676
+optimal anchors:  ['I42', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Rivulidae_Austrofundulus_limnaeus', 'Teleost_Euteleost_Beryciformes_Stephanoberycidae_Acanthochaenus_luetkenii', 'Teleost_Euteleost_Beryciformes_Berycidae_Beryx_splendens', 'I244']
+optimal p:  [0.33548295 0.0753271  0.13669214 0.11153787 0.34095994]
+optimal x:  [1.00000000e+00 1.07885209e-20 4.29838082e-01 8.25345469e-01
+ 8.93741972e-01]
+optimal y:  0.08103248810769155
+Optimization Runtime:  2.376476764678955

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [290 387 398 405 420]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.30170983 0.28901649 0.0322791  0.03310125 0.34389332]
+opt_y:  0.054041262070174005
+optimal anchors:  ['Eidolon_helvum', 'I197', 'I206', 'Hyaena_hyaena', 'I217']
+optimal p:  [0.30170983 0.28901649 0.0322791  0.03310125 0.34389332]
+optimal x:  [1. 1. 1. 1. 1.]
+optimal y:  0.054041262070174005
+Optimization Runtime:  1.1065499782562256

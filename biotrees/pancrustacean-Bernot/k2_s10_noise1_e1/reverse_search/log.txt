@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [146 153]
+opt_x:  [0.74288004 1.        ]
+opt_p:  [0.6767369 0.3232631]
+opt_y:  0.10254229846758658
+optimal anchors:  ['Trachelipus_rathkei', 'Sphaeroma_terebrans']
+optimal p:  [0.6767369 0.3232631]
+optimal x:  [0.74288004 1.        ]
+optimal y:  0.10254229846758658
+Optimization Runtime:  1.2230117321014404

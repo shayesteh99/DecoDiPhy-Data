@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [86 56 95]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.04148662 0.29108502 0.66742836]
+opt_y:  0.03068073194910092
+optimal anchors:  ['Ovariabilis__MakobeIsland__396', 'I46', 'I54']
+optimal p:  [0.28398625 0.57346842 0.14254533]
+optimal x:  [1.         0.53782434 0.70624657]
+optimal y:  0.025363874678636125
+Optimization Runtime:  0.2857499122619629

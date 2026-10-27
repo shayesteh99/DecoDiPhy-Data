@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [66 67 86]
+opt_x:  [0.72787594 0.88429911 1.        ]
+opt_p:  [0.31901836 0.29290966 0.38807198]
+opt_y:  0.017426527205224952
+optimal anchors:  ['Omacrochir__Angola__RB12-A050', 'I37', 'I46']
+optimal p:  [0.35422526 0.17201583 0.47375891]
+optimal x:  [2.65459260e-05 4.17882361e-03 9.23191826e-01]
+optimal y:  0.021597671340399412
+Optimization Runtime:  0.7436742782592773

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [28 55 76]
+opt_x:  [1.         0.72430572 1.        ]
+opt_p:  [0.33531787 0.27898503 0.3856971 ]
+opt_y:  0.4719473327083286
+optimal anchors:  ['Spodoptera_litura', 'I30', 'Argulus_siamensis']
+optimal p:  [0.33444384 0.27918396 0.3863722 ]
+optimal x:  [0.99061723 0.72638175 1.        ]
+optimal y:  0.4705090676093306
+Optimization Runtime:  0.3975489139556885

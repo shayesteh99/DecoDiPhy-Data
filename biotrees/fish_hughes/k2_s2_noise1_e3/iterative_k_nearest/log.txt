@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [91 94]
+opt_x:  [0.89068268 1.        ]
+opt_p:  [3.6502962e-23 1.0000000e+00]
+opt_y:  0.040023392772171866
+optimal anchors:  ['Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Pundamilia_nyererei', 'Teleost_Euteleost_Ovalentaria_Cichliformes_Cichlidae_Oreochromis_niloticus']
+optimal p:  [3.6502962e-23 1.0000000e+00]
+optimal x:  [0.89068268 1.        ]
+optimal y:  0.040023392772171866
+Optimization Runtime:  0.48622727394104004

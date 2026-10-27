@@ -1,0 +1,18 @@
+created matrices
+opt_anchors:  [374 371 326 156 267 442 216 281 451 402]
+opt_x:  [4.92125435e-01 4.99694486e-01 4.99257562e-01 5.01581467e-01
+ 4.98981077e-01 4.97288054e-01 4.95831731e-01 4.98275062e-01
+ 1.00000000e+00 9.57264314e-21]
+opt_p:  [-5.51395003e-20 -6.23403891e-20 -1.44791922e-19 -1.52715498e-19
+ -1.63557083e-19 -3.15301011e-20 -1.60006440e-19 -1.58907030e-19
+  9.54503990e-01  4.54960097e-02]
+opt_y:  0.13579180482920572
+optimal anchors:  ['Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'Teleost_Euteleost_Eupercaria_Pomacanthidae_Pomacanthus_paru', 'Teleost_Euteleost_Eupercaria_Pempheriformes_Epigonidae_Epigonus_sp', 'Teleost_Euteleost_Eupercaria_Perciformes_Scorpaenidae_Dendrochirus_zebra', 'Teleost_Euteleost_Pelagiaria_Scombriformes_Scombridae_Scomberomorus_regalis', 'Teleost_Euteleost_Beryciformes_Rondeletiidae_Rondeletia_loricata', 'Teleost_Euteleost_Trachichthyformes_Monocentridae_Monocentris_japonica', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Lotidae_Brosme_brosme', 'Teleost_Euteleost_Polymixiiformes_Polymixiidae_Polymixia_japonica', 'Teleost_Euteleost_Aulopiformes_Chlorophthalmidae_Chlorophthalmus_agassizi']
+optimal p:  [-1.52715498e-19 -1.60006440e-19 -1.63557083e-19 -1.58907030e-19
+ -1.44791922e-19 -6.23403891e-20 -5.51395003e-20  4.54960097e-02
+ -3.15301011e-20  9.54503990e-01]
+optimal x:  [5.01581467e-01 4.95831731e-01 4.98981077e-01 4.98275062e-01
+ 4.99257562e-01 4.99694486e-01 4.92125435e-01 9.57264314e-21
+ 4.97288054e-01 1.00000000e+00]
+optimal y:  0.13579180482920572
+Optimization Runtime:  0.7684834003448486

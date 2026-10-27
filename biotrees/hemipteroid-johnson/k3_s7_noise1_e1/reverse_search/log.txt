@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 62  80 209]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.37902688 0.27607742 0.3448957 ]
+opt_y:  0.12227269907613093
+optimal anchors:  ['I42', 'Saldula_saltatoria', 'Zootermopsis_nevadensis']
+optimal p:  [0.47032076 0.17703991 0.35263933]
+optimal x:  [0.45215287 1.         1.        ]
+optimal y:  0.12673213724957458
+Optimization Runtime:  3.2595043182373047

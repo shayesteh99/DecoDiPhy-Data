@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [95 94]
+opt_x:  [1. 1.]
+opt_p:  [0.50660329 0.49339671]
+opt_y:  0.18292746083353079
+optimal anchors:  ['Amphibalanus_amphitrite', 'Pollicipes_pollicipes']
+optimal p:  [0.49339671 0.50660329]
+optimal x:  [1. 1.]
+optimal y:  0.18292746083353079
+Optimization Runtime:  0.09221148490905762

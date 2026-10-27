@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [150 205 211]
+opt_x:  [9.56684311e-02 4.73353042e-01 1.44690885e-17]
+opt_p:  [0.15911752 0.81095287 0.02992961]
+opt_y:  0.07988106053460206
+optimal anchors:  ['I79', 'I107', 'Chaetophloeus_insularis_I13671']
+optimal p:  [0.15911752 0.81095287 0.02992961]
+optimal x:  [9.56684311e-02 4.73353042e-01 1.44690885e-17]
+optimal y:  0.07988106053460206
+Optimization Runtime:  34286.72967982292

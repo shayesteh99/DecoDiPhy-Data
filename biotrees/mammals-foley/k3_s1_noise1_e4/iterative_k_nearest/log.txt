@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 70 468  45]
+opt_x:  [0.52071259 1.         1.        ]
+opt_p:  [1.77036757e-22 9.10852091e-01 8.91479087e-02]
+opt_y:  0.0620224968511866
+optimal anchors:  ['Homo_sapiens', 'Pygathrix_nemaeus', 'Dicerorhinus_sumatrensis']
+optimal p:  [8.91479087e-02 1.77036757e-22 9.10852091e-01]
+optimal x:  [1.         0.52071259 1.        ]
+optimal y:  0.0620224968511866
+Optimization Runtime:  0.36376333236694336

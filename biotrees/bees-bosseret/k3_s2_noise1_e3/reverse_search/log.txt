@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 5 47 48]
+opt_x:  [0.30899877 0.87797318 1.        ]
+opt_p:  [0.59069301 0.21110728 0.19819971]
+opt_y:  0.025790490065930424
+optimal anchors:  ['I6', 'Hoplonomia_elliotii', 'Curvinomia_chalybeata']
+optimal p:  [0.59069301 0.21110728 0.19819971]
+optimal x:  [0.30899877 0.87797318 1.        ]
+optimal y:  0.025790490065930424
+Optimization Runtime:  0.5496289730072021

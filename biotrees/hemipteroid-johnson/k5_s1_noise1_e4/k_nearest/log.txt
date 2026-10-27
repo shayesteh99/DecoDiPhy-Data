@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 51 139  40  50  44]
+opt_x:  [1.         1.         0.46702653 0.1416914  0.61490469]
+opt_p:  [ 4.28748610e-01  5.71251390e-01 -1.36914506e-21 -6.13500248e-23
+  3.44781687e-22]
+opt_y:  0.14812419461647305
+optimal anchors:  ['Sehirus_cincutus', 'Piezosternum_callidum', 'Scutelleridae_sp', 'Corimelaena_lateralis', 'Mapuchea_sp']
+optimal p:  [-1.36914506e-21  3.44781687e-22 -6.13500248e-23  4.28748610e-01
+  5.71251390e-01]
+optimal x:  [0.46702653 0.61490469 0.1416914  1.         1.        ]
+optimal y:  0.14812419461647305
+Optimization Runtime:  0.24681615829467773

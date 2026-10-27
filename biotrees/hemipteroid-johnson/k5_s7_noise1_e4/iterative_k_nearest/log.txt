@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 17  96 171 213  51]
+opt_x:  [1.         1.         1.         1.         0.46980112]
+opt_p:  [ 2.09125638e-01  3.87347442e-02  3.06843428e-01  4.45296190e-01
+ -2.93935333e-21]
+opt_y:  0.18382189996813295
+optimal anchors:  ['Anasa_tristis', 'Corimelaena_lateralis', 'Gelastocoris_oculatus', 'Peloridium_hammoniorum', 'Galloisiana_yuasai']
+optimal p:  [ 2.09125638e-01 -2.93935333e-21  3.87347442e-02  3.06843428e-01
+  4.45296190e-01]
+optimal x:  [1.         0.46980112 1.         1.         1.        ]
+optimal y:  0.18382189996813295
+Optimization Runtime:  0.3590109348297119

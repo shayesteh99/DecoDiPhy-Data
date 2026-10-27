@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [210 282 222]
+opt_x:  [0.49011006 1.         1.        ]
+opt_p:  [-3.08728289e-21  6.89956604e-01  3.10043396e-01]
+opt_y:  0.14709789916728494
+optimal anchors:  ['Blaberus_atropos', 'Timema_cristinae', 'Aaroniella_sp']
+optimal p:  [-3.08728289e-21  3.10043396e-01  6.89956604e-01]
+optimal x:  [0.49011006 1.         1.        ]
+optimal y:  0.14709789916728494
+Optimization Runtime:  0.2920496463775635

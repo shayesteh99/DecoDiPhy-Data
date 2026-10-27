@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [34 50]
+opt_x:  [9.98307094e-01 1.11838357e-20]
+opt_p:  [0.51308069 0.48691931]
+opt_y:  0.07830813349901301
+optimal anchors:  ['COLST', 'EGRGA']
+optimal p:  [0.54377957 0.45622043]
+optimal x:  [1.         0.91321735]
+optimal y:  0.07633861424433086
+Optimization Runtime:  0.45258140563964844

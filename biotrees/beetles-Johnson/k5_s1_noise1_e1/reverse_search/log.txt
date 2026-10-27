@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [150 164 200 202 213]
+opt_x:  [4.77050474e-20 7.37114336e-01 1.00000000e+00 7.60178136e-01
+ 6.19970650e-01]
+opt_p:  [0.1025365  0.40897199 0.11620306 0.21757166 0.15471679]
+opt_y:  0.05736400254859298
+optimal anchors:  ['Ernoporicus_fagi_I10218', 'I88', 'I106', 'Phloeotribus_liminaris_H04561', 'Dendroctonus_frontalis_454EST']
+optimal p:  [0.1021788  0.40947663 0.11594119 0.2176694  0.15473398]
+optimal x:  [0.91033622 0.73787863 1.         0.76030611 0.62009431]
+optimal y:  0.05712482552107163
+Optimization Runtime:  0.5786356925964355

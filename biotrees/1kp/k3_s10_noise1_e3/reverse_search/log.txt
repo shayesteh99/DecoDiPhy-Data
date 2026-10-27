@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [  8 114 152]
+opt_x:  [7.76387609e-23 1.27910001e-01 1.00000000e+00]
+opt_p:  [ 5.93352667e-01 -1.85733230e-22  4.06647333e-01]
+opt_y:  0.16581073366900834
+optimal anchors:  ['I10', 'Psilotum_nudum', 'I82']
+optimal p:  [0.55687638 0.02471156 0.41841206]
+optimal x:  [9.16130804e-01 9.16969944e-20 8.25656447e-01]
+optimal y:  0.154590469629225
+Optimization Runtime:  0.42914867401123047

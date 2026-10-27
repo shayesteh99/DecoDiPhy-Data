@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [242 223]
+opt_x:  [0.86464724 0.53575455]
+opt_p:  [ 1.00000000e+00 -3.76582861e-22]
+opt_y:  0.051232988975255904
+optimal anchors:  ['Hylesinus_sp_I02536', 'Polygraphus_camerunus_I13634']
+optimal p:  [-3.76582861e-22  1.00000000e+00]
+optimal x:  [0.53575455 0.86464724]
+optimal y:  0.051232988975255904
+Optimization Runtime:  0.09388113021850586

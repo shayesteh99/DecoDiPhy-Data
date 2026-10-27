@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [95 58]
+opt_x:  [1. 1.]
+opt_p:  [-9.98930105e-23  1.00000000e+00]
+opt_y:  0.3140477221608109
+optimal anchors:  ['Eucyclops_serrulatus', 'Pollicipes_pollicipes']
+optimal p:  [ 1.00000000e+00 -9.98930105e-23]
+optimal x:  [1. 1.]
+optimal y:  0.3140477221608109
+Optimization Runtime:  0.14202618598937988

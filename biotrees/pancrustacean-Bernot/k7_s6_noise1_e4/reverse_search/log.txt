@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [  9  26  76 141 186 187 191]
+opt_x:  [1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.36455701 0.09514175 0.11792536 0.11140087 0.0800754  0.08599642
+ 0.14490319]
+opt_y:  0.40538062329791097
+optimal anchors:  ['I6', 'Tribolium_castaneum', 'Argulus_siamensis', 'Armadillo_officinalis', 'Pagurus_longicarpus', 'I101', 'Cherax_destructor']
+optimal p:  [0.32402074 0.10823622 0.14353588 0.11192575 0.07967628 0.08577571
+ 0.14682942]
+optimal x:  [0.98411433 1.         1.         1.         1.         1.
+ 1.        ]
+optimal y:  0.3938955834332318
+Optimization Runtime:  0.47712087631225586

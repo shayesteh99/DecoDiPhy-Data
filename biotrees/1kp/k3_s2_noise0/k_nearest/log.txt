@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [87 85 98]
+opt_x:  [0.6958694  0.50051432 1.        ]
+opt_p:  [-4.96431100e-22  1.03319592e-21  1.00000000e+00]
+opt_y:  0.11550579748140337
+optimal anchors:  ['Cunninghamia_lanceolata', 'Sciadopitys_verticillata', 'Ginkgo_biloba']
+optimal p:  [ 1.03319592e-21 -4.96431100e-22  1.00000000e+00]
+optimal x:  [0.50051432 0.6958694  1.        ]
+optimal y:  0.11550579748140337
+Optimization Runtime:  0.08325362205505371

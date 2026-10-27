@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [131 166 256]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.19621282 0.68346668 0.1203205 ]
+opt_y:  0.04721743661117999
+optimal anchors:  ['I2', 'I70', 'Monacanthidae_Cantherhines_dumerilii_USNMAG9RT41']
+optimal p:  [0.68484154 0.18761807 0.12754039]
+optimal x:  [0.9544136 1.        1.       ]
+optimal y:  0.04774766633031668
+Optimization Runtime:  0.352677583694458

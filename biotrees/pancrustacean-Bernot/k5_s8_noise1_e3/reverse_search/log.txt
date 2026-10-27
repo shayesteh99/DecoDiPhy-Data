@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [18 54 85 90 91]
+opt_x:  [0.91545202 0.97431405 1.         0.43382195 0.7823417 ]
+opt_p:  [0.06116745 0.16603056 0.66807771 0.05508393 0.04964036]
+opt_y:  0.49944679320274893
+optimal anchors:  ['Ephemera_danica', 'Eucyclops_serrulatus', 'Amphibalanus_amphitrite', 'Pollicipes_pollicipes', 'I51']
+optimal p:  [0.14708316 0.19809403 0.06920073 0.0664696  0.51915247]
+optimal x:  [1.         1.         0.80841554 1.         0.83100187]
+optimal y:  0.4621138905936371
+Optimization Runtime:  0.24304556846618652

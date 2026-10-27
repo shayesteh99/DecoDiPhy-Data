@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 82 585]
+opt_x:  [0.75864602 0.40627253]
+opt_p:  [0.27103933 0.72896067]
+opt_y:  0.019964160569554103
+optimal anchors:  ['Ceuthmochares_aereus', 'Leucopsar_rothschildi']
+optimal p:  [0.27103933 0.72896067]
+optimal x:  [0.75864602 0.40627253]
+optimal y:  0.019964160569554103
+Optimization Runtime:  3.451230049133301

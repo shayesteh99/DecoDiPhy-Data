@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [36 86 97]
+opt_x:  [0.11060068 0.46218694 0.70059327]
+opt_p:  [0.53501269 0.19151546 0.27347185]
+opt_y:  0.23996455559507085
+optimal anchors:  ['I20', 'I46', 'Nebalia_bipes']
+optimal p:  [0.53501269 0.19151546 0.27347185]
+optimal x:  [0.11060068 0.46218694 0.70059327]
+optimal y:  0.23996455559507085
+Optimization Runtime:  18355.193412065506

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [208 145 184]
+opt_x:  [0.51227272 1.         1.        ]
+opt_p:  [-1.16629739e-22  6.29308455e-01  3.70691545e-01]
+opt_y:  0.1549448112866378
+optimal anchors:  ['I63', 'Cycadothrips_chadwicki', 'Cryptocercus_wrighti']
+optimal p:  [0.46525135 0.2989819  0.23576675]
+optimal x:  [0.85494178 1.         1.        ]
+optimal y:  0.1716104682041076
+Optimization Runtime:  0.2856607437133789

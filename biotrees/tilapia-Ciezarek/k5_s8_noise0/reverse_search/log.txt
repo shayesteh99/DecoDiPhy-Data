@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [34 49 55 88 91]
+opt_x:  [0.07621782 0.33086096 0.15669923 0.09057205 0.15923548]
+opt_p:  [0.15277528 0.06697703 0.25136477 0.2787369  0.25014602]
+opt_y:  0.0024946456896966056
+optimal anchors:  ['Oamphimelas__LakeSulungali__T9F2', 'Omtera__MteraReservoir__14_1G1', 'Orukwaensis__LakeRukwa__24-2012', 'Ojipe__NyumbayaMunga__P2G6', 'Omossambicus__Mozambique__C13']
+optimal p:  [0.15277528 0.06697703 0.25136477 0.2787369  0.25014602]
+optimal x:  [0.07621782 0.33086096 0.15669923 0.09057205 0.15923548]
+optimal y:  0.0024946456896966056
+Optimization Runtime:  0.8622772693634033

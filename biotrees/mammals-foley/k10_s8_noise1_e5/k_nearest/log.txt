@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [40 42 41 43 94 44 56 57 55 65]
+opt_x:  [0.49482251 0.50378976 0.49607219 0.49748261 1.         1.
+ 0.50001551 0.53106488 0.50188859 0.49058372]
+opt_p:  [-2.65966342e-22 -3.82681634e-22  1.31535869e-22  6.24461368e-22
+  9.39175378e-01  6.08246217e-02  4.54287668e-22 -6.92846847e-23
+  2.36287068e-22  2.24426908e-22]
+opt_y:  0.11529353289438238
+optimal anchors:  ['Pan_troglodytes', 'Pan_paniscus', 'Homo_sapiens', 'Gorilla_gorilla', 'Pongo_abelii', 'Macaca_mulatta', 'Macaca_fascicularis', 'Macaca_nemestrina', 'Rhinopithecus_roxellana', 'Daubentonia_madagascariensis']
+optimal p:  [-2.65966342e-22  1.31535869e-22 -3.82681634e-22  6.24461368e-22
+  6.08246217e-02  2.36287068e-22  4.54287668e-22 -6.92846847e-23
+  2.24426908e-22  9.39175378e-01]
+optimal x:  [0.49482251 0.49607219 0.50378976 0.49748261 1.         0.50188859
+ 0.50001551 0.53106488 0.49058372 1.        ]
+optimal y:  0.11529353289438238
+Optimization Runtime:  0.3823580741882324

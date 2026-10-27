@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [285 219 288]
+opt_x:  [0.49648437 1.         1.        ]
+opt_p:  [-1.09734917e-21  4.84842969e-01  5.15157031e-01]
+opt_y:  0.0034350059164597784
+optimal anchors:  ['Monacanthidae_Pervagor_melanocephalus_USNMAB6QU45', 'Monocanthidae_Eubalichthys_gunnii_EPLATE_53_A03', 'Monocanthidae_Cantheschenia_grandisquamis_EPLATE_53_C03']
+optimal p:  [ 4.84842969e-01 -1.09734917e-21  5.15157031e-01]
+optimal x:  [1.         0.49648437 1.        ]
+optimal y:  0.0034350059164597784
+Optimization Runtime:  0.19480037689208984

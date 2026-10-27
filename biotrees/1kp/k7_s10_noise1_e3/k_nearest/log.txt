@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 98 101 111  81  82 103  95]
+opt_x:  [1.         0.50670729 1.         0.49506556 0.43404359 0.45611154
+ 0.22809287]
+opt_p:  [ 2.28198335e-01  1.50450035e-22  7.71801665e-01  2.46753073e-22
+  6.05726791e-23 -3.66633368e-22 -9.36991828e-23]
+opt_y:  0.20242805464554164
+optimal anchors:  ['Pinus_taeda', 'Cedrus_libani', 'Sciadopitys_verticillata', 'Ginkgo_biloba', 'Cycas_micholitzii', 'Zamia_vazquezii', 'Angiopteris_evecta']
+optimal p:  [ 2.46753073e-22  6.05726791e-23 -9.36991828e-23  2.28198335e-01
+  1.50450035e-22 -3.66633368e-22  7.71801665e-01]
+optimal x:  [0.49506556 0.43404359 0.22809287 1.         0.50670729 0.45611154
+ 1.        ]
+optimal y:  0.20242805464554164
+Optimization Runtime:  0.12433815002441406

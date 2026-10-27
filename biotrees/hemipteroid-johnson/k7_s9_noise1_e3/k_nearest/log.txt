@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [206 141 207 171 113 169 111]
+opt_x:  [1.         1.         1.         0.99999939 0.99999948 0.52160695
+ 1.        ]
+opt_p:  [1.66974562e-01 4.32632677e-09 2.08835293e-01 5.18785513e-01
+ 1.05404295e-01 3.17651430e-07 1.33921375e-08]
+opt_y:  0.17892453955908588
+optimal anchors:  ['I60', 'Okanagana_villosa', 'I64', 'Xenophysella_greensladeae', 'Peloridium_hammoniorum', 'Cryptocercus_wrighti', 'Zootermopsis_nevadensis']
+optimal p:  [ 8.91305402e-09  1.05404369e-01  3.45305536e-08 -6.34701384e-08
+  5.18785740e-01  1.67862132e-01  2.07947779e-01]
+optimal x:  [0.35842256 1.         0.19061391 0.50378868 1.         1.
+ 1.        ]
+optimal y:  0.17892456131659823
+Optimization Runtime:  0.3708765506744385

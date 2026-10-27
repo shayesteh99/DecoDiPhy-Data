@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [147 146]
+opt_x:  [1. 1.]
+opt_p:  [0.50103122 0.49896878]
+opt_y:  0.07936182553162081
+optimal anchors:  ['I76', 'Trachelipus_rathkei']
+optimal p:  [0.58068883 0.41931117]
+optimal x:  [0.72243235 0.51212772]
+optimal y:  0.10830749491147504
+Optimization Runtime:  0.10880374908447266

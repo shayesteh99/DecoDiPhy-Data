@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 2 90]
+opt_x:  [0.30874074 1.        ]
+opt_p:  [0.77864702 0.22135298]
+opt_y:  0.09932806976868858
+optimal anchors:  ['I3', 'UnknownCorthyliniCryphalini_spTan_I13648']
+optimal p:  [0.77864702 0.22135298]
+optimal x:  [0.30874074 1.        ]
+optimal y:  0.09932806976868858
+Optimization Runtime:  0.24773621559143066

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [579 497 444]
+opt_x:  [0.73641366 0.69040023 1.        ]
+opt_p:  [-4.68518903e-22  1.99026875e-22  1.00000000e+00]
+opt_y:  0.031185419704672725
+optimal anchors:  ['Corvus_brachyrhynchos', 'Parus_major', 'Buphagus_erythrorhynchus']
+optimal p:  [ 1.00000000e+00  1.99026875e-22 -4.68518903e-22]
+optimal x:  [1.         0.69040023 0.73641366]
+optimal y:  0.031185419704672725
+Optimization Runtime:  0.8011183738708496

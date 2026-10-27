@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [482 454]
+opt_x:  [1. 1.]
+opt_p:  [0.71223953 0.28776047]
+opt_y:  0.1832357609224668
+optimal anchors:  ['I203', 'Teleost_Euteleost_Salmoniformes_Salmonidae_Coregonus_clupeaformis']
+optimal p:  [0.32372986 0.67627014]
+optimal x:  [2.43356371e-22 1.00000000e+00]
+optimal y:  0.1870338134250883
+Optimization Runtime:  0.5440597534179688

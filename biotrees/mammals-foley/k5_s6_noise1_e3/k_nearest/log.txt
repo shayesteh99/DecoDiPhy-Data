@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [413 408 411 415 410]
+opt_x:  [1.         0.50063754 0.50146063 0.48968854 0.49840793]
+opt_p:  [ 1.00000000e+00 -1.01610155e-21 -3.35460713e-22 -3.24500216e-22
+ -6.31360474e-22]
+opt_y:  0.02648908133148969
+optimal anchors:  ['Panthera_tigris', 'Panthera_pardus', 'Panthera_onca', 'Felis_catus', 'Puma_concolor']
+optimal p:  [-1.01610155e-21 -6.31360474e-22 -3.35460713e-22  1.00000000e+00
+ -3.24500216e-22]
+optimal x:  [0.50063754 0.49840793 0.50146063 1.         0.48968854]
+optimal y:  0.02648908133148969
+Optimization Runtime:  0.30235886573791504

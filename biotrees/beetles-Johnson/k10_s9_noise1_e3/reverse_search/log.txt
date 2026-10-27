@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 10  47  81  82  92  97 145 167 202 205]
+opt_x:  [1.         1.         1.         1.         0.38017832 1.
+ 0.49408953 1.         0.94229305 1.        ]
+opt_p:  [0.17232746 0.07606691 0.05932062 0.05925308 0.10499034 0.07253222
+ 0.20468041 0.09301791 0.08014673 0.07766433]
+opt_y:  0.06317910735674824
+optimal anchors:  ['Cosmoderes_monilicollis_I13692', 'Indocryphalus_intermedius_I13649', 'Xyloctonus_maculatus_I10240', 'Scolytomimus_phillippinensis_I13639', 'I56', 'Araptus_nr_laudatus_I13651', 'I83', 'Diuncus_haberkorni_I13681', 'I114', 'Hylesinus_sp_I02536']
+optimal p:  [0.17232746 0.07606691 0.05932062 0.05925308 0.10499034 0.07253222
+ 0.20468041 0.09301791 0.08014673 0.07766433]
+optimal x:  [1.         1.         1.         1.         0.38017832 1.
+ 0.49408953 1.         0.94229305 1.        ]
+optimal y:  0.06317910735674824
+Optimization Runtime:  0.37543463706970215

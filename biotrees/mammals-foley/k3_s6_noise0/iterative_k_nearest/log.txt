@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [417 404 406]
+opt_x:  [0.45603895 1.         0.52093486]
+opt_p:  [2.16394624e-22 1.00000000e+00 6.60329156e-22]
+opt_y:  0.014300828308626385
+optimal anchors:  ['Cryptoprocta_ferox', 'Mungos_mungo', 'Felis_catus']
+optimal p:  [1.00000000e+00 6.60329156e-22 2.16394624e-22]
+optimal x:  [1.         0.52093486 0.45603895]
+optimal y:  0.014300828308626385
+Optimization Runtime:  0.33693385124206543

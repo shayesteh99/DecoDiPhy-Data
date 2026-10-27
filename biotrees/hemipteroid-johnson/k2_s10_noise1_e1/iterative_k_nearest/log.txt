@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [284 271]
+opt_x:  [0.67848826 0.92515905]
+opt_p:  [ 1.00000000e+00 -2.77792546e-22]
+opt_y:  0.02673460523849236
+optimal anchors:  ['Mesopsocus_unipunctatus', 'Aaroniella_sp']
+optimal p:  [-2.77792546e-22  1.00000000e+00]
+optimal x:  [0.92515905 0.67848826]
+optimal y:  0.02673460523849236
+Optimization Runtime:  0.1808147430419922

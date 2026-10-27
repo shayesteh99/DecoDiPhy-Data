@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 37  35 166  17 196]
+opt_x:  [1.        0.4591786 1.        1.        1.       ]
+opt_p:  [ 5.09438465e-02 -2.20471004e-21  2.56724539e-01  5.21389227e-01
+  1.70942387e-01]
+opt_y:  0.17143189436479603
+optimal anchors:  ['Locusta_migratoria', 'Morlockia_williamsi', 'Godzilliognomus_frondosus', 'Sergestes_similis', 'Lysiosquillina_maculata']
+optimal p:  [ 5.21389227e-01 -2.20471004e-21  5.09438465e-02  2.56724539e-01
+  1.70942387e-01]
+optimal x:  [1.        0.4591786 1.        1.        1.       ]
+optimal y:  0.17143189436479603
+Optimization Runtime:  0.2400376796722412

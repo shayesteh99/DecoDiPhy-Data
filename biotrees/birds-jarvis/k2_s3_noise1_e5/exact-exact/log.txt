@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 8 72]
+opt_x:  [0.45455453 0.93450232]
+opt_p:  [0.35915499 0.64084501]
+opt_y:  0.09121198660958979
+optimal anchors:  ['I9', 'CHLUN']
+optimal p:  [0.35915499 0.64084501]
+optimal x:  [0.45455453 0.93450232]
+optimal y:  0.09121198660958979
+Optimization Runtime:  51.699244022369385

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [220 242]
+opt_x:  [0.15038413 0.90683964]
+opt_p:  [0.05612697 0.94387303]
+opt_y:  0.07159538392645429
+optimal anchors:  ['I114', 'Polygraphus_camerunus_I13634']
+optimal p:  [0.05612697 0.94387303]
+optimal x:  [0.15038413 0.90683964]
+optimal y:  0.07159538392645429
+Optimization Runtime:  410.26847672462463

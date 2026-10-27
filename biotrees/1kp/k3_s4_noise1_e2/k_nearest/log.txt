@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [75 70 64]
+opt_x:  [1.         1.         0.43341133]
+opt_p:  [ 2.48982489e-01  7.51017511e-01 -2.51865111e-19]
+opt_y:  0.14589222722995698
+optimal anchors:  ['Vitis_vinifera', 'Sarcandra_glabra', 'Liriodendron_tulipifera']
+optimal p:  [-2.51865111e-19  7.51017511e-01  2.48982489e-01]
+optimal x:  [0.43341133 1.         1.        ]
+optimal y:  0.14589222722995698
+Optimization Runtime:  0.11009502410888672

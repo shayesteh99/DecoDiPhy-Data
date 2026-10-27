@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [152 119 110]
+opt_x:  [1.         1.         0.50026211]
+opt_p:  [6.88114156e-01 3.11885844e-01 9.09362913e-23]
+opt_y:  0.012075907301693906
+optimal anchors:  ['I59', 'Orovumae__Rovuma__83-2013', 'Ourolepis__LakeLugongwe__T2J5']
+optimal p:  [0.45273777 0.01500078 0.53226146]
+optimal x:  [0.83782151 0.9235675  1.        ]
+optimal y:  0.010261821399773136
+Optimization Runtime:  0.18426084518432617

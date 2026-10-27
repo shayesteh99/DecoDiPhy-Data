@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [135 136]
+opt_x:  [1. 1.]
+opt_p:  [0.49946597 0.50053403]
+opt_y:  0.05024021300016471
+optimal anchors:  ['Turnix_velox', 'I70']
+optimal p:  [0.49946597 0.50053403]
+optimal x:  [1. 1.]
+optimal y:  0.05024021300016471
+Optimization Runtime:  2.868349552154541

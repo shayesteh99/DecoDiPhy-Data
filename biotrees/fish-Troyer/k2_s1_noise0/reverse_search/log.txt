@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 75 271]
+opt_x:  [0.08948872 0.50837705]
+opt_p:  [0.36666223 0.63333777]
+opt_y:  0.004361220997288855
+optimal anchors:  ['Tetraodontidae_Canthigaster_axiologus_USNMAG9RT89', 'I147']
+optimal p:  [0.36666223 0.63333777]
+optimal x:  [0.08948872 0.50837705]
+optimal y:  0.004361220997288855
+Optimization Runtime:  0.9335358142852783

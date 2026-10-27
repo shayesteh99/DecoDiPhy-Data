@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 4 49]
+opt_x:  [0.65382637 0.65822815]
+opt_p:  [0.05562633 0.94437367]
+opt_y:  0.024365989926938347
+optimal anchors:  ['Steganomus_junodi', 'Hoplonomia_elliotii']
+optimal p:  [0.05562633 0.94437367]
+optimal x:  [0.65382637 0.65822815]
+optimal y:  0.024365989926938347
+Optimization Runtime:  18.661182641983032

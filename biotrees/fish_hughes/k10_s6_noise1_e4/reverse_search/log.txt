@@ -1,0 +1,18 @@
+created matrices
+opt_anchors:  [  4 467 493 494 565 568 573 574 581 583]
+opt_x:  [1.00000000e+00 1.00000000e+00 1.69144682e-05 6.12850947e-01
+ 4.48349815e-01 3.87896826e-01 4.50009097e-01 1.00000000e+00
+ 4.94487743e-01 4.69738215e-06]
+opt_p:  [5.09030374e-02 9.04013601e-01 2.45392613e-02 1.73409736e-07
+ 3.55160055e-06 2.92014965e-06 3.16156665e-06 1.57952466e-02
+ 7.88089166e-07 4.73826205e-03]
+opt_y:  0.21811284186312416
+optimal anchors:  ['I7', 'Teleost_Euteleost_Esociformes_Esocidae_Esox_lucius', 'Teleost_Otophysa_Siluriformes_Sisoridae_Glyptothorax_sinensis', 'Teleost_Otophysa_Siluriformes_Bagridae_Hemibagrus_guttatus', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Osteoglossum_bicirrhosum', 'Teleost_Osteoglossiformes_Osteoglossiformes_Notopteridae_Papyrocranus_afer', 'Teleost_Osteoglossiformes_Osteoglossiformes_Pantodontidae_Pantodon_buchholzi', 'Amiiformes_Amiidae_Amia_calva_gill', 'Polypteriformes_Polypteriformes_Polypteridae_Polypterus_bichir']
+optimal p:  [ 5.94226873e-02  9.02864991e-01  2.40302811e-02  8.34944091e-08
+  1.76931973e-06  1.59186405e-06  2.01379379e-06  4.54434084e-03
+ -5.46650823e-07  9.13278924e-03]
+optimal x:  [2.65635536e-01 1.00000000e+00 8.12267264e-06 5.75705988e-01
+ 3.88499566e-01 3.95415235e-02 1.83620354e-01 1.00000000e+00
+ 1.86269366e-01 9.99999070e-01]
+optimal y:  0.21916520878795628
+Optimization Runtime:  1.7655985355377197

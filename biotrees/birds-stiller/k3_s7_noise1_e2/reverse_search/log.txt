@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [136 402 403]
+opt_x:  [0.69306356 1.         1.        ]
+opt_p:  [0.67342595 0.16366943 0.16290462]
+opt_y:  0.04658141743060382
+optimal anchors:  ['I70', 'Dasyornis_broadbenti', 'I206']
+optimal p:  [0.67342595 0.16366943 0.16290462]
+optimal x:  [0.69306356 1.         1.        ]
+optimal y:  0.04658141743060382
+Optimization Runtime:  2.8086416721343994

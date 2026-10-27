@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [140 141]
+opt_x:  [1. 1.]
+opt_p:  [0.50091371 0.49908629]
+opt_y:  0.06398266614716067
+optimal anchors:  ['Holdgatiella_chepuensis', 'Llanquihuea_pilosa']
+optimal p:  [0.50091371 0.49908629]
+optimal x:  [1. 1.]
+optimal y:  0.06398266614716067
+Optimization Runtime:  0.22295856475830078

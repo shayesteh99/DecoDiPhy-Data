@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 47 101 312  65 117 457  87]
+opt_x:  [0.47465381 0.54959319 1.         0.44881581 1.         0.50861747
+ 0.52370825]
+opt_p:  [-6.78015760e-22  3.10431684e-22  2.46378489e-02 -3.48650992e-22
+  9.75362151e-01 -9.86486889e-22 -2.10550566e-21]
+opt_y:  0.1361652816806768
+optimal anchors:  ['Gorilla_gorilla', 'Cercopithecus_neglectus', 'Aotus_nancymaae', 'Daubentonia_madagascariensis', 'Galeopterus_variegatus', 'Eubalaena_japonica', 'Tapirus_indicus']
+optimal p:  [-6.78015760e-22 -3.48650992e-22 -2.10550566e-21  3.10431684e-22
+  9.75362151e-01  2.46378489e-02 -9.86486889e-22]
+optimal x:  [0.47465381 0.44881581 0.52370825 0.54959319 1.         1.
+ 0.50861747]
+optimal y:  0.1361652816806768
+Optimization Runtime:  0.4631822109222412

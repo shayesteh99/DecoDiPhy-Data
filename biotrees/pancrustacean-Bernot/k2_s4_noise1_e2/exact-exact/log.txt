@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [58 66]
+opt_x:  [0.94715316 0.50987907]
+opt_p:  [0.48742037 0.51257963]
+opt_y:  0.5050650119094154
+optimal anchors:  ['Tigriopus_californicus', 'I36']
+optimal p:  [0.48742037 0.51257963]
+optimal x:  [0.94715316 0.50987907]
+optimal y:  0.5050650119094154
+Optimization Runtime:  277.5608825683594

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 34  71 184 185 294]
+opt_x:  [2.93650427e-17 9.71052050e-01 4.60967317e-01 1.00000000e+00
+ 8.61003615e-01]
+opt_p:  [0.16352424 0.17517873 0.17639961 0.12861513 0.35628229]
+opt_y:  0.027912507516484122
+optimal anchors:  ['Tupaia_tana', 'Nasalis_larvatus', 'I96', 'Ictidomys_tridecemlineatus', 'Hipposideros_armiger']
+optimal p:  [0.16315121 0.1751672  0.16743934 0.13796296 0.35627928]
+optimal x:  [2.70692010e-17 9.66988836e-01 4.05188481e-02 2.10990063e-01
+ 8.60898323e-01]
+optimal y:  0.02797408848815473
+Optimization Runtime:  4.909325838088989

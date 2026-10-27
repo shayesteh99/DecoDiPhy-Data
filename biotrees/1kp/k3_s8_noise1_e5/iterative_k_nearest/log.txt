@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [84 78 88]
+opt_x:  [1.         1.         0.46748846]
+opt_p:  [ 8.86189315e-01  1.13810685e-01 -1.89744340e-21]
+opt_y:  0.17926535006438402
+optimal anchors:  ['Kadsura_heteroclita', 'Zamia_vazquezii', 'Pinus_taeda']
+optimal p:  [ 1.13810685e-01  8.86189315e-01 -1.89744340e-21]
+optimal x:  [1.         1.         0.46748846]
+optimal y:  0.17926535006438402
+Optimization Runtime:  0.17165851593017578

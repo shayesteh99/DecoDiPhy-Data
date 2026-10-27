@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [152 197]
+opt_x:  [0.64036496 0.91036729]
+opt_p:  [-1.75861842e-21  1.00000000e+00]
+opt_y:  0.3911950676926378
+optimal anchors:  ['Anomodon_attenuatus', 'Nephroselmis_pyriformis']
+optimal p:  [-1.75861842e-21  1.00000000e+00]
+optimal x:  [0.64036496 0.91036729]
+optimal y:  0.3911950676926378
+Optimization Runtime:  0.08196878433227539

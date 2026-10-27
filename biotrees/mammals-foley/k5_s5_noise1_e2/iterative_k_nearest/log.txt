@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [461 120 185 183 398]
+opt_x:  [0.49354552 0.45808886 1.         1.         1.        ]
+opt_p:  [4.46567256e-06 2.72277244e-06 4.05400238e-01 3.95247131e-01
+ 1.99345442e-01]
+opt_y:  0.092048658208324
+optimal anchors:  ['Galeopterus_variegatus', 'Xerus_inauris', 'Glis_glis', 'Cryptoprocta_ferox', 'Tapirus_indicus']
+optimal p:  [2.72277244e-06 3.95247131e-01 4.05400238e-01 1.99345442e-01
+ 4.46567256e-06]
+optimal x:  [0.45808886 1.         1.         1.         0.49354552]
+optimal y:  0.092048658208324
+Optimization Runtime:  0.4441206455230713

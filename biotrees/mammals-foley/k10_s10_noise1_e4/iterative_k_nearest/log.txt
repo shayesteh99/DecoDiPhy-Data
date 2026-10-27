@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [451 280 100 454 306 114 284 430  43 278]
+opt_x:  [0.49588409 0.35391529 0.49203881 0.49476221 0.49823764 0.99999983
+ 1.         0.49710416 0.49919618 0.99982609]
+opt_p:  [-6.73457956e-07  8.67687930e-07  2.69392814e-07 -6.86641337e-07
+ -1.22298780e-06  8.13041811e-01  1.81523270e-01 -1.08067188e-06
+  5.22019646e-07  5.43692301e-03]
+opt_y:  0.14225407607335333
+optimal anchors:  ['Pongo_abelii', 'Daubentonia_madagascariensis', 'Galeopterus_variegatus', 'I147', 'Pteropus_vampyrus', 'Rhinolophus_sinicus', 'Eubalaena_japonica', 'Zalophus_californianus', 'Tapirus_indicus', 'Dicerorhinus_sumatrensis']
+optimal p:  [-1.65534721e-05 -1.80654870e-06  5.04554633e-01  3.26336058e-01
+  2.69855391e-02 -1.20985668e-07  5.05849578e-02  4.35839718e-02
+  4.23878504e-02  5.58545018e-03]
+optimal x:  [0.49491279 0.51820687 0.99999892 0.96680919 0.99999869 0.25395291
+ 1.         1.         1.         1.        ]
+optimal y:  0.15261987407576666
+Optimization Runtime:  0.5347836017608643

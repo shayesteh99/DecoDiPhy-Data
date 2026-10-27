@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [81 96]
+opt_x:  [1.        0.4754863]
+opt_p:  [1.00000000e+00 2.68767773e-23]
+opt_y:  0.04491600221596495
+optimal anchors:  ['I43', 'Ateles_geoffroyi']
+optimal p:  [ 1.00000000e+00 -8.00957949e-23]
+optimal x:  [0.7073536  0.54847978]
+optimal y:  0.0636553972770879
+Optimization Runtime:  0.3438103199005127

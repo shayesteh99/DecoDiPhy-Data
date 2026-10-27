@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [193  57]
+opt_x:  [1. 1.]
+opt_p:  [0.48115691 0.51884309]
+opt_y:  0.04795336509331909
+optimal anchors:  ['Columba_livia', 'Aptenodytes_forsteri']
+optimal p:  [0.51884309 0.48115691]
+optimal x:  [1. 1.]
+optimal y:  0.04795336509331909
+Optimization Runtime:  0.7991981506347656

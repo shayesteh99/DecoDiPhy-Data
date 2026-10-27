@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [38 39 46]
+opt_x:  [0.98503824 1.         0.49425157]
+opt_p:  [ 5.02005166e-01  4.97994834e-01 -7.06202621e-22]
+opt_y:  0.08025053322078585
+optimal anchors:  ['HALAL', 'CATAU', 'APTFO']
+optimal p:  [ 5.02005166e-01  4.97994834e-01 -7.06202621e-22]
+optimal x:  [0.98503824 1.         0.49425157]
+optimal y:  0.08025053322078585
+Optimization Runtime:  0.07845783233642578

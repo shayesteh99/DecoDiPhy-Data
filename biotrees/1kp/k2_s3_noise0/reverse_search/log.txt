@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 74 156]
+opt_x:  [0.75319743 1.        ]
+opt_p:  [0.43284299 0.56715701]
+opt_y:  0.060252346063477145
+optimal anchors:  ['Houttuynia_cordata', 'I79']
+optimal p:  [0.43750727 0.56249273]
+optimal x:  [0.76584704 0.56311958]
+optimal y:  0.055894162010141156
+Optimization Runtime:  2.1449108123779297

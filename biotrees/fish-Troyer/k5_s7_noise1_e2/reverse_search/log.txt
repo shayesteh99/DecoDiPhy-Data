@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 16  39  70 158 190]
+opt_x:  [0.82920791 1.         1.         1.         1.        ]
+opt_p:  [0.30100809 0.08172302 0.31441753 0.12029757 0.18255379]
+opt_y:  0.03827909119887977
+optimal anchors:  ['I11', 'Diodontidae_Chilomycterus_reticulatus_EPLATE_74_A07', 'I36', 'Triacanthidae_Tripodichthys_blochii_EPLATE_40_C09', 'I104']
+optimal p:  [0.29965246 0.07116683 0.33125878 0.11263493 0.18528701]
+optimal x:  [0.74910475 1.         0.39394939 1.         1.        ]
+optimal y:  0.04208029408410474
+Optimization Runtime:  0.4025137424468994

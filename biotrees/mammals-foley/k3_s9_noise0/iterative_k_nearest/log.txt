@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [311 186 236]
+opt_x:  [0.55417182 1.         0.59967546]
+opt_p:  [-3.49280802e-22  6.45874149e-01  3.54125851e-01]
+opt_y:  -9.716246859736748e-22
+optimal anchors:  ['I96', 'Condylura_cristata', 'Vicugna_pacos']
+optimal p:  [0.44247136 0.26409416 0.29343449]
+optimal x:  [0.59181196 0.75191672 1.        ]
+optimal y:  0.04191859620761139
+Optimization Runtime:  0.33342981338500977

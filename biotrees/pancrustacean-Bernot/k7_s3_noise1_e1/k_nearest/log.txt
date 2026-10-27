@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [136 138 167 168 140 142 143]
+opt_x:  [0.99999944 0.7421153  0.49745958 0.9999854  0.34959585 0.40506656
+ 0.40169712]
+opt_p:  [ 6.97201599e-01 -2.16917654e-07  3.81685822e-06  3.02797041e-01
+ -7.13462345e-07 -7.62123229e-07 -7.62438418e-07]
+opt_y:  0.35251406467847873
+optimal anchors:  ['Sphaeroma_terebrans', 'Ligia_exotica', 'Armadillo_officinalis', 'Oniscus_asellus', 'Trachelipus_rathkei', 'Litopenaeus_vannamei', 'Penaeus_penicilliatus']
+optimal p:  [ 6.97201599e-01 -2.16917654e-07 -7.13462345e-07 -7.62123229e-07
+ -7.62438418e-07  3.81685822e-06  3.02797041e-01]
+optimal x:  [0.99999944 0.7421153  0.34959585 0.40506656 0.40169712 0.49745958
+ 0.9999854 ]
+optimal y:  0.35251406467847873
+Optimization Runtime:  0.12767624855041504

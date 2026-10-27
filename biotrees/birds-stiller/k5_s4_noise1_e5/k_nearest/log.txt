@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [195 194 251 197 264]
+opt_x:  [0.72053176 0.35961486 1.         0.38111383 0.49709423]
+opt_p:  [ 5.63779672e-22 -6.95148248e-22  1.00000000e+00 -1.20444308e-21
+ -1.10525764e-21]
+opt_y:  0.0771331483347554
+optimal anchors:  ['Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Thalassarche_chlororhynchos', 'Cathartes_aura', 'Haliaeetus_albicilla']
+optimal p:  [-6.95148248e-22  5.63779672e-22 -1.20444308e-21  1.00000000e+00
+ -1.10525764e-21]
+optimal x:  [0.35961486 0.72053176 0.38111383 1.         0.49709423]
+optimal y:  0.0771331483347554
+Optimization Runtime:  0.8114068508148193

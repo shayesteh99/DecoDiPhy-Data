@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [437 442 578]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.35175025 0.35416766 0.29408209]
+opt_y:  0.040084867607570566
+optimal anchors:  ['I223', 'Lanius_ludovicianus', 'I293']
+optimal p:  [0.35175025 0.35416766 0.29408209]
+optimal x:  [1. 1. 1.]
+optimal y:  0.040084867607570566
+Optimization Runtime:  2.677072525024414

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [  7   8 132 160 163 174 178]
+opt_x:  [0.56063079 0.49999698 1.         1.         0.50713065 0.48114848
+ 0.48475056]
+opt_p:  [2.20347241e-23 1.36260920e-22 5.84419603e-01 4.15580397e-01
+ 1.78719449e-22 9.20136426e-23 1.59599716e-22]
+opt_y:  0.08459126896105637
+optimal anchors:  ['Aracanidae_Anoplocapros_inermis_EPLATE_53_A05', 'Aracanidae_Anoplocapros_amygdaloides_EPLATE_53_C05', 'I22', 'I85', 'Balistidae_Melichthys_vidua_STRIBFT11786', 'I93', 'I98']
+optimal p:  [-4.16908447e-23  8.79671542e-23  5.64665064e-01  4.35334936e-01
+  1.57737227e-23 -1.59106904e-23  1.45979508e-22]
+optimal x:  [4.95247410e-01 5.00001940e-01 1.82799150e-23 1.00000000e+00
+ 4.27613497e-01 3.71541161e-01 4.94063299e-01]
+optimal y:  0.08312545008764606
+Optimization Runtime:  0.7395243644714355

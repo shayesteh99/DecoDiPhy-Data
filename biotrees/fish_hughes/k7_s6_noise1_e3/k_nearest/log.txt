@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [373 376 454 375 367 455 446]
+opt_x:  [0.51433019 0.48935943 1.         0.72571498 0.37174561 1.
+ 1.        ]
+opt_p:  [-5.91132844e-21 -5.69214767e-21  4.97288358e-01 -2.92472652e-21
+ -1.36636585e-21  5.02711642e-01 -9.38809361e-23]
+opt_y:  0.34043433761426023
+optimal anchors:  ['Teleost_Euteleost_Holocentriformes_Holocentridae_Sargocentron_rubrum', 'Teleost_Euteleost_Beryciformes_Rondeletiidae_Rondeletia_loricata', 'Teleost_Euteleost_Beryciformes_Berycidae_Beryx_splendens', 'Teleost_Euteleost_Trachichthyformes_Monocentridae_Monocentris_japonica', 'I203', 'Teleost_Euteleost_Aulopiformes_Chlorophthalmidae_Parasudis_fraserbrunneri', 'Teleost_Euteleost_Aulopiformes_Chlorophthalmidae_Chlorophthalmus_agassizi']
+optimal p:  [-2.33405759e-21 -5.33939881e-21 -6.24922183e-21 -7.04990935e-21
+ -4.28834376e-21  4.97238741e-01  5.02761259e-01]
+optimal x:  [0.51245984 0.53199558 0.65588626 0.60098654 0.52436476 1.
+ 1.        ]
+optimal y:  0.34043433761426006
+Optimization Runtime:  0.525277853012085

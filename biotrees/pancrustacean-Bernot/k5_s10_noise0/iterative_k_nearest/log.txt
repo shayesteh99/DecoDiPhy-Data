@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [109 111 146 143 171]
+opt_x:  [1.         0.57650746 1.         0.72398793 0.99999988]
+opt_p:  [ 3.96166497e-01  5.16553144e-09  4.64986659e-01 -2.10969903e-09
+  1.38846841e-01]
+opt_y:  0.29026154070823396
+optimal anchors:  ['Hirondellea_gigas', 'Echinogammarus_pirloti', 'Ligia_exotica', 'Sphaeroma_terebrans', 'Penaeus_penicilliatus']
+optimal p:  [ 3.96166497e-01  5.16553144e-09 -2.10969903e-09  4.64986659e-01
+  1.38846841e-01]
+optimal x:  [1.         0.57650746 0.72398793 1.         0.99999988]
+optimal y:  0.29026154070823396
+Optimization Runtime:  0.21264171600341797

@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 55  58 379 380 474]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.18163902 0.18061331 0.14519731 0.21762417 0.27492619]
+opt_y:  0.13741934443852805
+optimal anchors:  ['I20', 'I42', 'I44', 'Teleost_Euteleost_Beryciformes_Berycidae_Beryx_splendens', 'Teleost_Euteleost_Salmoniformes_Salmonidae_Thymallus_thymallus']
+optimal p:  [ 4.44423788e-01  1.27778887e-01  1.28640944e-01 -8.47984899e-06
+  2.99164747e-01]
+optimal x:  [0.30910839 0.99999982 0.99999967 1.         1.        ]
+optimal y:  0.14567790484245405
+Optimization Runtime:  2.5421218872070312

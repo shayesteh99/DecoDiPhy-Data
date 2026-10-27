@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [  9  44  92 182 183]
+opt_x:  [0.77476886 1.         1.         1.         1.        ]
+opt_p:  [0.27034609 0.24622039 0.25940281 0.11207756 0.11195316]
+opt_y:  0.07563417456101398
+optimal anchors:  ['Scutelleridae_sp', 'Ischnodemus_falicus', 'I49', 'I98', 'Frankliniella_cephalica']
+optimal p:  [0.27559236 0.24803823 0.24574131 0.13781345 0.09281464]
+optimal x:  [0.81163943 1.         0.32801465 0.61146369 0.49300441]
+optimal y:  0.07144732058585805
+Optimization Runtime:  6.000400543212891

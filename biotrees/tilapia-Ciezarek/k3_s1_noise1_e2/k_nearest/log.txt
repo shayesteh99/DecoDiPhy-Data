@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [32 34 35]
+opt_x:  [1.         0.51429547 0.5072742 ]
+opt_p:  [1.00000000e+00 1.74843862e-23 2.92187062e-23]
+opt_y:  0.0037246817666029748
+optimal anchors:  ['Oamphimelas__LakeManyara__P3H1', 'Oamphimelas__LakeSulungali__T9F2', 'Oamphimelas__LakeSulungali__T9F4']
+optimal p:  [1.00000000e+00 1.74843862e-23 2.92187062e-23]
+optimal x:  [1.         0.51429547 0.5072742 ]
+optimal y:  0.0037246817666029748
+Optimization Runtime:  0.09947586059570312

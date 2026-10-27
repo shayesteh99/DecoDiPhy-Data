@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [37 38 39]
+opt_x:  [0.58188487 0.36816181 1.        ]
+opt_p:  [ 1.03211470e-21 -1.15639494e-21  1.00000000e+00]
+opt_y:  0.20296070573963676
+optimal anchors:  ['Morlockia_williamsi', 'Lasionectes_entrichoma', 'Godzilliognomus_frondosus']
+optimal p:  [ 1.03211470e-21 -1.15639494e-21  1.00000000e+00]
+optimal x:  [0.58188487 0.36816181 1.        ]
+optimal y:  0.20296070573963676
+Optimization Runtime:  0.0804135799407959

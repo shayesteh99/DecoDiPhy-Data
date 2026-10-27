@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [152  71 144]
+opt_x:  [1.00000000e+00 9.94001677e-01 4.23181788e-21]
+opt_p:  [0.44447113 0.44560482 0.10992404]
+opt_y:  0.039395139621253066
+optimal anchors:  ['Hypocryphalus_ovalicollis_I13632', 'Scolytogenes_coccotrypanoides_I13662', 'I81']
+optimal p:  [0.35741213 0.19140337 0.45118449]
+optimal x:  [1.         0.66000663 0.3525976 ]
+optimal y:  0.03705004550252781
+Optimization Runtime:  0.1331920623779297

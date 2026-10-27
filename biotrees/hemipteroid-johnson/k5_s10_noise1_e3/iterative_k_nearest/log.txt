@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [259 258 219 281 222]
+opt_x:  [1.         0.39135909 1.         0.8867308  1.        ]
+opt_p:  [3.56803892e-01 1.72200029e-21 2.75324954e-01 1.81470453e-01
+ 1.86400701e-01]
+opt_y:  0.1663433839664833
+optimal anchors:  ['Galloisiana_yuasai', 'Timema_cristinae', 'Badonnelia_titei', 'Stimulopalpus_japonicus', 'Aaroniella_sp']
+optimal p:  [2.75324954e-01 1.86400701e-01 1.72200029e-21 3.56803892e-01
+ 1.81470453e-01]
+optimal x:  [1.         1.         0.39135909 1.         0.8867308 ]
+optimal y:  0.1663433839664833
+Optimization Runtime:  0.3260769844055176

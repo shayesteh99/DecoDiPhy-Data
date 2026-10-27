@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [153 110  78 266 247]
+opt_x:  [1.        1.        1.        0.5128976 0.4353113]
+opt_p:  [ 6.07229953e-01  2.16599288e-01  1.76170759e-01 -6.27042468e-22
+ -1.99309119e-21]
+opt_y:  0.1411867904713287
+optimal anchors:  ['I52', 'Teleost_Euteleost_Ovalentaria_Grammatidae_Lipogramma_evides', 'Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'Teleost_Euteleost_Eupercaria_Centrarchiformes_Oplegnathidae_Oplegnathus_punctatus', 'Teleost_Euteleost_Eupercaria_Pempheriformes_Epigonidae_Epigonus_sp']
+optimal p:  [ 5.10319863e-01 -1.52376565e-22  4.89680137e-01 -6.02760504e-22
+ -1.20093783e-21]
+optimal x:  [0.86926609 0.69059482 1.         0.38663107 0.41374167]
+optimal y:  0.13690922334938108
+Optimization Runtime:  0.6083083152770996

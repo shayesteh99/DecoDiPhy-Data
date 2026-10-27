@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [307 182  45 464 176]
+opt_x:  [1.         1.         0.52687096 0.49466503 1.        ]
+opt_p:  [ 3.08144650e-01  3.00398406e-01 -3.11296926e-23  4.63276789e-22
+  3.91456944e-01]
+opt_y:  0.028468887806855834
+optimal anchors:  ['Homo_sapiens', 'Glis_glis', 'Marmota_marmota', 'I157', 'Dicerorhinus_sumatrensis']
+optimal p:  [0.11970857 0.22651416 0.25931051 0.36763726 0.0268295 ]
+optimal x:  [1.        1.        1.        0.2678582 1.       ]
+optimal y:  0.05104279350718358
+Optimization Runtime:  0.444364070892334

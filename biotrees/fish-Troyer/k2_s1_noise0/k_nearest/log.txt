@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [273 272]
+opt_x:  [1. 1.]
+opt_p:  [0.50052502 0.49947498]
+opt_y:  0.02391056425496142
+optimal anchors:  ['Monacanthidae_Thamnaconus_tessellatus_EPLATE_53_D03', 'Monocanthidae_Thamnaconus_striatus_EPLATE_51_G11']
+optimal p:  [0.49947498 0.50052502]
+optimal x:  [1. 1.]
+optimal y:  0.02391056425496142
+Optimization Runtime:  0.18400311470031738

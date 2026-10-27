@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 44 116 156 192 234]
+opt_x:  [1.         1.         1.         0.94583304 0.49821724]
+opt_p:  [0.21764011 0.2650189  0.16173305 0.17846322 0.17714473]
+opt_y:  0.024507116571455632
+optimal anchors:  ['I24', 'I60', 'Triacanthodidae_Macrorhamphosodes_platycheilus_EPLATE_53_H03', 'I104', 'I122']
+optimal p:  [0.32269141 0.2389767  0.08409438 0.17688939 0.17734817]
+optimal x:  [0.50035902 0.21418158 0.32101289 0.8894195  0.49753551]
+optimal y:  0.03157304748392619
+Optimization Runtime:  0.4348177909851074

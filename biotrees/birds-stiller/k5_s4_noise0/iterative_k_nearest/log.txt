@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [195 107 372 236 412]
+opt_x:  [6.01558476e-01 4.71935390e-23 5.45669933e-01 1.70630958e-23
+ 1.00000000e+00]
+opt_p:  [4.85922655e-23 2.41259666e-01 1.49223053e-22 1.75315914e-01
+ 5.83424420e-01]
+opt_y:  0.045720199429719464
+optimal anchors:  ['Chionis_minor', 'Aptenodytes_forsteri', 'Phalacrocorax_carbo', 'Lepidothrix_coronata', 'Ptilorrhoa_leucosticta']
+optimal p:  [2.41259666e-01 4.85922655e-23 1.75315914e-01 1.49223053e-22
+ 5.83424420e-01]
+optimal x:  [4.71935390e-23 6.01558476e-01 1.70630958e-23 5.45669933e-01
+ 1.00000000e+00]
+optimal y:  0.045720199429719464
+Optimization Runtime:  0.8634307384490967

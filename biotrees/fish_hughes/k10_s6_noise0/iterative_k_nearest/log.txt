@@ -1,0 +1,17 @@
+created matrices
+opt_anchors:  [477 453 565 444 568 376 373 542 581   6]
+opt_x:  [0.48948581 0.49530701 0.91370588 0.99996402 1.         0.49596063
+ 0.49776063 0.99999904 0.67698333 0.99999313]
+opt_p:  [7.67094058e-06 1.14754205e-05 3.28105996e-07 2.88361159e-01
+ 6.45730129e-08 1.38585873e-05 1.44054290e-05 3.91276416e-01
+ 8.25885205e-07 3.20313792e-01]
+opt_y:  0.1774184138750267
+optimal anchors:  ['I5', 'Teleost_Euteleost_Beryciformes_Rondeletiidae_Rondeletia_loricata', 'Teleost_Euteleost_Trachichthyformes_Monocentridae_Monocentris_japonica', 'I203', 'Teleost_Euteleost_Aulopiformes_Chlorophthalmidae_Chlorophthalmus_agassizi', 'Teleost_Euteleost_Argentiniformes_Argentinidae_Argentina_sp', 'I252', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides', 'Teleost_Osteoglossiformes_Osteoglossiformes_Notopteridae_Papyrocranus_afer', 'Amiiformes_Amiidae_Amia_calva_gill']
+optimal p:  [ 2.38073692e-01  6.84535676e-23  1.56075698e-01  2.79594948e-01
+ -1.39624864e-23  2.32204579e-22  2.15267388e-01  6.99234661e-22
+  1.10988274e-01  9.02854544e-22]
+optimal x:  [6.67280774e-01 8.65634744e-02 1.00000000e+00 1.10695335e-21
+ 1.00000000e+00 3.47896876e-01 8.71732621e-24 3.29732734e-01
+ 9.98306305e-01 3.78861521e-01]
+optimal y:  0.23327196316311422
+Optimization Runtime:  0.8866963386535645

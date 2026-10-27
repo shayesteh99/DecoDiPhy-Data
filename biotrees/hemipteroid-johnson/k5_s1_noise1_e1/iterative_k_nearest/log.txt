@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [ 51 139  58  65 129]
+opt_x:  [1.         1.         1.         1.         0.48411098]
+opt_p:  [8.07779772e-02 5.25013699e-01 3.11298941e-01 8.29093826e-02
+ 3.16445680e-21]
+opt_y:  0.12342945819542292
+optimal anchors:  ['I23', 'I38', 'Nabis_subcoleoptratus', 'Centrotus_cornutus', 'Mapuchea_sp']
+optimal p:  [ 1.95668445e-01  3.99214824e-01  8.72867069e-22 -8.92215203e-22
+  4.05116731e-01]
+optimal x:  [1.30484342e-23 6.29888912e-01 4.50851243e-01 5.19499153e-01
+ 1.00000000e+00]
+optimal y:  0.1468013994861774
+Optimization Runtime:  0.3745291233062744

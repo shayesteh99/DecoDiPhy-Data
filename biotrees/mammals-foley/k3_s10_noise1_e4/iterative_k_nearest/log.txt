@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [291 208 468]
+opt_x:  [0.51337867 1.         1.        ]
+opt_p:  [-2.10802786e-21  6.46488390e-01  3.53511610e-01]
+opt_y:  0.05018128113738162
+optimal anchors:  ['Cuniculus_paca', 'Pteropus_alecto', 'Dicerorhinus_sumatrensis']
+optimal p:  [ 6.46488390e-01 -2.10802786e-21  3.53511610e-01]
+optimal x:  [1.         0.51337867 1.        ]
+optimal y:  0.05018128113738162
+Optimization Runtime:  0.3685874938964844

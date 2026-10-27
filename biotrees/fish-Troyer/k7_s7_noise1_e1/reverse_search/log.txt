@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 20  39  40  72 156 188 262]
+opt_x:  [1.         1.         1.         1.         1.         0.891968
+ 0.83060488]
+opt_p:  [0.22900764 0.09563551 0.09590326 0.22886948 0.09724446 0.11836481
+ 0.13497484]
+opt_y:  0.033445608497246794
+optimal anchors:  ['I13', 'I24', 'Diodontidae_Chilomycterus_reticulatus_EPLATE_74_A07', 'I41', 'I83', 'I104', 'Monacanthidae_Eubalichthys_quadrispinis_EPLATE_53_G02']
+optimal p:  [0.17859394 0.212018   0.10592942 0.1932831  0.06951403 0.10709801
+ 0.13356351]
+optimal x:  [3.54982115e-01 9.79198892e-01 1.00000000e+00 2.31630512e-21
+ 9.22701405e-01 6.68520642e-01 8.06301259e-01]
+optimal y:  0.0476500002221519
+Optimization Runtime:  0.5766165256500244

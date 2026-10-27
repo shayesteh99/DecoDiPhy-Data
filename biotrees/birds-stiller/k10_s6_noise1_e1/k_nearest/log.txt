@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [508 512 513 632 633 531 528 425 442 630]
+opt_x:  [0.44926199 0.45059176 0.44877672 0.49699668 0.49596888 0.42515103
+ 0.35233362 0.9999706  0.45421025 1.        ]
+opt_p:  [-2.28073318e-06 -2.33917002e-06 -2.34208693e-06 -3.71799640e-06
+ -3.72054962e-06 -2.02803795e-06 -1.76757254e-06  1.12884773e-01
+ -6.11168021e-07  8.87134040e-01]
+opt_y:  0.046110661563865306
+optimal anchors:  ['Pseudopodoces_humilis', 'Acrocephalus_arundinaceus', 'Buphagus_erythrorhynchus', 'Leucopsar_rothschildi', 'Rhabdornis_inornatus', 'Promerops_cafer', 'Leptocoma_aspasia', 'Corvus_moneduloides', 'Corvus_cornix', 'Corvus_brachyrhynchos']
+optimal p:  [ 1.12884773e-01 -6.11168021e-07 -2.28073318e-06 -2.33917002e-06
+ -2.34208693e-06 -1.76757254e-06 -2.02803795e-06  8.87134040e-01
+ -3.71799640e-06 -3.72054962e-06]
+optimal x:  [0.9999706  0.45421025 0.44926199 0.45059176 0.44877672 0.35233362
+ 0.42515103 1.         0.49699668 0.49596888]
+optimal y:  0.046110661563865306
+Optimization Runtime:  0.9034171104431152

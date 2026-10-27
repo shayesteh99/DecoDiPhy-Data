@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [286 468 292 212 102]
+opt_x:  [0.43666741 0.49987018 0.4937136  0.673298   0.49146392]
+opt_p:  [ 6.20311198e-01 -3.79997192e-21 -3.22074880e-21  3.79688802e-01
+ -3.62016038e-21]
+opt_y:  0.05037014025352918
+optimal anchors:  ['Daubentonia_madagascariensis', 'Hydrochoerus_hydrochaeris', 'Rousettus_aegyptiacus', 'Rhinolophus_sinicus', 'Ceratotherium_simum']
+optimal p:  [-3.62016038e-21  3.79688802e-01  6.20311198e-01 -3.22074880e-21
+ -3.79997192e-21]
+optimal x:  [0.49146392 0.673298   0.43666741 0.4937136  0.49987018]
+optimal y:  0.05037014025352918
+Optimization Runtime:  0.33545637130737305

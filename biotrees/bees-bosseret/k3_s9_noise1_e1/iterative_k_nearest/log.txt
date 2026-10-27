@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [29 25 24]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.73607104 0.13195156 0.1319774 ]
+opt_y:  0.014701710170442904
+optimal anchors:  ['I14', 'Pseudapis_interstitinervis', 'I18']
+optimal p:  [0.20433993 0.20985821 0.58580202]
+optimal x:  [0.35707566 0.59967702 0.94633138]
+optimal y:  0.016398231681234464
+Optimization Runtime:  0.14244341850280762

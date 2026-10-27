@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 47  48  49 658 659]
+opt_x:  [1.         0.24476065 0.49636454 1.         1.        ]
+opt_p:  [ 6.10838810e-01 -2.21399225e-23 -8.56646639e-23  1.93824803e-01
+  1.95336387e-01]
+opt_y:  0.052383275868889245
+optimal anchors:  ['I26', 'Syrrhaptes_paradoxus', 'Pterocles_burchelli', 'Cardinalis_cardinalis', 'Pheucticus_melanocephalus']
+optimal p:  [ 6.10838810e-01 -2.21399225e-23 -8.56646639e-23  1.93824803e-01
+  1.95336387e-01]
+optimal x:  [1.         0.24476065 0.49636454 1.         1.        ]
+optimal y:  0.052383275868889245
+Optimization Runtime:  2.8346076011657715

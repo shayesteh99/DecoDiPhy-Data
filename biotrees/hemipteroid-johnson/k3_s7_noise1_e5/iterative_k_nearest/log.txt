@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 98 209  60]
+opt_x:  [1. 1. 1.]
+opt_p:  [-5.27648669e-23  6.86001369e-01  3.13998631e-01]
+opt_y:  0.12318066409447492
+optimal anchors:  ['Arilus_cristatus', 'Gelastocoris_oculatus', 'Zootermopsis_nevadensis']
+optimal p:  [ 3.13998631e-01 -5.27648669e-23  6.86001369e-01]
+optimal x:  [1. 1. 1.]
+optimal y:  0.12318066409447492
+Optimization Runtime:  0.30185604095458984

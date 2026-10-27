@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [17 11 10]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.75145532 0.12430893 0.12423575]
+opt_y:  0.005159906217731303
+optimal anchors:  ['I10', 'Pseudapis_kenyensis', 'Pseudapis_flavolobata']
+optimal p:  [0.6840413  0.18070516 0.13525353]
+optimal x:  [9.58936102e-01 1.00000000e+00 4.01641391e-06]
+optimal y:  0.00809438256207014
+Optimization Runtime:  0.12586164474487305

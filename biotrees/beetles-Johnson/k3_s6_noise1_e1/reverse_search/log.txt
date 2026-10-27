@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [152 206 211]
+opt_x:  [3.42936598e-18 8.92560234e-01 2.07806335e-01]
+opt_p:  [0.16091662 0.70462644 0.13445694]
+opt_y:  0.06494621474144181
+optimal anchors:  ['Ptilopodius_sp2027_Cangar_I13666', 'Chramesus_chapuisii_I13688', 'Chaetophloeus_insularis_I13671']
+optimal p:  [0.15854464 0.69908929 0.14236607]
+optimal x:  [0.75395374 0.8923058  0.25992831]
+optimal y:  0.06298163987454185
+Optimization Runtime:  0.5348067283630371

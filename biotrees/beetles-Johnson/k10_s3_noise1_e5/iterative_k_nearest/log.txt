@@ -1,0 +1,15 @@
+created matrices
+opt_anchors:  [207 110  38 219 146 184  43  99  79 137]
+opt_x:  [0.59405415 0.46790951 1.         1.         1.         1.
+ 0.57261737 1.         1.         1.        ]
+opt_p:  [-4.08643565e-09 -2.70999194e-08  1.64850831e-01  1.41035279e-01
+  6.95679171e-02  7.17647907e-02 -2.33180077e-09  9.06646784e-02
+  2.67362616e-01  1.94753921e-01]
+opt_y:  0.03851638194192473
+optimal anchors:  ['I12', 'Trypophloeus_populi_H04531', 'I35', 'I56', 'Pityophthorus_liquidambarus_I10230', 'Ernoporicus_spessivtzevi_I10220', 'Ernoporicus_fagi_I10218', 'Ips_pini_EST', 'Hylesinus_sp_I02536', 'Phloeosinus_dentatus_H04536']
+optimal p:  [0.19279213 0.01906036 0.12914035 0.14738057 0.0192929  0.10565879
+ 0.08905282 0.08043973 0.03532198 0.18186037]
+optimal x:  [0.88440838 1.         0.7679279  0.696124   1.         1.
+ 1.         1.         1.         1.        ]
+optimal y:  0.053288677952361044
+Optimization Runtime:  0.8679139614105225

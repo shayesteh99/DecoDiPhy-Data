@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [138 141 170  13   9 168  83 166  85 257]
+opt_x:  [1.         0.18208714 0.40368162 0.49995239 0.45619066 0.14644304
+ 1.         0.37101644 0.73494551 1.        ]
+opt_p:  [ 1.72531311e-01 -8.58195751e-08 -1.87375733e-07 -4.10376560e-07
+ -3.50720512e-07 -1.67825956e-07  4.33117450e-01 -2.25573171e-07
+ -6.94264174e-09  3.94352668e-01]
+opt_y:  -1.946416700805432e-05
+optimal anchors:  ['Aracanidae_Anoplocapros_lenticularis_EPLATE_53_B05', 'Aracanidae_Caprichthys_gymnura_EPLATE_53_G04', 'Tetraodontidae_Arothron_nigropunctatus_EPLATE_53_E05', 'Tetraodontidae_Arothron_hispidus_USNMAG9RU11', 'Triacanthodidae_Hollardia_hollardia_Vims40109', 'Triacanthodidae_Hollardia_meadi_USNMAG9RL06', 'Balistidae_Xanthichthys_auromarginatus_USNMAG7PY24', 'Balistidae_Odonus_niger_USNMAG7PW08', 'Balistidae_Melichthys_vidua_STRIBFT11786', 'Monacanthidae_Eubalichthys_quadrispinis_EPLATE_53_G02']
+optimal p:  [-3.50720512e-07 -4.10376560e-07  4.33117450e-01 -6.94264174e-09
+  1.72531311e-01 -8.58195751e-08 -2.25573171e-07 -1.67825956e-07
+ -1.87375733e-07  3.94352668e-01]
+optimal x:  [0.45619066 0.49995239 1.         0.73494551 1.         0.18208714
+ 0.37101644 0.14644304 0.40368162 1.        ]
+optimal y:  -1.946416700805432e-05
+Optimization Runtime:  0.46543335914611816

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [169 171 184 186 187]
+opt_x:  [0.45974283 0.45774541 0.99999717 0.49838474 0.49421551]
+opt_p:  [4.02856371e-06 3.99438418e-06 9.99983351e-01 4.30965180e-06
+ 4.32167541e-06]
+opt_y:  0.03684964200950748
+optimal anchors:  ['Xylosandrus_crassiusculus_genome_I16394', 'Xylosandrus_germanus_I13672', 'Xyleborus_affinis_I13682', 'Euwallacea_spPSHB_SRX698946', 'Euwallacea_fornicatus_I13668']
+optimal p:  [4.02856371e-06 3.99438418e-06 9.99983351e-01 4.30965180e-06
+ 4.32167541e-06]
+optimal x:  [0.45974283 0.45774541 0.99999717 0.49838474 0.49421551]
+optimal y:  0.03684964200950748
+Optimization Runtime:  0.12201189994812012

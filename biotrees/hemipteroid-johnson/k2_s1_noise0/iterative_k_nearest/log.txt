@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [284  69]
+opt_x:  [5.98272788e-23 2.04058491e-24]
+opt_p:  [0.53410857 0.46589143]
+opt_y:  0.003936869616452884
+optimal anchors:  ['Notostira_elongata', 'Heterocaecilius_solocipennis']
+optimal p:  [0.46589143 0.53410857]
+optimal x:  [2.04058491e-24 5.98272788e-23]
+optimal y:  0.003936869616452884
+Optimization Runtime:  0.18475651741027832

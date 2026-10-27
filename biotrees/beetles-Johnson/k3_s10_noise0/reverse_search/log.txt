@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [112 148 149]
+opt_x:  [1.34173446e-18 6.89559786e-02 5.03102793e-01]
+opt_p:  [0.46024673 0.32418183 0.21557144]
+opt_y:  0.036741999416125486
+optimal anchors:  ['Pityoborus_comatus_I13658', 'I81', 'Ptilopodius_sp2027_Cangar_I13666']
+optimal p:  [0.45679197 0.32649232 0.2167157 ]
+optimal x:  [0.7105147  0.34108745 0.50572643]
+optimal y:  0.0314213552426255
+Optimization Runtime:  0.38104987144470215

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [261  69]
+opt_x:  [1. 1.]
+opt_p:  [0.50851619 0.49148381]
+opt_y:  0.13183132020850663
+optimal anchors:  ['Notostira_elongata', 'Badonnelia_titei']
+optimal p:  [0.49148381 0.50851619]
+optimal x:  [1. 1.]
+optimal y:  0.13183132020850663
+Optimization Runtime:  0.2447214126586914

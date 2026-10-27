@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [  1  66 103 183 184]
+opt_x:  [0.91192277 0.88463611 1.         1.         0.8404515 ]
+opt_p:  [0.23726836 0.12197507 0.331611   0.2047569  0.10438867]
+opt_y:  0.034619966388674345
+optimal anchors:  ['I2', 'I38', 'I57', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Balistidae_Pseudobalistes_fuscus', 'Balistidae_Balistes_capriscus_USNMAD9NF67']
+optimal p:  [0.23840662 0.12342781 0.32961474 0.2017226  0.10682823]
+optimal x:  [0.90965988 0.93459672 0.9680408  0.88798907 0.844095  ]
+optimal y:  0.03420727028501076
+Optimization Runtime:  0.46642303466796875

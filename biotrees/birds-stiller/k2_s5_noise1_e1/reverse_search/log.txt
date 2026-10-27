@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [260 263]
+opt_x:  [1.         0.21690241]
+opt_p:  [1.00000000e+00 9.20425201e-23]
+opt_y:  0.031272839971277826
+optimal anchors:  ['I132', 'Aquila_chrysaetos']
+optimal p:  [1.00000000e+00 9.20425201e-23]
+optimal x:  [1.         0.21690241]
+optimal y:  0.031272839971277826
+Optimization Runtime:  4.134336709976196

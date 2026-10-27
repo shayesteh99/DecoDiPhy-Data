@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [503 506 501]
+opt_x:  [1.         0.25794101 0.31829282]
+opt_p:  [ 1.00001628e+00 -8.47503992e-06 -7.82306840e-06]
+opt_y:  0.018352239912517332
+optimal anchors:  ['Teleost_Otophysa_Siluriformes_Ictaluridae_Ictalurus_punctatus', 'Teleost_Otophysa_Siluriformes_Pangasiidae_Pangasianodon_hypophthalamus', 'Teleost_Otophysa_Siluriformes_Bagridae_Hemibagrus_guttatus']
+optimal p:  [-7.82306840e-06  1.00001628e+00 -8.47503992e-06]
+optimal x:  [0.31829282 1.         0.25794101]
+optimal y:  0.018352239912517332
+Optimization Runtime:  0.48689794540405273

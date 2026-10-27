@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 24  40 217 287 289 294 390]
+opt_x:  [1.         1.         0.88040821 0.79197597 0.68354528 1.
+ 1.        ]
+opt_p:  [0.39924861 0.09755542 0.05524163 0.05187972 0.10670144 0.04539311
+ 0.24398007]
+opt_y:  0.099102032712528
+optimal anchors:  ['I21', 'I35', 'Teleost_Euteleost_Eupercaria_Chaetodontiformes_Leiognathidae_Photopectoralis_bindus', 'I157', 'I160', 'Teleost_Euteleost_Eupercaria_Perciformes_Peristediidae_Peristedion_sp', 'I213']
+optimal p:  [0.36139417 0.10065674 0.07182912 0.06500729 0.09364575 0.06205212
+ 0.2454148 ]
+optimal x:  [0.27872458 1.         0.93699561 1.         0.62064062 1.
+ 0.2089414 ]
+optimal y:  0.09994038978303454
+Optimization Runtime:  4.9512903690338135

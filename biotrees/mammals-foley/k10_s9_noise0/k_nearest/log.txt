@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [308 313 300 299 311 312 328 321 334 333]
+opt_x:  [0.51473121 0.51429721 1.         1.         0.47530007 0.65707637
+ 0.52835728 0.46108925 0.26566818 0.53190125]
+opt_p:  [-3.57432025e-21 -5.24465994e-21  5.00804692e-01  4.99195308e-01
+  6.59053830e-22 -2.80153521e-22 -8.23191109e-22  1.76569783e-21
+  2.05868872e-22 -1.15683389e-21]
+opt_y:  0.04751291510832157
+optimal anchors:  ['Camelus_ferus', 'Camelus_bactrianus', 'Eubalaena_japonica', 'Balaenoptera_bonaerensis', 'Balaenoptera_acutorostrata', 'Eschrichtius_robustus', 'Ziphius_cavirostris', 'Delphinapterus_leucas', 'Tursiops_truncatus', 'Orcinus_orca']
+optimal p:  [ 4.99195308e-01  5.00804692e-01 -3.57432025e-21  6.59053830e-22
+ -2.80153521e-22 -5.24465994e-21  1.76569783e-21 -8.23191109e-22
+ -1.15683389e-21  2.05868872e-22]
+optimal x:  [1.         1.         0.51473121 0.47530007 0.65707637 0.51429721
+ 0.46108925 0.52835728 0.53190125 0.26566818]
+optimal y:  0.04751291510832157
+Optimization Runtime:  0.3462979793548584

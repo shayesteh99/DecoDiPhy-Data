@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [115 143  60 166 260]
+opt_x:  [0.53145656 1.         0.52657046 1.         1.        ]
+opt_p:  [4.13784382e-22 2.21422073e-01 3.51848802e-01 2.57184968e-03
+ 4.24157275e-01]
+opt_y:  0.09372816800876516
+optimal anchors:  ['Pagasa_sp', 'Okanagana_villosa', 'I64', 'Cyrpoptus_belfragei', 'Galloisiana_yuasai']
+optimal p:  [ 2.52358459e-01 -1.12529475e-22  3.81740792e-01  1.28807521e-01
+  2.37093229e-01]
+optimal x:  [0.69469448 0.47120901 0.8934579  1.         1.        ]
+optimal y:  0.11260559667671116
+Optimization Runtime:  0.34009790420532227

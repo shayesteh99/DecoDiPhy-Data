@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 16  14 171 172  33 183 185]
+opt_x:  [1.         0.70146424 0.5014952  0.51657569 1.         1.
+ 1.        ]
+opt_p:  [ 1.78221657e-01  3.44018135e-01 -1.52559833e-22 -1.49866313e-22
+  8.80203379e-02  3.94341106e-02  3.50305759e-01]
+opt_y:  0.20151998867555065
+optimal anchors:  ['Meinertellus_cundinamarcensis', 'I10', 'I21', 'Litopenaeus_vannamei', 'Penaeus_penicilliatus', 'Neocaridina_denticulata', 'Enoplometopus_cf_daumi']
+optimal p:  [3.48478247e-01 1.54291596e-01 1.07482626e-01 4.52228835e-23
+ 1.13570568e-23 3.94069129e-02 3.50340619e-01]
+optimal x:  [6.90216555e-01 7.77323831e-21 8.31791561e-01 4.88900128e-01
+ 3.12232999e-01 1.00000000e+00 1.00000000e+00]
+optimal y:  0.20045146559716498
+Optimization Runtime:  0.21965384483337402

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [42 66]
+opt_x:  [1. 1.]
+opt_p:  [0.79289677 0.20710323]
+opt_y:  0.033243630053110096
+optimal anchors:  ['I25', 'Omacrochir__Zambia__CFH11-078']
+optimal p:  [0.84133959 0.15866041]
+optimal x:  [0.93214939 1.        ]
+optimal y:  0.033688671330594826
+Optimization Runtime:  0.1103053092956543

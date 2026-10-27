@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [17 41 81]
+opt_x:  [0.80287979 0.51785434 0.23877203]
+opt_p:  [0.43100234 0.02562935 0.54336831]
+opt_y:  0.05949760834735413
+optimal anchors:  ['Colchicum_autumnale', 'Allamanda_cathartica', 'I54']
+optimal p:  [0.43100234 0.02562935 0.54336831]
+optimal x:  [0.80287979 0.51785434 0.23877203]
+optimal y:  0.05949760834735413
+Optimization Runtime:  15973.449935674667

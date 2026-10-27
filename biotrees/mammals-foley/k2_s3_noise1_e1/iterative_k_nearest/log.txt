@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [301 121]
+opt_x:  [1. 1.]
+opt_p:  [0.27671383 0.72328617]
+opt_y:  0.11872263413975156
+optimal anchors:  ['I19', 'Hipposideros_armiger']
+optimal p:  [0.44010023 0.55989977]
+optimal x:  [0.91436074 0.96262094]
+optimal y:  0.10361450778366497
+Optimization Runtime:  0.33290648460388184

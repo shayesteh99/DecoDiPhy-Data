@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [151 211 143  35 132 111  34]
+opt_x:  [1.         1.         1.         1.         1.         1.
+ 0.41603294]
+opt_p:  [3.11724454e-01 2.29743054e-02 2.87444560e-02 1.49024095e-01
+ 1.26835938e-01 3.60696751e-01 1.24610854e-22]
+opt_y:  0.05799539447581422
+optimal anchors:  ['Trischidias_atomus_I13699', 'Hypothenemus_piaparolinae_I10225', 'Pityophthorus_liquidambarus_I10230', 'Ernoporicus_spessivtzevi_I10220', 'Ernoporicus_sp1928_large_I10219', 'Procryphalus_mucronatus_I10231', 'Hylesinus_sp_I02536']
+optimal p:  [1.24610854e-22 1.49024095e-01 3.60696751e-01 1.26835938e-01
+ 2.87444560e-02 3.11724454e-01 2.29743054e-02]
+optimal x:  [0.41603294 1.         1.         1.         1.         1.
+ 1.        ]
+optimal y:  0.05799539447581422
+Optimization Runtime:  0.3595747947692871

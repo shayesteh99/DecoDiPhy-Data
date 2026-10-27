@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [187 117 219]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.20338347 0.50415977 0.29245676]
+opt_y:  0.02467833687525746
+optimal anchors:  ['Lemur_catta', 'Marmota_marmota', 'Heterocephalus_glaber']
+optimal p:  [0.50415977 0.20338347 0.29245676]
+optimal x:  [1. 1. 1.]
+optimal y:  0.02467833687525746
+Optimization Runtime:  0.41661906242370605

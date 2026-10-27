@@ -1,0 +1,13 @@
+created matrices
+opt_anchors:  [233 387 548 549 553 554 627]
+opt_x:  [1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.26555482 0.23948836 0.0381826  0.03788285 0.03905713 0.03901433
+ 0.3408199 ]
+opt_y:  0.03921793450468852
+optimal anchors:  ['I119', 'I190', 'I279', 'Zosterops_hypoxanthus', 'Leptocoma_aspasia', 'Dicaeum_eximium', 'Irena_cyanogastra']
+optimal p:  [0.2656013  0.23940239 0.06473036 0.01955126 0.02991008 0.03211347
+ 0.34869114]
+optimal x:  [1.         1.         0.99006391 0.57840563 1.         1.
+ 1.        ]
+optimal y:  0.0400518834587458
+Optimization Runtime:  5.031137943267822

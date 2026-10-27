@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [245 264 241 231 213]
+opt_x:  [1.         1.         0.62981824 1.         1.        ]
+opt_p:  [6.36119761e-23 1.00000000e+00 1.08389732e-21 1.78169883e-22
+ 9.22241234e-23]
+opt_y:  0.15214061614595528
+optimal anchors:  ['I124', 'Teleost_Euteleost_Eupercaria_Ephippiformes_Ephippidae_Chaetodipterus_faber', 'Teleost_Euteleost_Eupercaria_Centrarchiformes_Percichthyidae_Siniperca_scherzeri', 'I138', 'Teleost_Euteleost_Eupercaria_Pempheriformes_Epigonidae_Epigonus_sp']
+optimal p:  [4.58012581e-06 4.39952616e-06 4.48640835e-06 4.44810648e-06
+ 9.99982074e-01]
+optimal x:  [0.4966213  0.49283799 0.48662292 0.49129755 0.99999626]
+optimal y:  0.15214027676888914
+Optimization Runtime:  0.5967872142791748

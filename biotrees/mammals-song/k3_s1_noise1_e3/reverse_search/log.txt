@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 5  7 29]
+opt_x:  [0.12354666 1.         0.76389955]
+opt_p:  [0.59521753 0.29744553 0.10733694]
+opt_y:  0.054749664827699177
+optimal anchors:  ['I5', 'MIC', 'MUS']
+optimal p:  [0.58264856 0.3100145  0.10733694]
+optimal x:  [0.17879943 0.87937625 0.76389955]
+optimal y:  0.05330173682555162
+Optimization Runtime:  0.3553597927093506

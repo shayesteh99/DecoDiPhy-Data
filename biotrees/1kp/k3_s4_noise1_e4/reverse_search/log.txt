@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [12 46 82]
+opt_x:  [1.         0.93555517 1.        ]
+opt_p:  [0.53907201 0.23897011 0.22195787]
+opt_y:  0.16314411335951756
+optimal anchors:  ['I13', 'I35', 'Pinus_taeda']
+optimal p:  [0.53907201 0.23897011 0.22195787]
+optimal x:  [1.         0.93555517 1.        ]
+optimal y:  0.16314411335951756
+Optimization Runtime:  0.4791698455810547

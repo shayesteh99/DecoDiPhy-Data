@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [167  92 180 112 184]
+opt_x:  [0.29263082 1.         1.         1.         0.1927846 ]
+opt_p:  [-9.87710492e-20  3.17089596e-01  3.57922481e-01  3.24987923e-01
+ -2.00373097e-19]
+opt_y:  -2.2137241421889936e-17
+optimal anchors:  ['Tetraodontidae_Arothron_reticularis_EPLATE_51_C07', 'Tetraodontidae_Sphoeroides_maculatus_USNMAE2QZ45', 'Balistidae_Melichthys_vidua_STRIBFT11786', 'I97', 'Balistidae_Balistes_capriscus_USNMAD9NF67']
+optimal p:  [2.18456794e-01 2.60502005e-01 9.10555538e-20 3.15827357e-01
+ 2.05213844e-01]
+optimal x:  [1.         1.         0.49434772 0.7100902  0.54066232]
+optimal y:  0.015636359751026327
+Optimization Runtime:  0.27492713928222656

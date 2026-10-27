@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [249 433 257 191 412 120 151]
+opt_x:  [3.62175713e-02 5.43785497e-01 4.59962211e-01 6.95017749e-02
+ 1.00000000e+00 2.63639775e-22 1.00000000e+00]
+opt_p:  [-5.44686579e-23 -7.37656517e-23  1.76788744e-22 -5.61913407e-24
+  7.01509016e-01  1.91230571e-01  1.07260413e-01]
+opt_y:  0.04399495361822496
+optimal anchors:  ['Limosa_lapponica', 'Alca_torda', 'Aptenodytes_forsteri', 'Cathartes_aura', 'Aquila_chrysaetos', 'I211', 'Aphelocoma_coerulescens']
+optimal p:  [2.15011524e-01 7.85376059e-02 7.18136351e-02 1.05720184e-01
+ 7.48684566e-02 4.54048594e-01 1.09733410e-20]
+optimal x:  [1.         1.         1.         1.         0.75889162 0.91522094
+ 0.46723646]
+optimal y:  0.047830226173026666
+Optimization Runtime:  0.8923201560974121

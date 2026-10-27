@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [142  11  85  23  80]
+opt_x:  [1.00000000e+00 5.01173706e-01 5.00746142e-01 5.35036492e-01
+ 1.90516792e-23]
+opt_p:  [ 7.81136254e-01 -4.64795136e-22  5.32155864e-22 -1.28170145e-22
+  2.18863746e-01]
+opt_y:  0.04613591020494607
+optimal anchors:  ['Aracanidae_Aracana_aurita_EPLATE_53_H04', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Ostraciidae_Ostracion_rhinorhynchos', 'Tetraodontidae_Canthigaster_valentini_USNMAG5NP15', 'Tetraodontidae_Arothron_nigropunctatus_EPLATE_53_E05', 'Triacanthodidae_Hollardia_hollardia_Vims40109']
+optimal p:  [-4.64795136e-22 -1.28170145e-22  2.18863746e-01  5.32155864e-22
+  7.81136254e-01]
+optimal x:  [5.01173706e-01 5.35036492e-01 1.90516792e-23 5.00746142e-01
+ 1.00000000e+00]
+optimal y:  0.04613591020494607
+Optimization Runtime:  0.20075559616088867

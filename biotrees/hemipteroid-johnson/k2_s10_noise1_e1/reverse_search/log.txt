@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [284 295]
+opt_x:  [0.75383976 1.        ]
+opt_p:  [0.88788523 0.11211477]
+opt_y:  0.1198745147473852
+optimal anchors:  ['Aaroniella_sp', 'Cerobasis_guestfalica']
+optimal p:  [0.88788523 0.11211477]
+optimal x:  [0.75383976 1.        ]
+optimal y:  0.1198745147473852
+Optimization Runtime:  3.822392702102661

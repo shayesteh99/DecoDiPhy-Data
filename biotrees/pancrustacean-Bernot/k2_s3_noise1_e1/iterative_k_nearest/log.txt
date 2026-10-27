@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [153  58]
+opt_x:  [1.         0.65871795]
+opt_p:  [0.27715347 0.72284653]
+opt_y:  0.10686232365293769
+optimal anchors:  ['Tigriopus_californicus', 'Sphaeroma_terebrans']
+optimal p:  [0.72284653 0.27715347]
+optimal x:  [0.65871795 1.        ]
+optimal y:  0.10686232365293769
+Optimization Runtime:  0.11158180236816406

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [51 60 40]
+opt_x:  [0.69354576 1.         0.53090582]
+opt_p:  [2.19687696e-21 1.00000000e+00 2.33272634e-21]
+opt_y:  0.1071156180378034
+optimal anchors:  ['Sehirus_cincutus', 'Corimelaena_lateralis', 'Pagasa_sp']
+optimal p:  [2.33272634e-21 2.19687696e-21 1.00000000e+00]
+optimal x:  [0.53090582 0.69354576 1.        ]
+optimal y:  0.1071156180378034
+Optimization Runtime:  0.21390509605407715

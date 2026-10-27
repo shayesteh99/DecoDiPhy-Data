@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [63 78]
+opt_x:  [0.97553093 0.96973101]
+opt_p:  [0.78743817 0.21256183]
+opt_y:  0.060158618727730706
+optimal anchors:  ['CHAVO', 'MESUN']
+optimal p:  [0.78743817 0.21256183]
+optimal x:  [0.97553093 0.96973101]
+optimal y:  0.060158618727730706
+Optimization Runtime:  51.55368447303772

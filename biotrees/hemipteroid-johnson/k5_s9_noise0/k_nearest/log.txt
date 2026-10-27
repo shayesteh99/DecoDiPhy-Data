@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [178 183 208 181 209]
+opt_x:  [1.         0.47488563 1.         0.62797756 1.        ]
+opt_p:  [ 5.47951284e-01 -3.54521760e-22  2.25810432e-01  4.11998872e-22
+  2.26238284e-01]
+opt_y:  0.1906390918061241
+optimal anchors:  ['Cycadothrips_chadwicki', 'Orothrips_kelloggi', 'Erythrothrips_arizonae', 'Cryptocercus_wrighti', 'Zootermopsis_nevadensis']
+optimal p:  [ 5.47951284e-01  4.11998872e-22 -3.54521760e-22  2.25810432e-01
+  2.26238284e-01]
+optimal x:  [1.         0.62797756 0.47488563 1.         1.        ]
+optimal y:  0.1906390918061241
+Optimization Runtime:  0.2476494312286377

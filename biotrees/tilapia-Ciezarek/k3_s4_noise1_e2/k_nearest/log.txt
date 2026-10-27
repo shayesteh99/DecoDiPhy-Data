@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [59 60 46]
+opt_x:  [0.51223189 0.47592222 1.        ]
+opt_p:  [ 3.60788082e-23 -3.03223260e-23  1.00000000e+00]
+opt_y:  0.01969399947398636
+optimal anchors:  ['Okaromo__LakeNyamagoma__206', 'Omalagarasi__Uvinza__130', 'Omalagarasi__Uvinza__131']
+optimal p:  [ 1.00000000e+00  3.60788082e-23 -3.03223260e-23]
+optimal x:  [1.         0.51223189 0.47592222]
+optimal y:  0.01969399947398636
+Optimization Runtime:  0.11603784561157227

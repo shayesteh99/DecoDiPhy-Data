@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [101 110 140]
+opt_x:  [1.         1.         0.68725379]
+opt_p:  [0.36004027 0.21323322 0.42672651]
+opt_y:  0.028727007624451815
+optimal anchors:  ['I53', 'Orovumae__LakeChidya__141D', 'I74']
+optimal p:  [0.34354171 0.2374405  0.41901781]
+optimal x:  [0.35462394 0.82138968 0.34898687]
+optimal y:  0.027262452494898747
+Optimization Runtime:  0.3371853828430176

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 62 208 209]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.6210075 0.1892476 0.1897449]
+opt_y:  0.09156452959591489
+optimal anchors:  ['I42', 'I112', 'Zootermopsis_nevadensis']
+optimal p:  [0.6232044  0.35695833 0.0198373 ]
+optimal x:  [0.31224174 0.88940164 0.99944409]
+optimal y:  0.11857135915925791
+Optimization Runtime:  3.5706567764282227

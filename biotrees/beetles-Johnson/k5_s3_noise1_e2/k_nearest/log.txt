@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [101 100 112 102  99]
+opt_x:  [0.39887696 0.39238252 0.99999929 0.10797925 0.29997349]
+opt_p:  [-1.58005058e-06 -1.71247820e-06  1.00000547e+00 -3.38821259e-07
+ -1.83421777e-06]
+opt_y:  0.05755379553706477
+optimal anchors:  ['Cryptocarenus_seriatus_I10214', 'Cryptocarenus_pubescens_I13696', 'Araptus_sp2356_Vismia_I13685', 'Araptus_nr_laudatus_I13651', 'Pityophthorus_liquidambarus_I10230']
+optimal p:  [-1.83421777e-06 -1.71247820e-06 -1.58005058e-06 -3.38821259e-07
+  1.00000547e+00]
+optimal x:  [0.29997349 0.39238252 0.39887696 0.10797925 0.99999929]
+optimal y:  0.05755379553706477
+Optimization Runtime:  0.11425423622131348

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [47 50]
+opt_x:  [0.99999968 0.55471368]
+opt_p:  [9.99999638e-01 3.61040384e-07]
+opt_y:  0.03497603971698347
+optimal anchors:  ['Austronomia_australica', 'Curvinomia_chalybeata']
+optimal p:  [9.99999638e-01 3.61040384e-07]
+optimal x:  [0.99999968 0.55471368]
+optimal y:  0.03497603971698347
+Optimization Runtime:  0.05705738067626953

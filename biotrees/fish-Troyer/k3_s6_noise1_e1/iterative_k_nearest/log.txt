@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [287 284 249]
+opt_x:  [0.5052968  0.54141517 1.        ]
+opt_p:  [-3.19782928e-21 -1.12104251e-21  1.00000000e+00]
+opt_y:  0.010531156319619348
+optimal anchors:  ['Monacanthidae_Pseudomonacanthus_elongatus_EPLATE_52_C12', 'Monacanthidae_Eubalichthys_caeruleoguttatus_EPLATE_51_G09', 'Monocanthidae_Thamnaconus_striatus_EPLATE_51_G11']
+optimal p:  [ 1.00000000e+00 -1.12104251e-21 -3.19782928e-21]
+optimal x:  [1.         0.54141517 0.5052968 ]
+optimal y:  0.010531156319619348
+Optimization Runtime:  0.17004919052124023

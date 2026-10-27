@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 21  57  80 181 182]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.22138776 0.26214474 0.26330438 0.12669557 0.12646755]
+opt_y:  0.04483143379105466
+optimal anchors:  ['Hypothenemus_ingens_I10226', 'I33', 'I34', 'Xyleborus_granulosus_I13674', 'Ambrosiodmus_rubricollis_I14146']
+optimal p:  [0.10624991 0.5027471  0.24366752 0.07375475 0.07358072]
+optimal x:  [9.29400434e-01 1.00000000e+00 1.23529495e-21 1.00000000e+00
+ 1.00000000e+00]
+optimal y:  0.06811956596489788
+Optimization Runtime:  0.2964205741882324

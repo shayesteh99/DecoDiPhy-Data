@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 24  41  42 286 291 389 398 508 509 554]
+opt_x:  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+opt_p:  [0.32761967 0.03970014 0.03953245 0.09842517 0.09674166 0.08852591
+ 0.08770582 0.04608288 0.04920752 0.12645878]
+opt_y:  0.10213260369104106
+optimal anchors:  ['I22', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Poeciliidae_Xiphophorus_maculatus', 'Teleost_Euteleost_Ovalentaria_Cyprinodontiformes_Poeciliidae_Xiphophorus_hellerii', 'I157', 'I158', 'I215', 'Teleost_Euteleost_Zeiogadaria_Gadiformes_Gadidae_Pollachius_virens', 'Teleost_Otophysa_Characiformes_Erythrinidae_Erythrinus_erythrinus', 'Teleost_Otophysa_Characiformes_Serrasalmidae_Pygocentrus_nattereri', 'I291']
+optimal p:  [0.32480863 0.0385524  0.03834526 0.1584686  0.03751998 0.08974791
+ 0.08876289 0.04676528 0.04921067 0.12781837]
+optimal x:  [7.41988227e-01 1.00000000e+00 1.00000000e+00 1.00000000e+00
+ 2.04864282e-19 1.00000000e+00 1.00000000e+00 1.00000000e+00
+ 1.00000000e+00 1.00000000e+00]
+optimal y:  0.10373474030201554
+Optimization Runtime:  1.971034049987793

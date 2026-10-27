@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 64 150]
+opt_x:  [1. 1.]
+opt_p:  [0.38416702 0.61583298]
+opt_y:  0.07071414110710135
+optimal anchors:  ['Vitis_vinifera', 'Leucodon_brachypus']
+optimal p:  [0.38416702 0.61583298]
+optimal x:  [1. 1.]
+optimal y:  0.07071414110710135
+Optimization Runtime:  0.44377994537353516

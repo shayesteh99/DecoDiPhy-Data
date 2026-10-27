@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [  4  69 163]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.10507361 0.49508158 0.39984481]
+opt_y:  0.19011673622534447
+optimal anchors:  ['Monomastix_opisthostigma', 'I27', 'I76']
+optimal p:  [0.10691774 0.5096372  0.38344506]
+optimal x:  [1.         0.7197012  0.93638813]
+optimal y:  0.19575548900050013
+Optimization Runtime:  0.19822454452514648

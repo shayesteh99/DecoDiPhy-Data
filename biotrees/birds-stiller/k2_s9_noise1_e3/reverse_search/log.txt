@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [422 423]
+opt_x:  [1. 1.]
+opt_p:  [0.50059903 0.49940097]
+opt_y:  0.04822616938129523
+optimal anchors:  ['Edolisoma_coerulescens', 'I213']
+optimal p:  [0.50059903 0.49940097]
+optimal x:  [1. 1.]
+optimal y:  0.04822616938129523
+Optimization Runtime:  2.8995964527130127

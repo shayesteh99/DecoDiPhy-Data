@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 45 102]
+opt_x:  [0.55861105 1.        ]
+opt_p:  [1.13830967e-21 1.00000000e+00]
+opt_y:  0.09712746106729461
+optimal anchors:  ['Homo_sapiens', 'Daubentonia_madagascariensis']
+optimal p:  [1.13830967e-21 1.00000000e+00]
+optimal x:  [0.55861105 1.        ]
+optimal y:  0.09712746106729461
+Optimization Runtime:  0.3112518787384033

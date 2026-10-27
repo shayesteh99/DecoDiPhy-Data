@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 14  56  92  93 139]
+opt_x:  [0.48575057 0.88728246 0.729619   1.         1.        ]
+opt_p:  [0.17611696 0.18680785 0.15813087 0.14659018 0.33235414]
+opt_y:  0.20837259971208696
+optimal anchors:  ['Machilis_hrabei', 'Tigriopus_californicus', 'I49', 'Amphibalanus_amphitrite', 'Ligia_exotica']
+optimal p:  [0.17514104 0.18661794 0.18240408 0.12381972 0.33201722]
+optimal x:  [0.481405   0.8862839  0.45268095 0.53902477 1.        ]
+optimal y:  0.20858230576147846
+Optimization Runtime:  0.6850094795227051

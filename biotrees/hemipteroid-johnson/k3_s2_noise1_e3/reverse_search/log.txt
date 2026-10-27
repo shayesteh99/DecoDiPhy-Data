@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 7 13 48]
+opt_x:  [0.39376743 1.         1.        ]
+opt_p:  [0.56955367 0.03205735 0.39838898]
+opt_y:  0.14208849006022292
+optimal anchors:  ['I8', 'Acanthosoma_haemorrhoidale', 'I31']
+optimal p:  [0.56955367 0.03205735 0.39838898]
+optimal x:  [0.39376743 1.         1.        ]
+optimal y:  0.14208849006022292
+Optimization Runtime:  0.5900387763977051

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 93  92 147 171 172]
+opt_x:  [1.         1.         1.         0.50907323 1.        ]
+opt_p:  [ 2.80079395e-01  2.72968648e-01  3.89878781e-01 -3.62492002e-22
+  5.70731762e-02]
+opt_y:  0.10804504470080104
+optimal anchors:  ['Amphibalanus_amphitrite', 'Pollicipes_pollicipes', 'Ligia_exotica', 'Litopenaeus_vannamei', 'Penaeus_penicilliatus']
+optimal p:  [ 2.72968648e-01  2.80079395e-01  3.89878781e-01 -3.62492002e-22
+  5.70731762e-02]
+optimal x:  [1.         1.         1.         0.50907323 1.        ]
+optimal y:  0.10804504470080104
+Optimization Runtime:  0.16515827178955078

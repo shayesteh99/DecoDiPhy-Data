@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [184 169 170 182 175]
+opt_x:  [0.59142645 1.         1.         0.52031184 0.49990261]
+opt_p:  [-1.84755114e-22  5.01601882e-01  4.98398118e-01  3.99591353e-22
+ -5.16811735e-22]
+opt_y:  0.0595115794178371
+optimal anchors:  ['Balistidae_Melichthys_vidua_STRIBFT11786', 'Balistidae_Melichthys_niger_UPRFL0061', 'Balistidae_Xanthichthys_caeruleolineatus_USNMAG7PV58', 'Balistidae_Canthidermis_sufflamen_USNMAC7BZ85', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Balistidae_Pseudobalistes_fuscus']
+optimal p:  [ 5.01601882e-01  4.98398118e-01 -5.16811735e-22  3.99591353e-22
+ -1.84755114e-22]
+optimal x:  [1.         1.         0.49990261 0.52031184 0.59142645]
+optimal y:  0.0595115794178371
+Optimization Runtime:  0.1537489891052246

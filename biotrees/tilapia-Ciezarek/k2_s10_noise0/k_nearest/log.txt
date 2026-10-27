@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [149 151]
+opt_x:  [1. 1.]
+opt_p:  [ 1.00000000e+00 -9.11059482e-26]
+opt_y:  0.0027294910764839708
+optimal anchors:  ['I79', 'Ourolepis__Ifakara__T9J4']
+optimal p:  [9.99919794e-01 8.02063661e-05]
+optimal x:  [0.64982384 1.        ]
+optimal y:  0.005564241650960046
+Optimization Runtime:  0.1361093521118164

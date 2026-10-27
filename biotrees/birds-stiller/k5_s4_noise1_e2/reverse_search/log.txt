@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [106 233 235 482 483]
+opt_x:  [1.         1.         0.74244003 1.         1.        ]
+opt_p:  [3.77288591e-01 2.87610642e-01 4.86464307e-24 1.67991212e-01
+ 1.67109555e-01]
+opt_y:  0.056277904050619436
+optimal anchors:  ['I56', 'I119', 'Phalacrocorax_pelagicus', 'Chaetops_frenatus', 'Drymodes_brunneopygia']
+optimal p:  [3.77288591e-01 2.87610642e-01 4.86464307e-24 1.67991212e-01
+ 1.67109555e-01]
+optimal x:  [1.         1.         0.74244003 1.         1.        ]
+optimal y:  0.056277904050619436
+Optimization Runtime:  4.558192014694214

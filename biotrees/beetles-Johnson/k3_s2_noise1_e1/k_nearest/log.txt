@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [22 16 20]
+opt_x:  [1.         0.23399096 0.55673423]
+opt_p:  [ 1.00000000e+00 -5.55284964e-24  1.06628314e-22]
+opt_y:  0.02585367372828078
+optimal anchors:  ['Hypothenemus_perhispidus_I13633', 'Hypothenemus_obscurus_I13670', 'Hypothenemus_sp1681_Spiny_I13655']
+optimal p:  [-5.55284964e-24  1.06628314e-22  1.00000000e+00]
+optimal x:  [0.23399096 0.55673423 1.        ]
+optimal y:  0.02585367372828078
+Optimization Runtime:  0.11181139945983887

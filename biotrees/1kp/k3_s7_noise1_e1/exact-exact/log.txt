@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 55  81 102]
+opt_x:  [0.79900443 0.04871228 0.87929919]
+opt_p:  [0.59806715 0.30067926 0.10125359]
+opt_y:  0.09154205654879607
+optimal anchors:  ['Boehmeria_nivea', 'I47', 'Cycas_rumphii']
+optimal p:  [0.59806715 0.30067926 0.10125359]
+optimal x:  [0.79900443 0.04871228 0.87929919]
+optimal y:  0.09154205654879607
+Optimization Runtime:  17366.523079633713

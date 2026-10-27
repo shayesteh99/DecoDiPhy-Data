@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [247 193 191 234 367 106 408]
+opt_x:  [0.40551139 0.61422504 0.4679149  0.50142364 0.47917223 1.
+ 1.        ]
+opt_p:  [1.10612236e-22 1.29671225e-22 1.08099197e-22 9.24324114e-23
+ 1.07923747e-22 5.47699140e-01 4.52300860e-01]
+opt_y:  0.057160631411333256
+optimal anchors:  ['I56', 'Aptenodytes_forsteri', 'Thalassarche_chlororhynchos', 'Phalacrocorax_auritus', 'Cathartes_aura', 'Manacus_manacus', 'Ptilorrhoa_leucosticta']
+optimal p:  [0.30629747 0.00373342 0.01075925 0.15759815 0.2658548  0.00796958
+ 0.24778749]
+optimal x:  [0.98323538 0.99918659 0.99919687 0.82021077 0.99998014 0.99964568
+ 0.99999805]
+optimal y:  0.06286161821082308
+Optimization Runtime:  0.9239811897277832

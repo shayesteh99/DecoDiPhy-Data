@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [30 31 44]
+opt_x:  [0.01742663 0.97367083 0.23703399]
+opt_p:  [0.28426232 0.14642556 0.56931212]
+opt_y:  0.0023070969201172977
+optimal anchors:  ['Ostraciidae_Acanthostracion_quadricornis_UPRFL0075', 'I19', 'Diodontidae_Chilomycterus_spinosus_USNMAD9NF85']
+optimal p:  [0.28426232 0.14642556 0.56931212]
+optimal x:  [0.01742663 0.97367083 0.23703399]
+optimal y:  0.0023070969201172977
+Optimization Runtime:  0.9374799728393555

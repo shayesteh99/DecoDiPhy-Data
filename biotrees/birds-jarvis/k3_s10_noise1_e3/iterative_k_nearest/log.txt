@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [46 80 70]
+opt_x:  [1.         1.         0.86907701]
+opt_p:  [-5.02627370e-09  4.55210198e-09  1.00000000e+00]
+opt_y:  0.06852867757215098
+optimal anchors:  ['FULGL', 'TAUER', 'PODCR']
+optimal p:  [ 1.27584896e-01  8.72419485e-01 -4.35606300e-06]
+optimal x:  [9.99960697e-01 9.29315681e-01 9.44973282e-05]
+optimal y:  0.07485842184545384
+Optimization Runtime:  0.11414790153503418

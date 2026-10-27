@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [195 235 111]
+opt_x:  [1.         0.50153277 1.        ]
+opt_p:  [2.43252577e-01 1.12573762e-21 7.56747423e-01]
+opt_y:  0.05198893998217553
+optimal anchors:  ['Ibidorhyncha_struthersii', 'Aptenodytes_forsteri', 'Phalacrocorax_pelagicus']
+optimal p:  [7.56747423e-01 2.43252577e-01 1.12573762e-21]
+optimal x:  [1.         1.         0.50153277]
+optimal y:  0.05198893998217553
+Optimization Runtime:  0.8209381103515625

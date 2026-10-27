@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 4  5  6 35 43]
+opt_x:  [0.47566521 0.3870219  0.05844432 0.60028502 0.65196975]
+opt_p:  [0.17218963 0.18341516 0.1728764  0.14107724 0.33044155]
+opt_y:  0.019267795506359583
+optimal anchors:  ['Steganomus_junodi', 'I6', 'I9', 'Lipotriches_justiciae', 'Acunomia_melanderi']
+optimal p:  [0.17218963 0.18341516 0.1728764  0.14107724 0.33044155]
+optimal x:  [0.47566521 0.3870219  0.05844432 0.60028502 0.65196975]
+optimal y:  0.019267795506359583
+Optimization Runtime:  0.38176679611206055

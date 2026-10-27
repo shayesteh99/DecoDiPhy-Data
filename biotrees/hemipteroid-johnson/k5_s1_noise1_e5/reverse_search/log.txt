@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 40  76 128 133 278]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.14508669 0.49278063 0.11045668 0.10990574 0.14177026]
+opt_y:  0.15133319635343295
+optimal anchors:  ['I6', 'Sehirus_cincutus', 'I72', 'I75', 'Heterocaecilius_solocipennis']
+optimal p:  [0.5149427  0.11303919 0.11396828 0.11337719 0.14467264]
+optimal x:  [0.52148614 1.         1.         1.         1.        ]
+optimal y:  0.15089386164898122
+Optimization Runtime:  0.582371711730957

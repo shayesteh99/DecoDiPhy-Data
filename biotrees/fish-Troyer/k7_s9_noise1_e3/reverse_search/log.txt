@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 10  73  96 132 133 160 179]
+opt_x:  [1.         1.         1.         0.85006184 0.80184689 0.88884736
+ 1.        ]
+opt_p:  [0.09201195 0.08283505 0.07321575 0.14025844 0.07776292 0.45102132
+ 0.08289455]
+opt_y:  0.04257953767943762
+optimal anchors:  ['I5', 'Tetraodontidae_Canthigaster_cyanospilota_EPLATE_51_B07', 'Tetraodontidae_Lagocephalus_cheesemanii_EPLATE_52_D10', 'I71', 'Lophiidae_Lophius_litulon_CSIROGT6889', 'I85', 'Balistidae_Balistes_capriscus_USNMAD9NF67']
+optimal p:  [0.10204977 0.08302012 0.07348347 0.13401759 0.07309083 0.45215589
+ 0.08218234]
+optimal x:  [0.5637739  1.         1.         0.80325241 0.78917584 0.88775544
+ 0.70654278]
+optimal y:  0.04275647585954277
+Optimization Runtime:  0.6887996196746826

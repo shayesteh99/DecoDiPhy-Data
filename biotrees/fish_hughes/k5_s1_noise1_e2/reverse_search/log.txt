@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 81 129 271 280 578]
+opt_x:  [1.         0.99999994 0.03170958 1.         0.99999999]
+opt_p:  [0.18553134 0.4728041  0.15343815 0.06947584 0.11875057]
+opt_y:  0.08179768434467877
+optimal anchors:  ['I53', 'I77', 'I151', 'Teleost_Euteleost_Eupercaria_Perciformes_Scorpaenidae_Scorpaenopsis_cirrosa', 'Teleost_Osteoglossiformes_Osteoglossiformes_Morymridae_Gnathonemus_petersii']
+optimal p:  [1.72906271e-01 5.31741291e-01 1.78240938e-01 8.04119602e-23
+ 1.17111500e-01]
+optimal x:  [4.62085318e-03 7.21427847e-01 1.67170270e-20 1.00000000e+00
+ 1.00000000e+00]
+optimal y:  0.08820560037052168
+Optimization Runtime:  1.8724098205566406

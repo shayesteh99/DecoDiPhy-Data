@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [144 154]
+opt_x:  [1.         0.48080222]
+opt_p:  [ 1.00000000e+00 -3.67307258e-23]
+opt_y:  0.01880682216541292
+optimal anchors:  ['Ourolepis__WamiRiver__14_1E1', 'Ourolepis__LakeLugongwe__T2J5']
+optimal p:  [ 1.00000000e+00 -3.67307258e-23]
+optimal x:  [1.         0.48080222]
+optimal y:  0.01880682216541292
+Optimization Runtime:  0.08615660667419434

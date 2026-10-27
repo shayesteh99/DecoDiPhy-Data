@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [104 320]
+opt_x:  [1. 1.]
+opt_p:  [0.79565309 0.20434691]
+opt_y:  0.17125452761887905
+optimal anchors:  ['Daubentonia_madagascariensis', 'Eubalaena_japonica']
+optimal p:  [0.79565309 0.20434691]
+optimal x:  [1. 1.]
+optimal y:  0.17125452761887905
+Optimization Runtime:  0.3586463928222656

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [173  14 185 155  35  33 183]
+opt_x:  [0.45947979 0.99999975 0.4560245  0.99999916 0.39129216 0.46600512
+ 0.47626812]
+opt_p:  [-2.07377993e-06  8.64727461e-01 -2.13143575e-06  1.35279720e-01
+ -3.25859940e-07 -3.64798733e-07 -2.28549141e-06]
+opt_y:  0.373918655130724
+optimal anchors:  ['I8', 'Morlockia_williamsi', 'Godzilliognomus_frondosus', 'Lysiosquillina_maculata', 'Sergestes_similis', 'Neocaridina_denticulata', 'Enoplometopus_cf_daumi']
+optimal p:  [ 5.70016321e-01  4.50898149e-22 -6.95267411e-22  1.31375718e-01
+  1.44663690e-01  3.63658138e-23  1.53944270e-01]
+optimal x:  [0.70590434 0.50731145 0.45294621 1.         1.         0.11832135
+ 1.        ]
+optimal y:  0.43609928448640767
+Optimization Runtime:  0.21233677864074707

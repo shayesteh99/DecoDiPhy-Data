@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 39 178]
+opt_x:  [1. 1.]
+opt_p:  [0.50053267 0.49946733]
+opt_y:  0.32637900833313754
+optimal anchors:  ['Morlockia_williamsi', 'Penaeus_penicilliatus']
+optimal p:  [0.50053267 0.49946733]
+optimal x:  [1. 1.]
+optimal y:  0.32637900833313754
+Optimization Runtime:  0.1467604637145996

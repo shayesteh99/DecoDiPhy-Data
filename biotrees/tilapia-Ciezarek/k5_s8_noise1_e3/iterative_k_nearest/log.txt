@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [41 82 46 91 58]
+opt_x:  [1.         1.         0.49565233 1.         1.        ]
+opt_p:  [ 1.69005688e-01  2.97655741e-01 -1.01155519e-22  4.18469473e-01
+  1.14869098e-01]
+opt_y:  0.030153666647287757
+optimal anchors:  ['Otanganicae__Katanga__42', 'Okaromo__LakeNyamagoma__206', 'Omalagarasi__Uvinza__131', 'I46', 'I53']
+optimal p:  [ 2.83286106e-21  6.54863348e-02  1.75118927e-01  7.59394738e-01
+ -1.55424077e-20]
+optimal x:  [0.49664539 1.         1.         0.92259225 0.23974933]
+optimal y:  0.03490070251402052
+Optimization Runtime:  0.25090479850769043

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [206 155]
+opt_x:  [0.83284029 1.        ]
+opt_p:  [0.96298976 0.03701024]
+opt_y:  0.07327963139418922
+optimal anchors:  ['Ernoporicus_sp1928_large_I10219', 'Chramesus_chapuisii_I13688']
+optimal p:  [0.03701024 0.96298976]
+optimal x:  [1.         0.83284029]
+optimal y:  0.07327963139418922
+Optimization Runtime:  0.12972640991210938

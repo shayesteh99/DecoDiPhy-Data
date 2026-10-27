@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 16  17 165 226 227]
+opt_x:  [1.         0.46858461 1.         1.         1.        ]
+opt_p:  [ 4.53263863e-01 -1.43233630e-23  3.02967275e-01  1.21918196e-01
+  1.21850666e-01]
+opt_y:  0.032165434870079126
+optimal anchors:  ['I11', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Ostraciidae_Lactoria_cornuta', 'I86', 'Monocanthidae_Chaetodermis_penicilligera_EPLATE_53_A01', 'I118']
+optimal p:  [ 4.53263863e-01 -1.43233630e-23  3.02967275e-01  1.21918196e-01
+  1.21850666e-01]
+optimal x:  [1.         0.46858461 1.         1.         1.        ]
+optimal y:  0.032165434870079126
+Optimization Runtime:  0.7309849262237549

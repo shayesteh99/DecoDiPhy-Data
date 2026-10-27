@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [383 472 622]
+opt_x:  [0.23809791 0.46379771 0.6484991 ]
+opt_p:  [0.44238552 0.27007625 0.28753427]
+opt_y:  0.03328603784729767
+optimal anchors:  ['I193', 'I240', 'Taeniopygia_guttata']
+optimal p:  [0.44238552 0.27007625 0.28753427]
+optimal x:  [0.23809791 0.46379771 0.6484991 ]
+optimal y:  0.03328603784729767
+Optimization Runtime:  3.886509418487549

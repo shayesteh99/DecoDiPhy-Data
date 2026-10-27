@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [582 579]
+opt_x:  [0.97574634 1.        ]
+opt_p:  [0.91371289 0.08628711]
+opt_y:  0.21899447016250584
+optimal anchors:  ['Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides', 'Teleost_Osteoglossiformes_Osteoglossiformes_Osteoglossidae_Scleropages_formosus']
+optimal p:  [0.08628711 0.91371289]
+optimal x:  [1.         0.97574634]
+optimal y:  0.21899447016250584
+Optimization Runtime:  0.5026087760925293

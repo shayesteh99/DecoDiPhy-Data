@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [26 16]
+opt_x:  [0.99999826 0.78769705]
+opt_p:  [ 1.00000506e+00 -5.03976852e-06]
+opt_y:  0.5141590836399079
+optimal anchors:  ['Locusta_migratoria', 'Tricholepidion_gertschi']
+optimal p:  [-5.03976852e-06  1.00000506e+00]
+optimal x:  [0.78769705 0.99999826]
+optimal y:  0.5141590836399079
+Optimization Runtime:  0.09366416931152344

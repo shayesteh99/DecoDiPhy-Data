@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 54 377 378 380 474]
+opt_x:  [1.         0.99999813 0.06334815 1.         0.99999932]
+opt_p:  [3.79938105e-01 3.30386253e-01 8.38033431e-07 5.40875467e-03
+ 2.84266063e-01]
+opt_y:  0.13748508583731267
+optimal anchors:  ['I20', 'I30', 'I199', 'Teleost_Euteleost_Beryciformes_Stephanoberycidae_Acanthochaenus_luetkenii', 'Teleost_Euteleost_Salmoniformes_Salmonidae_Thymallus_thymallus']
+optimal p:  [3.92259419e-01 3.09111481e-01 2.23011667e-06 2.07132666e-06
+ 2.98624797e-01]
+optimal x:  [0.42918362 0.14849882 0.49396773 0.53013717 1.        ]
+optimal y:  0.14308717704152318
+Optimization Runtime:  2.739665985107422

@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 29  40  44  81 179]
+opt_x:  [3.17465470e-01 8.27056868e-01 8.10514595e-01 1.30706473e-19
+ 1.00000000e+00]
+opt_p:  [0.17862505 0.24068353 0.1479758  0.21039361 0.22232201]
+opt_y:  0.03233144149123607
+optimal anchors:  ['I17', 'I24', 'Diodontidae_Chilomycterus_spinosus_USNMAD9NF85', 'I48', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Balistidae_Pseudobalistes_fuscus']
+optimal p:  [0.1769966  0.24449081 0.1479758  0.20861598 0.22192081]
+optimal x:  [0.29331933 0.83638858 0.8105146  0.68028345 1.        ]
+optimal y:  0.03159663630242376
+Optimization Runtime:  0.561187744140625

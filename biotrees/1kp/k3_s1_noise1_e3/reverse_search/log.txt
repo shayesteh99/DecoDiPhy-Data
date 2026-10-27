@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 41 149 197]
+opt_x:  [0.48749168 1.         1.        ]
+opt_p:  [0.55532406 0.2777103  0.16696564]
+opt_y:  0.1770237149906304
+optimal anchors:  ['I27', 'I79', 'Mesostigma_viride']
+optimal p:  [0.55532406 0.2777103  0.16696564]
+optimal x:  [0.48749168 1.         1.        ]
+optimal y:  0.1770237149906304
+Optimization Runtime:  0.32320380210876465

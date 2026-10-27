@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [461 120 185 318 183]
+opt_x:  [1. 1. 1. 1. 1.]
+opt_p:  [0.01199026 0.1203752  0.37712596 0.13500581 0.35550277]
+opt_y:  0.09532477048138485
+optimal anchors:  ['Galeopterus_variegatus', 'Xerus_inauris', 'Glis_glis', 'Eubalaena_japonica', 'Tapirus_indicus']
+optimal p:  [0.1203752  0.35550277 0.37712596 0.13500581 0.01199026]
+optimal x:  [1. 1. 1. 1. 1.]
+optimal y:  0.09532477048138485
+Optimization Runtime:  0.5275423526763916

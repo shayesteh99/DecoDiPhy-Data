@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 63  64 134]
+opt_x:  [1. 1. 1.]
+opt_p:  [0.44541127 0.44426545 0.11032328]
+opt_y:  0.040338220229810214
+optimal anchors:  ['Corythaixoides_concolor', 'Tauraco_erythrolophus', 'I70']
+optimal p:  [0.44541127 0.44426545 0.11032328]
+optimal x:  [1. 1. 1.]
+optimal y:  0.040338220229810214
+Optimization Runtime:  2.8053855895996094

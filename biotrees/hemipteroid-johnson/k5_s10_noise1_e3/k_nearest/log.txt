@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [258 257 256 259 253]
+opt_x:  [0.49157429 0.52882029 0.52617493 1.         0.2226636 ]
+opt_p:  [-1.08497879e-21 -2.07441150e-21 -6.77656968e-22  1.00000000e+00
+ -4.29047493e-22]
+opt_y:  0.18275462179820348
+optimal anchors:  ['Columbicola_columbae', 'Embidopsocus_sp', 'Liposcelis_bostrychophila', 'Badonnelia_titei', 'Stimulopalpus_japonicus']
+optimal p:  [-4.29047493e-22 -6.77656968e-22 -2.07441150e-21 -1.08497879e-21
+  1.00000000e+00]
+optimal x:  [0.2226636  0.52617493 0.52882029 0.49157429 1.        ]
+optimal y:  0.18275462179820348
+Optimization Runtime:  0.20943379402160645

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 87  96 121]
+opt_x:  [1.10312590e-20 1.28549805e-21 1.00000000e+00]
+opt_p:  [0.18984384 0.6685949  0.14156126]
+opt_y:  0.03416447278104369
+optimal anchors:  ['Ohunteri__LakeChala__G1-K2G2', 'I53', 'Oshiranus__Lituhu__T8H7']
+optimal p:  [0.26086355 0.63390647 0.10522999]
+optimal x:  [0.77800704 0.48331006 0.99999843]
+optimal y:  0.03316347198978591
+Optimization Runtime:  0.44430112838745117

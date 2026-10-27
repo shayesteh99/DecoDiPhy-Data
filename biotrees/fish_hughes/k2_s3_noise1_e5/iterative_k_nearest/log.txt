@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [380 596]
+opt_x:  [1. 1.]
+opt_p:  [0.51225886 0.48774114]
+opt_y:  0.27393160308598347
+optimal anchors:  ['Teleost_Euteleost_Beryciformes_Rondeletiidae_Rondeletia_loricata', 'Amiiformes_Amiidae_Amia_calva_gill']
+optimal p:  [0.51225886 0.48774114]
+optimal x:  [1. 1.]
+optimal y:  0.27393160308598347
+Optimization Runtime:  0.5481421947479248

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [70 72 73]
+opt_x:  [1.         0.50465233 0.49834856]
+opt_p:  [1.00000000e+00 5.02529999e-22 1.63533860e-21]
+opt_y:  0.013668880412240557
+optimal anchors:  ['Pygathrix_nemaeus', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti']
+optimal p:  [1.00000000e+00 5.02529999e-22 1.63533860e-21]
+optimal x:  [1.         0.50465233 0.49834856]
+optimal y:  0.013668880412240557
+Optimization Runtime:  0.32961344718933105

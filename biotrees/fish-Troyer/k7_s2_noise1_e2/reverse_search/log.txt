@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 40  83  84  85  86 125 144]
+opt_x:  [1.00000000e+00 2.20695220e-04 9.17711363e-04 2.78449084e-04
+ 4.60195011e-04 5.30513237e-06 1.00000000e+00]
+opt_p:  [0.52785275 0.03629637 0.00715467 0.01848233 0.02133663 0.02509399
+ 0.36378324]
+opt_y:  0.057147805830619944
+optimal anchors:  ['I23', 'Tetraodontidae_Arothron_reticularis_EPLATE_51_C07', 'I49', 'Tetraodontidae_Arothron_meleagris_USNMAG5NP43', 'Tetraodontidae_Arothron_nigropunctatus_EPLATE_53_E05', 'Tetraodontidae_Takifugu_niphobles_EPLATE_67_F07', 'Triacanthodidae_Triacanthodes_sp1_EPLATE_53_C04']
+optimal p:  [ 8.54747617e-01  5.30875151e-02  5.26629110e-02 -5.47938515e-23
+  1.79242910e-22  3.95019571e-02 -3.51059330e-22]
+optimal x:  [8.56820379e-01 1.00000000e+00 1.00000000e+00 5.05705038e-01
+ 5.04262492e-01 3.75493062e-23 4.90628641e-01]
+optimal y:  0.06185975230208557
+Optimization Runtime:  0.8832976818084717

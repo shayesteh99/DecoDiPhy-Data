@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [152 119 104]
+opt_x:  [1.         0.63172074 1.        ]
+opt_p:  [ 5.62711214e-01 -6.19399529e-24  4.37288786e-01]
+opt_y:  0.013730423245559812
+optimal anchors:  ['Oplacidus__Mozambique__AC13-A128', 'Oshiranuschilwae__MalawiBUaquarium__OR1A2', 'Ourolepis__LakeLugongwe__T2J5']
+optimal p:  [ 4.37288786e-01 -6.19399529e-24  5.62711214e-01]
+optimal x:  [1.         0.63172074 1.        ]
+optimal y:  0.013730423245559812
+Optimization Runtime:  0.1971268653869629

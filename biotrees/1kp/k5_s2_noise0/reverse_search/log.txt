@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 2 17 57 80 81]
+opt_x:  [8.15015468e-01 6.28866650e-22 8.90627418e-23 3.56481146e-01
+ 1.00000000e+00]
+opt_p:  [0.22505412 0.23510387 0.24706529 0.18685886 0.10591786]
+opt_y:  0.1389342095854811
+optimal anchors:  ['Entransia_fimbriata', 'Colchicum_autumnale', 'Carica_papaya', 'I54', 'I55']
+optimal p:  [0.22510016 0.23269754 0.24806402 0.18839633 0.10574195]
+optimal x:  [0.81514446 0.80229367 0.8731284  0.37086653 1.        ]
+optimal y:  0.13183281469298502
+Optimization Runtime:  0.6531012058258057

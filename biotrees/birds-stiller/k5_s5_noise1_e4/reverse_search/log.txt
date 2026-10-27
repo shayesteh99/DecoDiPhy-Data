@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [257 261 660 661 699]
+opt_x:  [1.         0.42346102 1.         1.         1.        ]
+opt_p:  [5.13511569e-01 6.92526033e-23 1.62657411e-01 1.64107120e-01
+ 1.59723901e-01]
+opt_y:  0.039334839778005205
+optimal anchors:  ['Sagittarius_serpentarius', 'Circaetus_pectoralis', 'Cardinalis_cardinalis', 'Pheucticus_melanocephalus', 'Nothoprocta_perdicaria']
+optimal p:  [5.13511569e-01 6.92526033e-23 1.62657411e-01 1.64107120e-01
+ 1.59723901e-01]
+optimal x:  [1.         0.42346102 1.         1.         1.        ]
+optimal y:  0.039334839778005205
+Optimization Runtime:  4.610771894454956

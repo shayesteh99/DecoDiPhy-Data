@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [145 304]
+opt_x:  [1. 1.]
+opt_p:  [0.06125736 0.93874264]
+opt_y:  0.09328264156048383
+optimal anchors:  ['I63', 'Corydalus_cornutus']
+optimal p:  [0.53274019 0.46725981]
+optimal x:  [0.40083786 1.        ]
+optimal y:  0.15868826129813973
+Optimization Runtime:  0.25754666328430176

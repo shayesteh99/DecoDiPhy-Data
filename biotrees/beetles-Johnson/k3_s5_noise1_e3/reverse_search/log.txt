@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 62 158 184]
+opt_x:  [0.98004944 1.         1.        ]
+opt_p:  [0.64450764 0.20639405 0.1490983 ]
+opt_y:  0.04841899728989612
+optimal anchors:  ['I37', 'I85', 'Euwallacea_spPSHB_SRX698946']
+optimal p:  [0.64450764 0.20639405 0.1490983 ]
+optimal x:  [0.98004944 1.         1.        ]
+optimal y:  0.04841899728989612
+Optimization Runtime:  0.5756974220275879

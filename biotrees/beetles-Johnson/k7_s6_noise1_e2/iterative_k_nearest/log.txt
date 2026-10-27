@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [198 211 192 188  81 203 149]
+opt_x:  [6.23244473e-01 4.62317050e-01 4.91225666e-01 4.95014200e-01
+ 1.00000000e+00 1.26541769e-20 1.00000000e+00]
+opt_p:  [ 3.30541638e-01 -1.12506612e-21 -1.20370903e-21 -1.56461921e-21
+  3.31762485e-01  1.30456872e-01  2.07239005e-01]
+opt_y:  0.030244597478897635
+optimal anchors:  ['I34', 'Ernoporicus_sp1928_large_I10219', 'Coccotrypes_sp2035_Cangar_I13659', 'Ips_pini_EST', 'Chramesus_chapuisii_I13688', 'Chaetophloeus_insularis_I13671', 'Hylesinus_sp_I02536']
+optimal p:  [0.20570974 0.13794522 0.0861286  0.03442624 0.33486208 0.17498204
+ 0.02594609]
+optimal x:  [0.43710443 1.         1.         1.         0.98509392 0.89486243
+ 1.        ]
+optimal y:  0.06564487989311378
+Optimization Runtime:  0.23159146308898926

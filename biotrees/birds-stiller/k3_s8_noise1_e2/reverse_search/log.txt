@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [229 355 377]
+opt_x:  [0.65872692 1.         0.89645696]
+opt_p:  [0.36170947 0.44089793 0.1973926 ]
+opt_y:  0.052327310644848364
+optimal anchors:  ['I116', 'I174', 'Oxyruncus_cristatus']
+optimal p:  [0.35925326 0.26567115 0.37507559]
+optimal x:  [0.64628703 0.83710582 0.98643441]
+optimal y:  0.052327310644847955
+Optimization Runtime:  3.132951259613037

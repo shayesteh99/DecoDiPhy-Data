@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [150 152]
+opt_x:  [0.99999918 0.48894871]
+opt_p:  [9.99999340e-01 6.59757909e-07]
+opt_y:  0.012011048731282793
+optimal anchors:  ['I82', 'Rhynchostegium_serrulatum']
+optimal p:  [9.99999691e-01 3.09591562e-07]
+optimal x:  [0.4594716  0.44936256]
+optimal y:  0.03136353966398088
+Optimization Runtime:  0.10402512550354004

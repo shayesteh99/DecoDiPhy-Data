@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [139  51  94  72 169]
+opt_x:  [0.99999992 0.99999991 0.40295425 0.99999924 0.99999995]
+opt_p:  [ 1.51663240e-01  1.30876302e-01 -1.45866254e-06  1.42561104e-01
+  5.74900813e-01]
+opt_y:  0.15004802800919037
+optimal anchors:  ['I23', 'Arilus_cristatus', 'Gelastocoris_oculatus', 'Mapuchea_sp', 'Peloridium_hammoniorum']
+optimal p:  [0.23371518 0.13778199 0.10461025 0.25042317 0.27346942]
+optimal x:  [0.82246056 1.         1.         1.         1.        ]
+optimal y:  0.14883952323932104
+Optimization Runtime:  0.37569141387939453

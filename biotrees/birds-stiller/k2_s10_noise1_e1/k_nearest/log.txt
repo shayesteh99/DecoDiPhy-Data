@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [584 585]
+opt_x:  [1. 1.]
+opt_p:  [0.50121005 0.49878995]
+opt_y:  0.014897614799857054
+optimal anchors:  ['Sturnus_vulgaris', 'Leucopsar_rothschildi']
+optimal p:  [0.50121005 0.49878995]
+optimal x:  [1. 1.]
+optimal y:  0.014897614799857054
+Optimization Runtime:  0.789686918258667

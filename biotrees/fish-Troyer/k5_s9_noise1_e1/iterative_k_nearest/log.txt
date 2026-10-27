@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [142 167 135 180 137]
+opt_x:  [1.         0.48937471 1.         0.52666639 0.50904188]
+opt_p:  [ 4.86453424e-01  1.45886879e-22  5.13546576e-01 -8.47653123e-22
+ -8.45062119e-22]
+opt_y:  0.03241007647589714
+optimal anchors:  ['I71', 'Lophiidae_Lophiodes_spilurus_USNMAG7PF91', 'Triacanthodidae_Hollardia_hollardia_Vims40109', 'Balistidae_Melichthys_vidua_STRIBFT11786', 'Balistidae_Canthidermis_sufflamen_USNMAC7BZ85']
+optimal p:  [ 7.64814686e-01  1.85615742e-22 -7.44208966e-22 -9.42908705e-21
+  2.35185314e-01]
+optimal x:  [0.82103356 0.50332829 0.50875695 0.49778703 0.06181232]
+optimal y:  0.08008510424526898
+Optimization Runtime:  0.2384343147277832

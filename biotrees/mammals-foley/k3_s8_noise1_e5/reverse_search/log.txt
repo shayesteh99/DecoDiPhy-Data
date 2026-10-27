@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [118 186 223]
+opt_x:  [1.         0.52300981 1.        ]
+opt_p:  [0.59660031 0.07813525 0.32526444]
+opt_y:  0.1405264717822868
+optimal anchors:  ['I19', 'Ictidomys_tridecemlineatus', 'I100']
+optimal p:  [0.62724103 0.09384113 0.27891784]
+optimal x:  [0.45760328 1.         0.8446249 ]
+optimal y:  0.13880013142827893
+Optimization Runtime:  0.9989869594573975

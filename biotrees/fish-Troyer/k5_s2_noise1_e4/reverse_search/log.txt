@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 30  41  52  87 182]
+opt_x:  [1.         1.         0.50674421 1.         1.        ]
+opt_p:  [2.18471870e-01 2.17215846e-01 1.79220013e-22 2.68717006e-01
+ 2.95595277e-01]
+opt_y:  0.030245223792642162
+optimal anchors:  ['Ostraciidae_Acanthostracion_quadricornis_UPRFL0075', 'I24', 'Diodontidae_Tragulichthys_jaculiferus_EPLATE_52_G11', 'Tetraodontidae_Chelonodon_patoca_EPLATE_51_A11', 'Balistidae_Balistes_vetula_UPRFL0353']
+optimal p:  [0.08075411 0.48165482 0.00210298 0.17857209 0.256916  ]
+optimal x:  [0.95348835 0.92085517 1.         1.         1.        ]
+optimal y:  0.0529471599390123
+Optimization Runtime:  0.6375179290771484

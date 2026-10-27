@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [58 91]
+opt_x:  [0.84010067 0.22566615]
+opt_p:  [0.46149149 0.53850851]
+opt_y:  0.25836611151962363
+optimal anchors:  ['Eucyclops_serrulatus', 'I48']
+optimal p:  [0.46149149 0.53850851]
+optimal x:  [0.84010067 0.22566615]
+optimal y:  0.25836611151962363
+Optimization Runtime:  277.15018224716187

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [34 35]
+opt_x:  [1. 1.]
+opt_p:  [0.49986901 0.50013099]
+opt_y:  0.004554068897517777
+optimal anchors:  ['Pachynomia_tshibindica', 'Pachynomia_flavicarpa']
+optimal p:  [0.49986901 0.50013099]
+optimal x:  [1. 1.]
+optimal y:  0.004554068897517777
+Optimization Runtime:  0.05671262741088867

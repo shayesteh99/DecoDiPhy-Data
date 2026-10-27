@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 44 119 240]
+opt_x:  [0.81187435 0.65510301 0.89418151]
+opt_p:  [0.40511771 0.20261873 0.39226355]
+opt_y:  0.08872223408759118
+optimal anchors:  ['I27', 'I64', 'Carphoborus_bifurcus_I13691']
+optimal p:  [0.40511771 0.20261873 0.39226355]
+optimal x:  [0.81187435 0.65510301 0.89418151]
+optimal y:  0.08872223408759118
+Optimization Runtime:  33831.99035310745

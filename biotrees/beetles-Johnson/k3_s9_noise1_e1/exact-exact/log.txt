@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 97 104 157]
+opt_x:  [0.77318506 0.83898081 0.89680057]
+opt_p:  [0.28549772 0.43121659 0.2832857 ]
+opt_y:  0.043147702776696814
+optimal anchors:  ['Stegomerus_vulgaris_I13647', 'Cryptocarenus_seriatus_I10214', 'Ernoporus_tiliae_I10221']
+optimal p:  [0.28549772 0.43121659 0.2832857 ]
+optimal x:  [0.77318506 0.83898081 0.89680057]
+optimal y:  0.043147702776696814
+Optimization Runtime:  33766.13450598717

@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [147 146 148 136 135]
+opt_x:  [0.82417073 1.         1.         1.         0.52375763]
+opt_p:  [ 6.85569520e-07  5.76303001e-07  9.80025645e-01  1.99742884e-02
+ -1.21325922e-06]
+opt_y:  0.03394749069545736
+optimal anchors:  ['Scolytogenes_sp2020_nr_cicatricosus_I14145', 'Ernoporicus_spessivtzevi_I10220', 'Ptilopodius_sp2027_Cangar_I13666', 'Ernoporicus_sp1928_large_I10219', 'Ernoporicus_sp1929_small_I13664']
+optimal p:  [ 1.83906047e-06  1.99733322e-02 -4.67085149e-06 -4.02395879e-06
+  9.80033522e-01]
+optimal x:  [0.3868691  0.99991719 0.2319009  0.38200802 1.        ]
+optimal y:  0.033947803265221094
+Optimization Runtime:  0.162855863571167

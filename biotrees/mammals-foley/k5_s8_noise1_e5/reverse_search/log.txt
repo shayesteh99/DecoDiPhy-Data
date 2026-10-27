@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [ 98 114 182 183 219]
+opt_x:  [1.00000000e+00 1.00000000e+00 1.60170968e-19 5.04737194e-19
+ 1.00000000e+00]
+opt_p:  [0.1677895  0.5639949  0.03936338 0.00810675 0.22074547]
+opt_y:  0.13298807385098194
+optimal anchors:  ['I20', 'Nycticebus_coucang', 'Ictidomys_tridecemlineatus', 'Marmota_marmota', 'I100']
+optimal p:  [7.30224462e-01 1.28054793e-22 3.40341770e-02 3.33738453e-02
+ 2.02367516e-01]
+optimal x:  [0.25483251 1.         1.         1.         0.8200441 ]
+optimal y:  0.13093651116362123
+Optimization Runtime:  1.3099699020385742

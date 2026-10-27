@@ -1,0 +1,11 @@
+created matrices
+opt_anchors:  [ 29  67  68  80 119]
+opt_x:  [1.00000000e+00 4.57612891e-17 4.39675587e-17 2.04808592e-19
+ 1.00000000e+00]
+opt_p:  [0.51214757 0.04457537 0.04657697 0.03096245 0.36573764]
+opt_y:  0.052956345872273665
+optimal anchors:  ['I17', 'I32', 'Tetraodontidae_Canthigaster_punctatissima_UPRFL0354', 'Tetraodontidae_Canthigaster_rostrata_UPRFL0412', 'Tetraodontidae_Canthigaster_valentini_USNMAG5NP15']
+optimal p:  [0.07787622 0.71772075 0.0556994  0.05570395 0.0929997 ]
+optimal x:  [1.         0.94494823 0.46648577 0.46636596 0.89859988]
+optimal y:  0.06861698881556436
+Optimization Runtime:  0.2965686321258545

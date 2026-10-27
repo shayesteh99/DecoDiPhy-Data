@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 44 102 166 236 237]
+opt_x:  [1.         1.         0.92714174 1.         1.        ]
+opt_p:  [0.26461491 0.128282   0.28654684 0.16000864 0.16054761]
+opt_y:  0.06528966927477348
+optimal anchors:  ['I9', 'I56', 'I91', 'Carphoborus_bifurcus_I13691', 'Crypturgus_alutaceus_I13689']
+optimal p:  [0.27518518 0.14988594 0.2852772  0.14452618 0.1451255 ]
+optimal x:  [0.58221363 0.73957388 0.84364788 1.         1.        ]
+optimal y:  0.06811443473886652
+Optimization Runtime:  0.38419079780578613

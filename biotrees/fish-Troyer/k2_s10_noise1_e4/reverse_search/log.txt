@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [245 273]
+opt_x:  [1.         0.49067357]
+opt_p:  [ 1.0000000e+00 -1.9490623e-22]
+opt_y:  0.034326177858477684
+optimal anchors:  ['I124', 'Monacanthidae_Eubalichthys_quadrispinis_EPLATE_53_G02']
+optimal p:  [ 1.0000000e+00 -1.9490623e-22]
+optimal x:  [1.         0.49067357]
+optimal y:  0.034326177858477684
+Optimization Runtime:  0.5294632911682129

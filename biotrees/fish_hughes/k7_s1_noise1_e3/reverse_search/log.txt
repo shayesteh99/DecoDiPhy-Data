@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 16  83 128 280 379 547 575]
+opt_x:  [0.99651576 1.         0.45615977 1.         1.         1.
+ 1.        ]
+opt_p:  [0.14052085 0.10196613 0.38485105 0.06718757 0.07407116 0.15978441
+ 0.07161885]
+opt_y:  0.17445727912978376
+optimal anchors:  ['Teleost_Euteleost_Galaxiiformes_Galaxiidae_Galaxias_maculatus', 'I55', 'I76', 'I154', 'Teleost_Euteleost_Trachichthyformes_Monocentridae_Monocentris_japonica', 'I252', 'I298']
+optimal p:  [0.18391617 0.10101447 0.39604226 0.06030579 0.05528    0.10569117
+ 0.09775015]
+optimal x:  [1.         1.         0.50778441 0.64359656 1.         0.31856712
+ 1.        ]
+optimal y:  0.16790117823550765
+Optimization Runtime:  157.81017994880676

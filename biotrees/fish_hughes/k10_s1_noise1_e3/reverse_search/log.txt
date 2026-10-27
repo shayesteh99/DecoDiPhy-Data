@@ -1,0 +1,16 @@
+created matrices
+opt_anchors:  [ 16 130 277 501 502 503 563 567 568 572]
+opt_x:  [1.         1.         1.         1.         0.39753151 0.3964568
+ 1.         0.65112798 0.41552511 1.        ]
+opt_p:  [ 3.21357626e-01  2.08556252e-01  1.76784901e-01  1.44495216e-01
+  6.47672692e-23  7.64482391e-23  1.70669269e-02 -6.25932242e-23
+  4.32196357e-23  1.31739078e-01]
+opt_y:  0.17438138256451444
+optimal anchors:  ['I14', 'Teleost_Euteleost_Carangaria_Centropomidae_Lates_calcarifer', 'Teleost_Euteleost_Eupercaria_Perciformes_Scorpaenidae_Dendrochirus_zebra', 'I265', 'Teleost_Otophysa_Characiformes_Characidae_Hemigrammus_bleheri', 'Teleost_Otophysa_Characiformes_Characidae_Astyanax_mexicanus', 'Teleost_Elopiformes_Elopiformes_Megalopidae_Megalops_cyprinoides', 'Teleost_Osteoglossiformes_Osteoglossiformes_Mormyridae_Mormyrus_tapirus', 'Teleost_Osteoglossiformes_Osteoglossiformes_Morymridae_Gnathonemus_petersii', 'Teleost_Osteoglossiformes_Osteoglossiformes_Pantodontidae_Pantodon_buchholzi']
+optimal p:  [ 3.11874131e-01  1.95140192e-01  1.77451465e-01  1.51354143e-01
+  8.17503145e-23  2.20404390e-22  2.28448136e-02 -3.78876239e-23
+  4.80832379e-23  1.41335255e-01]
+optimal x:  [0.5305336  1.         1.         1.         0.1452685  0.38976351
+ 1.         0.88595003 0.18124257 1.        ]
+optimal y:  0.1715957796603799
+Optimization Runtime:  1.9871318340301514

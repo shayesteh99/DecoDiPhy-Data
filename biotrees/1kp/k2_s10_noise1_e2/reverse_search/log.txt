@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [150 158]
+opt_x:  [1. 1.]
+opt_p:  [0.71795231 0.28204769]
+opt_y:  0.06380628847685758
+optimal anchors:  ['I82', 'Sphagnum_lescurii']
+optimal p:  [0.73296809 0.26703191]
+optimal x:  [0.34961744 1.        ]
+optimal y:  0.06665026300257575
+Optimization Runtime:  1.705552101135254

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [468 186 311]
+opt_x:  [0.51531846 1.         1.        ]
+opt_p:  [7.78389830e-22 7.14133624e-01 2.85866376e-01]
+opt_y:  0.03820309708077995
+optimal anchors:  ['Marmota_marmota', 'I157', 'Dicerorhinus_sumatrensis']
+optimal p:  [0.44015541 0.33754301 0.22230159]
+optimal x:  [1.         0.78515255 1.        ]
+optimal y:  0.08375280291597136
+Optimization Runtime:  0.3673412799835205

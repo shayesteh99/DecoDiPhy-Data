@@ -1,0 +1,12 @@
+created matrices
+opt_anchors:  [215 202 221 207 231]
+opt_x:  [1.         1.         0.56390428 1.         1.        ]
+opt_p:  [ 8.63776400e-03  8.81933144e-02 -2.60090969e-18  7.74397972e-01
+  1.28770950e-01]
+opt_y:  0.0882037441070298
+optimal anchors:  ['Chramesus_chapuisii_I13688', 'Chaetophloeus_insularis_I13671', 'Hylesinus_sp_I02536', 'Hylocurus_flaglerensis_H04562', 'Sueus_niisimai_I14148']
+optimal p:  [ 8.81933144e-02  7.74397972e-01  8.63776400e-03 -2.60090969e-18
+  1.28770950e-01]
+optimal x:  [1.         1.         1.         0.56390428 1.        ]
+optimal y:  0.0882037441070298
+Optimization Runtime:  0.22546815872192383

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [253 259 371 261 616  26 681]
+opt_x:  [0.56146159 0.92761164 0.58230631 0.50744178 1.         0.48372789
+ 1.        ]
+opt_p:  [2.86560429e-22 7.86542889e-23 4.83268103e-22 4.84301375e-22
+ 5.01663885e-01 8.08444706e-22 4.98336115e-01]
+opt_y:  0.0285052289938338
+optimal anchors:  ['Anseranas_semipalmata', 'Cathartes_aura', 'Circaetus_pectoralis', 'Aquila_chrysaetos', 'Manacus_manacus', 'Ploceus_nigricollis', 'Casuarius_casuarius']
+optimal p:  [8.08444706e-22 2.86560429e-22 7.86542889e-23 4.84301375e-22
+ 4.83268103e-22 5.01663885e-01 4.98336115e-01]
+optimal x:  [0.48372789 0.56146159 0.92761164 0.50744178 0.58230631 1.
+ 1.        ]
+optimal y:  0.0285052289938338
+Optimization Runtime:  0.9079751968383789

@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 11  14  20  23  26  57 185]
+opt_x:  [1.         0.90893587 1.         1.         1.         1.
+ 1.        ]
+opt_p:  [0.10318732 0.10708156 0.04088721 0.0326765  0.02186917 0.29804495
+ 0.39625329]
+opt_y:  0.43227593173870427
+optimal anchors:  ['Acerentomon_sp.', 'Meinertellus_cundinamarcensis', 'Acyrthosiphon_pisum', 'I15', 'Drosophila_melanogaster', 'I34', 'Enoplometopus_cf_daumi']
+optimal p:  [0.12939987 0.15602414 0.02456901 0.03644692 0.01541982 0.24553882
+ 0.39260142]
+optimal x:  [1.00000000e+00 9.79795043e-01 9.32439563e-01 5.37436233e-01
+ 9.83010396e-01 2.03798504e-20 1.00000000e+00]
+optimal y:  0.43374475529919343
+Optimization Runtime:  0.3062746524810791

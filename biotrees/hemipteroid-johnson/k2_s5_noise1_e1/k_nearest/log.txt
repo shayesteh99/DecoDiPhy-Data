@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [135 140]
+opt_x:  [1.         0.57648272]
+opt_p:  [ 1.00000012e+00 -1.21917931e-07]
+opt_y:  0.06964260819762438
+optimal anchors:  ['Centrotus_cornutus', 'Holdgatiella_chepuensis']
+optimal p:  [ 1.00000012e+00 -1.21917931e-07]
+optimal x:  [1.         0.57648272]
+optimal y:  0.06964260819762438
+Optimization Runtime:  0.21353530883789062

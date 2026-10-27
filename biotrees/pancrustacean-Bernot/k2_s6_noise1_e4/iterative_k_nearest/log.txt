@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [201 180]
+opt_x:  [1.         0.49009401]
+opt_p:  [ 1.00000000e+00 -7.28571432e-21]
+opt_y:  0.2316669717710869
+optimal anchors:  ['Penaeus_penicilliatus', 'Cherax_destructor']
+optimal p:  [-7.28571432e-21  1.00000000e+00]
+optimal x:  [0.49009401 1.        ]
+optimal y:  0.2316669717710869
+Optimization Runtime:  0.1102290153503418

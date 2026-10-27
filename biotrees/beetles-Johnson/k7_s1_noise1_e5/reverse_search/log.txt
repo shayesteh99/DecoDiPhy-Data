@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 10  70 147 148 198 208 211]
+opt_x:  [1.         0.69667354 1.         1.         1.         1.
+ 1.        ]
+opt_p:  [0.26751634 0.20741327 0.06931598 0.06964367 0.07410185 0.15618371
+ 0.15582517]
+opt_y:  0.06129913475592362
+optimal anchors:  ['I10', 'I43', 'Ptilopodius_sp2026_PNG2_I13653', 'Ernoporicus_fagi_I10218', 'Phloeotribus_liminaris_H04561', 'I113', 'Hylesinus_sp_I02536']
+optimal p:  [0.35559066 0.18464551 0.06556433 0.06602384 0.06401412 0.13220433
+ 0.13195721]
+optimal x:  [0.73672747 0.44680782 1.         1.         1.         1.
+ 1.        ]
+optimal y:  0.0663419037985752
+Optimization Runtime:  0.3685629367828369

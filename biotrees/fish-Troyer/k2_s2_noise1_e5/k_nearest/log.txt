@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [10 35]
+opt_x:  [0.50327518 0.49791159]
+opt_p:  [9.99997780e-01 2.24448255e-06]
+opt_y:  0.04089065730475313
+optimal anchors:  ['Aracanidae_Anoplocapros_amygdaloides_EPLATE_53_C05', 'Ostraciidae_Lactophrys_triqueter_UPRFL0225']
+optimal p:  [9.99997780e-01 2.24448255e-06]
+optimal x:  [0.50327518 0.49791159]
+optimal y:  0.04089065730475313
+Optimization Runtime:  0.1201944351196289

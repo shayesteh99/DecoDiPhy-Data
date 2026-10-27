@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 23  44  64  65 106 107 118 174 175 211]
+opt_x:  [0.7877526  1.         1.         0.53044414 1.         1.
+ 0.22523083 0.25889458 0.53960043 1.        ]
+opt_p:  [0.07917927 0.07426052 0.14906128 0.05003962 0.09058197 0.09009733
+ 0.0483525  0.07455801 0.06141393 0.28245558]
+opt_y:  0.06927788687272984
+optimal anchors:  ['Elephantulus_edwardii', 'Pongo_abelii', 'I37', 'Rhinopithecus_roxellana', 'I60', 'Eulemur_fulvus', 'Dipodomys_stephensi', 'Ictidomys_tridecemlineatus', 'Marmota_marmota', 'I100']
+optimal p:  [0.08480464 0.07383562 0.09266384 0.10737116 0.11771085 0.07320617
+ 0.06539539 0.07600507 0.07517051 0.23383675]
+optimal x:  [0.82478815 1.         0.77324992 0.78116628 0.99507505 0.61881532
+ 0.87797403 1.         1.         0.82576598]
+optimal y:  0.06760370172269818
+Optimization Runtime:  5.9188761711120605

@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [38 49]
+opt_x:  [1.         0.25321547]
+opt_p:  [0.90505975 0.09494025]
+opt_y:  0.038156471736516956
+optimal anchors:  ['I2', 'Acunomia_melanderi']
+optimal p:  [0.62210056 0.37789944]
+optimal x:  [0.52056718 1.        ]
+optimal y:  0.036262167690611906
+Optimization Runtime:  0.39849162101745605

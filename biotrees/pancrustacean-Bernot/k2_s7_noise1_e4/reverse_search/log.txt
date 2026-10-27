@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [35 36]
+opt_x:  [1.00000000e+00 4.49735781e-21]
+opt_p:  [0.79073951 0.20926049]
+opt_y:  0.445530570613086
+optimal anchors:  ['Lasionectes_entrichoma', 'I22']
+optimal p:  [0.21140825 0.78859175]
+optimal x:  [3.08968142e-01 1.55756873e-23]
+optimal y:  0.4421972763375935
+Optimization Runtime:  0.23056316375732422

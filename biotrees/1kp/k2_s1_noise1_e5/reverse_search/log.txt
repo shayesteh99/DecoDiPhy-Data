@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [ 64 154]
+opt_x:  [1. 1.]
+opt_p:  [0.39073885 0.60926115]
+opt_y:  0.09972050733341724
+optimal anchors:  ['Vitis_vinifera', 'Hedwigia_ciliata']
+optimal p:  [0.39073885 0.60926115]
+optimal x:  [1. 1.]
+optimal y:  0.09972050733341724
+Optimization Runtime:  0.30272436141967773

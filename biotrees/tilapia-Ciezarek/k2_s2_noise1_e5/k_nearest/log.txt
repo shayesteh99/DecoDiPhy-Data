@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [16 14]
+opt_x:  [0.49521201 1.        ]
+opt_p:  [-4.31865987e-23  1.00000000e+00]
+opt_y:  0.0083098880081143
+optimal anchors:  ['I9', 'Oleucostictus__Malimbe__V46']
+optimal p:  [0.8835226  0.11647739]
+optimal x:  [0.97481463 0.62940678]
+optimal y:  0.04686472666271253
+Optimization Runtime:  0.09100770950317383

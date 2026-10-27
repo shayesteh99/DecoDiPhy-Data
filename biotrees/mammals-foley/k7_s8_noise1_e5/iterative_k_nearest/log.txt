@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 98  46 460 112 182 105 172]
+opt_x:  [0.8355519  0.50644493 1.         1.         1.         0.62121806
+ 1.        ]
+opt_p:  [-6.49382898e-23 -4.29706295e-22  9.48285659e-03  4.58385846e-01
+  2.93353063e-01 -2.04649114e-22  2.38778234e-01]
+opt_y:  0.08722896763885221
+optimal anchors:  ['Nomascus_leucogenys', 'Daubentonia_madagascariensis', 'Cheirogaleus_medius', 'Galeopterus_variegatus', 'Glis_glis', 'Xerus_inauris', 'Dicerorhinus_sumatrensis']
+optimal p:  [-4.29706295e-22 -6.49382898e-23 -2.04649114e-22  4.58385846e-01
+  2.38778234e-01  2.93353063e-01  9.48285659e-03]
+optimal x:  [0.50644493 0.8355519  0.62121806 1.         1.         1.
+ 1.        ]
+optimal y:  0.08722896763885221
+Optimization Runtime:  0.5201945304870605

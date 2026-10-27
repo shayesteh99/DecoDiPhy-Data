@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 18 110 111 118 119 140 141]
+opt_x:  [1.         0.92346438 1.         1.         1.         1.
+ 1.        ]
+opt_p:  [0.23570943 0.11327063 0.11111502 0.13887248 0.13942047 0.13007883
+ 0.13153315]
+opt_y:  0.0757629619718812
+optimal anchors:  ['I20', 'Psilotum_nudum', 'Angiopteris_evecta', 'I67', 'Pseudolycopodiella_caroliniana', 'I82', 'Anomodon_attenuatus']
+optimal p:  [0.23734731 0.0993107  0.08695005 0.19713703 0.12232876 0.14794722
+ 0.10897893]
+optimal x:  [1.         0.68797203 1.         0.63843381 0.64195843 0.52035831
+ 0.45734421]
+optimal y:  0.07928446532248132
+Optimization Runtime:  1.9629817008972168

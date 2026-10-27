@@ -1,0 +1,14 @@
+created matrices
+opt_anchors:  [ 20  48  74  75 155 189 262]
+opt_x:  [0.31446804 0.6964145  0.94886095 1.         0.96590708 1.
+ 0.86608633]
+opt_p:  [0.19969744 0.15109906 0.1042893  0.10169032 0.20202067 0.10791034
+ 0.13329287]
+opt_y:  0.020498555164507656
+optimal anchors:  ['I13', 'Teleost_Euteleost_Eupercaria_Tetraodontiformes_Diodontidae_Diodon_holocanthus', 'Tetraodontidae_Canthigaster_solandri_USNMAG9RM90', 'I45', 'I83', 'I104', 'Monacanthidae_Eubalichthys_quadrispinis_EPLATE_53_G02']
+optimal p:  [0.19971412 0.15110512 0.10425187 0.10173075 0.20191102 0.10804031
+ 0.1332468 ]
+optimal x:  [0.31464557 0.69648443 0.94911604 1.         0.96577762 0.09377919
+ 0.86548284]
+optimal y:  0.020583766291308227
+Optimization Runtime:  0.5328524112701416

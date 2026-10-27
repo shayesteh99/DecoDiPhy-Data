@@ -1,0 +1,10 @@
+created matrices
+opt_anchors:  [231 561]
+opt_x:  [1. 1.]
+opt_p:  [0.49358934 0.50641066]
+opt_y:  0.03974907410659441
+optimal anchors:  ['I116', 'Leptocoma_aspasia']
+optimal p:  [0.49849244 0.50150756]
+optimal x:  [0.97257261 1.        ]
+optimal y:  0.04734032308244911
+Optimization Runtime:  3.003490686416626
