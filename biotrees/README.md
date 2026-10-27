@@ -1,34 +1,56 @@
-| Tree                                       | Group  | Publication                             | n   | Comments                                                               |
-|--------------------------------------------|--------|-----------------------------------------|-----|------------------------------------------------------------------------|
-| [bees-bosseret.tre](bees-bosseret.tre)  |   bees |   <https://doi.org/10.1093/sysbio/syaa097>   |  30 |    CASTLES-pro on the ASTRAL tree from <https://doi.org/10.5061/dryad.z08kprrb6> available on <https://github.com/ytabatabaee/CASTLES-Pro-paper/tree/main/data/biological/bees>                                                      |
-| [mammals-song-castlespro.tre](mammals-song-castlespro.tre)|  mammals (Song)  |  <https://doi.org/10.1073/pnas.1211733109> |  36 |    CASTLES-Pro, available from <https://github.com/ytabatabaee/CASTLES-Pro-paper/tree/main/data/biological/mammals>                                                                    |
-| [birds-jarvis.tre](birds-jarvis.tre) | birds (Jarvis) |   <https://doi.org/10.1126/science.1253451>                                 |  48 |  The `TENT.RAxML-GAMMA` tree                                                               |
-| [tilapia-Ciezarek.tre](tilapia-Ciezarek.tre)   |   Tilapia   |   <https://doi.org/10.1093/molbev/msae116>|  91  |   `Mzeb_nc_iqtree.min4.phy.treefile` from <https://doi.org/10.5061/dryad.p2ngf1w0c>                                                                     |
-| [1kp-concat-fig2.tre](1kp-concat-fig2.tre) | plants (1kp pilot) | <https://doi.org/10.1073/pnas.1323926111> | 103 | The `FNA2AA.trim50genes50sites.no3rd.partitioned.gamma.final.tre` tree |
-| [pancrustacean-Bernot.tre](pancrustacean-Bernot.tre) | Pancrustacea |  <https://doi.org/10.1093/molbev/msad175>   |  105   | `Fig2A_Dataset2_C60LG.tre` from <https://doi.org/10.5061/dryad.dr7sqvb2h>                                                                       |
-| [beetles-Johnson.tre](beetles-Johnson.tre)|  beetles | <https://doi.org/10.1016/j.ympev.2018.05.028>                     |  127 |                                                                        |
-| [fish-Troyer.tre](fish-Troyer.tre) | fish (marine)  | <https://doi.org/10.1073/pnas.2122486119> | 152    | `SI_Dataset_S6_IQTREE_Best_partition_scheme.part.contree.tre` from   <https://datadryad.org/stash/dataset/doi:10.5061/dryad.z34tmpgfw>                                                                     |
-| [hemipteroid-johnson.tre](hemipteroid-johnson.tre) |   hemipteroid  insects   |  <https://doi.org/10.1073/pnas.1815820115>    | 193 |   `Supplementary_Archive_4_phylogenies_bootstraps/ML_tree_inference_nucleotide_12/bestTreeWithSupport.newick` from   <https://doi.org/10.5061/dryad.t4f4g85>                                                              |
-| [mammals-foley-concat-heutral-241.tre](mammals-foley-concat-heutral-241.tre) |  mammals (Foley) |  <https://doi.org/10.1126/science.abl8189> | 241 |                                                                        |
-| [fish\_hughes\_1105examl.tre](fish_hughes_1105examl.tre) | fish |    <https://doi.org/10.1073/pnas.1719358115>                                     |    305 | `1105_protein_ExaBayes.tre` from <https://datadryad.org/stash/dataset/doi:10.5061/dryad.5b85783>                                                                      |
-| [frogs-feng.tre](frogs-feng.tre)  |  frogs  |  <https://doi.org/10.1073/pnas.1704632114>                  | 309 |    `RAxML_309sp.tre` from <https://datadryad.org/stash/dataset/doi:10.5061/dryad.12546>                                                            |
-| [birds-stiller-castlepro.tre](birds-stiller-castlepro.tre)| birds (Stiller) |   <https://doi.org/10.1038/s41586-024-07323-1>| 363 |  CASTLE-Pro on the original ASTRAL tree, available from <https://github.com/ytabatabaee/CASTLES-Pro-paper/tree/main/data/biological/birds-stiller>                                                                   |
-| [turtle-thomas.tre](turtle-thomas.tre)| turtles       |    <https://doi.org/10.1073/pnas.2012215118>                                     |  593   |        `turtle.mcc.tre2` from <https://datadryad.org/stash/dataset/doi:10.5061/dryad.jh9w0vt8w>                                                                |
-| [plants-onekp-castlespro.tre](plants-onekp-castlespro.tre)| plants (1kp capstone) | <https://doi.org/10.1038/s41586-019-1693-2.> | 1178 |                                                                        |
-| [fungi-li.tre](fungi-li.tre) | fungi | <https://doi.org/10.1016/j.cub.2021.01.074>                                         |1672|   `1672taxa_290genes_bb_1.treefile` from <https://figshare.com/articles/dataset/Scripts_and_analyses_used_for_the_fungal_phylogeny/12751736>                                                                 |
-| [subosciences-harey.tre](subosciences-harey.tre) | suboscines | <https://doi.org/10.1126/science.aaz6970> | 1962 | `raw_ExaML_trees/ExaML_result.CML_HGAPFcompleteT0013.tre` from <https://zenodo.org/records/3976115>                                                                       |
-| [mammals-Upham.tre](mammals-Upham.tre) | mammals (supertree)  | <https://dx.doi.org/10.1371/journal.pbio.3000494>    |   4099|  From <https://doi.org/10.5061/dryad.nk98sf80q>                                                              |
-| [bees-Piskulich.tre](bees-Piskulich.tre) |    bees    |    <https://doi.org/10.1016/j.ympev.2023.107963>                                     | 4591 |  `BEE_mat7_fulltree.nwk`   from <ttps://doi.org/10.5061/dryad.80gb5mkw1>                                                                   |
-| [prokaryotes-wol-castlespro.tre](prokaryotes-wol-castlespro.tre) | Prokaryotes (WoL) |     <https://doi.org/10.1038/s41467-019-13443-4>  |  10575 | The CASTLE-Pro branch lengths, available from <https://github.com/ytabatabaee/CASTLES-Pro-paper/tree/main/data/biological/bacterial-wol>                                                                     
-|                                            |        |                                         |     |                                                                        |
-|                                            |        |                                         |     |                                                                        |
-|                                            |        |                                         |     |                                                                        |
-|                                            |        |                                         |     |                                                                        |
-|                                            |        |                                         |     |                                                                        |
-|                                            |        |                                         |     |                                                                        |
-|                                            |        |                                         |     |                                                                        |
-|                                            |        |                                         |     |                                                                        |
-|                                            |        |                                         |     |                                                                        |
-|                                            |        |                                         |     |                                                                        |
-|                                            |        |                                         |     |                                                                        |
-|                                            |        |                                         |     |                                                                        |
+# Biological Trees Dataset (Figure 1b and Figure S4)
+
+This dataset is simulated from 12 biological species trees, listed in the table below. For each species tree, we prune `[k]` taxa and treat them as queries with assigned abundances. DecoDiPhy takes the pruned tree and the average query distances to the remaining taxa, and estimates the query placements and abundances. We run each setting with and without noise added to the distances.
+
+| Dataset | Group | Publication | n | Comments |
+|---------|-------|-------------|---|----------|
+| [bees-bosseret](bees-bosseret/species_tree.tre) | bees | <https://doi.org/10.1093/sysbio/syaa097> | 30 | CASTLES-Pro on the ASTRAL tree from <https://doi.org/10.5061/dryad.z08kprrb6>, available at <https://github.com/ytabatabaee/CASTLES-Pro-paper/tree/main/data/biological/bees> |
+| [mammals-song](mammals-song/species_tree.tre) | mammals (Song) | <https://doi.org/10.1073/pnas.1211733109> | 36 | CASTLES-Pro, available at <https://github.com/ytabatabaee/CASTLES-Pro-paper/tree/main/data/biological/mammals> |
+| [birds-jarvis](birds-jarvis/species_tree.tre) | birds (Jarvis) | <https://doi.org/10.1126/science.1253451> | 48 | The `TENT.RAxML-GAMMA` tree |
+| [tilapia-Ciezarek](tilapia-Ciezarek/species_tree.tre) | tilapia | <https://doi.org/10.1093/molbev/msae116> | 91 | `Mzeb_nc_iqtree.min4.phy.treefile` from <https://doi.org/10.5061/dryad.p2ngf1w0c> |
+| [1kp](1kp/species_tree.tre) | plants (1kp pilot) | <https://doi.org/10.1073/pnas.1323926111> | 103 | The `FNA2AA.trim50genes50sites.no3rd.partitioned.gamma.final.tre` tree |
+| [pancrustacean-Bernot](pancrustacean-Bernot/species_tree.tre) | Pancrustacea | <https://doi.org/10.1093/molbev/msad175> | 105 | `Fig2A_Dataset2_C60LG.tre` from <https://doi.org/10.5061/dryad.dr7sqvb2h> |
+| [beetles-Johnson](beetles-Johnson/species_tree.tre) | beetles | <https://doi.org/10.1016/j.ympev.2018.05.028> | 127 | |
+| [fish-Troyer](fish-Troyer/species_tree.tre) | fish (marine) | <https://doi.org/10.1073/pnas.2122486119> | 152 | `SI_Dataset_S6_IQTREE_Best_partition_scheme.part.contree.tre` from <https://datadryad.org/stash/dataset/doi:10.5061/dryad.z34tmpgfw> |
+| [hemipteroid-johnson](hemipteroid-johnson/species_tree.tre) | hemipteroid insects | <https://doi.org/10.1073/pnas.1815820115> | 193 | `Supplementary_Archive_4_phylogenies_bootstraps/ML_tree_inference_nucleotide_12/bestTreeWithSupport.newick` from <https://doi.org/10.5061/dryad.t4f4g85> |
+| [mammals-foley](mammals-foley/species_tree.tre) | mammals (Foley) | <https://doi.org/10.1126/science.abl8189> | 241 | |
+| [fish_hughes](fish_hughes/species_tree.tre) | fish | <https://doi.org/10.1073/pnas.1719358115> | 305 | `1105_protein_ExaBayes.tre` from <https://datadryad.org/stash/dataset/doi:10.5061/dryad.5b85783> |
+| [birds-stiller](birds-stiller/species_tree.tre) | birds (Stiller) | <https://doi.org/10.1038/s41586-024-07323-1> | 363 | CASTLES-Pro on the original ASTRAL tree, available at <https://github.com/ytabatabaee/CASTLES-Pro-paper/tree/main/data/biological/birds-stiller> |
+
+`n` is the number of taxa in the full species tree.
+
+The data is organized in two ways. Noise-free replicates are stored as `biotrees/[d]/k[k]_s[s]_noise0/`. Noisy replicates are stored as `biotrees/[d]/k[k]_s[s]_noise1_e[e]/`. The placeholders mean the following:
+
+* `[d]` is the dataset name, taken from the first column of the table above.
+* `[k]` is the number of queries, one of `{2, 3, 5, 7, 10}`.
+* `[s]` is the random seed, `1`–`10`.
+* `[e]` is the noise level, `1`–`5`. Higher values mean noisier distances.
+* `[method]` is the version of DecoDiPhy or the baseline method, named as in Figure 1b and Figure S4. Its possible values are:
+  * `default`: DecoDiPhy with default settings.
+  * `exact-exact`, `exact-heu`, `heu-heu`: other DecoDiPhy variants.
+  * `k_nearest`, `iterative_k_nearest`, `reverse_search`: baseline methods.
+
+Here is the description of each file in this directory:
+
+* `biotrees/[d]/species_tree.tre`: Rooted species tree with branch lengths in substitution units.
+* `biotrees/[d]/k[k]_s[s]_noise0/true_queries.txt`: True placement edges and abundances of the queries.
+* `biotrees/[d]/k[k]_s[s]_noise0/pruned_tree.trees`: Species tree after pruning the queries. This file is an input to DecoDiPhy.
+* `biotrees/[d]/k[k]_s[s]_noise0/distances.txt`: Average distance from the queries to every remaining taxon in `pruned_tree.trees`. This file is an input to DecoDiPhy.
+* `biotrees/[d]/k[k]_s[s]_noise1_e[e]/true_queries.txt`: True placement edges and abundances of the queries.
+* `biotrees/[d]/k[k]_s[s]_noise1_e[e]/pruned_tree.trees`: Species tree after pruning the queries. This file is an input to DecoDiPhy.
+* `biotrees/[d]/k[k]_s[s]_noise1_e[e]/distances.txt`: Average distance from the queries to every remaining taxon in `pruned_tree.trees`, with noise of level `[e]` added. This file is an input to DecoDiPhy.
+* `biotrees/[d]/k[k]_s[s]_noise0/[method]/all_rounds.json`: Output of `[method]` on the noise-free input, including the output of each round.
+* `biotrees/[d]/k[k]_s[s]_noise0/[method]/log.txt`: Log file of `[method]` on the noise-free input, including running time details.
+* `biotrees/[d]/k[k]_s[s]_noise0/[method]/metrics.txt`: Metrics that compare the output of `[method]` on the noise-free input to the ground truth. See the column list below.
+* `biotrees/[d]/k[k]_s[s]_noise1_e[e]/[method]/all_rounds.json`: Output of `[method]` on the noisy input, including the output of each round.
+* `biotrees/[d]/k[k]_s[s]_noise1_e[e]/[method]/log.txt`: Log file of `[method]` on the noisy input, including running time details.
+* `biotrees/[d]/k[k]_s[s]_noise1_e[e]/[method]/metrics.txt`: Metrics that compare the output of `[method]` on the noisy input to the ground truth. See the column list below.
+
+The columns of every `metrics.txt` file are, in order:
+
+1. Jaccard
+2. UniFrac
+3. Weighted UniFrac
+4. Estimated number of queries
+5. Wasserstein distance
+6. Bray–Curtis dissimilarity
