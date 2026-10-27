@@ -1,4 +1,4 @@
-# Biological Trees Dataset (Figure 1b and Figure S4)
+# Biological Trees Dataset (Figure 2b and Figure S4)
 
 This dataset is simulated from 12 biological species trees, listed in the table below. For each species tree, we prune `[k]` taxa and treat them as queries with assigned abundances. DecoDiPhy takes the pruned tree and the average query distances to the remaining taxa, and estimates the query placements and abundances. We run each setting with and without noise added to the distances.
 
@@ -25,7 +25,7 @@ The data is organized in two ways. Noise-free replicates are stored as `biotrees
 * `[k]` is the number of queries, one of `{2, 3, 5, 7, 10}`.
 * `[s]` is the random seed, `1`–`10`.
 * `[e]` is the noise level, `1`–`5`. Higher values mean noisier distances.
-* `[method]` is the version of DecoDiPhy or the baseline method, named as in Figure 1b and Figure S4. Its possible values are:
+* `[method]` is the version of DecoDiPhy or the baseline method, named as in Figure 2b and Figure S4. Its possible values are:
   * `default`: DecoDiPhy with default settings.
   * `exact-exact`, `exact-heu`, `heu-heu`: other DecoDiPhy variants.
   * `k_nearest`, `iterative_k_nearest`, `reverse_search`: baseline methods.
